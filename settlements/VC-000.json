@@ -1,0 +1,1889 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 246514507,
+            "country": 670,
+            "level1area": [
+                "vc04"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كينغستاون",
+                "az": "Kinqstaun",
+                "be": "Кінгстаўн",
+                "bg": "Кингстаун",
+                "br": "Kingstown",
+                "da": "Kingstown",
+                "de": "Kingstown",
+                "el": "Κίνγκσταουν",
+                "en": "Kingstown",
+                "eo": "Kingstaŭno",
+                "es": "Kingstown",
+                "fa": "کینگزتاون",
+                "fr": "Kingstown",
+                "he": "קינגסטאון",
+                "hu": "Kingstown",
+                "it": "Kingstown",
+                "ja": "キングスタウン",
+                "ka": "კინგსტაუნი",
+                "ko": "킹스타운",
+                "lt": "Kingstaunas",
+                "lv": "Kingstauna",
+                "mk": "Кингстаун",
+                "mr": "किंग्सटाउन",
+                "nl": "Kingstown",
+                "pl": "Kingstown",
+                "pt": "Kingstown",
+                "ru": "Кингстаун",
+                "sr": "Кингстаун",
+                "sv": "Kingstown",
+                "ta": "கிங்சுடவுன்",
+                "tg": "Кингстаун",
+                "th": "คิงส์ทาวน์",
+                "tr": "Kingstown",
+                "uk": "Кінгстаун",
+                "ur": "کنگز ٹاؤن"
+            },
+            "place_type": 84,
+            "population": 25720,
+            "latitude": 13.1561864,
+            "longitude": -61.2279621,
+            "geocell": 3712787,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 246514507,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q41474",
+                "wikipedia_pages": {
+                    "en": "Kingstown"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 281172366,
+            "country": 670,
+            "level1area": [
+                "vc05"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Layou"
+            },
+            "place_type": 84,
+            "population": 886,
+            "latitude": 13.2045859,
+            "longitude": -61.2683301,
+            "geocell": 3716387,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 281172366,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2630835",
+                "wikipedia_pages": {
+                    "en": "Layou"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 281172510,
+            "country": 670,
+            "level1area": [
+                "vc05"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Barrouallie"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 13.2372216,
+            "longitude": -61.272345,
+            "geocell": 3716387,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 281172510,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2885705",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 281172550,
+            "country": 670,
+            "level1area": [
+                "vc03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Chateaubelair"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 13.2896437,
+            "longitude": -61.2413945,
+            "geocell": 3716387,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 281172550,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q672197",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 281172584,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Georgetown"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 13.2873632,
+            "longitude": -61.1172404,
+            "geocell": 3716388,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 281172584,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2495209",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 281172759,
+            "country": 670,
+            "level1area": [
+                "vc04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Calliaqua"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 13.1327782,
+            "longitude": -61.1949601,
+            "geocell": 3712788,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 281172759,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5021973",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 281174402,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Fancy"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.3814563,
+            "longitude": -61.1707268,
+            "geocell": 3719988,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 281174402,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5433667",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 281906303,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Overland Village"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.3336202,
+            "longitude": -61.1220956,
+            "geocell": 3719988,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 281906303,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 289262149,
+            "country": 670,
+            "level1area": [
+                "vc04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Calder Ridge Gap"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.1613741,
+            "longitude": -61.1772327,
+            "geocell": 3712788,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 289262149,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1221971928,
+            "country": 670,
+            "level1area": [
+                "vc04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Brighton Gap"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.1375229,
+            "longitude": -61.178661,
+            "geocell": 3712788,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1221971928,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2356449042,
+            "country": 670,
+            "level1area": [
+                "vc06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ashton"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 12.5954425,
+            "longitude": -61.4351904,
+            "geocell": 3691185,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2356449042,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4805987",
+                "wikipedia_pages": {
+                    "en": "Ashton, Union Island"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2356449047,
+            "country": 670,
+            "level1area": [
+                "vc06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Clifton"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 12.5961841,
+            "longitude": -61.41821,
+            "geocell": 3691185,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2356449047,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5133148",
+                "wikipedia_pages": {
+                    "en": "Clifton, Union Island"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2364580319,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Biabou",
+                "lt": "Biabu"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 13.1957077,
+            "longitude": -61.1387249,
+            "geocell": 3712788,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2364580319,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q767607",
+                "wikipedia_pages": {
+                    "en": "Biabou"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2387714078,
+            "country": 670,
+            "level1area": [
+                "vc06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Big Sands"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 12.6040168,
+            "longitude": -61.4231051,
+            "geocell": 3694785,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2387714078,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2387719462,
+            "country": 670,
+            "level1area": [
+                "vc06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Miss Toast"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 12.6130118,
+            "longitude": -61.4391871,
+            "geocell": 3694785,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2387719462,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3821106005,
+            "country": 670,
+            "level1area": [
+                "vc04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "New Montrose"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.1621502,
+            "longitude": -61.2304225,
+            "geocell": 3712787,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3821106005,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3894322557,
+            "country": 670,
+            "level1area": [
+                "vc02"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Campden Park"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.1720284,
+            "longitude": -61.2408871,
+            "geocell": 3712787,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3894322557,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4992868083,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "North Union"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.2202062,
+            "longitude": -61.1345387,
+            "geocell": 3716388,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4992868083,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5473379483,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "New Sandy Bay Village"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.3520627,
+            "longitude": -61.1312534,
+            "geocell": 3719988,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5473379483,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q47461191",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5476206161,
+            "country": 670,
+            "level1area": [
+                "vc06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Port Elizabeth"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 13.01129,
+            "longitude": -61.235154,
+            "geocell": 3709187,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5476206161,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2995389",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5506472177,
+            "country": 670,
+            "level1area": [
+                "vc05"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Cumberland"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.2625119,
+            "longitude": -61.2503663,
+            "geocell": 3716387,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5506472177,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5193821",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5506606899,
+            "country": 670,
+            "level1area": [
+                "vc04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Villa"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.1378358,
+            "longitude": -61.2029263,
+            "geocell": 3712787,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5506606899,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5940121463,
+            "country": 670,
+            "level1area": [
+                "vc04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mesopotamia"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 13.1669733,
+            "longitude": -61.1668083,
+            "geocell": 3712788,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5940121463,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6821579",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5940124678,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Colonarie"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 13.2398747,
+            "longitude": -61.1176461,
+            "geocell": 3716388,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5940124678,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5940133978,
+            "country": 670,
+            "level1area": [
+                "vc03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Wallibou"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.3106573,
+            "longitude": -61.2321481,
+            "geocell": 3719987,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5940133978,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5940145901,
+            "country": 670,
+            "level1area": [
+                "vc06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Dovers"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 12.8898564,
+            "longitude": -61.1839586,
+            "geocell": 3701988,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5940145901,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5940148394,
+            "country": 670,
+            "level1area": [
+                "vc06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Charlestown"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 12.7012461,
+            "longitude": -61.3319764,
+            "geocell": 3698386,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5940148394,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5084212",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5947858371,
+            "country": 670,
+            "level1area": [
+                "vc04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Arnos Vale"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 13.1416492,
+            "longitude": -61.2138459,
+            "geocell": 3712787,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5947858371,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4795376",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5947864404,
+            "country": 670,
+            "level1area": [
+                "vc02"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Vermont"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 13.2010874,
+            "longitude": -61.2312765,
+            "geocell": 3716387,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5947864404,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6256418416,
+            "country": 670,
+            "level1area": [
+                "vc03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Coulls Hill"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.2708071,
+            "longitude": -61.2582694,
+            "geocell": 3716387,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6256418416,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8287554122,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Owia"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.3759904,
+            "longitude": -61.1435882,
+            "geocell": 3719988,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8287554122,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8287554127,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Point Village"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.3681974,
+            "longitude": -61.1354054,
+            "geocell": 3719988,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8287554127,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8287554129,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Old Sandy Bay"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.3602885,
+            "longitude": -61.1341425,
+            "geocell": 3719988,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8287554129,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8287554131,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sion Hill"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.3570807,
+            "longitude": -61.1323306,
+            "geocell": 3719988,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8287554131,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8287554133,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "London"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.3402776,
+            "longitude": -61.1246718,
+            "geocell": 3719988,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8287554133,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8287554136,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Orange Hill"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.3181247,
+            "longitude": -61.1222851,
+            "geocell": 3719988,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8287554136,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8287554137,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Langley Park"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.2970248,
+            "longitude": -61.1163722,
+            "geocell": 3716388,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8287554137,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8287554138,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Waterloo"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.3133395,
+            "longitude": -61.1206337,
+            "geocell": 3719988,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8287554138,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8912003915,
+            "country": 670,
+            "level1area": [
+                "vc03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Richmond"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.3039666,
+            "longitude": -61.229035,
+            "geocell": 3719987,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8912003915,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 10800204137,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Congo Valley"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.2668544,
+            "longitude": -61.1198104,
+            "geocell": 3716388,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 10800204137,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 10805419779,
+            "country": 670,
+            "level1area": [
+                "vc02"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Clare Valley"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.1788539,
+            "longitude": -61.2565016,
+            "geocell": 3712787,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 10805419779,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11642445567,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Richland Park"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.197194,
+            "longitude": -61.1711205,
+            "geocell": 3712788,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11642445567,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7330645",
+                "wikipedia_pages": {
+                    "en": "Richland Park"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11642701687,
+            "country": 670,
+            "level1area": [
+                "vc06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Page Farm"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 12.9926365,
+            "longitude": -61.2613727,
+            "geocell": 3705587,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11642701687,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11642701688,
+            "country": 670,
+            "level1area": [
+                "vc06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "La Pompe"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 12.9883694,
+            "longitude": -61.2533583,
+            "geocell": 3705587,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11642701688,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11642701689,
+            "country": 670,
+            "level1area": [
+                "vc06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Friendship"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 12.9893352,
+            "longitude": -61.24123,
+            "geocell": 3705587,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11642701689,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11642701690,
+            "country": 670,
+            "level1area": [
+                "vc06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Diamond"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 12.995124,
+            "longitude": -61.2512906,
+            "geocell": 3705587,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11642701690,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11642701691,
+            "country": 670,
+            "level1area": [
+                "vc06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Lower Bay"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 12.9944322,
+            "longitude": -61.2470456,
+            "geocell": 3705587,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11642701691,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11642701692,
+            "country": 670,
+            "level1area": [
+                "vc06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Richmond"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 12.9957216,
+            "longitude": -61.2408801,
+            "geocell": 3705587,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11642701692,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11642701693,
+            "country": 670,
+            "level1area": [
+                "vc06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Belmont"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.0019553,
+            "longitude": -61.2332543,
+            "geocell": 3709187,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11642701693,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11642701694,
+            "country": 670,
+            "level1area": [
+                "vc06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hamilton"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.0132701,
+            "longitude": -61.2428068,
+            "geocell": 3709187,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11642701694,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11642701695,
+            "country": 670,
+            "level1area": [
+                "vc06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Union"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.0155335,
+            "longitude": -61.2307469,
+            "geocell": 3709187,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11642701695,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11642701696,
+            "country": 670,
+            "level1area": [
+                "vc06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Park Estate"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.0267878,
+            "longitude": -61.2148869,
+            "geocell": 3709187,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11642701696,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11642861793,
+            "country": 670,
+            "level1area": [
+                "vc06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Glossy"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 12.7029972,
+            "longitude": -61.3534438,
+            "geocell": 3698386,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11642861793,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11642861795,
+            "country": 670,
+            "level1area": [
+                "vc06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Barbruce"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 12.6992307,
+            "longitude": -61.3273672,
+            "geocell": 3694786,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11642861795,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11642926170,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Champans"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.2927234,
+            "longitude": -61.1181508,
+            "geocell": 3716388,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11642926170,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11642928521,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Greiggs"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.2133861,
+            "longitude": -61.1655383,
+            "geocell": 3716388,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11642928521,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5607299",
+                "wikipedia_pages": {
+                    "en": "Greiggs"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11642928522,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Lowmans"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.2153018,
+            "longitude": -61.1499065,
+            "geocell": 3716388,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11642928522,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11643228547,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Adephi"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.1849125,
+            "longitude": -61.1445221,
+            "geocell": 3712788,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11643228547,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11643228548,
+            "country": 670,
+            "level1area": [
+                "vc01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Peruvian Vale"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.1777265,
+            "longitude": -61.1446972,
+            "geocell": 3712788,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11643228548,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11643228549,
+            "country": 670,
+            "level1area": [
+                "vc04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Argyle"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.164373,
+            "longitude": -61.1536448,
+            "geocell": 3712788,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11643228549,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11643228550,
+            "country": 670,
+            "level1area": [
+                "vc04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Calder"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.1598582,
+            "longitude": -61.1605337,
+            "geocell": 3712788,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11643228550,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11643228551,
+            "country": 670,
+            "level1area": [
+                "vc04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Victoria"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.1536718,
+            "longitude": -61.1638554,
+            "geocell": 3712788,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11643228551,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11643228552,
+            "country": 670,
+            "level1area": [
+                "vc04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Carapan"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.1518717,
+            "longitude": -61.1679773,
+            "geocell": 3712788,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11643228552,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11643228553,
+            "country": 670,
+            "level1area": [
+                "vc04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Belmont"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.1652583,
+            "longitude": -61.1813765,
+            "geocell": 3712788,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11643228553,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11643228554,
+            "country": 670,
+            "level1area": [
+                "vc04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Stubbs"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.1492828,
+            "longitude": -61.1596319,
+            "geocell": 3712788,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11643228554,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11643228555,
+            "country": 670,
+            "level1area": [
+                "vc04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Diamond"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.1406651,
+            "longitude": -61.1682917,
+            "geocell": 3712788,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11643228555,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11643228556,
+            "country": 670,
+            "level1area": [
+                "vc04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Brighton"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.1299959,
+            "longitude": -61.1749086,
+            "geocell": 3712788,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11643228556,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11643228557,
+            "country": 670,
+            "level1area": [
+                "vc04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ribishi"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.1329606,
+            "longitude": -61.1833506,
+            "geocell": 3712788,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11643228557,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11643228558,
+            "country": 670,
+            "level1area": [
+                "vc04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Choppins"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.1413046,
+            "longitude": -61.1863292,
+            "geocell": 3712788,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11643228558,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11643228559,
+            "country": 670,
+            "level1area": [
+                "vc03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Rosehall"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.2734867,
+            "longitude": -61.2457696,
+            "geocell": 3716387,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11643228559,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

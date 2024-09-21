@@ -1,0 +1,4543 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 115664268,
+            "country": 44,
+            "level1area": [
+                "bsnp"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ناساو",
+                "be": "Насау",
+                "bg": "Насау",
+                "br": "Nassau",
+                "ckb": "ناساو",
+                "de": "Nassau",
+                "el": "Νασσάου",
+                "en": "Nassau",
+                "eo": "Nasaŭo",
+                "es": "Nasáu",
+                "fa": "ناسائو",
+                "fr": "Nassau",
+                "he": "נסאו",
+                "hu": "Nassau",
+                "hy": "Նասաու",
+                "is": "Nassá",
+                "ja": "ナッソー",
+                "ka": "ნასაუ",
+                "ko": "나소",
+                "lt": "Nasau",
+                "lv": "Naso",
+                "mk": "Насау",
+                "ml": "നാസോ",
+                "mr": "नासाउ",
+                "nn": "Nassau",
+                "os": "Нассау",
+                "pl": "Nassau",
+                "ru": "Нассау",
+                "sr": "Насау",
+                "sv": "Nassau",
+                "ta": "நாசோ",
+                "th": "แนสซอ",
+                "uk": "Нассау",
+                "ur": "نساؤ"
+            },
+            "place_type": 67,
+            "population": 259300,
+            "latitude": 25.0782266,
+            "longitude": -77.3383438,
+            "geocell": 4141026,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 115664268,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2467",
+                "wikipedia_pages": {
+                    "de": "Nassau (Bahamas)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 735463188,
+            "country": 44,
+            "level1area": [
+                "bsco"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Marsh Harbour",
+                "hu": "Marsh Harbour"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 26.5382728,
+            "longitude": -77.0610382,
+            "geocell": 4195029,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 735463188,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1337651",
+                "wikipedia_pages": {
+                    "en": "Marsh Harbour"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 735472484,
+            "country": 44,
+            "level1area": [
+                "bsno"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Treasure Cay"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 26.6774884,
+            "longitude": -77.2895287,
+            "geocell": 4198627,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 735472484,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7836668",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 815724850,
+            "country": 44,
+            "level1area": [
+                "bsin"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Matthew Town"
+            },
+            "place_type": 84,
+            "population": 1000,
+            "latitude": 20.9504006,
+            "longitude": -73.6726951,
+            "geocell": 3993463,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 815724850,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 820940842,
+            "country": 44,
+            "level1area": [
+                "bsak"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Snug Corner Settlement"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 22.552438,
+            "longitude": -73.8797054,
+            "geocell": 4051061,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 820940842,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 820942561,
+            "country": 44,
+            "level1area": [
+                "bsck"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Pitts Town"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 22.8312553,
+            "longitude": -74.3427926,
+            "geocell": 4061856,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 820942561,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821312889,
+            "country": 44,
+            "level1area": [
+                "bsak"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Lovely Bay Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.6909363,
+            "longitude": -73.9824963,
+            "geocell": 4054660,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821312889,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821314104,
+            "country": 44,
+            "level1area": [
+                "bsak"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Chesters Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.7057367,
+            "longitude": -73.9345505,
+            "geocell": 4058260,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821314104,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821314305,
+            "country": 44,
+            "level1area": [
+                "bsak"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hardhill Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.604437,
+            "longitude": -73.8749837,
+            "geocell": 4054661,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821314305,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821819098,
+            "country": 44,
+            "level1area": [
+                "bsck"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Colonial Hill Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.7543031,
+            "longitude": -74.2046978,
+            "geocell": 4058257,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821819098,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821819530,
+            "country": 44,
+            "level1area": [
+                "bsak"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Anderson Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.6119045,
+            "longitude": -73.8683251,
+            "geocell": 4054661,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821819530,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821819662,
+            "country": 44,
+            "level1area": [
+                "bsak"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Goodwill Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.5375081,
+            "longitude": -73.8756116,
+            "geocell": 4051061,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821819662,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821819785,
+            "country": 44,
+            "level1area": [
+                "bsak"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Florida"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.445138,
+            "longitude": -73.929144,
+            "geocell": 4047460,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821819785,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821820121,
+            "country": 44,
+            "level1area": [
+                "bsck"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bullet Hill Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.7363279,
+            "longitude": -74.0784119,
+            "geocell": 4058259,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821820121,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821820217,
+            "country": 44,
+            "level1area": [
+                "bsak"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Binnacle Hill Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.3151019,
+            "longitude": -74.1172244,
+            "geocell": 4043858,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821820217,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821820218,
+            "country": 44,
+            "level1area": [
+                "bsak"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Spring Point Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.4598401,
+            "longitude": -73.9604264,
+            "geocell": 4047460,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821820218,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821820229,
+            "country": 44,
+            "level1area": [
+                "bsak"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Delecatable Bay Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.4201669,
+            "longitude": -73.9951506,
+            "geocell": 4047460,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821820229,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821820380,
+            "country": 44,
+            "level1area": [
+                "bsck"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Albert Town"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.5985095,
+            "longitude": -74.3438393,
+            "geocell": 4051056,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821820380,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821820445,
+            "country": 44,
+            "level1area": [
+                "bsak"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Pinefield Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.6544035,
+            "longitude": -73.8728064,
+            "geocell": 4054661,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821820445,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821820486,
+            "country": 44,
+            "level1area": [
+                "bsck"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Seaview Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.8188991,
+            "longitude": -74.2795124,
+            "geocell": 4061857,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821820486,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821820501,
+            "country": 44,
+            "level1area": [
+                "bsck"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Landrail Point Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.8036575,
+            "longitude": -74.3384289,
+            "geocell": 4061856,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821820501,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821820537,
+            "country": 44,
+            "level1area": [
+                "bsck"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Cabbage Hill Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.7640556,
+            "longitude": -74.2203304,
+            "geocell": 4058257,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821820537,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821907192,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Simms Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.476479,
+            "longitude": -75.2294613,
+            "geocell": 4083447,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821907192,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821907311,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sam Mc Kinnons Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.4042772,
+            "longitude": -75.1745945,
+            "geocell": 4083448,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821907311,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821907523,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "O' Neils Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.5087941,
+            "longitude": -75.2300649,
+            "geocell": 4087047,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821907523,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821907585,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Cartwright Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.1441576,
+            "longitude": -75.0802326,
+            "geocell": 4072649,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821907585,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821907669,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Whitehouse Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.399005,
+            "longitude": -75.1640512,
+            "geocell": 4079848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821907669,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821907853,
+            "country": 44,
+            "level1area": [
+                "bsrc"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Port Nelson"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 23.6501327,
+            "longitude": -74.8413646,
+            "geocell": 4090651,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821907853,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q17394780",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821907861,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Burnt Ground Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.6087558,
+            "longitude": -75.2842746,
+            "geocell": 4090647,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821907861,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821907882,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mc Kanns Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.3833532,
+            "longitude": -75.1480817,
+            "geocell": 4079848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821907882,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821908019,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Deadmans Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.1788314,
+            "longitude": -75.1132069,
+            "geocell": 4072648,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821908019,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821908116,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Whemys Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.4247707,
+            "longitude": -75.1933147,
+            "geocell": 4083448,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821908116,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821908178,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Dunmore Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.0384126,
+            "longitude": -74.9006813,
+            "geocell": 4069050,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821908178,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821908189,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Millerton Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.5356633,
+            "longitude": -75.2523578,
+            "geocell": 4087047,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821908189,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821908204,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Glinton's Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.6331097,
+            "longitude": -75.299036,
+            "geocell": 4090647,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821908204,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821908217,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bowers Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.2927612,
+            "longitude": -75.1057429,
+            "geocell": 4076248,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821908217,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821908282,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Buckleys Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.1554735,
+            "longitude": -75.0898874,
+            "geocell": 4072649,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821908282,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821908333,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Old Grays Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.2286506,
+            "longitude": -75.1000922,
+            "geocell": 4076248,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821908333,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821908392,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mangrove Bush Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.1276803,
+            "longitude": -75.0602729,
+            "geocell": 4072649,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821908392,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821908439,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Stella Maris"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 23.5747346,
+            "longitude": -75.2622218,
+            "geocell": 4087047,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821908439,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821908450,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Millers Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.3861869,
+            "longitude": -75.159958,
+            "geocell": 4079848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821908450,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821908570,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Morris Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.435166,
+            "longitude": -75.2139889,
+            "geocell": 4083447,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821908570,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821908669,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Scrub Hill Settlement"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 23.0987069,
+            "longitude": -74.9663716,
+            "geocell": 4069050,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821908669,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821908680,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Gordons Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.8754245,
+            "longitude": -74.8655416,
+            "geocell": 4061851,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821908680,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821908699,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Anderson"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.5282906,
+            "longitude": -75.2471473,
+            "geocell": 4087047,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821908699,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821908799,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Seymours Settlement"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 23.6647517,
+            "longitude": -75.324212,
+            "geocell": 4090646,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821908799,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821908816,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Grays Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.2544175,
+            "longitude": -75.1038528,
+            "geocell": 4076248,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821908816,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821908848,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Scrub Hill Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.4967002,
+            "longitude": -75.2343847,
+            "geocell": 4083447,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821908848,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821908876,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mc Kenzie Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.1352124,
+            "longitude": -75.0706812,
+            "geocell": 4072649,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821908876,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821908973,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Lower Deadmans Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.1941159,
+            "longitude": -75.1156346,
+            "geocell": 4072648,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821908973,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821924405,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Berrys Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.9405602,
+            "longitude": -74.8816006,
+            "geocell": 4065451,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821924405,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821924412,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Clarence Town"
+            },
+            "place_type": 84,
+            "population": 350,
+            "latitude": 23.0917159,
+            "longitude": -74.960639,
+            "geocell": 4069050,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821924412,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q891114",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821924416,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hardbargain Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.0057472,
+            "longitude": -74.886592,
+            "geocell": 4069051,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821924416,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821924430,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mortimers Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.9017937,
+            "longitude": -74.8722234,
+            "geocell": 4065451,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821924430,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821924432,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Taits Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.9878341,
+            "longitude": -74.8885039,
+            "geocell": 4065451,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821924432,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821924437,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mc Kenzie Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.9971737,
+            "longitude": -74.8911577,
+            "geocell": 4065451,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821924437,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821924442,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Diamond Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.0462013,
+            "longitude": -74.9088156,
+            "geocell": 4069050,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821924442,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821924446,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Turnbull Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.0748939,
+            "longitude": -74.9896935,
+            "geocell": 4069050,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821924446,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821924449,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Roses Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.9652904,
+            "longitude": -74.8764958,
+            "geocell": 4065451,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821924449,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821924454,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ford Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.915374,
+            "longitude": -74.881846,
+            "geocell": 4065451,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821924454,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821924466,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Stevens Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.1013826,
+            "longitude": -74.9846501,
+            "geocell": 4072650,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821924466,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821924469,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Cabbage Point Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.925192,
+            "longitude": -74.8881109,
+            "geocell": 4065451,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821924469,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821926599,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ponders Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.3076011,
+            "longitude": -75.1110715,
+            "geocell": 4079848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821926599,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821926600,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Andersons Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.2382928,
+            "longitude": -75.1025451,
+            "geocell": 4076248,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821926600,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821970248,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bains Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.4478729,
+            "longitude": -75.2267231,
+            "geocell": 4083447,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821970248,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 821970325,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Doctors Creek Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.4648189,
+            "longitude": -75.221348,
+            "geocell": 4083447,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 821970325,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 822073278,
+            "country": 44,
+            "level1area": [
+                "bsrc"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Port Boyd"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.6884908,
+            "longitude": -74.8547229,
+            "geocell": 4090651,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 822073278,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1104474164,
+            "country": 44,
+            "level1area": [
+                "bsce"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Governor's Harbour",
+                "hu": "Governor's Harbour"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 25.1934774,
+            "longitude": -76.245336,
+            "geocell": 4144637,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1104474164,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5589465",
+                "wikipedia_pages": {
+                    "en": "Governor's Harbour"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1104474403,
+            "country": 44,
+            "level1area": [
+                "bsce"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "North Palmetto Point"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.1667345,
+            "longitude": -76.1760414,
+            "geocell": 4144638,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1104474403,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1104494396,
+            "country": 44,
+            "level1area": [
+                "bsce"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Savannah Sound"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.0864501,
+            "longitude": -76.1305518,
+            "geocell": 4141038,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1104494396,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1104494489,
+            "country": 44,
+            "level1area": [
+                "bsse"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Wemyss Bight"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 24.7356082,
+            "longitude": -76.2177485,
+            "geocell": 4130237,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1104494489,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1104494514,
+            "country": 44,
+            "level1area": [
+                "bsse"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "John Millars"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 24.68728,
+            "longitude": -76.2020064,
+            "geocell": 4126637,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1104494514,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1104494515,
+            "country": 44,
+            "level1area": [
+                "bsse"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tarpum Bay",
+                "hu": "Tarpum Bay"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 24.9716817,
+            "longitude": -76.1825135,
+            "geocell": 4137438,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1104494515,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7686606",
+                "wikipedia_pages": {
+                    "en": "Tarpum Bay"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1104494534,
+            "country": 44,
+            "level1area": [
+                "bsse"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Rock Sound"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 24.8644542,
+            "longitude": -76.1584835,
+            "geocell": 4133838,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1104494534,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1771799",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1104507119,
+            "country": 44,
+            "level1area": [
+                "bsce"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "South Palmetto Point"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 25.1503974,
+            "longitude": -76.1829364,
+            "geocell": 4144638,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1104507119,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1329320770,
+            "country": 44,
+            "level1area": [
+                "bsso"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Cherokee"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 26.282123,
+            "longitude": -77.053684,
+            "geocell": 4184229,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1329320770,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1329321568,
+            "country": 44,
+            "level1area": [
+                "bsso"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Little Harbour"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 26.3242219,
+            "longitude": -77.0002476,
+            "geocell": 4187829,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1329321568,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1467586176,
+            "country": 44,
+            "level1area": [
+                "bscs"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bowens Sound Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 24.6015136,
+            "longitude": -77.7625222,
+            "geocell": 4126622,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1467586176,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1467586203,
+            "country": 44,
+            "level1area": [
+                "bscs"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Man of War Sound Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 24.5465475,
+            "longitude": -77.7518868,
+            "geocell": 4123022,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1467586203,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1467586239,
+            "country": 44,
+            "level1area": [
+                "bscs"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Cargill Greek Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 24.499947,
+            "longitude": -77.7192827,
+            "geocell": 4119422,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1467586239,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1467586276,
+            "country": 44,
+            "level1area": [
+                "bscs"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Behring Point Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 24.4806744,
+            "longitude": -77.7232228,
+            "geocell": 4119422,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1467586276,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1467586459,
+            "country": 44,
+            "level1area": [
+                "bsns"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Andros Town"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 24.7279213,
+            "longitude": -77.7888399,
+            "geocell": 4130222,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1467586459,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1467586547,
+            "country": 44,
+            "level1area": [
+                "bsns"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Staniard Creek"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 24.8322856,
+            "longitude": -77.887494,
+            "geocell": 4133821,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1467586547,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1467603754,
+            "country": 44,
+            "level1area": [
+                "bsns"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Conch Sound Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 25.120261,
+            "longitude": -77.9951273,
+            "geocell": 4144620,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1467603754,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1467609448,
+            "country": 44,
+            "level1area": [
+                "bsns"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mastic Point Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 25.0662778,
+            "longitude": -77.9661245,
+            "geocell": 4141020,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1467609448,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1467609452,
+            "country": 44,
+            "level1area": [
+                "bsns"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "New Town"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 25.0530789,
+            "longitude": -77.9783888,
+            "geocell": 4141020,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1467609452,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1891921400,
+            "country": 44,
+            "level1area": [
+                "bsfp"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Freeport",
+                "hu": "Freeport",
+                "ru": "Фрипорт",
+                "uk": "Фріпорт"
+            },
+            "place_type": 67,
+            "population": 45945,
+            "latitude": 26.535681,
+            "longitude": -78.6953623,
+            "geocell": 4195013,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1891921400,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q867573",
+                "wikipedia_pages": {
+                    "en": "Freeport, Bahamas"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1975291890,
+            "country": 44,
+            "level1area": [
+                "bsco"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Spring City"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 26.4752582,
+            "longitude": -77.0929386,
+            "geocell": 4191429,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1975291890,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7580415",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1997452225,
+            "country": 44,
+            "level1area": [
+                "bsex"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Rolleville"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.6723765,
+            "longitude": -75.9847265,
+            "geocell": 4090640,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1997452225,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2002929494,
+            "country": 44,
+            "level1area": [
+                "bsak"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Salina Point Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.2062513,
+            "longitude": -74.2373763,
+            "geocell": 4040257,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2002929494,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2004978219,
+            "country": 44,
+            "level1area": [
+                "bsmg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Pirates Well Settlement"
+            },
+            "place_type": 72,
+            "population": 235,
+            "latitude": 22.4313036,
+            "longitude": -73.0978422,
+            "geocell": 4047469,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2004978219,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3389145",
+                "wikipedia_pages": {
+                    "en": "Pirates Well"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2086535750,
+            "country": 44,
+            "level1area": [
+                "bsht"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hope Town"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 26.5407116,
+            "longitude": -76.9594379,
+            "geocell": 4195030,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2086535750,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2089828293,
+            "country": 44,
+            "level1area": [
+                "bsht"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "North End"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 26.55396,
+            "longitude": -76.9600131,
+            "geocell": 4195030,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2089828293,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2114994431,
+            "country": 44,
+            "level1area": [
+                "bseg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Freetown"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 26.611684,
+            "longitude": -78.3573435,
+            "geocell": 4198616,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2114994431,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2114994435,
+            "country": 44,
+            "level1area": [
+                "bseg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "High Rock"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 26.6264927,
+            "longitude": -78.2832236,
+            "geocell": 4198617,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2114994435,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2703967872,
+            "country": 44,
+            "level1area": [
+                "bsss"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Cockburn Town"
+            },
+            "place_type": 86,
+            "population": 3720,
+            "latitude": 24.0515978,
+            "longitude": -74.5282089,
+            "geocell": 4105054,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2703967872,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q9195237",
+                "wikipedia_pages": {
+                    "en": "Cockburn Town, Bahamas"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2884005902,
+            "country": 44,
+            "level1area": [
+                "bsri"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Duncan Town"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.196609,
+            "longitude": -75.7259492,
+            "geocell": 4036642,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2884005902,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3445285603,
+            "country": 44,
+            "level1area": [
+                "bsno"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Foxtown"
+            },
+            "place_type": 86,
+            "population": 242,
+            "latitude": 26.9197486,
+            "longitude": -77.7906229,
+            "geocell": 4209422,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3445285603,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3524470893,
+            "country": 44,
+            "level1area": [
+                "bsns"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nicholl's Town"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 25.142596,
+            "longitude": -78.0056989,
+            "geocell": 4144619,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3524470893,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1771812",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3542057599,
+            "country": 44,
+            "level1area": [
+                "bsbi"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bimini Bay"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 25.748137,
+            "longitude": -79.2826457,
+            "geocell": 4166207,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3542057599,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3542058300,
+            "country": 44,
+            "level1area": [
+                "bsbi"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bailey Town"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 25.7341752,
+            "longitude": -79.2925647,
+            "geocell": 4166207,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3542058300,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q14203238",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3542060095,
+            "country": 44,
+            "level1area": [
+                "bsbi"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Alice Town"
+            },
+            "place_type": 84,
+            "population": 1131,
+            "latitude": 25.7271964,
+            "longitude": -79.2965453,
+            "geocell": 4166207,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3542060095,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1771833",
+                "wikipedia_pages": {
+                    "en": "Alice Town"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3542060605,
+            "country": 44,
+            "level1area": [
+                "bsbi"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Porgy Bay"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 25.7403176,
+            "longitude": -79.2889588,
+            "geocell": 4166207,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3542060605,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3729907972,
+            "country": 44,
+            "level1area": [
+                "bseg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Gambier Point"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 26.61594,
+            "longitude": -78.3376854,
+            "geocell": 4198616,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3729907972,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4083225802,
+            "country": 44,
+            "level1area": [
+                "bsce"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "James Cistern"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.3264162,
+            "longitude": -76.3654914,
+            "geocell": 4151836,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4083225802,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4083461507,
+            "country": 44,
+            "level1area": [
+                "bsce"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hatchet Bay"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.3503498,
+            "longitude": -76.4831922,
+            "geocell": 4151835,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4083461507,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4083461508,
+            "country": 44,
+            "level1area": [
+                "bsce"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Gregory Town"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.3919609,
+            "longitude": -76.5561942,
+            "geocell": 4151834,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4083461508,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4085831762,
+            "country": 44,
+            "level1area": [
+                "bsse"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bannerman Town"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 24.6528161,
+            "longitude": -76.1717291,
+            "geocell": 4126638,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4085831762,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4115473668,
+            "country": 44,
+            "level1area": [
+                "bseg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Smith Point"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 26.522667,
+            "longitude": -78.6187147,
+            "geocell": 4195013,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4115473668,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4119216605,
+            "country": 44,
+            "level1area": [
+                "bsfp"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Lucaya"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 26.5237636,
+            "longitude": -78.6597359,
+            "geocell": 4195013,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4119216605,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6696401",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4124567129,
+            "country": 44,
+            "level1area": [
+                "bsce"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Cupid's Cay"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 25.1921576,
+            "longitude": -76.248871,
+            "geocell": 4144637,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4124567129,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4130864500,
+            "country": 44,
+            "level1area": [
+                "bsce"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Rainbow Bay"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.3358662,
+            "longitude": -76.4299592,
+            "geocell": 4151835,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4130864500,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4131959008,
+            "country": 44,
+            "level1area": [
+                "bsse"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Green Castle"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 24.7766804,
+            "longitude": -76.2154673,
+            "geocell": 4130237,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4131959008,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4132032708,
+            "country": 44,
+            "level1area": [
+                "bsse"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Delancey Town"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 24.7763914,
+            "longitude": -76.2767582,
+            "geocell": 4130237,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4132032708,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4132032709,
+            "country": 44,
+            "level1area": [
+                "bsse"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Deep Creek"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 24.7839428,
+            "longitude": -76.2845021,
+            "geocell": 4130237,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4132032709,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4132038315,
+            "country": 44,
+            "level1area": [
+                "bsse"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Waterford"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 24.7484403,
+            "longitude": -76.2360508,
+            "geocell": 4130237,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4132038315,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4132038316,
+            "country": 44,
+            "level1area": [
+                "bshi"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Dunmore Town"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.4990204,
+            "longitude": -76.6357341,
+            "geocell": 4155433,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4132038316,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1771794",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4317717551,
+            "country": 44,
+            "level1area": [
+                "bssa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Congo Town"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 24.163518,
+            "longitude": -77.5832337,
+            "geocell": 4108624,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4317717551,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5160517",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6132898372,
+            "country": 44,
+            "level1area": [
+                "bseg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mather Town"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 26.5328757,
+            "longitude": -78.5979737,
+            "geocell": 4195014,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6132898372,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6673023964,
+            "country": 44,
+            "level1area": [
+                "bseg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bevans Town"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 26.6168349,
+            "longitude": -78.3193338,
+            "geocell": 4198616,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6673023964,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6776509142,
+            "country": 44,
+            "level1area": [
+                "bsno"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Crown Haven"
+            },
+            "place_type": 86,
+            "population": 210,
+            "latitude": 26.9121993,
+            "longitude": -77.8170859,
+            "geocell": 4209421,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6776509142,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6848777492,
+            "country": 44,
+            "level1area": [
+                "bsse"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tarpum Head"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 24.9078435,
+            "longitude": -76.1824162,
+            "geocell": 4137438,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6848777492,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q21712927",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6852291974,
+            "country": 44,
+            "level1area": [
+                "bsck"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Douglas Town"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 22.6017101,
+            "longitude": -74.3464498,
+            "geocell": 4054656,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6852291974,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6970446884,
+            "country": 44,
+            "level1area": [
+                "bsex"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Rokers Point Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.615292,
+            "longitude": -75.9155917,
+            "geocell": 4090640,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6970446884,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6970449185,
+            "country": 44,
+            "level1area": [
+                "bsex"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Farmers Hill"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.5868202,
+            "longitude": -75.9100771,
+            "geocell": 4087040,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6970449185,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6970449233,
+            "country": 44,
+            "level1area": [
+                "bsex"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Harts"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.6325038,
+            "longitude": -75.9332836,
+            "geocell": 4090640,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6970449233,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6970449260,
+            "country": 44,
+            "level1area": [
+                "bsex"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Rolle Town"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.4642108,
+            "longitude": -75.7374287,
+            "geocell": 4083442,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6970449260,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6970449289,
+            "country": 44,
+            "level1area": [
+                "bsex"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "The Ferry"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.45226,
+            "longitude": -75.6559217,
+            "geocell": 4083443,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6970449289,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6970449341,
+            "country": 44,
+            "level1area": [
+                "bsex"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "William's Town"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.4284512,
+            "longitude": -75.5616581,
+            "geocell": 4083444,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6970449341,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6970449342,
+            "country": 44,
+            "level1area": [
+                "bsex"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Forbes Hill"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.4516031,
+            "longitude": -75.6284559,
+            "geocell": 4083443,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6970449342,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6970476464,
+            "country": 44,
+            "level1area": [
+                "bsex"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Moore Hill"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.4364544,
+            "longitude": -75.599649,
+            "geocell": 4083444,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6970476464,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6970476465,
+            "country": 44,
+            "level1area": [
+                "bsex"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hartswell"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.4475874,
+            "longitude": -75.6758131,
+            "geocell": 4083443,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6970476465,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6970476466,
+            "country": 44,
+            "level1area": [
+                "bsex"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Michelson"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.490761,
+            "longitude": -75.766182,
+            "geocell": 4083442,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6970476466,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6970476467,
+            "country": 44,
+            "level1area": [
+                "bsex"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "George Town"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.5065235,
+            "longitude": -75.7750229,
+            "geocell": 4087042,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6970476467,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6970476468,
+            "country": 44,
+            "level1area": [
+                "bsex"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Calvin Hill"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.6050877,
+            "longitude": -75.9792996,
+            "geocell": 4090640,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6970476468,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6970476469,
+            "country": 44,
+            "level1area": [
+                "bsex"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Steventon"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.6438166,
+            "longitude": -75.9447742,
+            "geocell": 4090640,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6970476469,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6970476470,
+            "country": 44,
+            "level1area": [
+                "bsex"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Moss Town"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.5742241,
+            "longitude": -75.8672959,
+            "geocell": 4087041,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6970476470,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7070825458,
+            "country": 44,
+            "level1area": [
+                "bsbi"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Port Royal"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 25.7004821,
+            "longitude": -79.3010034,
+            "geocell": 4166206,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7070825458,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8336081403,
+            "country": 44,
+            "level1area": [
+                "bsbi"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Buccaneer"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.7160528,
+            "longitude": -79.2979085,
+            "geocell": 4166207,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8336081403,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8336088284,
+            "country": 44,
+            "level1area": [
+                "bsbp"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Black Point"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 24.0962598,
+            "longitude": -76.4022591,
+            "geocell": 4105035,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8336088284,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8642181751,
+            "country": 44,
+            "level1area": [
+                "bsex"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Rolletown"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 23.4633862,
+            "longitude": -75.7044268,
+            "geocell": 4083442,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8642181751,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8705833757,
+            "country": 44,
+            "level1area": [
+                "bseg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Laing Town"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 26.5377494,
+            "longitude": -78.5895116,
+            "geocell": 4195014,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8705833757,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9272397191,
+            "country": 44,
+            "level1area": [
+                "bswg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bartlett Hill"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 26.5311644,
+            "longitude": -78.7917583,
+            "geocell": 4195012,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9272397191,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9272397192,
+            "country": 44,
+            "level1area": [
+                "bswg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hepburn Town"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 26.5244506,
+            "longitude": -78.785043,
+            "geocell": 4195012,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9272397192,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9272397193,
+            "country": 44,
+            "level1area": [
+                "bswg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Wildgoose Town"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 26.5270846,
+            "longitude": -78.7882837,
+            "geocell": 4195012,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9272397193,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9272397194,
+            "country": 44,
+            "level1area": [
+                "bswg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Jones Town"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 26.5487277,
+            "longitude": -78.8200263,
+            "geocell": 4195011,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9272397194,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9272397195,
+            "country": 44,
+            "level1area": [
+                "bswg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Martin Hill"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 26.5506345,
+            "longitude": -78.8221407,
+            "geocell": 4195011,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9272397195,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9272397196,
+            "country": 44,
+            "level1area": [
+                "bswg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Holmes' Rock"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 26.5710455,
+            "longitude": -78.8476278,
+            "geocell": 4195011,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9272397196,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9272496326,
+            "country": 44,
+            "level1area": [
+                "bswg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Eight Mile Rock"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 26.5409492,
+            "longitude": -78.8063425,
+            "geocell": 4195011,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9272496326,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "en": "Eight Mile Rock"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9272496380,
+            "country": 44,
+            "level1area": [
+                "bswg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bootle Bay"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 26.6519508,
+            "longitude": -78.9335938,
+            "geocell": 4198610,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9272496380,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9272496395,
+            "country": 44,
+            "level1area": [
+                "bswg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "West End"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 26.6850232,
+            "longitude": -78.9647591,
+            "geocell": 4198610,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9272496395,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "en": "West End, Bahamas"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9569077774,
+            "country": 44,
+            "level1area": [
+                "bssa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Driggs Hill Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 24.2092555,
+            "longitude": -77.5997096,
+            "geocell": 4112224,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9569077774,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9569203888,
+            "country": 44,
+            "level1area": [
+                "bsso"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Crossing Rocks"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 26.12362,
+            "longitude": -77.1970639,
+            "geocell": 4180628,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9569203888,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9569229557,
+            "country": 44,
+            "level1area": [
+                "bsci"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Old Bight"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 24.2308839,
+            "longitude": -75.3838085,
+            "geocell": 4112246,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9569229557,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9569234052,
+            "country": 44,
+            "level1area": [
+                "bsci"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "New Bight"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 24.3126324,
+            "longitude": -75.45721,
+            "geocell": 4115845,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9569234052,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9569242499,
+            "country": 44,
+            "level1area": [
+                "bsci"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Orange Creek"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 24.647369,
+            "longitude": -75.7128596,
+            "geocell": 4126642,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9569242499,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "en": "Orange Creek, Bahamas"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9569281664,
+            "country": 44,
+            "level1area": [
+                "bssa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kemps Bay"
+            },
+            "place_type": 86,
+            "population": 273,
+            "latitude": 24.0946811,
+            "longitude": -77.5485933,
+            "geocell": 4105024,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9569281664,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q9291041",
+                "wikipedia_pages": {
+                    "en": "Kemps Bay"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9569309796,
+            "country": 44,
+            "level1area": [
+                "bsns"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "San Andros"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 25.0545016,
+            "longitude": -78.0415967,
+            "geocell": 4141019,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9569309796,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9569345067,
+            "country": 44,
+            "level1area": [
+                "bsce"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Double Bay"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.1374384,
+            "longitude": -76.1316424,
+            "geocell": 4144638,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9569345067,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9569361057,
+            "country": 44,
+            "level1area": [
+                "bssa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Little Creek"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 23.9472937,
+            "longitude": -77.5219667,
+            "geocell": 4101424,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9569361057,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9569367036,
+            "country": 44,
+            "level1area": [
+                "bsli"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Salt Pond"
+            },
+            "place_type": 86,
+            "population": 98,
+            "latitude": 23.3450237,
+            "longitude": -75.1242639,
+            "geocell": 4079848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9569367036,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q14219392",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9569382562,
+            "country": 44,
+            "level1area": [
+                "bsci"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Arthur's Town"
+            },
+            "place_type": 72,
+            "population": 143,
+            "latitude": 24.6224779,
+            "longitude": -75.6754967,
+            "geocell": 4126643,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9569382562,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1771792",
+                "wikipedia_pages": {
+                    "en": "Arthur's Town"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9569385441,
+            "country": 44,
+            "level1area": [
+                "bsci"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hawks Nest"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 24.1536658,
+            "longitude": -75.5252641,
+            "geocell": 4108644,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9569385441,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9569390571,
+            "country": 44,
+            "level1area": [
+                "bsci"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Port Howe"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 24.1573516,
+            "longitude": -75.331692,
+            "geocell": 4108646,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9569390571,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "en": "Port Howe, Bahamas"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9569408282,
+            "country": 44,
+            "level1area": [
+                "bsce"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Alice Town"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.3509316,
+            "longitude": -76.4848097,
+            "geocell": 4151835,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9569408282,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9569471774,
+            "country": 44,
+            "level1area": [
+                "bsns"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Stafford Creek"
+            },
+            "place_type": 72,
+            "population": 98,
+            "latitude": 24.9015124,
+            "longitude": -77.9363537,
+            "geocell": 4137420,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9569471774,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7596615",
+                "wikipedia_pages": {
+                    "en": "Stafford Creek"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9569487904,
+            "country": 44,
+            "level1area": [
+                "bsno"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Coopers Town"
+            },
+            "place_type": 86,
+            "population": 676,
+            "latitude": 26.8725797,
+            "longitude": -77.5135737,
+            "geocell": 4205824,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9569487904,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1129877",
+                "wikipedia_pages": {
+                    "en": "Coopers Town"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9569488203,
+            "country": 44,
+            "level1area": [
+                "bsso"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sandy Point"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 26.0257329,
+            "longitude": -77.3993408,
+            "geocell": 4177026,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9569488203,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9569555706,
+            "country": 44,
+            "level1area": [
+                "bsss"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sugar Loaf Settlement"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 24.0007926,
+            "longitude": -74.5314216,
+            "geocell": 4105054,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9569555706,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11688840113,
+            "country": 44,
+            "level1area": [
+                "bswg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Lewis Yard"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 26.5038592,
+            "longitude": -78.7432498,
+            "geocell": 4195012,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11688840113,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11688986507,
+            "country": 44,
+            "level1area": [
+                "bswg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hanna Hill"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 26.5385055,
+            "longitude": -78.7991408,
+            "geocell": 4195012,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11688986507,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

@@ -1,0 +1,3601 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 703437318,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Suid-Tarawa",
+                "ar": "جنوب تاراوا",
+                "az": "Cənubi Tarava",
+                "be": "Паўднёвая Тарава",
+                "bg": "Южна Тарауа",
+                "bn": "দক্ষিণ তারাওয়া",
+                "ca": "Tarawa Sud",
+                "cs": "Jižní Tarawa",
+                "cy": "De Tarawa",
+                "en": "South Tarawa",
+                "eo": "Bairiko",
+                "es": "Tarawa Sur",
+                "et": "Tarawa South",
+                "fa": "تاراوای جنوبی",
+                "fr": "Tarawa-Sud",
+                "fy": "Súd-Tarawa",
+                "gl": "Tarawa Sur",
+                "he": "דרום טאראווה",
+                "hu": "South Tarawa",
+                "id": "Tarawa Selatan",
+                "it": "Tarawa Sud",
+                "ja": "サウス・タラワ",
+                "ka": "სამხრეთი ტარავა",
+                "ko": "사우스타라와",
+                "lt": "Pietų Tarava",
+                "mk": "Јужна Тарава",
+                "mr": "तरावा",
+                "nl": "Zuid-Tarawa",
+                "pl": "South Tarawa",
+                "pt": "Tarawa do Sul",
+                "ru": "Южная Тарава",
+                "sr": "Јужна Тарава",
+                "sv": "South Tarawa",
+                "ta": "தெற்கு டராவா",
+                "tr": "Güney Tarava",
+                "uk": "Південна Тарава",
+                "vi": "Nam Tarawa"
+            },
+            "place_type": 84,
+            "population": 63439,
+            "latitude": 1.3490778,
+            "longitude": 173.0386512,
+            "geocell": 3290330,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 703437318,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q131233",
+                "wikipedia_pages": {
+                    "en": "South Tarawa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1013002746,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "London",
+                "fr": "Londres",
+                "ja": "ロンドン"
+            },
+            "place_type": 86,
+            "population": 1895,
+            "latitude": 1.9836447,
+            "longitude": -157.476202,
+            "geocell": 3308625,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1013002746,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2477346",
+                "wikipedia_pages": {
+                    "en": "London, Kiribati"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1026648153,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tangkore"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 4.6910999,
+            "longitude": -160.4093323,
+            "geocell": 3405795,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1026648153,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7682994",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1128659271,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Banana",
+                "ja": "バナナ"
+            },
+            "place_type": 86,
+            "population": 1209,
+            "latitude": 1.9831458,
+            "longitude": -157.364015,
+            "geocell": 3308626,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1128659271,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4853814",
+                "wikipedia_pages": {
+                    "en": "Banana, Kiribati"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1345401010,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tabukini"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.3642633,
+            "longitude": 176.0095675,
+            "geocell": 3193160,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1345401010,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1345406300,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Autokia"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -1.302217,
+            "longitude": 175.9814098,
+            "geocell": 3193159,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1345406300,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1345406394,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Rororongo"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -1.3207516,
+            "longitude": 175.9939411,
+            "geocell": 3193159,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1345406394,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1429413477,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Poland"
+            },
+            "place_type": 86,
+            "population": 351,
+            "latitude": 1.8641111,
+            "longitude": -157.552156,
+            "geocell": 3305024,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1429413477,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5763870",
+                "wikipedia_pages": {
+                    "en": "Poland, Kiribati"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1429413480,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tabwakea"
+            },
+            "place_type": 86,
+            "population": 3001,
+            "latitude": 2.0196005,
+            "longitude": -157.487456,
+            "geocell": 3312225,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1429413480,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7673655",
+                "wikipedia_pages": {
+                    "en": "Tabwakea"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1514620956,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Abatiku"
+            },
+            "place_type": 86,
+            "population": 160,
+            "latitude": 0.3864527,
+            "longitude": 173.7800789,
+            "geocell": 3254337,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1514620956,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27222460",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1514620960,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kabangaki"
+            },
+            "place_type": 86,
+            "population": 443,
+            "latitude": 0.3139345,
+            "longitude": 173.9291325,
+            "geocell": 3254339,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1514620960,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1514620961,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Manoku"
+            },
+            "place_type": 86,
+            "population": 167,
+            "latitude": 0.3362838,
+            "longitude": 173.9381309,
+            "geocell": 3254339,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1514620961,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1514621878,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tanimainiku"
+            },
+            "place_type": 86,
+            "population": 133,
+            "latitude": 0.4778407,
+            "longitude": 173.8560768,
+            "geocell": 3257938,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1514621878,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1514621881,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tabiang"
+            },
+            "place_type": 86,
+            "population": 618,
+            "latitude": 0.4857964,
+            "longitude": 173.8288258,
+            "geocell": 3257938,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1514621881,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1794389549,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Antereen"
+            },
+            "place_type": 86,
+            "population": 102,
+            "latitude": -0.8638609,
+            "longitude": 169.5268249,
+            "geocell": 3211095,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1794389549,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27221085",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1837515035,
+            "country": 296,
+            "level1area": [
+                "kip"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tebaronga"
+            },
+            "place_type": 86,
+            "population": 20,
+            "latitude": -2.7765521,
+            "longitude": -171.717829,
+            "geocell": 3139282,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1837515035,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2375865683,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ambo"
+            },
+            "place_type": 86,
+            "population": 3373,
+            "latitude": 1.3528614,
+            "longitude": 173.0413773,
+            "geocell": 3290330,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2375865683,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27222398",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2375865684,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bairiki",
+                "lt": "Bairikis",
+                "pl": "Bairiki"
+            },
+            "place_type": 84,
+            "population": 3500,
+            "latitude": 1.3296193,
+            "longitude": 172.9777542,
+            "geocell": 3290329,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2375865684,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q999487",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2375865685,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Betio"
+            },
+            "place_type": 84,
+            "population": 18565,
+            "latitude": 1.356854,
+            "longitude": 172.9324171,
+            "geocell": 3290329,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2375865685,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q831455",
+                "wikipedia_pages": {
+                    "en": "Betio"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2375865686,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bikenibeu"
+            },
+            "place_type": 84,
+            "population": 7547,
+            "latitude": 1.3659189,
+            "longitude": 173.1229067,
+            "geocell": 3290331,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2375865686,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q860026",
+                "wikipedia_pages": {
+                    "de": "Bikenibeu"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2375865687,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nanikai"
+            },
+            "place_type": 86,
+            "population": 1257,
+            "latitude": 1.3300348,
+            "longitude": 172.9973156,
+            "geocell": 3290329,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2375865687,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27222400",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2375865688,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Teaoraereke"
+            },
+            "place_type": 86,
+            "population": 6073,
+            "latitude": 1.3345671,
+            "longitude": 173.0156696,
+            "geocell": 3290330,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2375865688,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q10378793",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2375865689,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Temwaiku"
+            },
+            "place_type": 86,
+            "population": 5504,
+            "latitude": 1.3631991,
+            "longitude": 173.1619976,
+            "geocell": 3290331,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2375865689,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q10379345",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2396908953,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Abaokoro"
+            },
+            "place_type": 86,
+            "population": 375,
+            "latitude": 1.4997984,
+            "longitude": 173.0137902,
+            "geocell": 3293930,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2396908953,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1648372",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2396908954,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Abarao"
+            },
+            "place_type": 86,
+            "population": 2017,
+            "latitude": 1.3643106,
+            "longitude": 173.0939706,
+            "geocell": 3290330,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2396908954,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27222391",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2396908955,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Antebuka"
+            },
+            "place_type": 86,
+            "population": 1204,
+            "latitude": 1.3398139,
+            "longitude": 173.0262132,
+            "geocell": 3290330,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2396908955,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27222389",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2396908959,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Banraeaba"
+            },
+            "place_type": 86,
+            "population": 2897,
+            "latitude": 1.3435735,
+            "longitude": 173.0325549,
+            "geocell": 3290330,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2396908959,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27220980",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2396908960,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Buariki"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 1.6089839,
+            "longitude": 172.9547754,
+            "geocell": 3301129,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2396908960,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2400204",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2396908961,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Buota"
+            },
+            "place_type": 86,
+            "population": 1647,
+            "latitude": 1.3903971,
+            "longitude": 173.1318477,
+            "geocell": 3290331,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2396908961,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4998012",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2396908962,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Eita"
+            },
+            "place_type": 86,
+            "population": 3921,
+            "latitude": 1.3600485,
+            "longitude": 173.0752985,
+            "geocell": 3290330,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2396908962,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5349994",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2396908963,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kainaba"
+            },
+            "place_type": 86,
+            "population": 319,
+            "latitude": 1.4541537,
+            "longitude": 173.0600394,
+            "geocell": 3293930,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2396908963,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q10313614",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2396908965,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Marenanuka"
+            },
+            "place_type": 86,
+            "population": 196,
+            "latitude": 1.4889657,
+            "longitude": 173.0249866,
+            "geocell": 3293930,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2396908965,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q10325576",
+                "wikipedia_pages": {
+                    "de": "Marenanuka"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2396908968,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nabeina"
+            },
+            "place_type": 86,
+            "population": 484,
+            "latitude": 1.4354998,
+            "longitude": 173.0780797,
+            "geocell": 3293930,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2396908968,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27221042",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2396908969,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Notoue"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 1.515069,
+            "longitude": 173.0078308,
+            "geocell": 3297530,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2396908969,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2396908970,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nuatabu"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 1.5615488,
+            "longitude": 172.9756834,
+            "geocell": 3297529,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2396908970,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2396908971,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tabiteuea"
+            },
+            "place_type": 86,
+            "population": 524,
+            "latitude": 1.4238494,
+            "longitude": 173.0986668,
+            "geocell": 3293930,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2396908971,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27221088",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2396908972,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tabonibara"
+            },
+            "place_type": 86,
+            "population": 457,
+            "latitude": 1.4798091,
+            "longitude": 173.0303297,
+            "geocell": 3293930,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2396908972,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q10377739",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2396908973,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Taborio"
+            },
+            "place_type": 86,
+            "population": 1410,
+            "latitude": 1.3565803,
+            "longitude": 173.0596048,
+            "geocell": 3290330,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2396908973,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27222397",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2396908974,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Taborio"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 1.5186249,
+            "longitude": 173.005074,
+            "geocell": 3297530,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2396908974,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2396908975,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tanaea"
+            },
+            "place_type": 86,
+            "population": 317,
+            "latitude": 1.3906962,
+            "longitude": 173.1363913,
+            "geocell": 3290331,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2396908975,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27222404",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2396908976,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tangintebu"
+            },
+            "place_type": 86,
+            "population": 210,
+            "latitude": 1.3574019,
+            "longitude": 173.0663015,
+            "geocell": 3290330,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2396908976,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q100401190",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2396908977,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Taratai"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 1.5482023,
+            "longitude": 172.9928457,
+            "geocell": 3297529,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2396908977,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2396908978,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tearinibai"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 1.5893453,
+            "longitude": 172.9699384,
+            "geocell": 3297529,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2396908978,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2396908979,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tebangaroi"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 1.5549435,
+            "longitude": 172.9842464,
+            "geocell": 3297529,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2396908979,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2397131487,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nawerewere"
+            },
+            "place_type": 86,
+            "population": 2569,
+            "latitude": 1.363443,
+            "longitude": 173.1384859,
+            "geocell": 3290331,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2397131487,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27222394",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2417271347,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Rawannawi"
+            },
+            "place_type": 86,
+            "population": 878,
+            "latitude": 2.0520799,
+            "longitude": 173.2627529,
+            "geocell": 3315532,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2417271347,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q962485",
+                "wikipedia_pages": {
+                    "de": "Rawannawi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2991150450,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Umantewena"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -0.7382216,
+            "longitude": 174.4548873,
+            "geocell": 3214744,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2991150450,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7881096",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3814766284,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Oneeke"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 0.2527654,
+            "longitude": 173.3925003,
+            "geocell": 3250733,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3814766284,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3822979988,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Aiaki"
+            },
+            "place_type": 86,
+            "population": 202,
+            "latitude": -1.8954381,
+            "longitude": 175.6153881,
+            "geocell": 3175156,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3822979988,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5995089",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3822979989,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Buariki"
+            },
+            "place_type": 86,
+            "population": 299,
+            "latitude": -1.8156077,
+            "longitude": 175.553418,
+            "geocell": 3175155,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3822979989,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3822979993,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Otowae"
+            },
+            "place_type": 86,
+            "population": 210,
+            "latitude": -1.8693056,
+            "longitude": 175.5824163,
+            "geocell": 3175155,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3822979993,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3822979997,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tabuarorae"
+            },
+            "place_type": 86,
+            "population": 234,
+            "latitude": -1.942819,
+            "longitude": 175.574967,
+            "geocell": 3171555,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3822979997,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3822979998,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tanaeang"
+            },
+            "place_type": 86,
+            "population": 186,
+            "latitude": -1.8099353,
+            "longitude": 175.5442534,
+            "geocell": 3175155,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3822979998,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3822980000,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tekawa"
+            },
+            "place_type": 86,
+            "population": 162,
+            "latitude": -1.8059268,
+            "longitude": 175.5336063,
+            "geocell": 3175155,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3822980000,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3822980001,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Temao"
+            },
+            "place_type": 86,
+            "population": 226,
+            "latitude": -1.8277413,
+            "longitude": 175.5515992,
+            "geocell": 3175155,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3822980001,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4079434620,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Utiroa"
+            },
+            "place_type": 86,
+            "population": 774,
+            "latitude": -1.2130376,
+            "longitude": 174.7571277,
+            "geocell": 3196747,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4079434620,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7902876",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4079434622,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tauma"
+            },
+            "place_type": 86,
+            "population": 223,
+            "latitude": -1.2401166,
+            "longitude": 174.7855514,
+            "geocell": 3196747,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4079434622,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4079434623,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kabuna"
+            },
+            "place_type": 86,
+            "population": 218,
+            "latitude": -1.2890306,
+            "longitude": 174.7981628,
+            "geocell": 3196747,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4079434623,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4079434663,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Eita"
+            },
+            "place_type": 86,
+            "population": 785,
+            "latitude": -1.1900344,
+            "longitude": 174.7351807,
+            "geocell": 3200347,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4079434663,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4079434670,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Terikiai"
+            },
+            "place_type": 86,
+            "population": 338,
+            "latitude": -1.16588,
+            "longitude": 174.7204297,
+            "geocell": 3200347,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4079434670,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7702420",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4079434671,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Buota"
+            },
+            "place_type": 86,
+            "population": 436,
+            "latitude": -1.1549322,
+            "longitude": 174.7063209,
+            "geocell": 3200347,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4079434671,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4079439960,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tekaman"
+            },
+            "place_type": 86,
+            "population": 229,
+            "latitude": -1.1307722,
+            "longitude": 174.6641133,
+            "geocell": 3200346,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4079439960,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4079439967,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tekabwibwi"
+            },
+            "place_type": 86,
+            "population": 186,
+            "latitude": -1.118153,
+            "longitude": 174.6634868,
+            "geocell": 3200346,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4079439967,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4079439972,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tanaeang"
+            },
+            "place_type": 86,
+            "population": 565,
+            "latitude": -1.1365491,
+            "longitude": 174.6743507,
+            "geocell": 3200346,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4079439972,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4079442697,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tebikerai"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 1.0072444,
+            "longitude": 173.0031275,
+            "geocell": 3279530,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4079442697,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7692062",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4079446861,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tekaranga"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 1.000764,
+            "longitude": 173.0319775,
+            "geocell": 3279530,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4079446861,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4079446866,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tebwanga"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 0.985557,
+            "longitude": 173.0530386,
+            "geocell": 3275930,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4079446866,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4079446875,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Te Mwangaua"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 0.9676004,
+            "longitude": 173.0643285,
+            "geocell": 3275930,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4079446875,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4079446880,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Te Ora"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 0.9585741,
+            "longitude": 173.0625284,
+            "geocell": 3275930,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4079446880,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4079446886,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tebwangetua"
+            },
+            "place_type": 86,
+            "population": 117,
+            "latitude": 0.9381595,
+            "longitude": 173.0399933,
+            "geocell": 3275930,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4079446886,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27222436",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4079447000,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Te Bieauea"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 0.9279214,
+            "longitude": 173.0284228,
+            "geocell": 3275930,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4079447000,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q961453",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4079447001,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Buota"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 0.913566,
+            "longitude": 173.0213568,
+            "geocell": 3275930,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4079447001,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4246375191,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nanibaba"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -0.6736152,
+            "longitude": 174.4510776,
+            "geocell": 3218344,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4246375191,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6963599",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4246375192,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tenanoraoi"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -0.7729555,
+            "longitude": 174.4710337,
+            "geocell": 3214744,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4246375192,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7699480",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4246423989,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tabomatang"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.3971241,
+            "longitude": 176.4813874,
+            "geocell": 3193164,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4246423989,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7673495",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4411642865,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Makin"
+            },
+            "place_type": 84,
+            "population": 1364,
+            "latitude": 3.3637007,
+            "longitude": 172.9837562,
+            "geocell": 3362329,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4411642865,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4411642866,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kiebu"
+            },
+            "place_type": 86,
+            "population": 434,
+            "latitude": 3.3232467,
+            "longitude": 172.9745958,
+            "geocell": 3362329,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4411642866,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4411697404,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ukiangang"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 3.0501186,
+            "longitude": 172.7623991,
+            "geocell": 3351527,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4411697404,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27221145",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4411697634,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Temanokunuea"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 3.0689933,
+            "longitude": 172.7859579,
+            "geocell": 3351527,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4411697634,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4411697635,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Taubukinmeang"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 3.0717841,
+            "longitude": 172.7921289,
+            "geocell": 3351527,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4411697635,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4411697659,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Antekana"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 3.0846727,
+            "longitude": 172.8040903,
+            "geocell": 3351528,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4411697659,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4411697660,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tabonuea"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 3.0922003,
+            "longitude": 172.8192876,
+            "geocell": 3351528,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4411697660,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4411697661,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tanimaiaki"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 3.0999444,
+            "longitude": 172.8748055,
+            "geocell": 3351528,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4411697661,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4411760626,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tanimainiku"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 3.0997904,
+            "longitude": 172.8954384,
+            "geocell": 3351528,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4411760626,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4411760633,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Keuea"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 3.1297779,
+            "longitude": 172.9037707,
+            "geocell": 3355129,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4411760633,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4411761202,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kuma"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 3.1736102,
+            "longitude": 172.9601625,
+            "geocell": 3355129,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4411761202,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4411761203,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bikati"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 3.2602707,
+            "longitude": 172.6885908,
+            "geocell": 3358726,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4411761203,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5247244246,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tabwewa"
+            },
+            "place_type": 72,
+            "population": 166,
+            "latitude": -0.8545095,
+            "longitude": 169.5223313,
+            "geocell": 3211095,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5247244246,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7322118094,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Koinawa"
+            },
+            "place_type": 86,
+            "population": 312,
+            "latitude": 1.8644538,
+            "longitude": 172.9883648,
+            "geocell": 3308329,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7322118094,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6426309",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7323460766,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bonriki"
+            },
+            "place_type": 86,
+            "population": 3075,
+            "latitude": 1.3811621,
+            "longitude": 173.1394296,
+            "geocell": 3290331,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7323460766,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q892859",
+                "wikipedia_pages": {
+                    "de": "Bonriki"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8093485190,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Abatao"
+            },
+            "place_type": 86,
+            "population": 480,
+            "latitude": 1.4003171,
+            "longitude": 173.1185142,
+            "geocell": 3293931,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8093485190,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27220959",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8093601570,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Umwa"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -0.8668451,
+            "longitude": 169.5402613,
+            "geocell": 3211095,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8093601570,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27221065",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8093631927,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Abaiang"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 4.6881604,
+            "longitude": -160.3639478,
+            "geocell": 3405796,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8093631927,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8093631928,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kauamwemwe"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 4.6909552,
+            "longitude": -160.3724,
+            "geocell": 3405796,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8093631928,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6378652",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8093631929,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Uteute"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 4.6949062,
+            "longitude": -160.380061,
+            "geocell": 3405796,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8093631929,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7902678",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8093631930,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kaaitara"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 4.6964813,
+            "longitude": -160.385498,
+            "geocell": 3405796,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8093631930,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6343292",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8093631931,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Matanibike"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 4.6836572,
+            "longitude": -160.40251,
+            "geocell": 3405795,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8093631931,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6786067",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8093631932,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Arabata"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 4.6789796,
+            "longitude": -160.396234,
+            "geocell": 3405796,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8093631932,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4783313",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8093631933,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mwakeitari"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 4.6717201,
+            "longitude": -160.379796,
+            "geocell": 3405796,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8093631933,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6944617",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8093631934,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Onauea"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 4.6700322,
+            "longitude": -160.373999,
+            "geocell": 3405796,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8093631934,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7091721",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8098115221,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tereitaki"
+            },
+            "place_type": 72,
+            "population": 505,
+            "latitude": 3.9082614,
+            "longitude": -159.388824,
+            "geocell": 3380606,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8098115221,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7701812",
+                "wikipedia_pages": {
+                    "en": "Tereitaki"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8098115222,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Betania"
+            },
+            "place_type": 72,
+            "population": 203,
+            "latitude": 3.8911018,
+            "longitude": -159.385698,
+            "geocell": 3377006,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8098115222,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q16263485",
+                "wikipedia_pages": {
+                    "en": "Betania"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8098115223,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Paelau"
+            },
+            "place_type": 86,
+            "population": 257,
+            "latitude": 3.8566247,
+            "longitude": -159.360431,
+            "geocell": 3377006,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8098115223,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7124078",
+                "wikipedia_pages": {
+                    "en": "Paelau"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8098115224,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Aontenaa"
+            },
+            "place_type": 72,
+            "population": 259,
+            "latitude": 3.8509903,
+            "longitude": -159.361243,
+            "geocell": 3377006,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8098115224,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4778708",
+                "wikipedia_pages": {
+                    "en": "Aontenaa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8098115225,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tenenebo"
+            },
+            "place_type": 72,
+            "population": 406,
+            "latitude": 3.8448226,
+            "longitude": -159.353367,
+            "geocell": 3377006,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8098115225,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7699701",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8098115226,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tereitannano"
+            },
+            "place_type": 72,
+            "population": 241,
+            "latitude": 3.8330948,
+            "longitude": -159.347305,
+            "geocell": 3377006,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8098115226,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7701813",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8098115227,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Aramari"
+            },
+            "place_type": 72,
+            "population": 274,
+            "latitude": 3.816471,
+            "longitude": -159.3249466,
+            "geocell": 3377006,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8098115227,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4783973",
+                "wikipedia_pages": {
+                    "en": "Aramari"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8098115228,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mwanuku"
+            },
+            "place_type": 72,
+            "population": 170,
+            "latitude": 3.8148317,
+            "longitude": -159.310631,
+            "geocell": 3377006,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8098115228,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6944681",
+                "wikipedia_pages": {
+                    "en": "Mwanuku"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8514441211,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Barebuka"
+            },
+            "place_type": 86,
+            "population": 274,
+            "latitude": -2.4927496,
+            "longitude": 175.9702269,
+            "geocell": 3153559,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8514441211,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8514441212,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bakaka"
+            },
+            "place_type": 86,
+            "population": 477,
+            "latitude": -2.5003763,
+            "longitude": 175.9808986,
+            "geocell": 3149959,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8514441212,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8514441213,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bakarawa"
+            },
+            "place_type": 86,
+            "population": 303,
+            "latitude": -2.5048484,
+            "longitude": 175.9845714,
+            "geocell": 3149959,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8514441213,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8514445811,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tewai"
+            },
+            "place_type": 86,
+            "population": 295,
+            "latitude": -1.4448414,
+            "longitude": 175.0120484,
+            "geocell": 3189550,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8514445811,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8514445812,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Taungaeaka"
+            },
+            "place_type": 86,
+            "population": 135,
+            "latitude": -1.4559367,
+            "longitude": 175.0327262,
+            "geocell": 3189550,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8514445812,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8514445813,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Buariki"
+            },
+            "place_type": 86,
+            "population": 482,
+            "latitude": -1.4781948,
+            "longitude": 175.0564971,
+            "geocell": 3189550,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8514445813,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q18210479",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8514445814,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nikutoru"
+            },
+            "place_type": 86,
+            "population": 199,
+            "latitude": -1.4754857,
+            "longitude": 175.0692647,
+            "geocell": 3189550,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8514445814,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8514445815,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Katabanga"
+            },
+            "place_type": 72,
+            "population": 82,
+            "latitude": -1.5012155,
+            "longitude": 175.069472,
+            "geocell": 3185950,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8514445815,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8514445816,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Taku"
+            },
+            "place_type": 86,
+            "population": 164,
+            "latitude": -1.5251614,
+            "longitude": 175.0656052,
+            "geocell": 3185950,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8514445816,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27221099",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8514515832,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Aiwa"
+            },
+            "place_type": 86,
+            "population": 166,
+            "latitude": -1.3882434,
+            "longitude": 174.9018593,
+            "geocell": 3193149,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8514515832,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8514515833,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bangai"
+            },
+            "place_type": 72,
+            "population": 60,
+            "latitude": -1.3569424,
+            "longitude": 174.873743,
+            "geocell": 3193148,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8514515833,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8514515834,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tenatorua"
+            },
+            "place_type": 86,
+            "population": 140,
+            "latitude": -1.3421253,
+            "longitude": 174.8516094,
+            "geocell": 3193148,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8514515834,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8514530734,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Roreti"
+            },
+            "place_type": 86,
+            "population": 529,
+            "latitude": -2.654031,
+            "longitude": 176.8320682,
+            "geocell": 3146368,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8514530734,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7366820",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8514530735,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tamaroa"
+            },
+            "place_type": 86,
+            "population": 454,
+            "latitude": -2.6373733,
+            "longitude": 176.8208867,
+            "geocell": 3146368,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8514530735,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8516412654,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tebanga"
+            },
+            "place_type": 86,
+            "population": 210,
+            "latitude": 0.356092,
+            "longitude": 173.9355515,
+            "geocell": 3254339,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8516412654,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8516412655,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bangotantekabaia"
+            },
+            "place_type": 86,
+            "population": 479,
+            "latitude": 0.3952245,
+            "longitude": 173.9269096,
+            "geocell": 3254339,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8516412655,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8516412656,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kariatebike"
+            },
+            "place_type": 86,
+            "population": 346,
+            "latitude": 0.4049525,
+            "longitude": 173.9211628,
+            "geocell": 3257939,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8516412656,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8516412657,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tabontebike"
+            },
+            "place_type": 72,
+            "population": 74,
+            "latitude": 0.4238115,
+            "longitude": 173.9112905,
+            "geocell": 3257939,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8516412657,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8516412658,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Baretoa"
+            },
+            "place_type": 86,
+            "population": 200,
+            "latitude": 0.4302206,
+            "longitude": 173.9062297,
+            "geocell": 3257939,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8516412658,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8516412659,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Karekentekabaia"
+            },
+            "place_type": 86,
+            "population": 140,
+            "latitude": 0.4435765,
+            "longitude": 173.8926509,
+            "geocell": 3257938,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8516412659,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8516412660,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kauma"
+            },
+            "place_type": 86,
+            "population": 112,
+            "latitude": 0.4619448,
+            "longitude": 173.8739543,
+            "geocell": 3257938,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8516412660,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8516412661,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tekatirirake"
+            },
+            "place_type": 86,
+            "population": 169,
+            "latitude": 0.4668461,
+            "longitude": 173.866524,
+            "geocell": 3257938,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8516412661,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8557363861,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tebero"
+            },
+            "place_type": 86,
+            "population": 276,
+            "latitude": 1.8135062,
+            "longitude": 173.0266989,
+            "geocell": 3308330,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8557363861,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27222409",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 10771485449,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Poland",
+                "ja": "ポーランド"
+            },
+            "place_type": 86,
+            "population": 351,
+            "latitude": 1.8656903,
+            "longitude": -157.552725,
+            "geocell": 3305024,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 10771485449,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11459293643,
+            "country": 296,
+            "level1area": [
+                "kil"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Paris",
+                "ja": "パリ"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 1.9289264,
+            "longitude": -157.4953059,
+            "geocell": 3308625,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11459293643,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

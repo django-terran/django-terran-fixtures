@@ -1,0 +1,1388 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 353824085,
+            "country": 634,
+            "level1area": [
+                "qara"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "السلوى",
+                "en": "As Salwa"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 24.7434289,
+            "longitude": 50.8213346,
+            "geocell": 4131508,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 353824085,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1227115978,
+            "country": 634,
+            "level1area": [
+                "qakh"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الخور",
+                "de": "Al Khor",
+                "en": "Al Khor",
+                "es": "Al Khor",
+                "fr": "Al Khor",
+                "lt": "Choras",
+                "ml": "അൽ-ഖോർ",
+                "pl": "Al-Chaur"
+            },
+            "place_type": 84,
+            "population": 31,
+            "latitude": 25.6837333,
+            "longitude": 51.5031212,
+            "geocell": 4163915,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1227115978,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1156471",
+                "wikipedia_pages": {
+                    "en": "Al Khor"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1363444750,
+            "country": 634,
+            "level1area": [
+                "qawa"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "مسيعيد",
+                "de": "Mesaieed",
+                "en": "Mesaieed",
+                "es": "Mesaieed",
+                "fr": "Oumm Sa´îd",
+                "ml": "മെസയ്യീദ്",
+                "ru": "Месаид",
+                "uk": "Месаїід"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 24.9953944,
+            "longitude": 51.5493583,
+            "geocell": 4138715,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1363444750,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1069900",
+                "wikipedia_pages": {
+                    "ar": "مسيعيد"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1363470272,
+            "country": 634,
+            "level1area": [
+                "qawa"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الوكرة",
+                "de": "Al Wakra",
+                "en": "Al Wakrah",
+                "es": "Al Wakrah",
+                "fr": "Al Wakrah",
+                "ml": "അൽ-വക്ര",
+                "ru": "Аль-Вакра",
+                "uk": "Аль-Вакра"
+            },
+            "place_type": 84,
+            "population": 87970,
+            "latitude": 25.1566623,
+            "longitude": 51.6013212,
+            "geocell": 4145916,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1363470272,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q310893",
+                "wikipedia_pages": {
+                    "ar": "الوكرة"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1464027544,
+            "country": 634,
+            "level1area": [
+                "qams"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الجساسية",
+                "en": "Al Jassasiya"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.9632581,
+            "longitude": 51.4041525,
+            "geocell": 4174714,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1464027544,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1464027568,
+            "country": 634,
+            "level1area": [
+                "qams"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "فويرط",
+                "en": "Fuwayrit"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 26.0249974,
+            "longitude": 51.3723603,
+            "geocell": 4178313,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1464027568,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5510945",
+                "wikipedia_pages": {
+                    "en": "Fuwayrit"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1474049663,
+            "country": 634,
+            "level1area": [
+                "qash"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الشحانية",
+                "en": "Al-Shahaniya",
+                "es": "Al-Shahaniya",
+                "fr": "Al Shahaniya",
+                "ml": "അൽ-ഷഹാനിയ"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 25.3717421,
+            "longitude": 51.227109,
+            "geocell": 4153112,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1474049663,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4120525",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1474051101,
+            "country": 634,
+            "level1area": [
+                "qash"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "روضة راشد",
+                "en": "Rawdat Rashed"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.2347842,
+            "longitude": 51.205327,
+            "geocell": 4149512,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1474051101,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1474146066,
+            "country": 634,
+            "level1area": [
+                "qams"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الرويس",
+                "en": "Al Ruwais",
+                "fr": "Al Rouwaïs",
+                "ml": "അൽ-റുവൈസ്"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 26.1295039,
+            "longitude": 51.2046522,
+            "geocell": 4181912,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1474146066,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3298589",
+                "wikipedia_pages": {
+                    "ar": "الرويس (قطر)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1664865661,
+            "country": 634,
+            "level1area": [
+                "qakh"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "رأس لفان",
+                "de": "Ras Laffan",
+                "en": "Ras Laffan",
+                "es": "Ras Laffan",
+                "fr": "Ras Laffan",
+                "ml": "റാസ് ലഫാൻ",
+                "tr": "Ras Laffan"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 25.8976567,
+            "longitude": 51.5331527,
+            "geocell": 4171115,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1664865661,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2131826",
+                "wikipedia_pages": {
+                    "ar": "رأس لفان"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1676664890,
+            "country": 634,
+            "level1area": [
+                "qada"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Doha",
+                "ar": "الدوحة",
+                "ast": "Doḥa",
+                "az": "Doha",
+                "be": "Доха",
+                "bg": "Доха",
+                "bn": "দোহা",
+                "br": "Doha",
+                "bs": "Doha",
+                "ca": "Doha",
+                "ckb": "دەوحە",
+                "cs": "Dauhá",
+                "cy": "Doha",
+                "da": "Doha",
+                "de": "Doha",
+                "el": "Ντόχα",
+                "en": "Doha",
+                "eo": "Doho",
+                "es": "Doha",
+                "et": "Doha",
+                "eu": "Doha",
+                "fa": "دوحه",
+                "fi": "Doha",
+                "fr": "Doha",
+                "fy": "Doha",
+                "ga": "Doha",
+                "gd": "Doha",
+                "gl": "Doha",
+                "he": "דוחה",
+                "hi": "दोहा",
+                "hr": "Doha",
+                "hsb": "Doha",
+                "hu": "Doha",
+                "hy": "Դոհա",
+                "ia": "Doha",
+                "id": "Doha",
+                "is": "Doha",
+                "it": "Doha",
+                "ja": "ドーハ",
+                "ka": "დოჰა",
+                "kab": "Dawḥa",
+                "kk": "Доһа",
+                "km": "ដូហា",
+                "kn": "ದೊಹಾ",
+                "ko": "도하",
+                "ky": "Доха",
+                "lb": "Doha",
+                "lt": "Doha",
+                "lv": "Doha",
+                "mk": "Доха",
+                "ml": "ദോഹ",
+                "mn": "Доха",
+                "mr": "दोहा",
+                "ms": "Doha",
+                "my": "ဒိုဟာမြို့",
+                "ne": "दोहा",
+                "nl": "Doha",
+                "os": "Дохæ",
+                "pa": "ਦੋਹਾ",
+                "pl": "Doha",
+                "pt": "Doha",
+                "ro": "Doha",
+                "ru": "Доха",
+                "sk": "Dauha",
+                "sl": "Doha",
+                "sq": "Doha",
+                "sr": "Доха",
+                "sv": "Doha",
+                "sw": "Doha",
+                "ta": "தோகா",
+                "tg": "Доҳа",
+                "th": "โดฮา",
+                "tk": "Doha",
+                "tr": "Doha",
+                "tt": "Doha",
+                "udm": "Доха",
+                "ug": "دوھا",
+                "uk": "Доха",
+                "ur": "دوحہ",
+                "uz": "Doʻha",
+                "vi": "Doha"
+            },
+            "place_type": 67,
+            "population": 1312947,
+            "latitude": 25.2856329,
+            "longitude": 51.5264162,
+            "geocell": 4149515,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1676664890,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3861",
+                "wikipedia_pages": {
+                    "ar": "الدوحة"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1733928061,
+            "country": 634,
+            "level1area": [
+                "qakh"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الذخيرة",
+                "de": "Al Dhakira",
+                "en": "Al Dhakira",
+                "es": "Al Dhakira",
+                "fr": "Al Dhakira",
+                "ml": "അൽ-ധക്കീറ"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 25.7347406,
+            "longitude": 51.5433356,
+            "geocell": 4167515,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1733928061,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1736113516,
+            "country": 634,
+            "level1area": [
+                "qaza"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "لوسيل",
+                "de": "Lusail",
+                "en": "Lusail",
+                "es": "Lusail",
+                "fr": "Lusail",
+                "ml": "ലുസൈൽ"
+            },
+            "place_type": 67,
+            "population": 0,
+            "latitude": 25.4228888,
+            "longitude": 51.5197163,
+            "geocell": 4156715,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1736113516,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q935886",
+                "wikipedia_pages": {
+                    "ar": "لوسيل"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1736130075,
+            "country": 634,
+            "level1area": [
+                "qaza"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سميسمة",
+                "en": "Simaisma",
+                "ml": "സിമൈസ്മ"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 25.5772027,
+            "longitude": 51.4838309,
+            "geocell": 4160314,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1736130075,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7542566",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2007145553,
+            "country": 634,
+            "level1area": [
+                "qawa"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Mazraiat Turanya",
+                "en": "Mazraiat Turanya"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 24.7577663,
+            "longitude": 51.2094806,
+            "geocell": 4131512,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2007145553,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2007145565,
+            "country": 634,
+            "level1area": [
+                "qawa"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Al Kharara",
+                "en": "Al Kharara"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 24.9019774,
+            "longitude": 51.1736175,
+            "geocell": 4138711,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2007145565,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2025493105,
+            "country": 634,
+            "level1area": [
+                "qara"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "العامرية",
+                "en": "Al Ameria"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 24.8216703,
+            "longitude": 51.0753652,
+            "geocell": 4135110,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2025493105,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2040949587,
+            "country": 634,
+            "level1area": [
+                "qakh"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الكعبان",
+                "en": "Al Kaban"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.8739436,
+            "longitude": 51.3534004,
+            "geocell": 4171113,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2040949587,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2052620861,
+            "country": 634,
+            "level1area": [
+                "qash"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "زكريت",
+                "en": "Zekreet"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.4849563,
+            "longitude": 50.8468127,
+            "geocell": 4156708,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2052620861,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q22949320",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2189240942,
+            "country": 634,
+            "level1area": [
+                "qaus"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أم صلال محمد",
+                "en": "Umm Salal Muhammad",
+                "fr": "Umm Salal Muhammad",
+                "ml": "ഉമ്മുസലാൽ മുഹമ്മദ്"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 25.4136174,
+            "longitude": 51.4068455,
+            "geocell": 4156714,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2189240942,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3298627",
+                "wikipedia_pages": {
+                    "ar": "أم صلال"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2189253861,
+            "country": 634,
+            "level1area": [
+                "qara"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الريان",
+                "cs": "ar-Rajján",
+                "en": "Al Rayyan",
+                "fr": "Al-Rayyan",
+                "ml": "അൽ-റയ്യാൻ"
+            },
+            "place_type": 67,
+            "population": 0,
+            "latitude": 25.296619,
+            "longitude": 51.434626,
+            "geocell": 4149514,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2189253861,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q18576873",
+                "wikipedia_pages": {
+                    "ar": "الريان (مدينة)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2277543949,
+            "country": 634,
+            "level1area": [
+                "qash"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": 25.1704364,
+            "longitude": 51.1853869,
+            "geocell": 4145911,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2277543949,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2310162566,
+            "country": 634,
+            "level1area": [
+                "qams"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "المرونة",
+                "en": "Al Marroona"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 25.9933073,
+            "longitude": 51.398141,
+            "geocell": 4174713,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2310162566,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2313549039,
+            "country": 634,
+            "level1area": [
+                "qakh"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أم بركة",
+                "en": "Umm Birka"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.7572423,
+            "longitude": 51.446264,
+            "geocell": 4167514,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2313549039,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q22948932",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2330700501,
+            "country": 634,
+            "level1area": [
+                "qaza"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أم قرن",
+                "en": "Umm Qarn",
+                "fa": "ام قرن"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.5522373,
+            "longitude": 51.4321171,
+            "geocell": 4160314,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2330700501,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7881643",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2330700502,
+            "country": 634,
+            "level1area": [
+                "qaus"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "روضة العجوز"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.5331285,
+            "longitude": 51.3625513,
+            "geocell": 4160313,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2330700502,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2336914739,
+            "country": 634,
+            "level1area": [
+                "qara"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Umm Hotta",
+                "en": "Umm Hotta"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 24.8899493,
+            "longitude": 51.0668204,
+            "geocell": 4135110,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2336914739,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2337136446,
+            "country": 634,
+            "level1area": [
+                "qams"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Al Numan",
+                "en": "Al Numan"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 25.8589375,
+            "longitude": 51.0821367,
+            "geocell": 4171110,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2337136446,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2341090334,
+            "country": 634,
+            "level1area": [
+                "qakh"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Rawdat Alfaras"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 25.8218827,
+            "longitude": 51.3343919,
+            "geocell": 4171113,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2341090334,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q55631238",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2443174393,
+            "country": 634,
+            "level1area": [
+                "qash"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "العطورية",
+                "en": "Al Otouriya"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.5120962,
+            "longitude": 51.2110977,
+            "geocell": 4160312,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2443174393,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2444468092,
+            "country": 634,
+            "level1area": [
+                "qash"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الجميلية",
+                "en": "Al Jemailiya"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.6200859,
+            "longitude": 51.0812308,
+            "geocell": 4163910,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2444468092,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6310809",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2444468094,
+            "country": 634,
+            "level1area": [
+                "qakh"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الغويرية",
+                "en": "Al Ghuwayriya"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.8291497,
+            "longitude": 51.2458326,
+            "geocell": 4171112,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2444468094,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q623609",
+                "wikipedia_pages": {
+                    "en": "Al Ghuwariyah"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2456041999,
+            "country": 634,
+            "level1area": [
+                "qash"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Al Gaa'ia",
+                "en": "Al Gaa'ia"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 25.668887,
+            "longitude": 51.1726313,
+            "geocell": 4163911,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2456041999,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2621508860,
+            "country": 634,
+            "level1area": [
+                "qakh"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Ras Imlaiji",
+                "en": "Ras Imlaiji"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 25.8551214,
+            "longitude": 51.5813444,
+            "geocell": 4171115,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2621508860,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2621508861,
+            "country": 634,
+            "level1area": [
+                "qakh"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Ras Mulaiji",
+                "en": "Ras Mulaiji"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 25.802717,
+            "longitude": 51.5924652,
+            "geocell": 4171115,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2621508861,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2966501055,
+            "country": 634,
+            "level1area": [
+                "qash"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.2090242,
+            "longitude": 50.980112,
+            "geocell": 4149509,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2966501055,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3284137317,
+            "country": 634,
+            "level1area": [
+                "qawa"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": 24.9707532,
+            "longitude": 51.2050466,
+            "geocell": 4138712,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3284137317,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3299477420,
+            "country": 634,
+            "level1area": [
+                "qawa"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "قرية كاتلوم",
+                "en": "Qatalum Village"
+            },
+            "place_type": 86,
+            "population": 10000,
+            "latitude": 25.0126041,
+            "longitude": 51.5691674,
+            "geocell": 4142315,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3299477420,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3930895157,
+            "country": 634,
+            "level1area": [
+                "qash"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "دخان",
+                "de": "Dukhan",
+                "en": "Dukhan",
+                "es": "Dukhan",
+                "fr": "Dukhan",
+                "ml": "ദുക്കാൻ"
+            },
+            "place_type": 84,
+            "population": 7250,
+            "latitude": 25.4188602,
+            "longitude": 50.7876198,
+            "geocell": 4156707,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3930895157,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3296633",
+                "wikipedia_pages": {
+                    "en": "Dukhan"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4886054971,
+            "country": 634,
+            "level1area": [
+                "qams"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "عَيْن سِنَان",
+                "en": "Ain Sinan",
+                "nl": "Ain Sinan"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 26.0084436,
+            "longitude": 51.3301319,
+            "geocell": 4178313,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4886054971,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q22949236",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6033745487,
+            "country": 634,
+            "level1area": [
+                "qara"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أم حوطة",
+                "en": "Umm Hawta"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 24.8941626,
+            "longitude": 51.0317257,
+            "geocell": 4135110,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6033745487,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q60768291",
+                "wikipedia_pages": {
+                    "en": "Umm Hawta"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8065224134,
+            "country": 634,
+            "level1area": [
+                "qash"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Bu Sidra",
+                "en": "Bu Sidra"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 25.7233388,
+            "longitude": 51.0012251,
+            "geocell": 4167510,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8065224134,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9666025665,
+            "country": 634,
+            "level1area": [
+                "qams"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Madinat ash Shamal"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 26.1182868,
+            "longitude": 51.2156827,
+            "geocell": 4181912,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9666025665,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q22948561",
+                "wikipedia_pages": {
+                    "en": "Madinat ash Shamal"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9793909551,
+            "country": 634,
+            "level1area": [
+                "qash"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أم باب",
+                "en": "Umm Bab"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.2091532,
+            "longitude": 50.8011349,
+            "geocell": 4149508,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9793909551,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3296219",
+                "wikipedia_pages": {
+                    "en": "Umm Bab"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9799127548,
+            "country": 634,
+            "level1area": [
+                "qash"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ام الداه خوزان",
+                "en": "Umm Al Daah Khawzan"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.4796334,
+            "longitude": 50.940463,
+            "geocell": 4156709,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9799127548,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q55636510",
+                "wikipedia_pages": {
+                    "en": "Umm Al Daah Khawzan"
+                }
+            }
+        }
+    }
+]

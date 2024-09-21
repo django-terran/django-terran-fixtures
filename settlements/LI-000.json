@@ -1,0 +1,1076 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 32011241,
+            "country": 438,
+            "level1area": [
+                "li05"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Oberplanken"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 47.178495,
+            "longitude": 9.5450182,
+            "geocell": 4937495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 32011241,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 32011242,
+            "country": 438,
+            "level1area": [
+                "li05"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Planken",
+                "mk": "Планкен",
+                "ru": "Планкен",
+                "uk": "Планкен"
+            },
+            "place_type": 86,
+            "population": 445,
+            "latitude": 47.1858848,
+            "longitude": 9.5452211,
+            "geocell": 4937495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 32011242,
+                "open_street_map_place": "village",
+                "postal_codes": [
+                    "9498",
+                    "9498"
+                ],
+                "website": "https://www.planken.li/",
+                "wikidata_page_name": "Q49660",
+                "wikipedia_pages": {
+                    "de": "Planken"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240046176,
+            "country": 438,
+            "level1area": [
+                "li02"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Nendeln",
+                "el": "Νέντελν",
+                "ru": "Нендельн",
+                "uk": "Не́ндельн"
+            },
+            "place_type": 86,
+            "population": 1357,
+            "latitude": 47.1973842,
+            "longitude": 9.5430689,
+            "geocell": 4937495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240046176,
+                "open_street_map_place": "village",
+                "postal_codes": [
+                    "9485",
+                    "9485"
+                ],
+                "wikidata_page_name": "Q991615",
+                "wikipedia_pages": {
+                    "de": "Nendeln"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240060684,
+            "country": 438,
+            "level1area": [
+                "li04"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Schaanwald",
+                "el": "Σάανβαλντ",
+                "ru": "Шанвальд"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 47.2165446,
+            "longitude": 9.5700026,
+            "geocell": 4941095,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240060684,
+                "open_street_map_place": "village",
+                "postal_codes": [
+                    "9486",
+                    "9486"
+                ],
+                "wikidata_page_name": "Q2064292",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240070712,
+            "country": 438,
+            "level1area": [
+                "li03"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Bendern",
+                "el": "Μπέντερν",
+                "fr": "Bendern",
+                "ru": "Бендерн",
+                "uk": "Бендерн"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 47.2122144,
+            "longitude": 9.5062136,
+            "geocell": 4941095,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240070712,
+                "open_street_map_place": "village",
+                "postal_codes": [
+                    "9487"
+                ],
+                "wikidata_page_name": "Q816776",
+                "wikipedia_pages": {
+                    "de": "Bendern"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240077147,
+            "country": 438,
+            "level1area": [
+                "li08"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Schellenberg",
+                "el": "Σέλενμπεργκ",
+                "mk": "Шеленберг",
+                "ru": "Шелленберг",
+                "uk": "Шеллєнберг"
+            },
+            "place_type": 86,
+            "population": 1037,
+            "latitude": 47.2312022,
+            "longitude": 9.5458021,
+            "geocell": 4941095,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240077147,
+                "open_street_map_place": "village",
+                "postal_codes": [
+                    "9488",
+                    "9488"
+                ],
+                "website": "https://www.schellenberg.li/",
+                "wikidata_page_name": "Q49655",
+                "wikipedia_pages": {
+                    "de": "Schellenberg"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240079149,
+            "country": 438,
+            "level1area": [
+                "li07"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Schaan",
+                "fr": "Schaan",
+                "mk": "Шан",
+                "ru": "Шан (Лихтенштейн)",
+                "uk": "Шан"
+            },
+            "place_type": 84,
+            "population": 6002,
+            "latitude": 47.1663397,
+            "longitude": 9.510312,
+            "geocell": 4937495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240079149,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "9494",
+                    "9494"
+                ],
+                "website": "https://www.schaan.li/",
+                "wikidata_page_name": "Q49657",
+                "wikipedia_pages": {
+                    "de": "Schaan"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240080206,
+            "country": 438,
+            "level1area": [
+                "li03"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Gamprin",
+                "el": "Γκαμπρίν",
+                "fr": "Gamprin",
+                "mk": "Гамприн",
+                "ru": "Гамприн",
+                "uk": "Гампрін"
+            },
+            "place_type": 86,
+            "population": 1654,
+            "latitude": 47.2190937,
+            "longitude": 9.5102476,
+            "geocell": 4941095,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240080206,
+                "open_street_map_place": "village",
+                "postal_codes": [
+                    "9487"
+                ],
+                "website": "https://gamprin.li/",
+                "wikidata_page_name": "Q49662",
+                "wikipedia_pages": {
+                    "de": "Gamprin"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240092661,
+            "country": 438,
+            "level1area": [
+                "li09"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Triesen",
+                "fr": "Triesen",
+                "mk": "Тризен",
+                "ru": "Тризен",
+                "uk": "Трізен"
+            },
+            "place_type": 86,
+            "population": 5050,
+            "latitude": 47.106994,
+            "longitude": 9.5274876,
+            "geocell": 4937495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240092661,
+                "open_street_map_place": "village",
+                "postal_codes": [
+                    "9495",
+                    "9495"
+                ],
+                "website": "https://www.triesen.li/",
+                "wikidata_page_name": "Q49654",
+                "wikipedia_pages": {
+                    "de": "Triesen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240100249,
+            "country": 438,
+            "level1area": [
+                "li01"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Balzers",
+                "fr": "Balzers",
+                "mk": "Балцерс",
+                "ru": "Бальцерс",
+                "uk": "Бальцерс"
+            },
+            "place_type": 86,
+            "population": 4608,
+            "latitude": 47.0688822,
+            "longitude": 9.506159,
+            "geocell": 4933895,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240100249,
+                "open_street_map_place": "village",
+                "postal_codes": [
+                    "9496",
+                    "9496"
+                ],
+                "website": "https://www.balzers.li/",
+                "wikidata_page_name": "Q49663",
+                "wikipedia_pages": {
+                    "de": "Balzers"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240106262,
+            "country": 438,
+            "level1area": [
+                "li10"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Triesenberg",
+                "mk": "Тризенберг",
+                "ru": "Тризенберг",
+                "uk": "Трізенберг"
+            },
+            "place_type": 86,
+            "population": 2634,
+            "latitude": 47.1186181,
+            "longitude": 9.5433663,
+            "geocell": 4937495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240106262,
+                "open_street_map_place": "village",
+                "postal_codes": [
+                    "9497",
+                    "9497"
+                ],
+                "website": "https://www.triesenberg.li/",
+                "wikidata_page_name": "Q49651",
+                "wikipedia_pages": {
+                    "de": "Triesenberg"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240120066,
+            "country": 438,
+            "level1area": [
+                "li06"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Ruggell",
+                "el": "Ρούγκελ",
+                "mk": "Ругел",
+                "ru": "Руггелль",
+                "uk": "Руґґель"
+            },
+            "place_type": 86,
+            "population": 2065,
+            "latitude": 47.2397575,
+            "longitude": 9.5262871,
+            "geocell": 4941095,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240120066,
+                "open_street_map_place": "village",
+                "postal_codes": [
+                    "9491",
+                    "9491"
+                ],
+                "website": "https://www.ruggell.li/",
+                "wikidata_page_name": "Q49659",
+                "wikipedia_pages": {
+                    "de": "Ruggell"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 347290636,
+            "country": 438,
+            "level1area": [
+                "li10"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Malbun",
+                "uk": "Мальбун"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 47.102619,
+            "longitude": 9.6083069,
+            "geocell": 4937496,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 347290636,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2251899",
+                "wikipedia_pages": {
+                    "de": "Malbun (Liechtenstein)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 935278226,
+            "country": 438,
+            "level1area": [
+                "li10"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Rotenboden",
+                "ru": "Ротенбоден"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 47.1275781,
+            "longitude": 9.5387175,
+            "geocell": 4937495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 935278226,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4398638",
+                "wikipedia_pages": {
+                    "en": "Rotenboden"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1796218506,
+            "country": 438,
+            "level1area": [
+                "li10"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Steg",
+                "fr": "Steg",
+                "ru": "Штег"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 47.1125814,
+            "longitude": 9.576657,
+            "geocell": 4937495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1796218506,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q593158",
+                "wikipedia_pages": {
+                    "en": "Steg (Liechtenstein)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1932181216,
+            "country": 438,
+            "level1area": [
+                "li11"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "فادوز",
+                "az": "Vaduts",
+                "be": "Вадуц",
+                "bg": "Вадуц",
+                "bn": "ফাডুৎস",
+                "ckb": "ڤادوز",
+                "de": "Vaduz",
+                "el": "Βαντούζ",
+                "en": "Vaduz",
+                "eo": "Vaduzo",
+                "es": "Vaduz",
+                "fa": "فادوتس",
+                "fr": "Vaduz",
+                "he": "ואדוץ",
+                "hu": "Vaduz",
+                "hy": "Վադուց",
+                "it": "Vaduz",
+                "ja": "ファドゥーツ",
+                "ka": "ვადუცი",
+                "ko": "파두츠",
+                "ky": "Вадуц",
+                "lt": "Vaducas",
+                "lv": "Vaduca",
+                "mk": "Вадуц",
+                "mr": "फाडुट्स",
+                "os": "Вадуц",
+                "pa": "ਫ਼ਾਦੁਤਸ",
+                "pl": "Vaduz",
+                "ro": "Vaduz",
+                "ru": "Вадуц",
+                "sr": "Вадуц",
+                "ta": "வாதூசு",
+                "tg": "Вадутс",
+                "th": "วาดุซ",
+                "tr": "Vaduz",
+                "udm": "Вадуц",
+                "ug": "ۋادۇز",
+                "uk": "Вадуц",
+                "ur": "فادوتس"
+            },
+            "place_type": 84,
+            "population": 5229,
+            "latitude": 47.1392862,
+            "longitude": 9.5227962,
+            "geocell": 4937495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1932181216,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "9490"
+                ],
+                "website": "https://www.vaduz.li/",
+                "wikidata_page_name": "Q1844",
+                "wikipedia_pages": {
+                    "de": "Vaduz"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3022807519,
+            "country": 438,
+            "level1area": [
+                "li02"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Eschen",
+                "el": "Έσεν",
+                "fr": "Eschen",
+                "mk": "Ешен",
+                "ru": "Э́шен",
+                "uk": "Ешен"
+            },
+            "place_type": 86,
+            "population": 4407,
+            "latitude": 47.2126274,
+            "longitude": 9.5233202,
+            "geocell": 4941095,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3022807519,
+                "open_street_map_place": "village",
+                "postal_codes": [
+                    "9492"
+                ],
+                "website": "https://www.eschen.li/",
+                "wikidata_page_name": "Q4540",
+                "wikipedia_pages": {
+                    "de": "Eschen (Liechtenstein)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3022807520,
+            "country": 438,
+            "level1area": [
+                "li04"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Mauren",
+                "el": "Μάουρεν",
+                "mk": "Маурен",
+                "ru": "Маурен (Лихтенштейн)",
+                "uk": "Маурен"
+            },
+            "place_type": 86,
+            "population": 4138,
+            "latitude": 47.2196512,
+            "longitude": 9.5418065,
+            "geocell": 4941095,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3022807520,
+                "open_street_map_place": "village",
+                "postal_codes": [
+                    "9493"
+                ],
+                "website": "https://www.mauren.li/",
+                "wikidata_page_name": "Q49661",
+                "wikipedia_pages": {
+                    "de": "Mauren (Liechtenstein)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3028180342,
+            "country": 438,
+            "level1area": [
+                "li10"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Grosssteg"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 47.1165202,
+            "longitude": 9.5705373,
+            "geocell": 4937495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3028180342,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3028180343,
+            "country": 438,
+            "level1area": [
+                "li10"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Kleinsteg"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 47.111683,
+            "longitude": 9.5778736,
+            "geocell": 4937495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3028180343,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3577169505,
+            "country": 438,
+            "level1area": [
+                "li11"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Ebenholz"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 47.1499909,
+            "longitude": 9.5137953,
+            "geocell": 4937495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3577169505,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4529531",
+                "wikipedia_pages": {
+                    "en": "Ebenholz"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4458494628,
+            "country": 438,
+            "level1area": [
+                "li10"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Silum"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 47.1313164,
+            "longitude": 9.5545642,
+            "geocell": 4937495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4458494628,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4191863",
+                "wikipedia_pages": {
+                    "en": "Silum"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4458494629,
+            "country": 438,
+            "level1area": [
+                "li10"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Masescha"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 47.132505,
+            "longitude": 9.5434979,
+            "geocell": 4937495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4458494629,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4274516",
+                "wikipedia_pages": {
+                    "de": "Masescha"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4461976332,
+            "country": 438,
+            "level1area": [
+                "li10"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Vorder Prufatscheng"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 47.1377096,
+            "longitude": 9.5393186,
+            "geocell": 4937495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4461976332,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4463520780,
+            "country": 438,
+            "level1area": [
+                "li10"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Steinort",
+                "ru": "Штайнорт"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 47.1132699,
+            "longitude": 9.5499291,
+            "geocell": 4937495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4463520780,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4514418890,
+            "country": 438,
+            "level1area": [
+                "li09"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Lawena"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 47.0666011,
+            "longitude": 9.5586406,
+            "geocell": 4933895,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4514418890,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27439071",
+                "wikipedia_pages": {
+                    "en": "Lawena"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4515846077,
+            "country": 438,
+            "level1area": [
+                "li08"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Hinterschellenberg",
+                "el": "Χίντερσέλενμπεργκ"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 47.2408099,
+            "longitude": 9.5599727,
+            "geocell": 4941095,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4515846077,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4497829",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4523759060,
+            "country": 438,
+            "level1area": [
+                "li10"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Wangerberg",
+                "ru": "Вангерберг"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 47.1066307,
+            "longitude": 9.5445401,
+            "geocell": 4937495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4523759060,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4103295",
+                "wikipedia_pages": {
+                    "en": "Wangerberg"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4740289308,
+            "country": 438,
+            "level1area": [
+                "li11"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Mühleholz"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 47.155566,
+            "longitude": 9.5115769,
+            "geocell": 4937495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4740289308,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4309980",
+                "wikipedia_pages": {
+                    "en": "Mühleholz"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4744756149,
+            "country": 438,
+            "level1area": [
+                "li10"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Gaflei"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 47.1422814,
+            "longitude": 9.5447613,
+            "geocell": 4937495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4744756149,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2064447",
+                "wikipedia_pages": {
+                    "de": "Gaflei"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6388202794,
+            "country": 438,
+            "level1area": [
+                "li01"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Mäls"
+            },
+            "place_type": 86,
+            "population": 1532,
+            "latitude": 47.0622171,
+            "longitude": 9.4945105,
+            "geocell": 4933894,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6388202794,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4290029",
+                "wikipedia_pages": {
+                    "en": "Mäls"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6397222988,
+            "country": 438,
+            "level1area": [
+                "li10"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Bärg"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 47.1388506,
+            "longitude": 9.5451683,
+            "geocell": 4937495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6397222988,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9707610598,
+            "country": 438,
+            "level1area": [
+                "li10"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Lavadina"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 47.113905,
+            "longitude": 9.5541388,
+            "geocell": 4937495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9707610598,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

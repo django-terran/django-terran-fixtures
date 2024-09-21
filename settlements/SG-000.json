@@ -1,0 +1,235 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 531668011,
+            "country": 702,
+            "level1area": [
+                "sg01"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Singapoer",
+                "ar": "سنغافورة",
+                "az": "Sinqapur",
+                "be": "Сінгапур",
+                "bg": "Сингапур",
+                "bn": "সিঙ্গাপুর",
+                "br": "Singapoura",
+                "ca": "Singapur",
+                "ckb": "سینگاپور",
+                "cs": "Singapur",
+                "cy": "Singapore",
+                "da": "Singapore",
+                "de": "Singapur",
+                "el": "Σιγκαπούρη",
+                "en": "Singapore",
+                "eo": "Singapuro",
+                "es": "Singapur",
+                "et": "Singapur",
+                "fa": "سنگاپور",
+                "fi": "Singapore",
+                "fr": "Singapour",
+                "fy": "Singapore",
+                "ga": "Singeapór",
+                "gd": "Singeapòr",
+                "gl": "Singapur",
+                "he": "סינגפור",
+                "hi": "सिंगापुर",
+                "hr": "Singapur",
+                "hu": "Szingapúr",
+                "hy": "Սինգապուրի Հանրապետություն",
+                "id": "Singapura",
+                "is": "Singapúr",
+                "it": "Singapore",
+                "ja": "シンガポール",
+                "ka": "სინგაპური",
+                "kk": "Сингапур",
+                "km": "សិង្ហបុរី",
+                "kn": "ಸಿಂಗಾಪುರ",
+                "ko": "싱가포르",
+                "lb": "Singapur",
+                "lt": "Singapūras",
+                "lv": "Singapūra",
+                "mk": "Сингапур",
+                "ml": "സിംഗപ്പൂർ",
+                "mn": "Сингапур",
+                "mr": "सिंगापूर",
+                "ms": "Singapura",
+                "my": "စင်ကာပူနိုင်ငံ",
+                "ne": "सिंगापुर",
+                "nl": "Singapore",
+                "nn": "Singapore",
+                "os": "Сингапур",
+                "pa": "ਸਿੰਗਾਪੁਰ",
+                "pl": "Singapur",
+                "pt": "Singapura",
+                "ro": "Singapore",
+                "ru": "Сингапур",
+                "sk": "Singapur",
+                "sl": "Singapur",
+                "sq": "Singapori",
+                "sr": "Сингапур",
+                "sv": "Singapore",
+                "sw": "Singapuri",
+                "ta": "சிங்கப்பூர்",
+                "te": "సింగపూరు",
+                "tg": "Сингапур",
+                "th": "สิงคโปร์",
+                "tr": "Singapur",
+                "tt": "Сингапур",
+                "udm": "Сингапур",
+                "ug": "سىنگاپور",
+                "uk": "Сінгапур",
+                "ur": "سنگاپور",
+                "vi": "Tân Gia Ba"
+            },
+            "place_type": 67,
+            "population": 5535002,
+            "latitude": 1.2899175,
+            "longitude": 103.8519072,
+            "geocell": 3286038,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 531668011,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q334",
+                "wikipedia_pages": {
+                    "en": "Singapore"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4810944500,
+            "country": 702,
+            "level1area": [
+                "sg05"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Murai Urban Training Facility",
+                "ms": "Pusat Latihan Murai Urban"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 1.391816,
+            "longitude": 103.6881021,
+            "geocell": 3289636,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4810944500,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11673385803,
+            "country": 702,
+            "level1area": [
+                "sg04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Rocky Hill"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 1.4003698,
+            "longitude": 104.0498958,
+            "geocell": 3293240,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11673385803,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11677501873,
+            "country": 702,
+            "level1area": [
+                "sg04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ubin Village"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 1.4030988,
+            "longitude": 103.9697083,
+            "geocell": 3293239,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11677501873,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11677501875,
+            "country": 702,
+            "level1area": [
+                "sg05"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ama Keng"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 1.4038868,
+            "longitude": 103.700935,
+            "geocell": 3293237,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11677501875,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11677800860,
+            "country": 702,
+            "level1area": [
+                "sg04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sanyongkong Field Camp"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 1.3992639,
+            "longitude": 104.0743008,
+            "geocell": 3289640,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11677800860,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

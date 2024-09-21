@@ -1,0 +1,421 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 649015243,
+            "country": 798,
+            "level1area": [
+                "tvfun"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Vaiaku",
+                "fr": "Vaiaku",
+                "hu": "Vaiaku",
+                "lt": "Vajaku",
+                "ru": "Ваиаку",
+                "tvl": "Vaiaku"
+            },
+            "place_type": 86,
+            "population": 516,
+            "latitude": -8.5254131,
+            "longitude": 179.1945328,
+            "geocell": 2933991,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 649015243,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q248201",
+                "wikipedia_pages": {
+                    "en": "Vaiaku"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 649122497,
+            "country": 798,
+            "level1area": [
+                "tvnmg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tokelau",
+                "eo": "Tokelao",
+                "pt": "Toquelau",
+                "tvl": "Tokelau"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -6.2854421,
+            "longitude": 176.3152612,
+            "geocell": 3016763,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 649122497,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7813539",
+                "wikipedia_pages": {
+                    "en": "Tokelau, Tuvalu"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 754074557,
+            "country": 798,
+            "level1area": [
+                "tvnui"
+            ],
+            "level2area": null,
+            "names": {
+                "tvl": "Tanrake"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -7.2467248,
+            "longitude": 177.1471583,
+            "geocell": 2980771,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 754074557,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1747225522,
+            "country": 798,
+            "level1area": [
+                "tvnit"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Niulakita",
+                "tvl": "Niulakita"
+            },
+            "place_type": 72,
+            "population": 34,
+            "latitude": -10.7900828,
+            "longitude": 179.4709621,
+            "geocell": 2854794,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1747225522,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "en": "Niulakita"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2843317046,
+            "country": 798,
+            "level1area": [
+                "tvnma"
+            ],
+            "level2area": null,
+            "names": {
+                "tvl": "Lakina"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -5.6521699,
+            "longitude": 176.0772904,
+            "geocell": 3038360,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2843317046,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2843317135,
+            "country": 798,
+            "level1area": [
+                "tvnma"
+            ],
+            "level2area": null,
+            "names": {
+                "tvl": "Nanumea"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -5.6736772,
+            "longitude": 176.1149577,
+            "geocell": 3038361,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2843317135,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2989284034,
+            "country": 798,
+            "level1area": [
+                "tvfun"
+            ],
+            "level2area": null,
+            "names": {
+                "tvl": "Senala"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -8.5172257,
+            "longitude": 179.1984264,
+            "geocell": 2933991,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2989284034,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2989284035,
+            "country": 798,
+            "level1area": [
+                "tvfun"
+            ],
+            "level2area": null,
+            "names": {
+                "tvl": "Tokotu"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -8.522584,
+            "longitude": 179.197214,
+            "geocell": 2933991,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2989284035,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2989284036,
+            "country": 798,
+            "level1area": [
+                "tvfun"
+            ],
+            "level2area": null,
+            "names": {
+                "tvl": "Fakaifou"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -8.5173006,
+            "longitude": 179.201173,
+            "geocell": 2933992,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2989284036,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2989284037,
+            "country": 798,
+            "level1area": [
+                "tvfun"
+            ],
+            "level2area": null,
+            "names": {
+                "tvl": "Alapi"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -8.5225421,
+            "longitude": 179.1948972,
+            "geocell": 2933991,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2989284037,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q8193162",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3376265049,
+            "country": 798,
+            "level1area": [
+                "tvfun"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Funafuti",
+                "hu": "Funafuti",
+                "ru": "Фунафути",
+                "ta": "ஃபுனஃபூட்டி",
+                "tvl": "Funafuti"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": -8.5199633,
+            "longitude": 179.1982548,
+            "geocell": 2933991,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3376265049,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q34126",
+                "wikipedia_pages": {
+                    "en": "Funafuti"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4365987408,
+            "country": 798,
+            "level1area": [
+                "tvnkf"
+            ],
+            "level2area": null,
+            "names": {
+                "tvl": "Savave"
+            },
+            "place_type": 86,
+            "population": 300,
+            "latitude": -8.0275727,
+            "longitude": 178.3138638,
+            "geocell": 2951983,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4365987408,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3293321",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4479761317,
+            "country": 798,
+            "level1area": [
+                "tvnkl"
+            ],
+            "level2area": null,
+            "names": {
+                "tvl": "Pepesala"
+            },
+            "place_type": 86,
+            "population": 247,
+            "latitude": -9.3699675,
+            "longitude": 179.8090613,
+            "geocell": 2905198,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4479761317,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6989699637,
+            "country": 798,
+            "level1area": [
+                "tvvai"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Asau",
+                "tvl": "Asau"
+            },
+            "place_type": 86,
+            "population": 650,
+            "latitude": -7.4890971,
+            "longitude": 178.679807,
+            "geocell": 2973586,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6989699637,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2481883",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8093423536,
+            "country": 798,
+            "level1area": [
+                "tvnmg"
+            ],
+            "level2area": null,
+            "names": {
+                "tvl": "Tonga"
+            },
+            "place_type": 86,
+            "population": 358,
+            "latitude": -6.2879285,
+            "longitude": 176.3146,
+            "geocell": 3016763,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8093423536,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3394651",
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

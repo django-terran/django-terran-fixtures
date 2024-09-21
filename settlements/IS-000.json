@@ -1,0 +1,3505 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52099005,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Þórshöfn",
+                "ru": "Тоурсхёбн"
+            },
+            "place_type": 86,
+            "population": 345,
+            "latitude": 66.1981395,
+            "longitude": -15.3359357,
+            "geocell": 5621246,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52099005,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q923224",
+                "wikipedia_pages": {
+                    "is": "Þórshöfn (Langanesi)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52140910,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Raufarhöfn",
+                "ru": "Рёйвархёбн"
+            },
+            "place_type": 86,
+            "population": 183,
+            "latitude": 66.4529957,
+            "longitude": -15.9509426,
+            "geocell": 5632040,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52140910,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2133209",
+                "wikipedia_pages": {
+                    "is": "Raufarhöfn"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52991187,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Kópasker"
+            },
+            "place_type": 86,
+            "population": 117,
+            "latitude": 66.3009478,
+            "longitude": -16.4466147,
+            "geocell": 5628435,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52991187,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q933640",
+                "wikipedia_pages": {
+                    "is": "Kópasker"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 59860048,
+            "country": 352,
+            "level1area": [
+                "is7"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Vopnafjörður",
+                "ru": "Вопнафьордюр"
+            },
+            "place_type": 84,
+            "population": 510,
+            "latitude": 65.7540583,
+            "longitude": -14.8294887,
+            "geocell": 5606851,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 59860048,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q925686",
+                "wikipedia_pages": {
+                    "is": "Vopnafjörður"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 59861224,
+            "country": 352,
+            "level1area": [
+                "is7"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Djúpivogur"
+            },
+            "place_type": 86,
+            "population": 412,
+            "latitude": 64.655775,
+            "longitude": -14.2820953,
+            "geocell": 5567257,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 59861224,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "website": "https://djupivogur.is/",
+                "wikidata_page_name": "Q1232324",
+                "wikipedia_pages": {
+                    "is": "Djúpivogur"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 59861511,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Вік",
+                "en": "Vik",
+                "is": "Vík",
+                "ru": "Вик"
+            },
+            "place_type": 86,
+            "population": 639,
+            "latitude": 63.4188166,
+            "longitude": -19.0054737,
+            "geocell": 5524009,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 59861511,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q685369",
+                "wikipedia_pages": {
+                    "is": "Vík í Mýrdal"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 59864601,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Selfoss",
+                "lt": "Selfosas",
+                "ru": "Сельфосс"
+            },
+            "place_type": 84,
+            "population": 9812,
+            "latitude": 63.9368093,
+            "longitude": -21.0035319,
+            "geocell": 5541989,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 59864601,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q192898",
+                "wikipedia_pages": {
+                    "is": "Selfoss"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 59864605,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Hveragerði",
+                "ru": "Кверагерди"
+            },
+            "place_type": 84,
+            "population": 3264,
+            "latitude": 63.9975943,
+            "longitude": -21.1868303,
+            "geocell": 5541988,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 59864605,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1025701",
+                "wikipedia_pages": {
+                    "is": "Hveragerði"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60472743,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Kirkjubæjarklaustur",
+                "ru": "Киркьюбайярклёйстюр"
+            },
+            "place_type": 86,
+            "population": 183,
+            "latitude": 63.793065,
+            "longitude": -18.0418591,
+            "geocell": 5534819,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60472743,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1010183",
+                "wikipedia_pages": {
+                    "is": "Kirkjubæjarklaustur"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60654105,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Ólafsfjörður",
+                "lt": "Oulafsfjorduras",
+                "ru": "Оулафсфьордюр"
+            },
+            "place_type": 84,
+            "population": 762,
+            "latitude": 66.071806,
+            "longitude": -18.6474965,
+            "geocell": 5617613,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60654105,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q615213",
+                "wikipedia_pages": {
+                    "is": "Ólafsfjörður"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60654107,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Dalvík",
+                "ru": "Дальвик"
+            },
+            "place_type": 84,
+            "population": 1360,
+            "latitude": 65.9710942,
+            "longitude": -18.5304388,
+            "geocell": 5614014,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60654107,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q921052",
+                "wikipedia_pages": {
+                    "is": "Dalvík"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60741085,
+            "country": 352,
+            "level1area": [
+                "is4"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Isafjordur",
+                "is": "Ísafjörður",
+                "lt": "Isafjorduras",
+                "ru": "Исафьордюр"
+            },
+            "place_type": 84,
+            "population": 2679,
+            "latitude": 66.0726918,
+            "longitude": -23.1193541,
+            "geocell": 5617568,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60741085,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q106896",
+                "wikipedia_pages": {
+                    "is": "Ísafjarðarbær"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60741640,
+            "country": 352,
+            "level1area": [
+                "is4"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Hólmavík",
+                "ru": "Хоульмавик"
+            },
+            "place_type": 86,
+            "population": 292,
+            "latitude": 65.706497,
+            "longitude": -21.6691959,
+            "geocell": 5606783,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60741640,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2292590",
+                "wikipedia_pages": {
+                    "is": "Hólmavík"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 61365704,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Siglufjörður",
+                "ru": "Сиглюфьордюр"
+            },
+            "place_type": 84,
+            "population": 1165,
+            "latitude": 66.1504928,
+            "longitude": -18.9096279,
+            "geocell": 5621210,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 61365704,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1887662",
+                "wikipedia_pages": {
+                    "is": "Siglufjörður"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 65295844,
+            "country": 352,
+            "level1area": [
+                "is5"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Sauðárkrókur",
+                "ru": "Сейдауркроукюр"
+            },
+            "place_type": 84,
+            "population": 2609,
+            "latitude": 65.7443213,
+            "longitude": -19.6385795,
+            "geocell": 5606803,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 65295844,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q831718",
+                "wikipedia_pages": {
+                    "is": "Sauðárkrókur"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 122273962,
+            "country": 352,
+            "level1area": [
+                "is3"
+            ],
+            "level2area": null,
+            "names": {
+                "ckb": "ئەکرانێس",
+                "da": "Akranes",
+                "is": "Akranes",
+                "lt": "Akranesas",
+                "ru": "Акранес"
+            },
+            "place_type": 84,
+            "population": 8071,
+            "latitude": 64.3170806,
+            "longitude": -22.0833512,
+            "geocell": 5556379,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 122273962,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q107398",
+                "wikipedia_pages": {
+                    "is": "Akranes"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 122275012,
+            "country": 352,
+            "level1area": [
+                "is3"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Borgarnes",
+                "is": "Borgarnes",
+                "lt": "Borgarnesas",
+                "ru": "Боргарнес"
+            },
+            "place_type": 84,
+            "population": 2147,
+            "latitude": 64.5383337,
+            "longitude": -21.920208,
+            "geocell": 5563580,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 122275012,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q276537",
+                "wikipedia_pages": {
+                    "is": "Borgarnes"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 126053571,
+            "country": 352,
+            "level1area": [
+                "is3"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Hellissandur"
+            },
+            "place_type": 86,
+            "population": 346,
+            "latitude": 64.9171582,
+            "longitude": -23.882463,
+            "geocell": 5577961,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 126053571,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1602897",
+                "wikipedia_pages": {
+                    "is": "Hellissandur"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 126054405,
+            "country": 352,
+            "level1area": [
+                "is3"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Rif"
+            },
+            "place_type": 86,
+            "population": 128,
+            "latitude": 64.9219261,
+            "longitude": -23.8223236,
+            "geocell": 5577961,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 126054405,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q18686977",
+                "wikipedia_pages": {
+                    "is": "Rif (Snæfellsnesi)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 126054561,
+            "country": 352,
+            "level1area": [
+                "is3"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Ólafsvík",
+                "lt": "Oulafsvikas",
+                "ru": "Оулафсвик"
+            },
+            "place_type": 84,
+            "population": 960,
+            "latitude": 64.8959304,
+            "longitude": -23.7084345,
+            "geocell": 5574362,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 126054561,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q292970",
+                "wikipedia_pages": {
+                    "is": "Ólafsvík"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 126199675,
+            "country": 352,
+            "level1area": [
+                "is3"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Grundarfjörður"
+            },
+            "place_type": 84,
+            "population": 777,
+            "latitude": 64.9250284,
+            "longitude": -23.2592976,
+            "geocell": 5577967,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 126199675,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1019459",
+                "wikipedia_pages": {
+                    "is": "Grundarfjörður"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 129958272,
+            "country": 352,
+            "level1area": [
+                "is2"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Reykjanesbær",
+                "ru": "Рейкьянесбайр"
+            },
+            "place_type": 84,
+            "population": 21957,
+            "latitude": 63.9832697,
+            "longitude": -22.5561494,
+            "geocell": 5541974,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 129958272,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q652130",
+                "wikipedia_pages": {
+                    "is": "Reykjanesbær"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 137809877,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Árskógssandur"
+            },
+            "place_type": 72,
+            "population": 114,
+            "latitude": 65.944437,
+            "longitude": -18.353875,
+            "geocell": 5614016,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 137809877,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2041572",
+                "wikipedia_pages": {
+                    "is": "Árskógssandur"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 189500859,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Fludir",
+                "is": "Flúðir",
+                "ru": "Флудир"
+            },
+            "place_type": 86,
+            "population": 499,
+            "latitude": 64.1306381,
+            "longitude": -20.3209294,
+            "geocell": 5549196,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 189500859,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q168683",
+                "wikipedia_pages": {
+                    "is": "Flúðir"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 192291473,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Eyrarbakki",
+                "ru": "Эйрарбакки"
+            },
+            "place_type": 86,
+            "population": 604,
+            "latitude": 63.8630116,
+            "longitude": -21.1481411,
+            "geocell": 5538388,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 192291473,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2196757",
+                "wikipedia_pages": {
+                    "is": "Eyrarbakki"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 201575301,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Hvolsvöllur",
+                "ru": "Хвольсвёдлур"
+            },
+            "place_type": 84,
+            "population": 1078,
+            "latitude": 63.7508108,
+            "longitude": -20.223842,
+            "geocell": 5534797,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 201575301,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q938046",
+                "wikipedia_pages": {
+                    "is": "Hvolsvöllur"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 201585514,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Hella"
+            },
+            "place_type": 84,
+            "population": 1015,
+            "latitude": 63.8355038,
+            "longitude": -20.3987009,
+            "geocell": 5538396,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 201585514,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1602650",
+                "wikipedia_pages": {
+                    "is": "Hella"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 206195959,
+            "country": 352,
+            "level1area": [
+                "is2"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Garður",
+                "lt": "Garduras",
+                "ru": "Гардур"
+            },
+            "place_type": 84,
+            "population": 1860,
+            "latitude": 64.07035,
+            "longitude": -22.6512093,
+            "geocell": 5545573,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 206195959,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1495025",
+                "wikipedia_pages": {
+                    "is": "Garður (bær)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 206196181,
+            "country": 352,
+            "level1area": [
+                "is2"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Sandgerði",
+                "ru": "Сандгерди"
+            },
+            "place_type": 84,
+            "population": 1990,
+            "latitude": 64.0388116,
+            "longitude": -22.7059293,
+            "geocell": 5545572,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 206196181,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1019466",
+                "wikipedia_pages": {
+                    "is": "Sandgerði"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 224491072,
+            "country": 352,
+            "level1area": [
+                "is3"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Kleppjárnsreykir"
+            },
+            "place_type": 72,
+            "population": 41,
+            "latitude": 64.6568102,
+            "longitude": -21.3993134,
+            "geocell": 5567186,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 224491072,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2798441",
+                "wikipedia_pages": {
+                    "is": "Kleppjárnsreykir"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 242107681,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Akureyri",
+                "is": "Akureyri",
+                "lt": "Akureiris",
+                "ru": "Акюрейри"
+            },
+            "place_type": 84,
+            "population": 19542,
+            "latitude": 65.6826364,
+            "longitude": -18.0912993,
+            "geocell": 5603219,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 242107681,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q29042",
+                "wikipedia_pages": {
+                    "is": "Akureyri"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 242771371,
+            "country": 352,
+            "level1area": [
+                "is4"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Súðavík",
+                "ru": "Судавик"
+            },
+            "place_type": 86,
+            "population": 168,
+            "latitude": 66.0260071,
+            "longitude": -22.9914923,
+            "geocell": 5617570,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 242771371,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 242958931,
+            "country": 352,
+            "level1area": [
+                "is4"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Patreksfjörður"
+            },
+            "place_type": 84,
+            "population": 756,
+            "latitude": 65.5972919,
+            "longitude": -24.0008951,
+            "geocell": 5599559,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 242958931,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2297162",
+                "wikipedia_pages": {
+                    "is": "Patreksfjörður"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 244149207,
+            "country": 352,
+            "level1area": [
+                "is2"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Grindavík",
+                "lt": "Grindavikas",
+                "ru": "Гриндавик"
+            },
+            "place_type": 84,
+            "population": 3579,
+            "latitude": 63.844239,
+            "longitude": -22.4317498,
+            "geocell": 5538375,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 244149207,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q472822",
+                "wikipedia_pages": {
+                    "is": "Grindavík"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 244149690,
+            "country": 352,
+            "level1area": [
+                "is5"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Varmahlíð"
+            },
+            "place_type": 86,
+            "population": 147,
+            "latitude": 65.5532363,
+            "longitude": -19.4474848,
+            "geocell": 5599605,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 244149690,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q419691",
+                "wikipedia_pages": {
+                    "is": "Varmahlíð"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 244149870,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Hrísey"
+            },
+            "place_type": 86,
+            "population": 164,
+            "latitude": 65.9796723,
+            "longitude": -18.3772049,
+            "geocell": 5614016,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 244149870,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 244150283,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Grenivík"
+            },
+            "place_type": 86,
+            "population": 318,
+            "latitude": 65.9475088,
+            "longitude": -18.1801377,
+            "geocell": 5614018,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 244150283,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2056635",
+                "wikipedia_pages": {
+                    "is": "Grenivík"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 245808228,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Húsavík",
+                "lt": "Husavikas",
+                "ru": "Хусавик"
+            },
+            "place_type": 84,
+            "population": 2449,
+            "latitude": 66.0433168,
+            "longitude": -17.3410402,
+            "geocell": 5617626,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 245808228,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q219417",
+                "wikipedia_pages": {
+                    "is": "Húsavík"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249085731,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Höfn",
+                "ru": "Хёбн"
+            },
+            "place_type": 84,
+            "population": 1764,
+            "latitude": 64.2532647,
+            "longitude": -15.2080441,
+            "geocell": 5552847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249085731,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q817118",
+                "wikipedia_pages": {
+                    "is": "Höfn í Hornafirði"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249086265,
+            "country": 352,
+            "level1area": [
+                "is7"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Egilsstaðir",
+                "lt": "Ejilstadiras",
+                "ru": "Эйильсстадир"
+            },
+            "place_type": 84,
+            "population": 2632,
+            "latitude": 65.2620412,
+            "longitude": -14.4035258,
+            "geocell": 5588855,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249086265,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q14453",
+                "wikipedia_pages": {
+                    "is": "Egilsstaðir"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249086462,
+            "country": 352,
+            "level1area": [
+                "is7"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Seydisfjordur",
+                "is": "Seyðisfjörður",
+                "lt": "Seidisfjorduras",
+                "ru": "Сейдисфьордюр"
+            },
+            "place_type": 84,
+            "population": 648,
+            "latitude": 65.2598475,
+            "longitude": -14.0049009,
+            "geocell": 5588859,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249086462,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q623557",
+                "wikipedia_pages": {
+                    "is": "Seyðisfjörður"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249088982,
+            "country": 352,
+            "level1area": [
+                "is5"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Blönduós",
+                "ru": "Блёндюоус"
+            },
+            "place_type": 84,
+            "population": 834,
+            "latitude": 65.6601344,
+            "longitude": -20.280998,
+            "geocell": 5603197,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249088982,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q887147",
+                "wikipedia_pages": {
+                    "is": "Blönduós"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 253976420,
+            "country": 352,
+            "level1area": [
+                "is4"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Suðureyri",
+                "ru": "Сюдюрейри"
+            },
+            "place_type": 86,
+            "population": 296,
+            "latitude": 66.1295693,
+            "longitude": -23.52678,
+            "geocell": 5621164,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 253976420,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q607127",
+                "wikipedia_pages": {
+                    "is": "Suðureyri"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 256611840,
+            "country": 352,
+            "level1area": [
+                "is7"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Eskifjörður"
+            },
+            "place_type": 84,
+            "population": 1089,
+            "latitude": 65.0713085,
+            "longitude": -14.0123709,
+            "geocell": 5581659,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 256611840,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q765521",
+                "wikipedia_pages": {
+                    "is": "Eskifjörður"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 256611930,
+            "country": 352,
+            "level1area": [
+                "is7"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Neskaupstaður",
+                "ru": "Нескёйпстадюр"
+            },
+            "place_type": 84,
+            "population": 1460,
+            "latitude": 65.1487219,
+            "longitude": -13.6888688,
+            "geocell": 5585263,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 256611930,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q176728",
+                "wikipedia_pages": {
+                    "is": "Neskaupstaður"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 256612045,
+            "country": 352,
+            "level1area": [
+                "is7"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Fáskrúðsfjörður"
+            },
+            "place_type": 84,
+            "population": 735,
+            "latitude": 64.9299691,
+            "longitude": -14.0084454,
+            "geocell": 5578059,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 256612045,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q773682",
+                "wikipedia_pages": {
+                    "is": "Fáskrúðsfjörður"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 256613036,
+            "country": 352,
+            "level1area": [
+                "is4"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Bolungarvík",
+                "lt": "Bolungarvikas",
+                "ru": "Болунгарвик"
+            },
+            "place_type": 84,
+            "population": 971,
+            "latitude": 66.1575503,
+            "longitude": -23.2507273,
+            "geocell": 5621167,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 256613036,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q891664",
+                "wikipedia_pages": {
+                    "is": "Bolungarvík"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 256613236,
+            "country": 352,
+            "level1area": [
+                "is4"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Hnífsdalur"
+            },
+            "place_type": 86,
+            "population": 210,
+            "latitude": 66.1096624,
+            "longitude": -23.1202012,
+            "geocell": 5621168,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 256613236,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2412862",
+                "wikipedia_pages": {
+                    "is": "Hnífsdalur"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 257374289,
+            "country": 352,
+            "level1area": [
+                "is5"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Skagaströnd"
+            },
+            "place_type": 86,
+            "population": 447,
+            "latitude": 65.8233244,
+            "longitude": -20.3005642,
+            "geocell": 5610396,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 257374289,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1549436",
+                "wikipedia_pages": {
+                    "is": "Skagafjörður (sveitarfélag)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 257374461,
+            "country": 352,
+            "level1area": [
+                "is5"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Hofsós"
+            },
+            "place_type": 86,
+            "population": 156,
+            "latitude": 65.8974591,
+            "longitude": -19.4110152,
+            "geocell": 5610405,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 257374461,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1623305",
+                "wikipedia_pages": {
+                    "is": "Hofsós"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 262198016,
+            "country": 352,
+            "level1area": [
+                "is5"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Hvammstangi"
+            },
+            "place_type": 86,
+            "population": 607,
+            "latitude": 65.3969593,
+            "longitude": -20.9440293,
+            "geocell": 5592390,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 262198016,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1639538",
+                "wikipedia_pages": {
+                    "en": "Hvammstangi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267587731,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Hrafnagil"
+            },
+            "place_type": 86,
+            "population": 379,
+            "latitude": 65.5735473,
+            "longitude": -18.0945302,
+            "geocell": 5599619,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267587731,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3066377",
+                "wikipedia_pages": {
+                    "is": "Hrafnagil"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267723350,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Hauganes"
+            },
+            "place_type": 72,
+            "population": 102,
+            "latitude": 65.9248793,
+            "longitude": -18.305486,
+            "geocell": 5614016,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267723350,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q591322",
+                "wikipedia_pages": {
+                    "is": "Hauganes"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267726700,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Hjalteyri"
+            },
+            "place_type": 72,
+            "population": 37,
+            "latitude": 65.849561,
+            "longitude": -18.1989082,
+            "geocell": 5610418,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267726700,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2350379",
+                "wikipedia_pages": {
+                    "is": "Hjalteyri"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 270961115,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Reykjahlíð",
+                "ru": "Рейкьяхлид"
+            },
+            "place_type": 86,
+            "population": 251,
+            "latitude": 65.6415611,
+            "longitude": -16.9100073,
+            "geocell": 5603230,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 270961115,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1026867",
+                "wikipedia_pages": {
+                    "is": "Reykjahlíð"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 279526499,
+            "country": 352,
+            "level1area": [
+                "is3"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Hvanneyri"
+            },
+            "place_type": 86,
+            "population": 293,
+            "latitude": 64.563341,
+            "longitude": -21.7664648,
+            "geocell": 5563582,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 279526499,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1019271",
+                "wikipedia_pages": {
+                    "is": "Hvanneyri"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 280101400,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Laugar"
+            },
+            "place_type": 72,
+            "population": 114,
+            "latitude": 65.7216499,
+            "longitude": -17.3727523,
+            "geocell": 5606826,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 280101400,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "website": "https://www.thingeyjarsveit.is/",
+                "wikidata_page_name": "Q2747140",
+                "wikipedia_pages": {
+                    "is": "Laugar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286169132,
+            "country": 352,
+            "level1area": [
+                "is7"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Hallormsstaður"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 65.0932297,
+            "longitude": -14.7437562,
+            "geocell": 5581652,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286169132,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3126167",
+                "wikipedia_pages": {
+                    "is": "Hallormsstaður"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 287458396,
+            "country": 352,
+            "level1area": [
+                "is5"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Laugarbakki"
+            },
+            "place_type": 72,
+            "population": 55,
+            "latitude": 65.327492,
+            "longitude": -20.8921344,
+            "geocell": 5592391,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 287458396,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q930190",
+                "wikipedia_pages": {
+                    "is": "Laugarbakki"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 289059088,
+            "country": 352,
+            "level1area": [
+                "is7"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Fellabær"
+            },
+            "place_type": 86,
+            "population": 415,
+            "latitude": 65.2823124,
+            "longitude": -14.4245062,
+            "geocell": 5588855,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 289059088,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1028198",
+                "wikipedia_pages": {
+                    "is": "Fellabær"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 294967211,
+            "country": 352,
+            "level1area": [
+                "is7"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Bakkagerði"
+            },
+            "place_type": 72,
+            "population": 91,
+            "latitude": 65.5269612,
+            "longitude": -13.8161009,
+            "geocell": 5599661,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 294967211,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q804446",
+                "wikipedia_pages": {
+                    "is": "Bakkagerði"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 300934025,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Þorlákshöfn",
+                "ru": "Торлауксхёбн"
+            },
+            "place_type": 84,
+            "population": 2037,
+            "latitude": 63.8561592,
+            "longitude": -21.3866276,
+            "geocell": 5538386,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 300934025,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q335596",
+                "wikipedia_pages": {
+                    "is": "Þorlákshöfn"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 321680260,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Stokkseyri",
+                "ru": "Стокксейри"
+            },
+            "place_type": 86,
+            "population": 535,
+            "latitude": 63.8369673,
+            "longitude": -21.0611516,
+            "geocell": 5538389,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 321680260,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2294429",
+                "wikipedia_pages": {
+                    "is": "Stokkseyri"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 368219018,
+            "country": 352,
+            "level1area": [
+                "is3"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Búðardalur"
+            },
+            "place_type": 86,
+            "population": 247,
+            "latitude": 65.1098437,
+            "longitude": -21.7667615,
+            "geocell": 5585182,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 368219018,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1020276",
+                "wikipedia_pages": {
+                    "is": "Búðardalur"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 370816158,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Laugarás"
+            },
+            "place_type": 72,
+            "population": 112,
+            "latitude": 64.1156706,
+            "longitude": -20.5022458,
+            "geocell": 5549194,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 370816158,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q210291",
+                "wikipedia_pages": {
+                    "is": "Laugarás (Árnessýsla)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 372918152,
+            "country": 352,
+            "level1area": [
+                "is2"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Hafnir",
+                "ru": "Хабнир"
+            },
+            "place_type": 72,
+            "population": 107,
+            "latitude": 63.9339669,
+            "longitude": -22.6840813,
+            "geocell": 5541973,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 372918152,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1568128",
+                "wikipedia_pages": {
+                    "is": "Hafnir"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 378506691,
+            "country": 352,
+            "level1area": [
+                "is1"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Grundarhverfi"
+            },
+            "place_type": 86,
+            "population": 614,
+            "latitude": 64.2401735,
+            "longitude": -21.8321626,
+            "geocell": 5552781,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 378506691,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3481804",
+                "wikipedia_pages": {
+                    "is": "Kjalarnes (hverfi)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 421609805,
+            "country": 352,
+            "level1area": [
+                "is2"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Vogar",
+                "ru": "Вогар"
+            },
+            "place_type": 84,
+            "population": 1500,
+            "latitude": 63.9832106,
+            "longitude": -22.387446,
+            "geocell": 5541976,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 421609805,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3482077",
+                "wikipedia_pages": {
+                    "is": "Sveitarfélagið Vogar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 444054370,
+            "country": 352,
+            "level1area": [
+                "is3"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Melahverfi"
+            },
+            "place_type": 72,
+            "population": 150,
+            "latitude": 64.3815178,
+            "longitude": -21.8411151,
+            "geocell": 5556381,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 444054370,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 448187145,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Laugarvatn",
+                "ru": "Лейгарватн"
+            },
+            "place_type": 86,
+            "population": 260,
+            "latitude": 64.217171,
+            "longitude": -20.7334229,
+            "geocell": 5552792,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 448187145,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27011951",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 449230556,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Reykholt"
+            },
+            "place_type": 86,
+            "population": 368,
+            "latitude": 64.1783412,
+            "longitude": -20.446134,
+            "geocell": 5549195,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 449230556,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q210293",
+                "wikipedia_pages": {
+                    "is": "Reykholt (Árnessýslu)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 451727211,
+            "country": 352,
+            "level1area": [
+                "is3"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Reykholt"
+            },
+            "place_type": 72,
+            "population": 84,
+            "latitude": 64.6647555,
+            "longitude": -21.2920094,
+            "geocell": 5567187,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 451727211,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1584168",
+                "wikipedia_pages": {
+                    "is": "Reykholt (Borgarfirði)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 451838673,
+            "country": 352,
+            "level1area": [
+                "is7"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Breiðdalsvík"
+            },
+            "place_type": 86,
+            "population": 147,
+            "latitude": 64.792906,
+            "longitude": -14.0063726,
+            "geocell": 5570859,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 451838673,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2924383",
+                "wikipedia_pages": {
+                    "is": "Breiðdalsvík"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 456385194,
+            "country": 352,
+            "level1area": [
+                "is4"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Tálknafjörður"
+            },
+            "place_type": 86,
+            "population": 234,
+            "latitude": 65.6274231,
+            "longitude": -23.8249036,
+            "geocell": 5603161,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 456385194,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1337557",
+                "wikipedia_pages": {
+                    "is": "Tálknafjörður"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 457115537,
+            "country": 352,
+            "level1area": [
+                "is4"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Bíldudalur"
+            },
+            "place_type": 86,
+            "population": 256,
+            "latitude": 65.6859045,
+            "longitude": -23.5988643,
+            "geocell": 5603164,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 457115537,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q939109",
+                "wikipedia_pages": {
+                    "is": "Bíldudalur"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 457702046,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Westmännerinseln",
+                "is": "Vestmannaeyjabær",
+                "lt": "Vestmanaejaras",
+                "ru": "Вестманнаэйяр"
+            },
+            "place_type": 84,
+            "population": 4444,
+            "latitude": 63.4401009,
+            "longitude": -20.2785899,
+            "geocell": 5523997,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 457702046,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q187251",
+                "wikipedia_pages": {
+                    "is": "Vestmannaeyjar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 477367274,
+            "country": 352,
+            "level1area": [
+                "is3"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Arnarstapi"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 64.766727,
+            "longitude": -23.628085,
+            "geocell": 5570763,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 477367274,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q774048",
+                "wikipedia_pages": {
+                    "en": "Arnarstapi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 477368836,
+            "country": 352,
+            "level1area": [
+                "is3"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Hellnar",
+                "ru": "Хедльнар"
+            },
+            "place_type": 72,
+            "population": 9,
+            "latitude": 64.7509083,
+            "longitude": -23.6469183,
+            "geocell": 5570763,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 477368836,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1366915",
+                "wikipedia_pages": {
+                    "is": "Hellnar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 483694915,
+            "country": 352,
+            "level1area": [
+                "is4"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Þingeyri"
+            },
+            "place_type": 86,
+            "population": 261,
+            "latitude": 65.8791205,
+            "longitude": -23.4924457,
+            "geocell": 5610365,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 483694915,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3115792",
+                "wikipedia_pages": {
+                    "is": "Þingeyri"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 580229721,
+            "country": 352,
+            "level1area": [
+                "is7"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Stöðvarfjörður",
+                "ru": "Стёдварфьордюр"
+            },
+            "place_type": 86,
+            "population": 182,
+            "latitude": 64.8338027,
+            "longitude": -13.873733,
+            "geocell": 5574461,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 580229721,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2427727",
+                "wikipedia_pages": {
+                    "is": "Stöðvarfjörður"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 580229725,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Bakkafjörður"
+            },
+            "place_type": 72,
+            "population": 55,
+            "latitude": 66.0365438,
+            "longitude": -14.8041376,
+            "geocell": 5617651,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 580229725,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q922058",
+                "wikipedia_pages": {
+                    "is": "Bakkafjörður"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 614271536,
+            "country": 352,
+            "level1area": [
+                "is3"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Stykkishólmur",
+                "ru": "Стиккисхоульмюр"
+            },
+            "place_type": 84,
+            "population": 1170,
+            "latitude": 65.0742584,
+            "longitude": -22.7302954,
+            "geocell": 5581572,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 614271536,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1019452",
+                "wikipedia_pages": {
+                    "is": "Stykkishólmur"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 617530549,
+            "country": 352,
+            "level1area": [
+                "is4"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Flateyri",
+                "ru": "Флатейри"
+            },
+            "place_type": 86,
+            "population": 189,
+            "latitude": 66.0488058,
+            "longitude": -23.5129609,
+            "geocell": 5617564,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 617530549,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1427337",
+                "wikipedia_pages": {
+                    "is": "Flateyri"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 618009032,
+            "country": 352,
+            "level1area": [
+                "is4"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Drangsnes"
+            },
+            "place_type": 86,
+            "population": 64,
+            "latitude": 65.6886335,
+            "longitude": -21.4429421,
+            "geocell": 5603185,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 618009032,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2458886",
+                "wikipedia_pages": {
+                    "is": "Drangsnes"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 656120091,
+            "country": 352,
+            "level1area": [
+                "is7"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Eiðar"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 65.3722842,
+            "longitude": -14.3504526,
+            "geocell": 5592456,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 656120091,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2347869",
+                "wikipedia_pages": {
+                    "is": "Eiðar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1250153275,
+            "country": 352,
+            "level1area": [
+                "is3"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Bifröst"
+            },
+            "place_type": 86,
+            "population": 309,
+            "latitude": 64.7665836,
+            "longitude": -21.5525505,
+            "geocell": 5570784,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1250153275,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2902079",
+                "wikipedia_pages": {
+                    "is": "Bifröst (þorp)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1326806388,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Sólheimar"
+            },
+            "place_type": 72,
+            "population": 96,
+            "latitude": 64.0667596,
+            "longitude": -20.6432534,
+            "geocell": 5545593,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1326806388,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1678433",
+                "wikipedia_pages": {
+                    "is": "Sólheimar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1326810298,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Borg í Grímsnesi"
+            },
+            "place_type": 72,
+            "population": 184,
+            "latitude": 64.0751849,
+            "longitude": -20.7656595,
+            "geocell": 5545592,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1326810298,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1385855484,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Skógar",
+                "ru": "Скоугар"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 63.5269509,
+            "longitude": -19.4944304,
+            "geocell": 5527605,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1385855484,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q985810",
+                "wikipedia_pages": {
+                    "is": "Skógar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1389249079,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Árnes"
+            },
+            "place_type": 72,
+            "population": 60,
+            "latitude": 64.0416695,
+            "longitude": -20.2509462,
+            "geocell": 5545597,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1389249079,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q25594361",
+                "wikipedia_pages": {
+                    "is": "Árnes (þorp)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1871986559,
+            "country": 352,
+            "level1area": [
+                "is4"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Flatey",
+                "ru": "Флатей"
+            },
+            "place_type": 72,
+            "population": 8,
+            "latitude": 65.3756662,
+            "longitude": -22.9168068,
+            "geocell": 5592370,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1871986559,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1883634064,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Þykkvibær"
+            },
+            "place_type": 72,
+            "population": 77,
+            "latitude": 63.7466006,
+            "longitude": -20.609932,
+            "geocell": 5534793,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1883634064,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q16422083",
+                "wikipedia_pages": {
+                    "is": "Þykkvibær"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1953299292,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Brautarholt"
+            },
+            "place_type": 72,
+            "population": 77,
+            "latitude": 64.0220804,
+            "longitude": -20.518627,
+            "geocell": 5545594,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1953299292,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1955176772,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Tjarnabyggð"
+            },
+            "place_type": 72,
+            "population": 191,
+            "latitude": 63.8953371,
+            "longitude": -21.0952385,
+            "geocell": 5538389,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1955176772,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1967301181,
+            "country": 352,
+            "level1area": [
+                "is4"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Reykhólar"
+            },
+            "place_type": 86,
+            "population": 108,
+            "latitude": 65.4485927,
+            "longitude": -22.2014777,
+            "geocell": 5595977,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1967301181,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2786513",
+                "wikipedia_pages": {
+                    "is": "Reykhólar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2005461406,
+            "country": 352,
+            "level1area": [
+                "is4"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Króksfjarðarnes"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 65.4542506,
+            "longitude": -21.9234986,
+            "geocell": 5595980,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2005461406,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q532373",
+                "wikipedia_pages": {
+                    "is": "Króksfjarðarnes"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2018464359,
+            "country": 352,
+            "level1area": [
+                "is3"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Varmaland"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 64.688466,
+            "longitude": -21.5940026,
+            "geocell": 5567184,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2018464359,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7915994",
+                "wikipedia_pages": {
+                    "is": "Varmaland"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2094641026,
+            "country": 352,
+            "level1area": [
+                "is5"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Borðeyri"
+            },
+            "place_type": 72,
+            "population": 16,
+            "latitude": 65.2074843,
+            "longitude": -21.0987679,
+            "geocell": 5588789,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2094641026,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2911415",
+                "wikipedia_pages": {
+                    "is": "Borðeyri"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2107832620,
+            "country": 352,
+            "level1area": [
+                "is1"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ريكيافيك",
+                "be": "Рэйк'явік",
+                "ckb": "ڕێکیاڤیک",
+                "de": "Reykjavik",
+                "en": "Reykjavik",
+                "es": "Reikiavik",
+                "fr": "Reykjavik",
+                "ga": "Réicivíc",
+                "hu": "Reykjavík",
+                "is": "Reykjavík",
+                "it": "Reykjavík",
+                "ja": "レイキャヴィク",
+                "lt": "Reikjavikas",
+                "nl": "Reykjavik",
+                "pl": "Reykjavík",
+                "pt": "Reiquiavique",
+                "ro": "Reykjavík",
+                "ru": "Рейкьявик",
+                "sk": "Reykjavík",
+                "sv": "Reykjavik",
+                "ta": "ரெய்க்யவிக்",
+                "uk": "Рейк'явік",
+                "ur": "ریکجاوک",
+                "uz": "Reykyavik",
+                "vi": "Reykjavik"
+            },
+            "place_type": 67,
+            "population": 136894,
+            "latitude": 64.145981,
+            "longitude": -21.9422367,
+            "geocell": 5549180,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2107832620,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1764",
+                "wikipedia_pages": {
+                    "is": "Reykjavík"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2171340641,
+            "country": 352,
+            "level1area": [
+                "is1"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Garðabær",
+                "lt": "Gardabairas",
+                "ru": "Гардабайр"
+            },
+            "place_type": 84,
+            "population": 16544,
+            "latitude": 64.0880255,
+            "longitude": -21.9193961,
+            "geocell": 5545580,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2171340641,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2171340646,
+            "country": 352,
+            "level1area": [
+                "is1"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Kópavogur",
+                "lt": "Koupavoguras",
+                "ru": "Коупавогюр"
+            },
+            "place_type": 84,
+            "population": 39335,
+            "latitude": 64.1113504,
+            "longitude": -21.9048106,
+            "geocell": 5549180,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2171340646,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2171340649,
+            "country": 352,
+            "level1area": [
+                "is1"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Mosfellsbær",
+                "it": "Mosfellsbær",
+                "ru": "Мосфедльсбайр"
+            },
+            "place_type": 84,
+            "population": 13024,
+            "latitude": 64.1674922,
+            "longitude": -21.6971313,
+            "geocell": 5549183,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2171340649,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2171340653,
+            "country": 352,
+            "level1area": [
+                "is1"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Seltjarnarnes",
+                "lt": "Seltjarnarnesas",
+                "ru": "Селтьярнарнес"
+            },
+            "place_type": 84,
+            "population": 4572,
+            "latitude": 64.1526552,
+            "longitude": -21.9879563,
+            "geocell": 5549180,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2171340653,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2171372991,
+            "country": 352,
+            "level1area": [
+                "is1"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hafnarfjordur",
+                "is": "Hafnarfjörður",
+                "lt": "Habnarfjorduras",
+                "ru": "Хабнарфьордюр"
+            },
+            "place_type": 84,
+            "population": 30616,
+            "latitude": 64.0695354,
+            "longitude": -21.9575664,
+            "geocell": 5545580,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2171372991,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q103725",
+                "wikipedia_pages": {
+                    "en": "Hafnarfjörður"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2297612728,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Rauðalækur"
+            },
+            "place_type": 72,
+            "population": 60,
+            "latitude": 63.8644812,
+            "longitude": -20.4439481,
+            "geocell": 5538395,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2297612728,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2477627",
+                "wikipedia_pages": {
+                    "is": "Rauðalækur"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2426033226,
+            "country": 352,
+            "level1area": [
+                "is2"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Njarðvík",
+                "ru": "Ньярдвик"
+            },
+            "place_type": 84,
+            "population": 5000,
+            "latitude": 63.9733089,
+            "longitude": -22.5426892,
+            "geocell": 5541974,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2426033226,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3342356",
+                "wikipedia_pages": {
+                    "is": "Njarðvík"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2574401364,
+            "country": 352,
+            "level1area": [
+                "is5"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Hólar"
+            },
+            "place_type": 72,
+            "population": 85,
+            "latitude": 65.7320315,
+            "longitude": -19.1111225,
+            "geocell": 5606808,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2574401364,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1019455",
+                "wikipedia_pages": {
+                    "is": "Hólar í Hjaltadal"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2876969801,
+            "country": 352,
+            "level1area": [
+                "is2"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Keflavík",
+                "ru": "Кеблавик",
+                "sv": "Keflavik"
+            },
+            "place_type": 84,
+            "population": 15000,
+            "latitude": 63.9997694,
+            "longitude": -22.5565373,
+            "geocell": 5541974,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2876969801,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q170693",
+                "wikipedia_pages": {
+                    "is": "Keflavík"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2916736315,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Grímsey",
+                "tr": "Grimsey"
+            },
+            "place_type": 72,
+            "population": 57,
+            "latitude": 66.5396041,
+            "longitude": -18.0153284,
+            "geocell": 5635619,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2916736315,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2918048188,
+            "country": 352,
+            "level1area": [
+                "is1"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Álftanes"
+            },
+            "place_type": 86,
+            "population": 2487,
+            "latitude": 64.1055951,
+            "longitude": -22.020192,
+            "geocell": 5549179,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2918048188,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2918050432,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Kristnes"
+            },
+            "place_type": 72,
+            "population": 32,
+            "latitude": 65.5965165,
+            "longitude": -18.0871127,
+            "geocell": 5599619,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2918050432,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4379510862,
+            "country": 352,
+            "level1area": [
+                "is7"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Brekka"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 65.203805,
+            "longitude": -13.7958665,
+            "geocell": 5588862,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4379510862,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5229789491,
+            "country": 352,
+            "level1area": [
+                "is4"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Norðurfjörður"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 66.0511816,
+            "longitude": -21.5481068,
+            "geocell": 5617584,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5229789491,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q108969139",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5813568201,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Svalbarðseyri",
+                "ru": "Свальбард"
+            },
+            "place_type": 86,
+            "population": 265,
+            "latitude": 65.7458544,
+            "longitude": -18.082973,
+            "geocell": 5606819,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5813568201,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6529399",
+                "wikipedia_pages": {
+                    "is": "Svalbarðseyri"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5866061069,
+            "country": 352,
+            "level1area": [
+                "is8"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Nesjahverfi"
+            },
+            "place_type": 72,
+            "population": 102,
+            "latitude": 64.3143854,
+            "longitude": -15.2252056,
+            "geocell": 5556447,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5866061069,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6239764505,
+            "country": 352,
+            "level1area": [
+                "is7"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Reyðarfjörður",
+                "ru": "Рейдарфьордур"
+            },
+            "place_type": 84,
+            "population": 1368,
+            "latitude": 65.0340671,
+            "longitude": -14.2084678,
+            "geocell": 5581657,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6239764505,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1019443",
+                "wikipedia_pages": {
+                    "is": "Reyðarfjörður"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6262655361,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Brúnahlíð"
+            },
+            "place_type": 72,
+            "population": 66,
+            "latitude": 65.6546863,
+            "longitude": -18.0258443,
+            "geocell": 5603219,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6262655361,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6323868579,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Lónsbakki"
+            },
+            "place_type": 72,
+            "population": 305,
+            "latitude": 65.7027414,
+            "longitude": -18.1559477,
+            "geocell": 5606818,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6323868579,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6446286779,
+            "country": 352,
+            "level1area": [
+                "is3"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Gufuskálar"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 64.9031804,
+            "longitude": -23.9301251,
+            "geocell": 5577960,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6446286779,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

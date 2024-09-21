@@ -1,0 +1,2023 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 58957648,
+            "country": 20,
+            "level1area": [
+                "ad07"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أندورا لا فيلا",
+                "be": "Андора-ла-Велья",
+                "bg": "Андора ла Веля",
+                "bn": "আন্দরা লা ভেলিয়া",
+                "br": "Andorra la Vella",
+                "ca": "Andorra la Vella",
+                "ckb": "ئەندۆرا لا ڤێلا",
+                "de": "Andorra la Vella",
+                "el": "Ανδόρρα λα Βέγια",
+                "en": "Andorra la Vella",
+                "eo": "Andoro Malnova",
+                "es": "Andorra la Vieja",
+                "fa": "آندورا لاولا",
+                "fr": "Andorre-la-Vieille",
+                "gl": "Andorra a Vella",
+                "he": "אנדורה לה ולה",
+                "hu": "Andorra la Vella",
+                "hy": "Անդորա լա Վելյա",
+                "is": "Andorra la Vella",
+                "it": "Andorra la Vella",
+                "ja": "アンドラ・ラ・ベリャ",
+                "ka": "ანდორა-ლა-ველა",
+                "kk": "Андорра-ла-Велья",
+                "ko": "안도라라벨랴",
+                "lt": "Andora",
+                "lv": "Andora la Velja",
+                "mk": "Андора ла Велја",
+                "ml": "അൻഡോറ ല വെല്ല",
+                "mr": "अँडोरा ला व्हेल्या",
+                "nl": "Andorra",
+                "os": "Андоррæ-ла-Велья",
+                "pl": "Andora",
+                "pt": "Andorra-a-Velha",
+                "ro": "Andorra la Vella",
+                "ru": "Андорра-ла-Велья",
+                "sk": "Andorra",
+                "sr": "Андора ла Веља",
+                "sv": "Andorra la Vella",
+                "ta": "அன்டோரா லா வெல்லா",
+                "tg": "Андорра-ла-Веля",
+                "th": "อันดอร์ราลาเบยา",
+                "tr": "Andorra la Vella",
+                "udm": "Андорра-ла-Велья",
+                "ug": "ئاندوررا كەنتى",
+                "uk": "Андорра-ла-Велья",
+                "ur": "انڈورا لا ویلا"
+            },
+            "place_type": 84,
+            "population": 24678,
+            "latitude": 42.5069391,
+            "longitude": 1.5212467,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 58957648,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1863",
+                "wikipedia_pages": {
+                    "ca": "Andorra la Vella"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 58963219,
+            "country": 20,
+            "level1area": [
+                "ad05"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Ардына",
+                "ca": "Ordino",
+                "el": "Ορδίνο",
+                "lt": "Ordinas",
+                "ru": "Ордино"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 42.55615,
+            "longitude": 1.5334945,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 58963219,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.ordino.ad/",
+                "wikidata_page_name": "Q3885480",
+                "wikipedia_pages": {
+                    "ca": "Ordino"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954372,
+            "country": 20,
+            "level1area": [
+                "ad06"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Aixàs"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.4826042,
+            "longitude": 1.4641485,
+            "geocell": 4768214,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954372,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954377,
+            "country": 20,
+            "level1area": [
+                "ad06"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Aubinyà",
+                "ru": "Аубинья"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.45368,
+            "longitude": 1.4921448,
+            "geocell": 4768214,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954377,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24650",
+                "wikipedia_pages": {
+                    "ca": "Auvinyà"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954382,
+            "country": 20,
+            "level1area": [
+                "ad06"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Juberri",
+                "ru": "Джубери"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.4391742,
+            "longitude": 1.4917822,
+            "geocell": 4768214,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954382,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24625",
+                "wikipedia_pages": {
+                    "ca": "Juberri"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954385,
+            "country": 20,
+            "level1area": [
+                "ad06"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Nagol",
+                "ru": "Наголь"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.4705142,
+            "longitude": 1.499592,
+            "geocell": 4768214,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954385,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24611",
+                "wikipedia_pages": {
+                    "ca": "Nagol"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954389,
+            "country": 20,
+            "level1area": [
+                "ad04"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Anyós"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.534361,
+            "longitude": 1.5254826,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954389,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24551",
+                "wikipedia_pages": {
+                    "ca": "Anyós"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954396,
+            "country": 20,
+            "level1area": [
+                "ad08"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Els Vilars"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.5168287,
+            "longitude": 1.5413834,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954396,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1154347",
+                "wikipedia_pages": {
+                    "ca": "Els Vilars d'Engordany"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954400,
+            "country": 20,
+            "level1area": [
+                "ad06"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Bixessarri",
+                "ru": "Бишесарри"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.4836288,
+            "longitude": 1.4566808,
+            "geocell": 4768214,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954400,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24641",
+                "wikipedia_pages": {
+                    "ca": "Bixessarri"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954404,
+            "country": 20,
+            "level1area": [
+                "ad02"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "el Tarter",
+                "ru": "Эль-Тартер"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.5803334,
+            "longitude": 1.6496963,
+            "geocell": 4771816,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954404,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24413",
+                "wikipedia_pages": {
+                    "ca": "El Tarter (Canillo)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954409,
+            "country": 20,
+            "level1area": [
+                "ad02"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Prats",
+                "ru": "Пратс"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.5605597,
+            "longitude": 1.5936564,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954409,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24415",
+                "wikipedia_pages": {
+                    "ca": "Prats (Canillo)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954415,
+            "country": 20,
+            "level1area": [
+                "ad04"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Sispony"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.5338717,
+            "longitude": 1.515627,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954415,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24562",
+                "wikipedia_pages": {
+                    "ca": "Sispony"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954417,
+            "country": 20,
+            "level1area": [
+                "ad02"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "els Plans"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.5821459,
+            "longitude": 1.6329828,
+            "geocell": 4771816,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954417,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24417",
+                "wikipedia_pages": {
+                    "ca": "Els Plans (Canillo)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954422,
+            "country": 20,
+            "level1area": [
+                "ad02"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "l’Aldosa de Canillo"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.5795551,
+            "longitude": 1.6278149,
+            "geocell": 4771816,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954422,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24371",
+                "wikipedia_pages": {
+                    "ca": "L'Aldosa de Canillo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954429,
+            "country": 20,
+            "level1area": [
+                "ad02"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Sant Pere"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.5785035,
+            "longitude": 1.6531626,
+            "geocell": 4771816,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954429,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7419109",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954433,
+            "country": 20,
+            "level1area": [
+                "ad02"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Канільё",
+                "ca": "Canillo",
+                "el": "Κανίλιο",
+                "lt": "Kaniljas",
+                "ru": "Канильо"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 42.5668305,
+            "longitude": 1.5977647,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954433,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q386802",
+                "wikipedia_pages": {
+                    "ca": "Canillo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954435,
+            "country": 20,
+            "level1area": [
+                "ad05"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Sornàs",
+                "ru": "Сорнас"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.5649323,
+            "longitude": 1.5274027,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954435,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24495",
+                "wikipedia_pages": {
+                    "ca": "Sornàs"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954437,
+            "country": 20,
+            "level1area": [
+                "ad03"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Pas de la Casa",
+                "fr": "Pas de la case",
+                "ru": "Пас-де-ла-Каса"
+            },
+            "place_type": 86,
+            "population": 2996,
+            "latitude": 42.5447098,
+            "longitude": 1.733494,
+            "geocell": 4771817,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954437,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24456",
+                "wikipedia_pages": {
+                    "ca": "El Pas de la Casa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954441,
+            "country": 20,
+            "level1area": [
+                "ad02"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Sant Joan de Caselles"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.5710971,
+            "longitude": 1.6163247,
+            "geocell": 4771816,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954441,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954447,
+            "country": 20,
+            "level1area": [
+                "ad04"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "l'Aldosa de la Massana"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.5436783,
+            "longitude": 1.5228165,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954447,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24540",
+                "wikipedia_pages": {
+                    "ca": "L'Aldosa de la Massana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954451,
+            "country": 20,
+            "level1area": [
+                "ad05"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "El Serrat",
+                "en": "El Serrat",
+                "ru": "Эль-Серрат"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.6195784,
+            "longitude": 1.5388976,
+            "geocell": 4775415,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954451,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24490",
+                "wikipedia_pages": {
+                    "ca": "El Serrat (Ordino)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954457,
+            "country": 20,
+            "level1area": [
+                "ad02"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Ransol",
+                "ru": "Рансоль"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.5816768,
+            "longitude": 1.6374847,
+            "geocell": 4771816,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954457,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24392",
+                "wikipedia_pages": {
+                    "ca": "Ransol"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954460,
+            "country": 20,
+            "level1area": [
+                "ad04"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "el Pui"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.5476987,
+            "longitude": 1.515555,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954460,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954464,
+            "country": 20,
+            "level1area": [
+                "ad03"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Vila",
+                "fr": "Vila",
+                "ru": "Вила"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.5318538,
+            "longitude": 1.5666248,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954464,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24459",
+                "wikipedia_pages": {
+                    "ca": "Vila (Encamp)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954467,
+            "country": 20,
+            "level1area": [
+                "ad04"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Erts",
+                "ru": "Эртс"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.5614863,
+            "longitude": 1.4965904,
+            "geocell": 4771814,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954467,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24556",
+                "wikipedia_pages": {
+                    "ca": "Erts"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954472,
+            "country": 20,
+            "level1area": [
+                "ad05"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Ansalonga",
+                "ru": "Ансалонга"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.5690218,
+            "longitude": 1.5221532,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954472,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24475",
+                "wikipedia_pages": {
+                    "ca": "Ansalonga"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954477,
+            "country": 20,
+            "level1area": [
+                "ad08"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Engordany",
+                "ru": "Энгордань"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.5120512,
+            "longitude": 1.5418913,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954477,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q586510",
+                "wikipedia_pages": {
+                    "ca": "Engordany"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954483,
+            "country": 20,
+            "level1area": [
+                "ad04"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Vallnord - Pal Arinsal",
+                "ru": "Аринсал"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.5720821,
+            "longitude": 1.4844029,
+            "geocell": 4771814,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954483,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24554",
+                "wikipedia_pages": {
+                    "ca": "Arinsal"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954486,
+            "country": 20,
+            "level1area": [
+                "ad06"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Сант-Жулія-дэ-Лорыя",
+                "ca": "Sant Julià de Lòria",
+                "el": "Σαντ Ζουλιά ντε Λόρια",
+                "ja": "サン・ジュリア・デ・ロリア",
+                "lt": "Sant Chulija de Lorija",
+                "ru": "Сант-Жулия-де-Лория"
+            },
+            "place_type": 84,
+            "population": 9207,
+            "latitude": 42.4668541,
+            "longitude": 1.4923277,
+            "geocell": 4768214,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954486,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1120573",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954492,
+            "country": 20,
+            "level1area": [
+                "ad03"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "les Bons"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.5385245,
+            "longitude": 1.5844704,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954492,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24447",
+                "wikipedia_pages": {
+                    "ca": "Les Bons"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954503,
+            "country": 20,
+            "level1area": [
+                "ad04"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Puiol del Piu"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.5655548,
+            "longitude": 1.4919908,
+            "geocell": 4771814,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954503,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954508,
+            "country": 20,
+            "level1area": [
+                "ad06"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Fontaneda",
+                "ru": "Фонтанеда"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.4543091,
+            "longitude": 1.4640242,
+            "geocell": 4768214,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954508,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24629",
+                "wikipedia_pages": {
+                    "ca": "Fontaneda"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954512,
+            "country": 20,
+            "level1area": [
+                "ad07"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Santa Coloma",
+                "ru": "Санта-Колома"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.4949956,
+            "longitude": 1.4997052,
+            "geocell": 4768214,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954512,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24597",
+                "wikipedia_pages": {
+                    "ca": "Santa Coloma d'Andorra"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954515,
+            "country": 20,
+            "level1area": [
+                "ad04"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Pal",
+                "ru": "Паль"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.5457992,
+            "longitude": 1.4759787,
+            "geocell": 4771814,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954515,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24558",
+                "wikipedia_pages": {
+                    "ca": "Pal (la Massana)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954521,
+            "country": 20,
+            "level1area": [
+                "ad04"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Xixerella",
+                "ru": "Шишерелла"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.5531204,
+            "longitude": 1.4878668,
+            "geocell": 4771814,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954521,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2544237",
+                "wikipedia_pages": {
+                    "en": "Xixerella"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954525,
+            "country": 20,
+            "level1area": [
+                "ad06"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Aixovall",
+                "ru": "Ашаваль"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.4769809,
+            "longitude": 1.4887515,
+            "geocell": 4768214,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954525,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24656",
+                "wikipedia_pages": {
+                    "ca": "Aixovall"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954531,
+            "country": 20,
+            "level1area": [
+                "ad05"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Llorts",
+                "ru": "Льортс"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.5962642,
+            "longitude": 1.5261846,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954531,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24483",
+                "wikipedia_pages": {
+                    "ca": "Llorts"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954534,
+            "country": 20,
+            "level1area": [
+                "ad06"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Mas d’Alins"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.4413704,
+            "longitude": 1.4494549,
+            "geocell": 4768214,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954534,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954538,
+            "country": 20,
+            "level1area": [
+                "ad02"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Soldeu",
+                "el": "Σολντέου",
+                "ru": "Сольдеу"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.5768944,
+            "longitude": 1.6682694,
+            "geocell": 4771816,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954538,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24398",
+                "wikipedia_pages": {
+                    "ca": "Soldeu"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954542,
+            "country": 20,
+            "level1area": [
+                "ad04"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Mas de Ribafeta"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.570774,
+            "longitude": 1.493038,
+            "geocell": 4771814,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954542,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954546,
+            "country": 20,
+            "level1area": [
+                "ad05"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "la Cortinada",
+                "ru": "Ла-Кортинада"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.5755678,
+            "longitude": 1.5193446,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954546,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24486",
+                "wikipedia_pages": {
+                    "ca": "La Cortinada"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954554,
+            "country": 20,
+            "level1area": [
+                "ad06"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Llumeneres",
+                "ru": "Льюменерес"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.4721545,
+            "longitude": 1.5116811,
+            "geocell": 4768215,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954554,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24622",
+                "wikipedia_pages": {
+                    "ca": "Llumeneres"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954560,
+            "country": 20,
+            "level1area": [
+                "ad05"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Arans",
+                "ru": "Аранс"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.5825312,
+            "longitude": 1.5180695,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954560,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24478",
+                "wikipedia_pages": {
+                    "ca": "Arans"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954563,
+            "country": 20,
+            "level1area": [
+                "ad04"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Ла-Масана",
+                "ca": "La Massana",
+                "el": "Λα Μασάνα",
+                "lt": "La Masana",
+                "ru": "Ла-Массана"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 42.5442014,
+            "longitude": 1.5163754,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954563,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24276",
+                "wikipedia_pages": {
+                    "ca": "La Massana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954565,
+            "country": 20,
+            "level1area": [
+                "ad04"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Escàs"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.5468617,
+            "longitude": 1.5089987,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954565,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24566",
+                "wikipedia_pages": {
+                    "ca": "Escàs (la Massana)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954570,
+            "country": 20,
+            "level1area": [
+                "ad05"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Segudet",
+                "ru": "Сегудет"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.5570637,
+            "longitude": 1.5380568,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954570,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24499",
+                "wikipedia_pages": {
+                    "ca": "Segudet"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954584,
+            "country": 20,
+            "level1area": [
+                "ad03"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Энкамп",
+                "ca": "Encamp",
+                "de": "Encamp",
+                "el": "Ενκάμπ",
+                "fr": "Encamp",
+                "lt": "Enkampas",
+                "ru": "Энкамп",
+                "sr": "Енкамп",
+                "ur": "انکامپ"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 42.5360425,
+            "longitude": 1.5836096,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954584,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24269",
+                "wikipedia_pages": {
+                    "ca": "Encamp"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954589,
+            "country": 20,
+            "level1area": [
+                "ad08"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Лэс-Эскальдэс",
+                "ca": "Escaldes-Engordany",
+                "el": "Λες Εσκάλντες",
+                "lt": "Les Eskaldesas",
+                "ru": "Эскальдес"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 42.5090019,
+            "longitude": 1.5404067,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954589,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "es": "Escaldes-Engordany"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954593,
+            "country": 20,
+            "level1area": [
+                "ad06"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Aixirivall",
+                "ru": "Айширивалль"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.4620002,
+            "longitude": 1.5016173,
+            "geocell": 4768215,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954593,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24668",
+                "wikipedia_pages": {
+                    "ca": "Aixirivall"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954598,
+            "country": 20,
+            "level1area": [
+                "ad06"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Certers",
+                "ru": "Сертерс"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.4760797,
+            "longitude": 1.5061537,
+            "geocell": 4768215,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954598,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24630",
+                "wikipedia_pages": {
+                    "ca": "Certers"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64954601,
+            "country": 20,
+            "level1area": [
+                "ad02"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Meritxell",
+                "ru": "Меричель"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.5536332,
+            "longitude": 1.5906405,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64954601,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24390",
+                "wikipedia_pages": {
+                    "ca": "Meritxell_(Canillo)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258355185,
+            "country": 20,
+            "level1area": [
+                "ad04"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Super Pal"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.5429513,
+            "longitude": 1.4734913,
+            "geocell": 4771814,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258355185,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258361905,
+            "country": 20,
+            "level1area": [
+                "ad03"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Grau Roig",
+                "de": "Grau Roig",
+                "fr": "Grau Roig",
+                "ru": "Грау Роч"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.5368991,
+            "longitude": 1.7017913,
+            "geocell": 4771817,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258361905,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5597742",
+                "wikipedia_pages": {
+                    "ca": "lmo:Grau Roig"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 262466673,
+            "country": 20,
+            "level1area": [
+                "ad05"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "el Vilar"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.5745545,
+            "longitude": 1.5193017,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 262466673,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 262473680,
+            "country": 20,
+            "level1area": [
+                "ad02"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "el Forn"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.5621207,
+            "longitude": 1.6028493,
+            "geocell": 4771816,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 262473680,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 264496511,
+            "country": 20,
+            "level1area": [
+                "ad04"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "el Cortalet"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.5389647,
+            "longitude": 1.526383,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 264496511,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 266324553,
+            "country": 20,
+            "level1area": [
+                "ad05"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Mas d'en Soler"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.5776121,
+            "longitude": 1.5180111,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 266324553,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 316985105,
+            "country": 20,
+            "level1area": [
+                "ad05"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Les Salines",
+                "en": "Les Salines"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.610325,
+            "longitude": 1.5366914,
+            "geocell": 4775415,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 316985105,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2125730238,
+            "country": 20,
+            "level1area": [
+                "ad08"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Engolasters",
+                "ru": "Энголастерс"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.5105107,
+            "longitude": 1.5592332,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2125730238,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q746899",
+                "wikipedia_pages": {
+                    "ca": "Engolasters"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2125770584,
+            "country": 20,
+            "level1area": [
+                "ad07"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "la Margineda",
+                "ru": "Ла Мархинеда"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.4870099,
+            "longitude": 1.4913963,
+            "geocell": 4768214,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2125770584,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2536296",
+                "wikipedia_pages": {
+                    "ca": "La Margineda"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3940604188,
+            "country": 20,
+            "level1area": [
+                "ad02"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "les Bordes d'Envalira"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.5599673,
+            "longitude": 1.6848967,
+            "geocell": 4771816,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3940604188,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6312742113,
+            "country": 20,
+            "level1area": [
+                "ad08"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Ràmio"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.4973204,
+            "longitude": 1.5725423,
+            "geocell": 4768215,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6312742113,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6312783622,
+            "country": 20,
+            "level1area": [
+                "ad04"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Bordes de Cardameller"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.5421591,
+            "longitude": 1.461772,
+            "geocell": 4771814,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6312783622,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6533776954,
+            "country": 20,
+            "level1area": [
+                "ad08"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Entremesaigües"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.4981805,
+            "longitude": 1.5601251,
+            "geocell": 4768215,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6533776954,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9706624136,
+            "country": 20,
+            "level1area": [
+                "ad07"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "La Comella"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.5007842,
+            "longitude": 1.528981,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9706624136,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9753977756,
+            "country": 20,
+            "level1area": [
+                "ad08"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Bordes d'Engolasters"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.5118459,
+            "longitude": 1.5633317,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9753977756,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9753977757,
+            "country": 20,
+            "level1area": [
+                "ad08"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Les Cases del Vilar"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.5093027,
+            "longitude": 1.5598934,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9753977757,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9753977758,
+            "country": 20,
+            "level1area": [
+                "ad08"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Bordes del Vilar"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 42.5122374,
+            "longitude": 1.557395,
+            "geocell": 4771815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9753977758,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

@@ -1,0 +1,5639 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1082208696,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "نوكو ألوفا",
+                "ast": "Nuku'alofa",
+                "az": "Nukualofa",
+                "be": "Нукуалофа",
+                "bg": "Нукуалофа",
+                "ca": "Nuku'alofa",
+                "ckb": "نوکوئەلۆفا",
+                "cs": "Nuku'alofa",
+                "cy": "Nuku'alofa",
+                "da": "Nuku'alofa",
+                "de": "Nukuʻalofa",
+                "el": "Νουκουαλόφα",
+                "en": "Nuku'alofa",
+                "eo": "Nukualofo",
+                "es": "Nukualofa",
+                "et": "Nuku‘alofa",
+                "eu": "Nuku'alofa",
+                "fa": "نوکوآلوفا",
+                "fi": "Nukuʻalofa",
+                "fr": "Nukuʻalofa",
+                "fy": "Nuku'alofa",
+                "gd": "Nuku'alofa",
+                "gl": "Nuku'alofa",
+                "he": "נוקואלופה",
+                "hi": "नुकुअलोफ़ा",
+                "hr": "Nuku'alofa",
+                "hu": "Nuku'alofa",
+                "hy": "Նուկուալոֆա",
+                "id": "Nukuʻalofa",
+                "io": "Nuku'alofa",
+                "is": "Nukuʻalofa",
+                "it": "Nuku'alofa",
+                "ja": "ヌクアロファ",
+                "ka": "ნუკუალოფა",
+                "kk": "Нукуалофа",
+                "ko": "누쿠알로파",
+                "ky": "Нукуалофа",
+                "lb": "Nuku'alofa",
+                "lt": "Nukualofa",
+                "lv": "Nukualofa",
+                "mk": "Нукуалофа",
+                "ml": "നുക്കുവാലോഫ",
+                "mr": "नुकु-अलोफा",
+                "ms": "Nukuʻalofa",
+                "nl": "Nuku'alofa",
+                "nn": "Nuku'alofa",
+                "pa": "ਨੁਕੂ ਅਲੋਫ਼ਾ",
+                "pl": "Nuku'alofa",
+                "pt": "Nucualofa",
+                "ro": "Nuku'alofa",
+                "ru": "Нукуалофа",
+                "sk": "Nuku’alofa",
+                "sq": "Nuku'alofa",
+                "sr": "Нукуалофа",
+                "sv": "Nuku'alofa",
+                "sw": "Nuku'alofa",
+                "ta": "நுக்கு'அலோபா",
+                "tg": "Нукуалофа",
+                "th": "นูกูอะโลฟา",
+                "to": "Nukuʻalofa",
+                "tr": "Nuku'alofa",
+                "uk": "Нуку'алофа",
+                "ur": "نوکوالوفا",
+                "uz": "Nukualofa",
+                "vi": "Nukuʻalofa"
+            },
+            "place_type": 67,
+            "population": 24500,
+            "latitude": -21.1343401,
+            "longitude": -175.201808,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1082208696,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q38834",
+                "wikipedia_pages": {
+                    "en": "Nukuʻalofa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1800613250,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Fua'amotu"
+            },
+            "place_type": 84,
+            "population": 1722,
+            "latitude": -21.2619519,
+            "longitude": -175.1407359,
+            "geocell": 2473248,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1800613250,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1800613259,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Nakolo"
+            },
+            "place_type": 86,
+            "population": 463,
+            "latitude": -21.2666569,
+            "longitude": -175.1247089,
+            "geocell": 2473248,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1800613259,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1800613260,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Hamula"
+            },
+            "place_type": 86,
+            "population": 421,
+            "latitude": -21.2520963,
+            "longitude": -175.1125577,
+            "geocell": 2473248,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1800613260,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1800613261,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Lavengatonga"
+            },
+            "place_type": 86,
+            "population": 401,
+            "latitude": -21.2346277,
+            "longitude": -175.1083063,
+            "geocell": 2473248,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1800613261,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1800613267,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Fātumu"
+            },
+            "place_type": 86,
+            "population": 449,
+            "latitude": -21.2132203,
+            "longitude": -175.1096071,
+            "geocell": 2473248,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1800613267,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1800613268,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Haveluliku"
+            },
+            "place_type": 72,
+            "population": 174,
+            "latitude": -21.204315,
+            "longitude": -175.1042339,
+            "geocell": 2473248,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1800613268,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1800629845,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Pelehake"
+            },
+            "place_type": 86,
+            "population": 836,
+            "latitude": -21.2160267,
+            "longitude": -175.1399135,
+            "geocell": 2473248,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1800629845,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1800780083,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "ckb": "هۆما",
+                "to": "Houma"
+            },
+            "place_type": 84,
+            "population": 2136,
+            "latitude": -21.1689039,
+            "longitude": -175.3033574,
+            "geocell": 2476846,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1800780083,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q15225938",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1800780090,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Vaotu'u"
+            },
+            "place_type": 86,
+            "population": 453,
+            "latitude": -21.1603281,
+            "longitude": -175.3118436,
+            "geocell": 2476846,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1800780090,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1800780092,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Fāhefa"
+            },
+            "place_type": 86,
+            "population": 415,
+            "latitude": -21.1438548,
+            "longitude": -175.3333721,
+            "geocell": 2476846,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1800780092,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1800780094,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Kala'au"
+            },
+            "place_type": 72,
+            "population": 122,
+            "latitude": -21.1382335,
+            "longitude": -175.3373563,
+            "geocell": 2476846,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1800780094,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1800780107,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Foui"
+            },
+            "place_type": 86,
+            "population": 572,
+            "latitude": -21.1124187,
+            "longitude": -175.3393428,
+            "geocell": 2476846,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1800780107,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1800780108,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Ha'avakatolo"
+            },
+            "place_type": 86,
+            "population": 259,
+            "latitude": -21.1072851,
+            "longitude": -175.3395513,
+            "geocell": 2476846,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1800780108,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1800780109,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Kolovai"
+            },
+            "place_type": 86,
+            "population": 607,
+            "latitude": -21.1004337,
+            "longitude": -175.3400893,
+            "geocell": 2476846,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1800780109,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1800780110,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "'Ahau"
+            },
+            "place_type": 72,
+            "population": 200,
+            "latitude": -21.0930259,
+            "longitude": -175.3393929,
+            "geocell": 2480446,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1800780110,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1800780111,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Kanokupolu"
+            },
+            "place_type": 86,
+            "population": 313,
+            "latitude": -21.0776797,
+            "longitude": -175.3347079,
+            "geocell": 2480446,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1800780111,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3711231",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1800780112,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Ha'atafu"
+            },
+            "place_type": 72,
+            "population": 222,
+            "latitude": -21.0702201,
+            "longitude": -175.327989,
+            "geocell": 2480446,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1800780112,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1801367713,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Malapo"
+            },
+            "place_type": 86,
+            "population": 688,
+            "latitude": -21.2009014,
+            "longitude": -175.1547625,
+            "geocell": 2473248,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1801367713,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6741312",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1801367752,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Vainī"
+            },
+            "place_type": 84,
+            "population": 3235,
+            "latitude": -21.1925671,
+            "longitude": -175.1772797,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1801367752,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1801367754,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Holonga"
+            },
+            "place_type": 86,
+            "population": 582,
+            "latitude": -21.1916152,
+            "longitude": -175.1434679,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1801367754,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5884200",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1801367774,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "'Alakifonua"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1920833,
+            "longitude": -175.1329781,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1801367774,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1802049612,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Navutoka"
+            },
+            "place_type": 86,
+            "population": 789,
+            "latitude": -21.1264308,
+            "longitude": -175.1087608,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1802049612,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1802049613,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Manuka"
+            },
+            "place_type": 86,
+            "population": 388,
+            "latitude": -21.1222522,
+            "longitude": -175.0993274,
+            "geocell": 2476849,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1802049613,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1802049627,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Hoi"
+            },
+            "place_type": 86,
+            "population": 450,
+            "latitude": -21.1655748,
+            "longitude": -175.1123062,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1802049627,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1802049725,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Folaha"
+            },
+            "place_type": 86,
+            "population": 896,
+            "latitude": -21.168866,
+            "longitude": -175.1839704,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1802049725,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1802049726,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Nukuhetulu"
+            },
+            "place_type": 86,
+            "population": 358,
+            "latitude": -21.166447,
+            "longitude": -175.1900284,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1802049726,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1802049753,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Longoteme"
+            },
+            "place_type": 86,
+            "population": 622,
+            "latitude": -21.1799815,
+            "longitude": -175.1690875,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1802049753,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1802049755,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Veitongo"
+            },
+            "place_type": 84,
+            "population": 1294,
+            "latitude": -21.1858268,
+            "longitude": -175.2125923,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1802049755,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q23018436",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1802085948,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Ha'ateiho"
+            },
+            "place_type": 84,
+            "population": 2561,
+            "latitude": -21.1786821,
+            "longitude": -175.2308061,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1802085948,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1802085986,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "ckb": "پی",
+                "to": "Pea"
+            },
+            "place_type": 84,
+            "population": 2079,
+            "latitude": -21.1701363,
+            "longitude": -175.235622,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1802085986,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1802086094,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "'Utulau"
+            },
+            "place_type": 86,
+            "population": 680,
+            "latitude": -21.1884395,
+            "longitude": -175.270766,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1802086094,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4540578",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1802086102,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Ha'alalo"
+            },
+            "place_type": 86,
+            "population": 472,
+            "latitude": -21.1837347,
+            "longitude": -175.2810157,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1802086102,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1802086679,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Lakepa"
+            },
+            "place_type": 86,
+            "population": 365,
+            "latitude": -21.1414225,
+            "longitude": -175.2796368,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1802086679,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1802431698,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Puke"
+            },
+            "place_type": 86,
+            "population": 731,
+            "latitude": -21.1313748,
+            "longitude": -175.2399121,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1802431698,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1802566015,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Makaunga"
+            },
+            "place_type": 86,
+            "population": 390,
+            "latitude": -21.1407884,
+            "longitude": -175.1209113,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1802566015,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1802566017,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Talafo'ou"
+            },
+            "place_type": 86,
+            "population": 386,
+            "latitude": -21.1352591,
+            "longitude": -175.119929,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1802566017,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1802566058,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Nukuleka"
+            },
+            "place_type": 86,
+            "population": 266,
+            "latitude": -21.1504781,
+            "longitude": -175.126913,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1802566058,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7068902",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1964724641,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Kolonga"
+            },
+            "place_type": 84,
+            "population": 1168,
+            "latitude": -21.1273955,
+            "longitude": -175.0720188,
+            "geocell": 2476849,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1964724641,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3711234",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2056324582,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Koloa"
+            },
+            "place_type": 72,
+            "population": 197,
+            "latitude": -18.6447999,
+            "longitude": -173.9351774,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2056324582,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2056324590,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Holeva"
+            },
+            "place_type": 72,
+            "population": 116,
+            "latitude": -18.6413373,
+            "longitude": -173.9207381,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2056324590,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2056324601,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Tu'anekivale"
+            },
+            "place_type": 86,
+            "population": 487,
+            "latitude": -18.6284297,
+            "longitude": -173.9193334,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2056324601,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2056324633,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Ta'anea"
+            },
+            "place_type": 86,
+            "population": 706,
+            "latitude": -18.6095519,
+            "longitude": -173.937302,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2056324633,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2056324724,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Holonga"
+            },
+            "place_type": 86,
+            "population": 453,
+            "latitude": -18.5895021,
+            "longitude": -173.9510559,
+            "geocell": 2570460,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2056324724,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2056324837,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Ha'akio"
+            },
+            "place_type": 72,
+            "population": 139,
+            "latitude": -18.6207938,
+            "longitude": -173.9419834,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2056324837,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2056324981,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Leimatu'a"
+            },
+            "place_type": 84,
+            "population": 1105,
+            "latitude": -18.6019249,
+            "longitude": -173.982064,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2056324981,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2056324982,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Feletoa"
+            },
+            "place_type": 86,
+            "population": 388,
+            "latitude": -18.6107887,
+            "longitude": -173.9693663,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2056324982,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2056324998,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Mataika"
+            },
+            "place_type": 86,
+            "population": 490,
+            "latitude": -18.6163123,
+            "longitude": -173.9652534,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2056324998,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2347014092,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Matahau"
+            },
+            "place_type": 86,
+            "population": 628,
+            "latitude": -21.1422562,
+            "longitude": -175.3138594,
+            "geocell": 2476846,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2347014092,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2354394878,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Fanga 'o Pilolevu"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1450392,
+            "longitude": -175.2113147,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2354394878,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2367748491,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Niutōua"
+            },
+            "place_type": 86,
+            "population": 740,
+            "latitude": -21.1412325,
+            "longitude": -175.0431936,
+            "geocell": 2476849,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2367748491,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q15262408",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2367748908,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Āfa"
+            },
+            "place_type": 86,
+            "population": 401,
+            "latitude": -21.1309794,
+            "longitude": -175.0561213,
+            "geocell": 2476849,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2367748908,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2611079207,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Longomapu"
+            },
+            "place_type": 86,
+            "population": 613,
+            "latitude": -18.6460761,
+            "longitude": -174.0558051,
+            "geocell": 2566859,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2611079207,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2611079208,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Неиафу",
+                "to": "Neiafu"
+            },
+            "place_type": 84,
+            "population": 4051,
+            "latitude": -18.6515538,
+            "longitude": -173.9833124,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2611079208,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1025393",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2611079209,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Pangaimotu"
+            },
+            "place_type": 86,
+            "population": 661,
+            "latitude": -18.6851405,
+            "longitude": -173.995968,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2611079209,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2611079267,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Nga'unoho"
+            },
+            "place_type": 72,
+            "population": 218,
+            "latitude": -18.6857557,
+            "longitude": -174.0199846,
+            "geocell": 2566859,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2611079267,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2611079272,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Tefisi"
+            },
+            "place_type": 86,
+            "population": 588,
+            "latitude": -18.6307356,
+            "longitude": -174.0102647,
+            "geocell": 2566859,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2611079272,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2611079277,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Toula"
+            },
+            "place_type": 86,
+            "population": 411,
+            "latitude": -18.6758411,
+            "longitude": -173.9821333,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2611079277,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2611117204,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "'Utungake"
+            },
+            "place_type": 86,
+            "population": 311,
+            "latitude": -18.6658893,
+            "longitude": -174.0178289,
+            "geocell": 2566859,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2611117204,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2611844621,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Houma"
+            },
+            "place_type": 72,
+            "population": 136,
+            "latitude": -18.6304674,
+            "longitude": -173.941362,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2611844621,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2611844622,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Makave"
+            },
+            "place_type": 86,
+            "population": 443,
+            "latitude": -18.6511525,
+            "longitude": -173.9639593,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2611844622,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2611844623,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Mangia"
+            },
+            "place_type": 72,
+            "population": 104,
+            "latitude": -18.6252972,
+            "longitude": -173.9549483,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2611844623,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2611844624,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Okoa"
+            },
+            "place_type": 72,
+            "population": 266,
+            "latitude": -18.6522396,
+            "longitude": -173.9502951,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2611844624,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2611844809,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Tu'anuku"
+            },
+            "place_type": 72,
+            "population": 313,
+            "latitude": -18.6642146,
+            "longitude": -174.0307845,
+            "geocell": 2566859,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2611844809,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7850468",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2611844810,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "'Utui"
+            },
+            "place_type": 86,
+            "population": 302,
+            "latitude": -18.6394662,
+            "longitude": -173.9569417,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2611844810,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2611844811,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "'Utulei"
+            },
+            "place_type": 72,
+            "population": 132,
+            "latitude": -18.6541408,
+            "longitude": -173.9950637,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2611844811,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2611849201,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Taoa"
+            },
+            "place_type": 86,
+            "population": 496,
+            "latitude": -18.629089,
+            "longitude": -173.9843797,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2611849201,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2988194117,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Muitoa"
+            },
+            "place_type": 72,
+            "population": 37,
+            "latitude": -19.6516945,
+            "longitude": -174.2958369,
+            "geocell": 2530857,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2988194117,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6933282",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2988194120,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Ha'ano"
+            },
+            "place_type": 72,
+            "population": 115,
+            "latitude": -19.6617487,
+            "longitude": -174.2928393,
+            "geocell": 2530857,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2988194120,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2988194126,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Pukotala"
+            },
+            "place_type": 72,
+            "population": 91,
+            "latitude": -19.6786538,
+            "longitude": -174.2816151,
+            "geocell": 2530857,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2988194126,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7259148",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2988195435,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Fakakakai"
+            },
+            "place_type": 72,
+            "population": 176,
+            "latitude": -19.6836705,
+            "longitude": -174.2760852,
+            "geocell": 2530857,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2988195435,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5431446",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2988195458,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Faleloa"
+            },
+            "place_type": 86,
+            "population": 342,
+            "latitude": -19.732424,
+            "longitude": -174.2896833,
+            "geocell": 2527257,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2988195458,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5431849",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2988195466,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Lotofoa"
+            },
+            "place_type": 86,
+            "population": 410,
+            "latitude": -19.7403389,
+            "longitude": -174.3072973,
+            "geocell": 2527256,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2988195466,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6684813",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2988195467,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Fotua"
+            },
+            "place_type": 72,
+            "population": 226,
+            "latitude": -19.7482617,
+            "longitude": -174.3182718,
+            "geocell": 2527256,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2988195467,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5474033",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2988195468,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Fangale'ounga"
+            },
+            "place_type": 72,
+            "population": 174,
+            "latitude": -19.7528845,
+            "longitude": -174.3244524,
+            "geocell": 2527256,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2988195468,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5433815",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2988195469,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Holopeka"
+            },
+            "place_type": 72,
+            "population": 141,
+            "latitude": -19.7839264,
+            "longitude": -174.3428522,
+            "geocell": 2527256,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2988195469,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q15224582",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2988195538,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Pangai"
+            },
+            "place_type": 84,
+            "population": 1211,
+            "latitude": -19.8054603,
+            "longitude": -174.3489373,
+            "geocell": 2523656,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2988195538,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1027037",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3074745316,
+            "country": 776,
+            "level1area": [
+                "to03"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Futu"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -15.5921933,
+            "longitude": -175.6743798,
+            "geocell": 2678443,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3074745316,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3074745323,
+            "country": 776,
+            "level1area": [
+                "to03"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Mu'a"
+            },
+            "place_type": 72,
+            "population": 29,
+            "latitude": -15.6035217,
+            "longitude": -175.6086816,
+            "geocell": 2674843,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3074745323,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3076157294,
+            "country": 776,
+            "level1area": [
+                "to03"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Matavai"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -15.9630353,
+            "longitude": -173.7926304,
+            "geocell": 2664062,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3076157294,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123434015,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Tu'akātakilangi"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1392981,
+            "longitude": -175.2190088,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123434015,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123434072,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Tofoa"
+            },
+            "place_type": 84,
+            "population": 3526,
+            "latitude": -21.1551517,
+            "longitude": -175.2269029,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123434072,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441516,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Tongata'eapa"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1294173,
+            "longitude": -175.2090822,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441516,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441517,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Tufuenga"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1334057,
+            "longitude": -175.2106472,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441517,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441518,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Sopu 'o Tāufa'ahāu"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1266967,
+            "longitude": -175.21859,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441518,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441519,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "'Isileli"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1291771,
+            "longitude": -175.2216135,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441519,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441520,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Hala 'o Vave"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1347348,
+            "longitude": -175.2176252,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441520,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441521,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Longolongo"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1384989,
+            "longitude": -175.2123905,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441521,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441522,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Vaolōloa"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.141646,
+            "longitude": -175.2143179,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441522,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441523,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Haveluloto"
+            },
+            "place_type": 84,
+            "population": 3465,
+            "latitude": -21.1496111,
+            "longitude": -175.2155624,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441523,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441525,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Pahu"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.144668,
+            "longitude": -175.2028595,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441525,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441528,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Fasi mo e afi 'a Tungi"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1393444,
+            "longitude": -175.1948772,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441528,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441529,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Ngele'ia"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1442277,
+            "longitude": -175.196744,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441529,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441530,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Mataika"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1498701,
+            "longitude": -175.1967225,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441530,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441531,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Pili"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1476499,
+            "longitude": -175.1921521,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441531,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441532,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Ma'ufanga"
+            },
+            "place_type": 84,
+            "population": 7514,
+            "latitude": -21.1411456,
+            "longitude": -175.1856933,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441532,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441533,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Houmakelikao"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1474697,
+            "longitude": -175.1769815,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441533,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441534,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Small Industries Centre"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1525929,
+            "longitude": -175.1817237,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441534,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441535,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Halaleva"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1522435,
+            "longitude": -175.190926,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441535,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441536,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "'Ānana"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1552144,
+            "longitude": -175.1812516,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441536,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441537,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "'Umusī"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1547542,
+            "longitude": -175.1752864,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441537,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441538,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Fangaloto"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1477092,
+            "longitude": -175.1686469,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441538,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441539,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Popua"
+            },
+            "place_type": 84,
+            "population": 1936,
+            "latitude": -21.1501914,
+            "longitude": -175.1614033,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441539,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3123441540,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Tukutonga"
+            },
+            "place_type": 86,
+            "population": 578,
+            "latitude": -21.1409674,
+            "longitude": -175.1587551,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3123441540,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3134793777,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Fangatongo"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -18.6472245,
+            "longitude": -173.9876448,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3134793777,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3134793778,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Talau"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -18.6498755,
+            "longitude": -173.9862314,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3134793778,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3134793779,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Sailoame"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -18.6487496,
+            "longitude": -173.9808568,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3134793779,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3134793781,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Kameli"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -18.6465628,
+            "longitude": -173.9769134,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3134793781,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3134793782,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "'Otumapa"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -18.6520326,
+            "longitude": -173.9804097,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3134793782,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3134793783,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Falaleu"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -18.6544362,
+            "longitude": -173.9805398,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3134793783,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3134793784,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Fungamisi"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -18.6567936,
+            "longitude": -173.9801657,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3134793784,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3134793785,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Kolofo'ou"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -18.6571942,
+            "longitude": -173.9769134,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3134793785,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3134793786,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Neiafutahi"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -18.6523716,
+            "longitude": -173.9774175,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3134793786,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3134793787,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "'Utulangivaka"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -18.6616859,
+            "longitude": -173.9797566,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3134793787,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3134809583,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Hinakauea"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -18.7024154,
+            "longitude": -173.988447,
+            "geocell": 2563260,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3134809583,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3134809584,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "'Ovava"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -18.6476034,
+            "longitude": -173.9740162,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3134809584,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3134810051,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Fatai"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -18.6380541,
+            "longitude": -173.9735029,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3134810051,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3134823091,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Ha'ateiho"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -18.6187074,
+            "longitude": -173.9649178,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3134823091,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3136315845,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Ha'ateiho Si'i"
+            },
+            "place_type": 72,
+            "population": 105,
+            "latitude": -19.7374631,
+            "longitude": -174.2949974,
+            "geocell": 2527257,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3136315845,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3136315846,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Tamata'epele"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -19.7439769,
+            "longitude": -174.3137738,
+            "geocell": 2527256,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3136315846,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3136315847,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Koulo"
+            },
+            "place_type": 86,
+            "population": 214,
+            "latitude": -19.7766109,
+            "longitude": -174.34361,
+            "geocell": 2527256,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3136315847,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6434577",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3136315848,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Niu a Kalo"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -19.7905079,
+            "longitude": -174.3461876,
+            "geocell": 2527256,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3136315848,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3136315849,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Navea"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -19.8025601,
+            "longitude": -174.3485956,
+            "geocell": 2523656,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3136315849,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3136315850,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Hato'u"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -19.8078505,
+            "longitude": -174.349726,
+            "geocell": 2523656,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3136315850,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3136315851,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Hihifo"
+            },
+            "place_type": 86,
+            "population": 844,
+            "latitude": -19.8154297,
+            "longitude": -174.354785,
+            "geocell": 2523656,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3136315851,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3139473257,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Ha'afakahenga"
+            },
+            "place_type": 72,
+            "population": 102,
+            "latitude": -19.7346052,
+            "longitude": -174.2908854,
+            "geocell": 2527257,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3139473257,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3164247873,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Vaimalo"
+            },
+            "place_type": 72,
+            "population": 95,
+            "latitude": -18.6392544,
+            "longitude": -174.004133,
+            "geocell": 2566859,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3164247873,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7908788",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3165944339,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "'Otea"
+            },
+            "place_type": 72,
+            "population": 125,
+            "latitude": -18.6894015,
+            "longitude": -174.0335617,
+            "geocell": 2566859,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3165944339,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3165944347,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Falevai"
+            },
+            "place_type": 72,
+            "population": 113,
+            "latitude": -18.7071696,
+            "longitude": -174.0341471,
+            "geocell": 2563259,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3165944347,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5431866",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3165944348,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Kapa"
+            },
+            "place_type": 72,
+            "population": 69,
+            "latitude": -18.721032,
+            "longitude": -174.0224721,
+            "geocell": 2563259,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3165944348,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3165944349,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Taunga"
+            },
+            "place_type": 72,
+            "population": 39,
+            "latitude": -18.7438119,
+            "longitude": -174.0126105,
+            "geocell": 2563259,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3165944349,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3165944350,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Matamaka"
+            },
+            "place_type": 72,
+            "population": 147,
+            "latitude": -18.7128322,
+            "longitude": -174.0665996,
+            "geocell": 2563259,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3165944350,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3165944351,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Nuapapu"
+            },
+            "place_type": 86,
+            "population": 135,
+            "latitude": -18.7017131,
+            "longitude": -174.072855,
+            "geocell": 2563259,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3165944351,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3165944352,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Ovaka"
+            },
+            "place_type": 86,
+            "population": 85,
+            "latitude": -18.7437754,
+            "longitude": -174.0958004,
+            "geocell": 2563259,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3165944352,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3165944355,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Hunga"
+            },
+            "place_type": 72,
+            "population": 229,
+            "latitude": -18.6866736,
+            "longitude": -174.1196061,
+            "geocell": 2566858,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3165944355,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3165951765,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "'Olo'ua"
+            },
+            "place_type": 72,
+            "population": 140,
+            "latitude": -18.6720717,
+            "longitude": -173.9568629,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3165951765,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3173231079,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Nukunuku"
+            },
+            "place_type": 84,
+            "population": 1781,
+            "latitude": -21.1323294,
+            "longitude": -175.2998357,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3173231079,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3173231080,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Matafonua"
+            },
+            "place_type": 72,
+            "population": 171,
+            "latitude": -21.1331408,
+            "longitude": -175.2799693,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3173231080,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3173231081,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Fatai"
+            },
+            "place_type": 86,
+            "population": 312,
+            "latitude": -21.1335539,
+            "longitude": -175.2759043,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3173231081,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3173231082,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Sia'atoutai"
+            },
+            "place_type": 86,
+            "population": 534,
+            "latitude": -21.1353686,
+            "longitude": -175.2551522,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3173231082,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3173231083,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Hōfoa"
+            },
+            "place_type": 86,
+            "population": 977,
+            "latitude": -21.1328247,
+            "longitude": -175.2294419,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3173231083,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3173231084,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Kahoua"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1598604,
+            "longitude": -175.2689088,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3173231084,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3173231085,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Matangiake"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1646101,
+            "longitude": -175.2728947,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3173231085,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3173231086,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Makapaea"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.155095,
+            "longitude": -175.2862915,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3173231086,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3173231087,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Te'ekiu"
+            },
+            "place_type": 86,
+            "population": 552,
+            "latitude": -21.1273978,
+            "longitude": -175.3193913,
+            "geocell": 2476846,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3173231087,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3173231088,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Masilamea"
+            },
+            "place_type": 72,
+            "population": 243,
+            "latitude": -21.1242964,
+            "longitude": -175.3255194,
+            "geocell": 2476846,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3173231088,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3174514185,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "ckb": "تۆکۆمۆلۆلۆ",
+                "to": "Tokomololo"
+            },
+            "place_type": 84,
+            "population": 1216,
+            "latitude": -21.1751788,
+            "longitude": -175.2428104,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3174514185,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3174514186,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Lomaiviti"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.168927,
+            "longitude": -175.2576167,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3174514186,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3174514187,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Ha'akame"
+            },
+            "place_type": 86,
+            "population": 735,
+            "latitude": -21.1821775,
+            "longitude": -175.286123,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3174514187,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3176187516,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Mo'unga'one"
+            },
+            "place_type": 72,
+            "population": 92,
+            "latitude": -19.6387629,
+            "longitude": -174.4837635,
+            "geocell": 2530855,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3176187516,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3176227854,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Lofanga"
+            },
+            "place_type": 72,
+            "population": 120,
+            "latitude": -19.8248137,
+            "longitude": -174.5530853,
+            "geocell": 2523654,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3176227854,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3176243582,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Fotuha'a"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -19.811254,
+            "longitude": -174.7213097,
+            "geocell": 2523652,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3176243582,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3187993642,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Tatakamotonga"
+            },
+            "place_type": 84,
+            "population": 1763,
+            "latitude": -21.1904759,
+            "longitude": -175.1254017,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3187993642,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3187993643,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Lapaha"
+            },
+            "place_type": 84,
+            "population": 2077,
+            "latitude": -21.1799251,
+            "longitude": -175.1181101,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3187993643,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3187993644,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Talasiu"
+            },
+            "place_type": 86,
+            "population": 287,
+            "latitude": -21.1753587,
+            "longitude": -175.1106284,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3187993644,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3187994975,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Mataliku"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1739764,
+            "longitude": -175.2487608,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3187994975,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3187994976,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Hauloto"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1672358,
+            "longitude": -175.2627116,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3187994976,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3194712024,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Ha'afeva"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -19.9512842,
+            "longitude": -174.7098697,
+            "geocell": 2520052,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3194712024,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3194872960,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Matuku"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -19.9575176,
+            "longitude": -174.747188,
+            "geocell": 2520052,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3194872960,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3204030778,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Koloua"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1595257,
+            "longitude": -175.226398,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3204030778,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3208792646,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Kauvai"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1742619,
+            "longitude": -175.1408419,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3208792646,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3210228450,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Siesia"
+            },
+            "place_type": 72,
+            "population": 28,
+            "latitude": -21.1391308,
+            "longitude": -175.1512107,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3210228450,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3210247742,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Ha'asini"
+            },
+            "place_type": 86,
+            "population": 422,
+            "latitude": -21.2499895,
+            "longitude": -175.10989,
+            "geocell": 2473248,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3210247742,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3210268642,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Ha'utu"
+            },
+            "place_type": 72,
+            "population": 187,
+            "latitude": -21.1433712,
+            "longitude": -175.3311059,
+            "geocell": 2476846,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3210268642,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3215509564,
+            "country": 776,
+            "level1area": [
+                "to01"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "ʻOhonua"
+            },
+            "place_type": 84,
+            "population": 1528,
+            "latitude": -21.3413217,
+            "longitude": -174.956145,
+            "geocell": 2469650,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3215509564,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3215509565,
+            "country": 776,
+            "level1area": [
+                "to01"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Ta'anga"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.3389921,
+            "longitude": -174.9501795,
+            "geocell": 2469650,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3215509565,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3215509566,
+            "country": 776,
+            "level1area": [
+                "to01"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Houma"
+            },
+            "place_type": 86,
+            "population": 270,
+            "latitude": -21.3147457,
+            "longitude": -174.9320968,
+            "geocell": 2469650,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3215509566,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3215509567,
+            "country": 776,
+            "level1area": [
+                "to01"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Tufuvai"
+            },
+            "place_type": 72,
+            "population": 231,
+            "latitude": -21.3613908,
+            "longitude": -174.9667095,
+            "geocell": 2469650,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3215509567,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3215509568,
+            "country": 776,
+            "level1area": [
+                "to01"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Pangai"
+            },
+            "place_type": 86,
+            "population": 333,
+            "latitude": -21.3638779,
+            "longitude": -174.9542558,
+            "geocell": 2469650,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3215509568,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3215509569,
+            "country": 776,
+            "level1area": [
+                "to01"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Angaha"
+            },
+            "place_type": 86,
+            "population": 401,
+            "latitude": -21.3626818,
+            "longitude": -174.9566865,
+            "geocell": 2469650,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3215509569,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3215509570,
+            "country": 776,
+            "level1area": [
+                "to01"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Futu"
+            },
+            "place_type": 86,
+            "population": 262,
+            "latitude": -21.3685354,
+            "longitude": -174.9564273,
+            "geocell": 2469650,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3215509570,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3215509571,
+            "country": 776,
+            "level1area": [
+                "to01"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "'Esia"
+            },
+            "place_type": 72,
+            "population": 212,
+            "latitude": -21.3712966,
+            "longitude": -174.9560857,
+            "geocell": 2469650,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3215509571,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3215511183,
+            "country": 776,
+            "level1area": [
+                "to01"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "'Eua Fo'ou"
+            },
+            "place_type": 84,
+            "population": 2164,
+            "latitude": -21.3760566,
+            "longitude": -174.9540159,
+            "geocell": 2469650,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3215511183,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3240510710,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Nualei"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.18844,
+            "longitude": -175.1945009,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3240510710,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3240511279,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Lotoha'apai"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1850304,
+            "longitude": -175.2157557,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3240511279,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3240511280,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "'Atele"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1810053,
+            "longitude": -175.2262266,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3240511280,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3255868009,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Mu'a"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1842075,
+            "longitude": -175.1221713,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3255868009,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2359181",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3285371163,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Patangata"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1395414,
+            "longitude": -175.1539486,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3285371163,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3299618673,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Lape"
+            },
+            "place_type": 72,
+            "population": 24,
+            "latitude": -18.7201895,
+            "longitude": -174.0850095,
+            "geocell": 2563259,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3299618673,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3299618674,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Ofu"
+            },
+            "place_type": 72,
+            "population": 161,
+            "latitude": -18.6948537,
+            "longitude": -173.9585075,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3299618674,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3305629741,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Fā'imata"
+            },
+            "place_type": 72,
+            "population": 87,
+            "latitude": -21.1166041,
+            "longitude": -174.9846449,
+            "geocell": 2476850,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3305629741,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3313270242,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Niumate"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1480144,
+            "longitude": -175.2913074,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3313270242,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3329701494,
+            "country": 776,
+            "level1area": [
+                "to03"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "'Alele'uta"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -15.5739025,
+            "longitude": -175.6317877,
+            "geocell": 2678443,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3329701494,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3329701495,
+            "country": 776,
+            "level1area": [
+                "to03"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "'Esia"
+            },
+            "place_type": 86,
+            "population": 137,
+            "latitude": -15.5740081,
+            "longitude": -175.6387698,
+            "geocell": 2678443,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3329701495,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3329701496,
+            "country": 776,
+            "level1area": [
+                "to03"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Fata'ulua"
+            },
+            "place_type": 72,
+            "population": 56,
+            "latitude": -15.5785815,
+            "longitude": -175.6212171,
+            "geocell": 2678443,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3329701496,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3329701497,
+            "country": 776,
+            "level1area": [
+                "to03"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Kolofo'ou"
+            },
+            "place_type": 72,
+            "population": 59,
+            "latitude": -15.5734749,
+            "longitude": -175.6350431,
+            "geocell": 2678443,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3329701497,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3329701498,
+            "country": 776,
+            "level1area": [
+                "to03"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Mata'aho"
+            },
+            "place_type": 72,
+            "population": 23,
+            "latitude": -15.5837454,
+            "longitude": -175.6154462,
+            "geocell": 2678443,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3329701498,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3329701499,
+            "country": 776,
+            "level1area": [
+                "to03"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Sapa'ata"
+            },
+            "place_type": 72,
+            "population": 106,
+            "latitude": -15.5743248,
+            "longitude": -175.6279897,
+            "geocell": 2678443,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3329701499,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3333271793,
+            "country": 776,
+            "level1area": [
+                "to03"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Petani"
+            },
+            "place_type": 72,
+            "population": 68,
+            "latitude": -15.6240532,
+            "longitude": -175.6175601,
+            "geocell": 2674843,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3333271793,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3333271794,
+            "country": 776,
+            "level1area": [
+                "to03"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Tongamama'o"
+            },
+            "place_type": 72,
+            "population": 49,
+            "latitude": -15.6209539,
+            "longitude": -175.6122816,
+            "geocell": 2674843,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3333271794,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3359182607,
+            "country": 776,
+            "level1area": [
+                "to01"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Kolomaile"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.3915717,
+            "longitude": -174.9499487,
+            "geocell": 2469650,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3359182607,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3359182608,
+            "country": 776,
+            "level1area": [
+                "to01"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Vaitaki"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.3875784,
+            "longitude": -174.9510686,
+            "geocell": 2469650,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3359182608,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3362830129,
+            "country": 776,
+            "level1area": [
+                "to03"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Falehau"
+            },
+            "place_type": 72,
+            "population": 231,
+            "latitude": -15.945375,
+            "longitude": -173.7658866,
+            "geocell": 2664062,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3362830129,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5431848",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3362830130,
+            "country": 776,
+            "level1area": [
+                "to03"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Falehaufo'ou"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -15.9492802,
+            "longitude": -173.7693317,
+            "geocell": 2664062,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3362830130,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3362830131,
+            "country": 776,
+            "level1area": [
+                "to03"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Hihifo"
+            },
+            "place_type": 72,
+            "population": 284,
+            "latitude": -15.9566557,
+            "longitude": -173.7961799,
+            "geocell": 2664062,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3362830131,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2563164",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3362830132,
+            "country": 776,
+            "level1area": [
+                "to03"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Hihifofo'ou"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -15.9571166,
+            "longitude": -173.7936115,
+            "geocell": 2664062,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3362830132,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3362830133,
+            "country": 776,
+            "level1area": [
+                "to03"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Vaipoa"
+            },
+            "place_type": 72,
+            "population": 201,
+            "latitude": -15.9476668,
+            "longitude": -173.7821805,
+            "geocell": 2664062,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3362830133,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7908821",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3362830134,
+            "country": 776,
+            "level1area": [
+                "to03"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Vaipoafo'ou"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -15.950156,
+            "longitude": -173.7841941,
+            "geocell": 2664062,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3362830134,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3388971550,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Nomuka"
+            },
+            "place_type": 86,
+            "population": 477,
+            "latitude": -20.2600832,
+            "longitude": -174.7977202,
+            "geocell": 2509252,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3388971550,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3390663834,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "'Uiha"
+            },
+            "place_type": 86,
+            "population": 415,
+            "latitude": -19.8912294,
+            "longitude": -174.4075596,
+            "geocell": 2523655,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3390663834,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3390663835,
+            "country": 776,
+            "level1area": [
+                "to02"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Felemea"
+            },
+            "place_type": 72,
+            "population": 137,
+            "latitude": -19.9076786,
+            "longitude": -174.4109737,
+            "geocell": 2520055,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3390663835,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3392272544,
+            "country": 776,
+            "level1area": [
+                "to03"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Tafahi"
+            },
+            "place_type": 72,
+            "population": 43,
+            "latitude": -15.8406538,
+            "longitude": -173.751653,
+            "geocell": 2667662,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3392272544,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3398024547,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "'Atatā"
+            },
+            "place_type": 72,
+            "population": 189,
+            "latitude": -21.0504527,
+            "longitude": -175.2540207,
+            "geocell": 2480447,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3398024547,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3398032131,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Ha'akili"
+            },
+            "place_type": 72,
+            "population": 195,
+            "latitude": -21.0891505,
+            "longitude": -175.3389565,
+            "geocell": 2480446,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3398032131,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3404968501,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Keitahi"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -18.6160579,
+            "longitude": -173.9161004,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3404968501,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3408044631,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Tapuhia"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1899206,
+            "longitude": -175.1857814,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3408044631,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3456887949,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Poutaha"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1609988,
+            "longitude": -175.2304516,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3456887949,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3456887957,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Touliki"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1417323,
+            "longitude": -175.1734425,
+            "geocell": 2476848,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3456887957,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3463248582,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Niponi"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -18.6498384,
+            "longitude": -173.9708921,
+            "geocell": 2566860,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3463248582,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3598194190,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Tongama"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1497733,
+            "longitude": -175.256567,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3598194190,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3598194191,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Fualu"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1593621,
+            "longitude": -175.2445652,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3598194191,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3840210706,
+            "country": 776,
+            "level1area": [
+                "to04"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Matavaimo'ui"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -21.1313665,
+            "longitude": -175.2072879,
+            "geocell": 2476847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3840210706,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3949246909,
+            "country": 776,
+            "level1area": [
+                "to05"
+            ],
+            "level2area": null,
+            "names": {
+                "to": "Coral Garden Villas"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -18.7084059,
+            "longitude": -174.0999653,
+            "geocell": 2563259,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3949246909,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "website": "http://coralgardenvillas.moonfruit.com",
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

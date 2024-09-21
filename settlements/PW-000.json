@@ -1,0 +1,1178 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 21447751,
+            "country": 585,
+            "level1area": [
+                "pw150"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كورور",
+                "es": "Koror",
+                "pau": "Koror",
+                "ru": "Корор"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 7.343275,
+            "longitude": 134.4766767,
+            "geocell": 3505944,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 21447751,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q527748",
+                "wikipedia_pages": {
+                    "es": "Koror (ciudad)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 703928722,
+            "country": 585,
+            "level1area": [
+                "pw212"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ميلكيوك",
+                "be": "Мелекеок",
+                "bg": "Мелекеок",
+                "el": "Μελεκέοκ",
+                "en": "Melekeok",
+                "eo": "Melekeoko",
+                "fa": "ملکئوک",
+                "fr": "Melekeok",
+                "ja": "マルキョク",
+                "ka": "მელეკეოკი",
+                "ko": "멜레케오크",
+                "lt": "Melekeokas",
+                "mk": "Мелекеок",
+                "os": "Мелекеок",
+                "pau": "Melekeok",
+                "pt": "Melequeoque",
+                "ru": "Мелекеок",
+                "sr": "Мелекеок",
+                "sv": "Melekeok",
+                "ta": "மெலெகெயோக்",
+                "th": "เมเลเคอ็อก",
+                "uk": "Мелекеок"
+            },
+            "place_type": 84,
+            "population": 271,
+            "latitude": 7.4954144,
+            "longitude": 134.636753,
+            "geocell": 3509546,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 703928722,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q154002",
+                "wikipedia_pages": {
+                    "en": "Melekeok (town)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1128090958,
+            "country": 585,
+            "level1area": [
+                "pw004"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ngerusar"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.3599499,
+            "longitude": 134.5292794,
+            "geocell": 3505945,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1128090958,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1128090972,
+            "country": 585,
+            "level1area": [
+                "pw004"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ngeruluobel"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.363035,
+            "longitude": 134.5258365,
+            "geocell": 3505945,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1128090972,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1128091042,
+            "country": 585,
+            "level1area": [
+                "pw004"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Yelch",
+                "ru": "Йельш"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.3588639,
+            "longitude": 134.5457061,
+            "geocell": 3505945,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1128091042,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1128091088,
+            "country": 585,
+            "level1area": [
+                "pw004"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Airai",
+                "ru": "Аираи"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.3599342,
+            "longitude": 134.5601154,
+            "geocell": 3505945,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1128091088,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2663949",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1128091099,
+            "country": 585,
+            "level1area": [
+                "pw004"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ngetkib"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.3642009,
+            "longitude": 134.5146166,
+            "geocell": 3505945,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1128091099,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7022290",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1384176373,
+            "country": 585,
+            "level1area": [
+                "pw224"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ibobang"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.4920127,
+            "longitude": 134.5262735,
+            "geocell": 3509545,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1384176373,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q103897326",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1385969306,
+            "country": 585,
+            "level1area": [
+                "pw222"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ngetbong"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.6088189,
+            "longitude": 134.5736819,
+            "geocell": 3516745,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1385969306,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q103900683",
+                "wikipedia_pages": {
+                    "en": "Ngetbong"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4244310289,
+            "country": 585,
+            "level1area": [
+                "pw212"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "نغيرولمود",
+                "bn": "এনগেরুলমুদ",
+                "de": "Ngerulmud",
+                "en": "Ngerulmud",
+                "es": "Ngerulmud",
+                "fr": "Ngerulmud",
+                "hr": "Ngerulmud",
+                "hu": "Ngerulmud",
+                "ja": "ンゲルルムッド",
+                "pau": "Ngerulmud",
+                "pl": "Ngerulmud"
+            },
+            "place_type": 86,
+            "population": 391,
+            "latitude": 7.5006446,
+            "longitude": 134.6242864,
+            "geocell": 3513146,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4244310289,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q515229",
+                "wikipedia_pages": {
+                    "en": "Ngerulmud"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4571435896,
+            "country": 585,
+            "level1area": [
+                "pw212"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ngeburch"
+            },
+            "place_type": 72,
+            "population": 34,
+            "latitude": 7.5074853,
+            "longitude": 134.6294159,
+            "geocell": 3513146,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4571435896,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4571435897,
+            "country": 585,
+            "level1area": [
+                "pw212"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ngeruliang"
+            },
+            "place_type": 72,
+            "population": 21,
+            "latitude": 7.5040815,
+            "longitude": 134.6331925,
+            "geocell": 3513146,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4571435897,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4571435898,
+            "country": 585,
+            "level1area": [
+                "pw212"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ngermelech"
+            },
+            "place_type": 72,
+            "population": 5,
+            "latitude": 7.5013265,
+            "longitude": 134.6319587,
+            "geocell": 3513146,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4571435898,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4571435899,
+            "country": 585,
+            "level1area": [
+                "pw212"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ngeremecheluch"
+            },
+            "place_type": 72,
+            "population": 38,
+            "latitude": 7.4921254,
+            "longitude": 134.6361858,
+            "geocell": 3509546,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4571435899,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4571435900,
+            "country": 585,
+            "level1area": [
+                "pw212"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ngerubesang"
+            },
+            "place_type": 72,
+            "population": 21,
+            "latitude": 7.4886257,
+            "longitude": 134.6291692,
+            "geocell": 3509546,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4571435900,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4571435901,
+            "country": 585,
+            "level1area": [
+                "pw212"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ertong"
+            },
+            "place_type": 72,
+            "population": 20,
+            "latitude": 7.5045601,
+            "longitude": 134.6162946,
+            "geocell": 3513146,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4571435901,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5003094375,
+            "country": 585,
+            "level1area": [
+                "pw050"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Hatohobei"
+            },
+            "place_type": 86,
+            "population": 10,
+            "latitude": 3.0050027,
+            "longitude": 131.1214851,
+            "geocell": 3351111,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5003094375,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2456642",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5062722021,
+            "country": 585,
+            "level1area": [
+                "pw370"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Melieli"
+            },
+            "place_type": 86,
+            "population": 5,
+            "latitude": 4.318873,
+            "longitude": 132.3099413,
+            "geocell": 3397923,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5062722021,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5062722217,
+            "country": 585,
+            "level1area": [
+                "pw370"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Puro"
+            },
+            "place_type": 86,
+            "population": 10,
+            "latitude": 4.6549322,
+            "longitude": 131.9491485,
+            "geocell": 3408719,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5062722217,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5260565578,
+            "country": 585,
+            "level1area": [
+                "pw227"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Imeong"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.5303744,
+            "longitude": 134.5279263,
+            "geocell": 3513145,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5260565578,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2640394",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7007702589,
+            "country": 585,
+            "level1area": [
+                "pw350"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Kloulklubed"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.0415131,
+            "longitude": 134.2564595,
+            "geocell": 3495142,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7007702589,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2560228",
+                "wikipedia_pages": {
+                    "en": "Kloulklubed"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7643987857,
+            "country": 585,
+            "level1area": [
+                "pw010"
+            ],
+            "level2area": null,
+            "names": {
+                "ja": "ゲレマッシュ",
+                "pau": "Ngeremasch"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 6.9028597,
+            "longitude": 134.132248,
+            "geocell": 3491541,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7643987857,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2740497",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7643987858,
+            "country": 585,
+            "level1area": [
+                "pw228"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ngerkeai"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.5546344,
+            "longitude": 134.6364184,
+            "geocell": 3513146,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7643987858,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q49278647",
+                "wikipedia_pages": {
+                    "en": "Ngerkeai"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7643987859,
+            "country": 585,
+            "level1area": [
+                "pw218"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Mengellang"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.6943906,
+            "longitude": 134.6317199,
+            "geocell": 3516746,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7643987859,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3001462",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7644028591,
+            "country": 585,
+            "level1area": [
+                "pw370"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Dongosaru"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 5.3256849,
+            "longitude": 132.2196083,
+            "geocell": 3433922,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7644028591,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2868400",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7767905580,
+            "country": 585,
+            "level1area": [
+                "pw214"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ulimang"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.636201,
+            "longitude": 134.6387724,
+            "geocell": 3516746,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7767905580,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3481073",
+                "wikipedia_pages": {
+                    "en": "Ulimang"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7768093609,
+            "country": 585,
+            "level1area": [
+                "pw214"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ngkeklau"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.5926233,
+            "longitude": 134.6376288,
+            "geocell": 3513146,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7768093609,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7022406",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7768093617,
+            "country": 585,
+            "level1area": [
+                "pw214"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Elab"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.626364,
+            "longitude": 134.6429492,
+            "geocell": 3516746,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7768093617,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q387726",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7768093636,
+            "country": 585,
+            "level1area": [
+                "pw214"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Chol"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.672493,
+            "longitude": 134.6382012,
+            "geocell": 3516746,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7768093636,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5104352",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8129702232,
+            "country": 585,
+            "level1area": [
+                "pw150"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Echang"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 7.3466686,
+            "longitude": 134.4523744,
+            "geocell": 3505944,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8129702232,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q20725855",
+                "wikipedia_pages": {
+                    "fr": "Echang"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8639535708,
+            "country": 585,
+            "level1area": [
+                "pw150"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ngerekebesang"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.3539616,
+            "longitude": 134.4455789,
+            "geocell": 3505944,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8639535708,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q61992039",
+                "wikipedia_pages": {
+                    "de": "Ngerekebesang (Ort)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8639535709,
+            "country": 585,
+            "level1area": [
+                "pw150"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Meyuns"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.3543125,
+            "longitude": 134.4595084,
+            "geocell": 3505944,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8639535709,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4118688",
+                "wikipedia_pages": {
+                    "de": "Meyuns"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8661285904,
+            "country": 585,
+            "level1area": [
+                "pw226"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ngersuul"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 7.4394185,
+            "longitude": 134.5957914,
+            "geocell": 3509545,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8661285904,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8661310121,
+            "country": 585,
+            "level1area": [
+                "pw002"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ngerkeai"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.4211528,
+            "longitude": 134.4965138,
+            "geocell": 3509544,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8661310121,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9532469881,
+            "country": 585,
+            "level1area": [
+                "pw150"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ngermid"
+            },
+            "place_type": 86,
+            "population": 1196,
+            "latitude": 7.3393462,
+            "longitude": 134.5014373,
+            "geocell": 3505945,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9532469881,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q103900442",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9532469882,
+            "country": 585,
+            "level1area": [
+                "pw150"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ngesaol"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 7.3509619,
+            "longitude": 134.5050665,
+            "geocell": 3505945,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9532469882,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9532469883,
+            "country": 585,
+            "level1area": [
+                "pw150"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ngerbodel"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 7.3496376,
+            "longitude": 134.4938166,
+            "geocell": 3505944,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9532469883,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11948517779,
+            "country": 585,
+            "level1area": [
+                "pw218"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ollei"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.7189229,
+            "longitude": 134.6139765,
+            "geocell": 3520346,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11948517779,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11948525315,
+            "country": 585,
+            "level1area": [
+                "pw218"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ngebei"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.7031772,
+            "longitude": 134.6420485,
+            "geocell": 3520346,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11948525315,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q108883870",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12048007640,
+            "country": 585,
+            "level1area": [
+                "pw224"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ngereklmadel"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 7.4881551,
+            "longitude": 134.4845794,
+            "geocell": 3509544,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12048007640,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q38249257",
+                "wikipedia_pages": {
+                    "en": "Ngereklmadel"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12048007641,
+            "country": 585,
+            "level1area": [
+                "pw002"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Mongami"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 7.4564305,
+            "longitude": 134.5054491,
+            "geocell": 3509545,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12048007641,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12048007642,
+            "country": 585,
+            "level1area": [
+                "pw002"
+            ],
+            "level2area": null,
+            "names": {
+                "pau": "Ngchemiangel"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 7.4466538,
+            "longitude": 134.4761649,
+            "geocell": 3509544,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12048007642,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q49278644",
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

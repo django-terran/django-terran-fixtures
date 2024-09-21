@@ -1,0 +1,1525 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 224123688,
+            "country": 28,
+            "level1area": [
+                "ag04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Cedar Grove"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.1619426,
+            "longitude": -61.8215118,
+            "geocell": 3856781,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 224123688,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5056691",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 224336074,
+            "country": 28,
+            "level1area": [
+                "ag05"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Μπόλαντς",
+                "en": "Bolans",
+                "es": "Bolans",
+                "fa": "بولانز",
+                "he": "בולנדס",
+                "nl": "Bolans",
+                "pl": "Bolans",
+                "sv": "Bolans",
+                "ur": "بولینڈز"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 17.0667222,
+            "longitude": -61.8768554,
+            "geocell": 3853181,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 224336074,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1771701",
+                "wikipedia_pages": {
+                    "en": "Bolans"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 224338064,
+            "country": 28,
+            "level1area": [
+                "ag05"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Jennings"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.077288,
+            "longitude": -61.8683328,
+            "geocell": 3853181,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 224338064,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6178979",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 224343194,
+            "country": 28,
+            "level1area": [
+                "ag05"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ebenezer"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0793042,
+            "longitude": -61.8571496,
+            "geocell": 3853181,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 224343194,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q110264094",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232279890,
+            "country": 28,
+            "level1area": [
+                "ag04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Crosbies"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.1667155,
+            "longitude": -61.8297859,
+            "geocell": 3856781,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232279890,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5792179",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232281319,
+            "country": 28,
+            "level1area": [
+                "ag04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Blue Waters"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.1683044,
+            "longitude": -61.8367557,
+            "geocell": 3856781,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232281319,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232283010,
+            "country": 28,
+            "level1area": [
+                "ag03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Coolidge"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.1472686,
+            "longitude": -61.8000201,
+            "geocell": 3856781,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232283010,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q110269444",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232285226,
+            "country": 28,
+            "level1area": [
+                "ag04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hodges Bay"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.1668283,
+            "longitude": -61.809204,
+            "geocell": 3856781,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232285226,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232288494,
+            "country": 28,
+            "level1area": [
+                "ag03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Fitches Creek"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.1271019,
+            "longitude": -61.7929474,
+            "geocell": 3856782,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232288494,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232293451,
+            "country": 28,
+            "level1area": [
+                "ag03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Piggotts"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 17.1207326,
+            "longitude": -61.8029467,
+            "geocell": 3856781,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232293451,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1771704",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232295051,
+            "country": 28,
+            "level1area": [
+                "ag04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Five Islands"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.1180298,
+            "longitude": -61.8836876,
+            "geocell": 3856781,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232295051,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q22092346",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232297438,
+            "country": 28,
+            "level1area": [
+                "ag04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Creek Side"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0956306,
+            "longitude": -61.8462572,
+            "geocell": 3853181,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232297438,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232299671,
+            "country": 28,
+            "level1area": [
+                "ag04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Golden Grove"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.1032601,
+            "longitude": -61.8460855,
+            "geocell": 3856781,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232299671,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q110269447",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232300083,
+            "country": 28,
+            "level1area": [
+                "ag04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Grays Hill"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.1088054,
+            "longitude": -61.8489793,
+            "geocell": 3856781,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232300083,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q110263868",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232397995,
+            "country": 28,
+            "level1area": [
+                "ag05"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Crab Hill"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.034937,
+            "longitude": -61.8902797,
+            "geocell": 3853181,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232397995,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q110324119",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232400556,
+            "country": 28,
+            "level1area": [
+                "ag05"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Johnsons Point"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0273459,
+            "longitude": -61.8862972,
+            "geocell": 3853181,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232400556,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q14212372",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232400785,
+            "country": 28,
+            "level1area": [
+                "ag05"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Urlings"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0283491,
+            "longitude": -61.8761949,
+            "geocell": 3853181,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232400785,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q9367044",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232405558,
+            "country": 28,
+            "level1area": [
+                "ag05"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Old Road"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0165987,
+            "longitude": -61.8402229,
+            "geocell": 3853181,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232405558,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7084854",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232406009,
+            "country": 28,
+            "level1area": [
+                "ag06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "John Hughes"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0493368,
+            "longitude": -61.8082385,
+            "geocell": 3853181,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232406009,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q110236350",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232407920,
+            "country": 28,
+            "level1area": [
+                "ag05"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sawcolts"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0489326,
+            "longitude": -61.8191429,
+            "geocell": 3853181,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232407920,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7428613",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232408144,
+            "country": 28,
+            "level1area": [
+                "ag06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Swetes"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0513944,
+            "longitude": -61.803968,
+            "geocell": 3853181,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232408144,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1771579",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232410686,
+            "country": 28,
+            "level1area": [
+                "ag06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Liberta"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0387571,
+            "longitude": -61.7951103,
+            "geocell": 3853182,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232410686,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1771710",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232410904,
+            "country": 28,
+            "level1area": [
+                "ag06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Falmouth"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.023296,
+            "longitude": -61.7733451,
+            "geocell": 3853182,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232410904,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3299460",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232412709,
+            "country": 28,
+            "level1area": [
+                "ag06"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Ίνγκλις Χάρμπορ",
+                "en": "English Harbour"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 17.0118205,
+            "longitude": -61.7684385,
+            "geocell": 3853182,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232412709,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1014363",
+                "wikipedia_pages": {
+                    "en": "English Harbour"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232422290,
+            "country": 28,
+            "level1area": [
+                "ag08"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Newfield"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0558583,
+            "longitude": -61.7263084,
+            "geocell": 3853182,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232422290,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q110235674",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232424188,
+            "country": 28,
+            "level1area": [
+                "ag08"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Saint Philips"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0455163,
+            "longitude": -61.7248542,
+            "geocell": 3853182,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232424188,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232424336,
+            "country": 28,
+            "level1area": [
+                "ag08"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Φρίταουν",
+                "en": "Freetown"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 17.0466628,
+            "longitude": -61.7031162,
+            "geocell": 3853182,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232424336,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1942963",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232426522,
+            "country": 28,
+            "level1area": [
+                "ag08"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Willikies"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0855929,
+            "longitude": -61.7079063,
+            "geocell": 3853182,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232426522,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q8021948",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232426699,
+            "country": 28,
+            "level1area": [
+                "ag08"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Glanvilles"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0860852,
+            "longitude": -61.7242141,
+            "geocell": 3853182,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232426699,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q109673796",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232428857,
+            "country": 28,
+            "level1area": [
+                "ag08"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Seatons"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0939611,
+            "longitude": -61.7243515,
+            "geocell": 3853182,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232428857,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7441995",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232429181,
+            "country": 28,
+            "level1area": [
+                "ag07"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Parham"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 17.1084322,
+            "longitude": -61.7682624,
+            "geocell": 3856782,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232429181,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q376195",
+                "wikipedia_pages": {
+                    "en": "Parham, Antigua and Barbuda"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232431770,
+            "country": 28,
+            "level1area": [
+                "ag03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Gunthorpes"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.1089224,
+            "longitude": -61.8010072,
+            "geocell": 3856781,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232431770,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232432214,
+            "country": 28,
+            "level1area": [
+                "ag03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Lightfoot"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0990782,
+            "longitude": -61.8036679,
+            "geocell": 3853181,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232432214,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232432650,
+            "country": 28,
+            "level1area": [
+                "ag03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sea View Farm"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0900129,
+            "longitude": -61.8035821,
+            "geocell": 3853181,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232432650,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1771635",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232435319,
+            "country": 28,
+            "level1area": [
+                "ag04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Herberts"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0939508,
+            "longitude": -61.8161134,
+            "geocell": 3853181,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232435319,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232448649,
+            "country": 28,
+            "level1area": [
+                "ag04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Buckleys"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0697744,
+            "longitude": -61.8124481,
+            "geocell": 3853181,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232448649,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q923870",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232449009,
+            "country": 28,
+            "level1area": [
+                "ag04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bendals"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.070117,
+            "longitude": -61.8371419,
+            "geocell": 3853181,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232449009,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q109668240",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232451953,
+            "country": 28,
+            "level1area": [
+                "ag04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Emanual"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0723672,
+            "longitude": -61.8413902,
+            "geocell": 3853181,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232451953,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232452164,
+            "country": 28,
+            "level1area": [
+                "ag05"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Green Castle"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0777886,
+            "longitude": -61.8440291,
+            "geocell": 3853181,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232452164,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 246524202,
+            "country": 28,
+            "level1area": [
+                "ag07"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Crabbs"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.1255777,
+            "longitude": -61.7571513,
+            "geocell": 3856782,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 246524202,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 420166338,
+            "country": 28,
+            "level1area": [
+                "ag05"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ffryes"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0514724,
+            "longitude": -61.890357,
+            "geocell": 3853181,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 420166338,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 425746989,
+            "country": 28,
+            "level1area": [
+                "ag04"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "St. John's",
+                "ar": "سانت جونز، أنتيغوا وبربودا",
+                "be": "Сент-Джонс",
+                "bg": "Сейнт Джонс",
+                "br": "Saint John's",
+                "ckb": "سانت جۆنس",
+                "cs": "Saint John's",
+                "da": "Saint John's",
+                "de": "Saint John’s",
+                "el": "Σαιντ Τζονς",
+                "en": "St. John's",
+                "eo": "Santjonso",
+                "es": "Saint John",
+                "et": "Saint John's",
+                "fa": "سینت جانز",
+                "fi": "St. John’s",
+                "fr": "Saint John's",
+                "fy": "Sint John's",
+                "gd": "Saint John's",
+                "gl": "Saint John's",
+                "he": "סנט ג'ונס",
+                "hr": "St. John's",
+                "hu": "St. John's",
+                "hy": "Սենթ Ջոնս",
+                "id": "St. John's, Antigua dan Barbuda",
+                "io": "St Johns",
+                "it": "Saint John's",
+                "ja": "セントジョンズ",
+                "ka": "სენტ-ჯონზი",
+                "ko": "세인트존스",
+                "lt": "Sent Džonsas",
+                "lv": "Sentdžonsa",
+                "mk": "Сент Џон",
+                "mr": "सेंट जॉन्स",
+                "nl": "Saint John's",
+                "nn": "Saint John's",
+                "pa": "ਸੇਂਟ ਜਾਨ",
+                "pl": "Saint John's",
+                "pt": "São João",
+                "ru": "Сент-Джонс",
+                "sk": "Saint John’s",
+                "sq": "Saint John's",
+                "sr": "Сент Џонс",
+                "sv": "Saint John's",
+                "ta": "செயிண்ட். ஜோன்ஸ்",
+                "th": "เซนต์จอนส์",
+                "tr": "St. John's",
+                "uk": "Сент-Джонс",
+                "ur": "سینٹ جونز"
+            },
+            "place_type": 84,
+            "population": 21926,
+            "latitude": 17.1184569,
+            "longitude": -61.8448509,
+            "geocell": 3856781,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 425746989,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q36262",
+                "wikipedia_pages": {
+                    "en": "St. John's, Antigua and Barbuda"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 425765968,
+            "country": 28,
+            "level1area": [
+                "ag04"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Ολ Σαιντς",
+                "en": "All Saints"
+            },
+            "place_type": 84,
+            "population": 3412,
+            "latitude": 17.0659685,
+            "longitude": -61.7951413,
+            "geocell": 3853182,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 425765968,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1771715",
+                "wikipedia_pages": {
+                    "en": "All Saints, Antigua and Barbuda"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 425768903,
+            "country": 28,
+            "level1area": [
+                "ag07"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Pares"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0851602,
+            "longitude": -61.7541789,
+            "geocell": 3853182,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 425768903,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7136850",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 425771077,
+            "country": 28,
+            "level1area": [
+                "ag04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Potters Village"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.1145014,
+            "longitude": -61.8199819,
+            "geocell": 3856781,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 425771077,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1771587",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 480114381,
+            "country": 28,
+            "level1area": [
+                "ag10"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Κόντρινγκτον",
+                "en": "Codrington",
+                "mk": "Кодрингтон",
+                "ru": "Кодрингтон"
+            },
+            "place_type": 84,
+            "population": 1500,
+            "latitude": 17.640463,
+            "longitude": -61.8255199,
+            "geocell": 3874781,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 480114381,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1024679",
+                "wikipedia_pages": {
+                    "en": "Codrington, Antigua and Barbuda"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3639809361,
+            "country": 28,
+            "level1area": [
+                "ag03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Maiden Island"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.1449788,
+            "longitude": -61.7630629,
+            "geocell": 3856782,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3639809361,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4700597382,
+            "country": 28,
+            "level1area": [
+                "ag06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Christian Hill"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0349299,
+            "longitude": -61.7512941,
+            "geocell": 3853182,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4700597382,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4700597383,
+            "country": 28,
+            "level1area": [
+                "ag06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bethesda"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0452409,
+            "longitude": -61.7505291,
+            "geocell": 3853182,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4700597383,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4897969",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5087310421,
+            "country": 28,
+            "level1area": [
+                "ag04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Barnes Hill"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.1426109,
+            "longitude": -61.809502,
+            "geocell": 3856781,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5087310421,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5087310422,
+            "country": 28,
+            "level1area": [
+                "ag04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "New Winthorpes"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.1471798,
+            "longitude": -61.8126726,
+            "geocell": 3856781,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5087310422,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q11790882",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9649396005,
+            "country": 28,
+            "level1area": [
+                "ag03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Osbourn"
+            },
+            "place_type": 84,
+            "population": 4743,
+            "latitude": 17.1414177,
+            "longitude": -61.7973595,
+            "geocell": 3856782,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9649396005,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q104873304",
+                "wikipedia_pages": {
+                    "en": "Osbourn, Antigua and Barbuda"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9649455350,
+            "country": 28,
+            "level1area": [
+                "ag04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Freemans"
+            },
+            "place_type": 86,
+            "population": 860,
+            "latitude": 17.0793942,
+            "longitude": -61.7888151,
+            "geocell": 3853182,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9649455350,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5501049",
+                "wikipedia_pages": {
+                    "en": "Freemans, Antigua and Barbuda"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9649462312,
+            "country": 28,
+            "level1area": [
+                "ag05"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Jolly Harbour"
+            },
+            "place_type": 86,
+            "population": 855,
+            "latitude": 17.0648542,
+            "longitude": -61.8859124,
+            "geocell": 3853181,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9649462312,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6270089",
+                "wikipedia_pages": {
+                    "en": "Jolly Harbour"
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,4453 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 248059429,
+            "country": 304,
+            "level1area": [
+                "glqe"
+            ],
+            "level2area": null,
+            "names": {
+                "da": "Søndre Strømfjord",
+                "kl": "Kangerlussuaq",
+                "ru": "Кангерлуссуак"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 67.0086767,
+            "longitude": -50.6913356,
+            "geocell": 5653293,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 248059429,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1007098",
+                "wikipedia_pages": {
+                    "kl": "kl:Kangerlussuaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 306516095,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "da": "Thule",
+                "de": "Thule",
+                "en": "Thule",
+                "kl": "Qaanaaq",
+                "ru": "Каанаак"
+            },
+            "place_type": 84,
+            "population": 652,
+            "latitude": 77.4686357,
+            "longitude": -69.2222746,
+            "geocell": 6027507,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 306516095,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q223314",
+                "wikipedia_pages": {
+                    "en": "Qaanaaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 338192478,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Упернавик",
+                "en": "Upernavik",
+                "fr": "Upernavik",
+                "kl": "Upernavik",
+                "lt": "Upernavikas",
+                "ru": "Упернавик",
+                "uk": "Упернавік"
+            },
+            "place_type": 84,
+            "population": 1129,
+            "latitude": 72.7847392,
+            "longitude": -56.1469625,
+            "geocell": 5858438,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 338192478,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q303160",
+                "wikipedia_pages": {
+                    "en": "Upernavik"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 381460254,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "إيلوليسات",
+                "kl": "Ilulissat",
+                "lt": "Ilulisatas",
+                "ru": "Илулиссат",
+                "uk": "Ілуліссат"
+            },
+            "place_type": 67,
+            "population": 4905,
+            "latitude": 69.2197127,
+            "longitude": -51.0986385,
+            "geocell": 5732489,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 381460254,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q191047",
+                "wikipedia_pages": {
+                    "en": "Ilulissat"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 381460259,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Oqaatsut"
+            },
+            "place_type": 86,
+            "population": 52,
+            "latitude": 69.3428183,
+            "longitude": -51.0049993,
+            "geocell": 5736089,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 381460259,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 443848765,
+            "country": 304,
+            "level1area": [
+                "glqt"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Aasiaat",
+                "lt": "Osiotas"
+            },
+            "place_type": 67,
+            "population": 3005,
+            "latitude": 68.709588,
+            "longitude": -52.8512976,
+            "geocell": 5714471,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 443848765,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q211218",
+                "wikipedia_pages": {
+                    "en": "Aasiaat"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 538257987,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Nanortalik"
+            },
+            "place_type": 84,
+            "population": 1185,
+            "latitude": 60.1400246,
+            "longitude": -45.2428523,
+            "geocell": 5404947,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 538257987,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://nanortaliktourism.com",
+                "wikidata_page_name": "Q855324",
+                "wikipedia_pages": {
+                    "kl": "kl:Nanortalik"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 794637804,
+            "country": 304,
+            "level1area": [
+                "glsm"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Tiniteqilaaq"
+            },
+            "place_type": 86,
+            "population": 134,
+            "latitude": 65.8897371,
+            "longitude": -37.7784589,
+            "geocell": 5610222,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 794637804,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1007626",
+                "wikipedia_pages": {
+                    "en": "Tiilerilaaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 794656742,
+            "country": 304,
+            "level1area": [
+                "glsm"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Qernertivartivit"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 65.7148711,
+            "longitude": -37.2892417,
+            "geocell": 5606627,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 794656742,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 794677102,
+            "country": 304,
+            "level1area": [
+                "glsm"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Sermiligaaq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 65.9080649,
+            "longitude": -36.3784872,
+            "geocell": 5613836,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 794677102,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q975956",
+                "wikipedia_pages": {
+                    "en": "Sermiligaaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 794695069,
+            "country": 304,
+            "level1area": [
+                "glsm"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Kulusuk"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 65.5756356,
+            "longitude": -37.1869257,
+            "geocell": 5599428,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 794695069,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 896200411,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Kangersuatsiaq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 72.3795211,
+            "longitude": -55.550421,
+            "geocell": 5844044,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 896200411,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2086923",
+                "wikipedia_pages": {
+                    "en": "Kangersuatsiaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 932065332,
+            "country": 304,
+            "level1area": [
+                "glqe"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Skilift"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 66.9392699,
+            "longitude": -53.5331267,
+            "geocell": 5649664,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 932065332,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 992046822,
+            "country": 304,
+            "level1area": [
+                "glsm"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "نوك",
+                "be": "Нук",
+                "bg": "Нуук",
+                "ckb": "نووک",
+                "da": "Nuuk",
+                "de": "Nuuk",
+                "el": "Νουούκ",
+                "en": "Nuuk",
+                "eo": "Nuko",
+                "es": "Nuuk",
+                "et": "Nuuk",
+                "fa": "نوک",
+                "fr": "Nuuk",
+                "gl": "Nuuk",
+                "he": "נואוק",
+                "hu": "Nuuk",
+                "hy": "Նուուկ",
+                "ja": "ヌーク",
+                "ka": "ნუუკი",
+                "kk": "Нүүк",
+                "kl": "Nuuk",
+                "ko": "누크",
+                "lt": "Nukas",
+                "lv": "Nūka",
+                "mk": "Нук",
+                "mn": "Нуук",
+                "mr": "नूक",
+                "os": "Нуук",
+                "pa": "ਨੂਕ",
+                "pl": "Nuuk",
+                "ro": "Godthåb",
+                "ru": "Нуук",
+                "sr": "Нук",
+                "sv": "Nuuk",
+                "th": "นุก",
+                "tt": "Нуук",
+                "uk": "Нуук",
+                "ur": "نوک"
+            },
+            "place_type": 67,
+            "population": 18326,
+            "latitude": 64.1766835,
+            "longitude": -51.7359356,
+            "geocell": 5548882,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 992046822,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q226",
+                "wikipedia_pages": {
+                    "kl": "kl:Nuuk"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 996562205,
+            "country": 304,
+            "level1area": [
+                "glqt"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Qeqertarsuaq",
+                "kl": "Qeqertarsuaq",
+                "ru": "Кекертарсуак"
+            },
+            "place_type": 84,
+            "population": 1100,
+            "latitude": 69.246235,
+            "longitude": -53.5353658,
+            "geocell": 5732464,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 996562205,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q847668",
+                "wikipedia_pages": {
+                    "kl": "kl:Qeqertarsuaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1320266404,
+            "country": 304,
+            "level1area": [
+                "glqe"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Kangaamiut"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 65.8257228,
+            "longitude": -53.3422961,
+            "geocell": 5610066,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1320266404,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q251714",
+                "wikipedia_pages": {
+                    "en": "Kangaamiut"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1460042749,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Tasiusaq",
+                "ru": "Тасиусак"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 61.1444063,
+            "longitude": -45.6172568,
+            "geocell": 5440943,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1460042749,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1460042753,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "قاسيارسوك",
+                "da": "Qassiarsuk",
+                "de": "Qassiarsuk",
+                "fa": "قاسیارسوک",
+                "fr": "Qassiarsuk",
+                "kl": "Qassiarsuk"
+            },
+            "place_type": 86,
+            "population": 80,
+            "latitude": 61.1547591,
+            "longitude": -45.5155063,
+            "geocell": 5440944,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1460042753,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1001352",
+                "wikipedia_pages": {
+                    "da": "Qassiarsuk"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1807080867,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Narsaq",
+                "ru": "Нарсак"
+            },
+            "place_type": 84,
+            "population": 1376,
+            "latitude": 60.9127453,
+            "longitude": -46.0452698,
+            "geocell": 5433739,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1807080867,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q432397",
+                "wikipedia_pages": {
+                    "en": "Narsaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1876686933,
+            "country": 304,
+            "level1area": [
+                "glsm"
+            ],
+            "level2area": null,
+            "names": {
+                "da": "Scoresbysund",
+                "en": "Ittoqqortoormiit",
+                "kl": "Ittoqqortoormiit",
+                "ru": "Иллоккортоормиут",
+                "uk": "Іттоккортоорміут"
+            },
+            "place_type": 84,
+            "population": 345,
+            "latitude": 70.4850588,
+            "longitude": -21.9641992,
+            "geocell": 5775980,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1876686933,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q321279",
+                "wikipedia_pages": {
+                    "en": "Ittoqqortoormiit"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1894193598,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "قاقورتوق",
+                "kl": "Qaqortoq",
+                "lt": "Kakortokas",
+                "ru": "Какорток",
+                "uk": "Какорток"
+            },
+            "place_type": 67,
+            "population": 3174,
+            "latitude": 60.718202,
+            "longitude": -46.0385214,
+            "geocell": 5426539,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1894193598,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q221203",
+                "wikipedia_pages": {
+                    "en": "Qaqortoq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1913331768,
+            "country": 304,
+            "level1area": [
+                "glqe"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سيسيميوت",
+                "en": "Sisimiut",
+                "fr": "Sisimiut",
+                "kl": "Sisimiut",
+                "lt": "Sisimiutas",
+                "ru": "Сисимиут",
+                "uk": "Сісіміут"
+            },
+            "place_type": 67,
+            "population": 5571,
+            "latitude": 66.9371906,
+            "longitude": -53.6664816,
+            "geocell": 5649663,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1913331768,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "http://sisimiutcity.com/",
+                "wikidata_page_name": "Q208098",
+                "wikipedia_pages": {
+                    "kl": "kl:Sisimiut"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1917462069,
+            "country": 304,
+            "level1area": [
+                "glqe"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Maniitsoq",
+                "ru": "Маниитсок"
+            },
+            "place_type": 84,
+            "population": 2784,
+            "latitude": 65.4175454,
+            "longitude": -52.8967885,
+            "geocell": 5595671,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1917462069,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q847691",
+                "wikipedia_pages": {
+                    "en": "Maniitsoq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1917808253,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Ilimanaq"
+            },
+            "place_type": 86,
+            "population": 84,
+            "latitude": 69.0806727,
+            "longitude": -51.1129933,
+            "geocell": 5725288,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1917808253,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1020305",
+                "wikipedia_pages": {
+                    "en": "Ilimanaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1922468729,
+            "country": 304,
+            "level1area": [
+                "glqe"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Itilleq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 66.577408,
+            "longitude": -53.4981929,
+            "geocell": 5635265,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1922468729,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2045879",
+                "wikipedia_pages": {
+                    "en": "Itilleq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1922560306,
+            "country": 304,
+            "level1area": [
+                "glqe"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Napasoq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 65.0472241,
+            "longitude": -52.3810263,
+            "geocell": 5581276,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1922560306,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2477994",
+                "wikipedia_pages": {
+                    "en": "Napasoq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1923322740,
+            "country": 304,
+            "level1area": [
+                "glqe"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Sarfannguit"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 66.8977029,
+            "longitude": -52.8606307,
+            "geocell": 5646071,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1923322740,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1018041",
+                "wikipedia_pages": {
+                    "en": "Sarfannguit"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1924101036,
+            "country": 304,
+            "level1area": [
+                "glsm"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Arsuk"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 61.175,
+            "longitude": -48.45,
+            "geocell": 5440915,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1924101036,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1992633",
+                "wikipedia_pages": {
+                    "kl": "kl:Arsuk"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1924110168,
+            "country": 304,
+            "level1area": [
+                "glsm"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Isertoq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 65.5485322,
+            "longitude": -38.9747139,
+            "geocell": 5599410,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1924110168,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2039374",
+                "wikipedia_pages": {
+                    "en": "Isertoq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1925425062,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Siorapaluk"
+            },
+            "place_type": 86,
+            "population": 68,
+            "latitude": 77.7854283,
+            "longitude": -70.6333799,
+            "geocell": 6038293,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1925425062,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1001361",
+                "wikipedia_pages": {
+                    "en": "Siorapaluk"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1925504656,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Moriusaq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 76.7516143,
+            "longitude": -69.8435224,
+            "geocell": 6002301,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1925504656,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1020271",
+                "wikipedia_pages": {
+                    "en": "Moriusaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1925855328,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Savissivik"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 76.0196363,
+            "longitude": -65.1142961,
+            "geocell": 5977148,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1925855328,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q740795",
+                "wikipedia_pages": {
+                    "en": "Savissivik"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1926965100,
+            "country": 304,
+            "level1area": [
+                "glsm"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Kapisillit"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 64.4347916,
+            "longitude": -50.2716975,
+            "geocell": 5559697,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1926965100,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1001331",
+                "wikipedia_pages": {
+                    "en": "Kapisillit"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1927339996,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Uummannaq",
+                "uk": "Уумманнак"
+            },
+            "place_type": 84,
+            "population": 1299,
+            "latitude": 70.6748905,
+            "longitude": -52.1268737,
+            "geocell": 5782878,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1927339996,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q747898",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1927339997,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Saattut"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 70.8109426,
+            "longitude": -51.6352674,
+            "geocell": 5790083,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1927339997,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2336598",
+                "wikipedia_pages": {
+                    "da": "Saattut"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1927638943,
+            "country": 304,
+            "level1area": [
+                "glsm"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Ivittuut"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 61.2071937,
+            "longitude": -48.1692956,
+            "geocell": 5444518,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1927638943,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q950978",
+                "wikipedia_pages": {
+                    "kl": "kl:Ivittuut"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1927841111,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Aappilattoq"
+            },
+            "place_type": 86,
+            "population": 113,
+            "latitude": 60.1507523,
+            "longitude": -44.2851054,
+            "geocell": 5404957,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1927841111,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q59117",
+                "wikipedia_pages": {
+                    "da": "Aappilattoq (Kujalleq)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1928557688,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Alluitsup Paa"
+            },
+            "place_type": 86,
+            "population": 216,
+            "latitude": 60.4632667,
+            "longitude": -45.56926,
+            "geocell": 5415744,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1928557688,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q265489",
+                "wikipedia_pages": {
+                    "kl": "kl:Alluitsup Paa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1928651214,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Ammassivik"
+            },
+            "place_type": 86,
+            "population": 44,
+            "latitude": 60.5969457,
+            "longitude": -45.3844041,
+            "geocell": 5419346,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1928651214,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q472867",
+                "wikipedia_pages": {
+                    "kl": "kl:Ammassivik"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1928692482,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Eqalugaarsuit"
+            },
+            "place_type": 86,
+            "population": 60,
+            "latitude": 60.623657,
+            "longitude": -45.9100132,
+            "geocell": 5422940,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1928692482,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2325455",
+                "wikipedia_pages": {
+                    "en": "Eqalugaarsuit"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1928931258,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Igaliku"
+            },
+            "place_type": 86,
+            "population": 44,
+            "latitude": 60.9891376,
+            "longitude": -45.4210436,
+            "geocell": 5433745,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1928931258,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q980694",
+                "wikipedia_pages": {
+                    "en": "Igaliku"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1929380616,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Narsarmijit"
+            },
+            "place_type": 86,
+            "population": 71,
+            "latitude": 60.0049088,
+            "longitude": -44.6643603,
+            "geocell": 5401353,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1929380616,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q663788",
+                "wikipedia_pages": {
+                    "kl": "kl:Narsarmijit"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1931229945,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Qassimiut"
+            },
+            "place_type": 86,
+            "population": 30,
+            "latitude": 60.7817867,
+            "longitude": -47.1586069,
+            "geocell": 5426528,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1931229945,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1007671",
+                "wikipedia_pages": {
+                    "en": "Qassimiut"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1932723206,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Aappilattoq"
+            },
+            "place_type": 86,
+            "population": 180,
+            "latitude": 72.8833228,
+            "longitude": -55.5979679,
+            "geocell": 5862044,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1932723206,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q59118",
+                "wikipedia_pages": {
+                    "da": "Aappilattoq (Avannaata)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1932740703,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Innaarsuit"
+            },
+            "place_type": 86,
+            "population": 161,
+            "latitude": 73.2003085,
+            "longitude": -56.0094558,
+            "geocell": 5876439,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1932740703,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2045888",
+                "wikipedia_pages": {
+                    "kl": "kl:Innaarsuit"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1932752473,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Naajaat"
+            },
+            "place_type": 86,
+            "population": 54,
+            "latitude": 73.1428415,
+            "longitude": -55.8083566,
+            "geocell": 5872841,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1932752473,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1813347",
+                "wikipedia_pages": {
+                    "en": "Naajaat"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1934295905,
+            "country": 304,
+            "level1area": [
+                "glsm"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Qeqertarsuatsiaat"
+            },
+            "place_type": 86,
+            "population": 235,
+            "latitude": 63.0893788,
+            "longitude": -50.6733023,
+            "geocell": 5509293,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1934295905,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1935662069,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "da": "Søndre Upernavik",
+                "kl": "Upernavik Kujalleq",
+                "uk": "Упернавік Кійалек"
+            },
+            "place_type": 86,
+            "population": 194,
+            "latitude": 72.1542307,
+            "longitude": -55.527856,
+            "geocell": 5836844,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1935662069,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2291016",
+                "wikipedia_pages": {
+                    "en": "Upernavik Kujalleq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2046347706,
+            "country": 304,
+            "level1area": [
+                "glqe"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Atammik"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 64.8034303,
+            "longitude": -52.1753035,
+            "geocell": 5574078,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2046347706,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q586553",
+                "wikipedia_pages": {
+                    "en": "Atammik"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2049648982,
+            "country": 304,
+            "level1area": [
+                "glqt"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Akunnaaq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 68.7446942,
+            "longitude": -52.3264842,
+            "geocell": 5714476,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2049648982,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2068708",
+                "wikipedia_pages": {
+                    "en": "Akunnaaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2049648999,
+            "country": 304,
+            "level1area": [
+                "glqt"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Attu"
+            },
+            "place_type": 86,
+            "population": 226,
+            "latitude": 67.9405556,
+            "longitude": -53.6227778,
+            "geocell": 5685663,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2049648999,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2272806",
+                "wikipedia_pages": {
+                    "en": "Attu, Greenland"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2049649010,
+            "country": 304,
+            "level1area": [
+                "glqt"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Iginniarfik"
+            },
+            "place_type": 86,
+            "population": 88,
+            "latitude": 68.1480556,
+            "longitude": -53.1722222,
+            "geocell": 5692868,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2049649010,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2291045",
+                "wikipedia_pages": {
+                    "en": "Iginniarfik"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2049649011,
+            "country": 304,
+            "level1area": [
+                "glqt"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Ikamiut"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 68.6333333,
+            "longitude": -51.8327778,
+            "geocell": 5710881,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2049649011,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2336629",
+                "wikipedia_pages": {
+                    "en": "Ikamiut"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2049649012,
+            "country": 304,
+            "level1area": [
+                "glqt"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Ikerasaarsuk"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 68.14009,
+            "longitude": -53.445748,
+            "geocell": 5692865,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2049649012,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2325442",
+                "wikipedia_pages": {
+                    "en": "Ikerasaarsuk"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2049649013,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Ikerasak"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 70.5027778,
+            "longitude": -51.3027778,
+            "geocell": 5779286,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2049649013,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q747426",
+                "wikipedia_pages": {
+                    "en": "Ikerasak"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2049649014,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Ikermiut"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 74.3318043,
+            "longitude": -56.9795836,
+            "geocell": 5916030,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2049649014,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5995883",
+                "wikipedia_pages": {
+                    "en": "Ikermiut"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2049649015,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Illorsuit"
+            },
+            "place_type": 86,
+            "population": 91,
+            "latitude": 71.2417937,
+            "longitude": -53.5660457,
+            "geocell": 5804464,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2049649015,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2049649016,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Itissaalik"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 74.0558431,
+            "longitude": -56.7437966,
+            "geocell": 5905232,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2049649016,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q86661706",
+                "wikipedia_pages": {
+                    "en": "Itissaalik;de:Itissaalik"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2049649017,
+            "country": 304,
+            "level1area": [
+                "glqt"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Kangerluk",
+                "cs": "Kangerluk",
+                "da": "Kangerluk",
+                "de": "Kangerluk",
+                "en": "Kangerluk",
+                "es": "Kangerluk",
+                "fr": "Kangerluk",
+                "it": "Diskofjord",
+                "ka": "კანგერლუკი",
+                "kl": "Kangerluk",
+                "nl": "Kangerluk",
+                "pl": "Kangerluk",
+                "pt": "Kangerluk",
+                "ru": "Кангерлук",
+                "sv": "Kangerluk"
+            },
+            "place_type": 86,
+            "population": 54,
+            "latitude": 69.4843741,
+            "longitude": -53.9486451,
+            "geocell": 5739660,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2049649017,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2291039",
+                "wikipedia_pages": {
+                    "da": "Kangerluk"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2049649018,
+            "country": 304,
+            "level1area": [
+                "glqt"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Kitsissuarsuit"
+            },
+            "place_type": 86,
+            "population": 50,
+            "latitude": 68.8574131,
+            "longitude": -53.1212302,
+            "geocell": 5718068,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2049649018,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2337295",
+                "wikipedia_pages": {
+                    "en": "Kitsissuarsuit"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2049649020,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "da": "Djævlens Tommelfinger",
+                "kl": "Kullorsuaq"
+            },
+            "place_type": 86,
+            "population": 436,
+            "latitude": 74.579066,
+            "longitude": -57.2198151,
+            "geocell": 5923227,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2049649020,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q669016",
+                "wikipedia_pages": {
+                    "kl": "kl:Kullorsuaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2049649022,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Kuuk"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 73.7055556,
+            "longitude": -56.1944444,
+            "geocell": 5894438,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2049649022,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q15240911",
+                "wikipedia_pages": {
+                    "en": "Kuuk"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2049649026,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Nutaarmiut"
+            },
+            "place_type": 86,
+            "population": 40,
+            "latitude": 73.5187655,
+            "longitude": -56.4280625,
+            "geocell": 5887235,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2049649026,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q682285",
+                "wikipedia_pages": {
+                    "en": "Nutaarmiut"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2049649027,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "da": "Kraulshavn",
+                "kl": "Nuussuaq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 74.1111111,
+            "longitude": -57.0611111,
+            "geocell": 5908829,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2049649027,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q579419",
+                "wikipedia_pages": {
+                    "kl": "kl:Nuussuaq (Upernavik)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2049649035,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Saarloq"
+            },
+            "place_type": 86,
+            "population": 26,
+            "latitude": 60.5375528,
+            "longitude": -46.0257582,
+            "geocell": 5419339,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2049649035,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2325431",
+                "wikipedia_pages": {
+                    "en": "Saarloq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2049649039,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Tasiusaq"
+            },
+            "place_type": 86,
+            "population": 60,
+            "latitude": 60.1937367,
+            "longitude": -44.815153,
+            "geocell": 5404951,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2049649039,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q736994",
+                "wikipedia_pages": {
+                    "da": "Tasiusaq (Kujalleq)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2049649041,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Tasiusaq"
+            },
+            "place_type": 86,
+            "population": 248,
+            "latitude": 73.3691077,
+            "longitude": -56.0565041,
+            "geocell": 5880039,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2049649041,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2086866",
+                "wikipedia_pages": {
+                    "da": "Tasiusaq (Avannaata)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2051280837,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Appaalissiorfik"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 73.8083333,
+            "longitude": -56.5833333,
+            "geocell": 5898034,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2051280837,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4780810",
+                "wikipedia_pages": {
+                    "en": "Appaalissiorfik"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2051280902,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Etah",
+                "kl": "Iita"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 78.3131833,
+            "longitude": -72.6012716,
+            "geocell": 6059873,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2051280902,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q583358",
+                "wikipedia_pages": {
+                    "en": "Etah, Greenland"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2051280917,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Illulik"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 74.3460337,
+            "longitude": -56.715502,
+            "geocell": 5916032,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2051280917,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q15228383",
+                "wikipedia_pages": {
+                    "en": "Illulik"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2051280944,
+            "country": 304,
+            "level1area": [
+                "glqt"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Kangaatsiaq"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 68.3091537,
+            "longitude": -53.4614913,
+            "geocell": 5700065,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2051280944,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q612160",
+                "wikipedia_pages": {
+                    "en": "Kangaatsiaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2051281009,
+            "country": 304,
+            "level1area": [
+                "glqt"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Niaqornaarsuk"
+            },
+            "place_type": 86,
+            "population": 300,
+            "latitude": 68.2361662,
+            "longitude": -52.8517546,
+            "geocell": 5696471,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2051281009,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1007693",
+                "wikipedia_pages": {
+                    "en": "Niaqornaarsuk"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2051281029,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Niaqornat"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 70.788942,
+            "longitude": -53.6640819,
+            "geocell": 5786463,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2051281029,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q542334",
+                "wikipedia_pages": {
+                    "en": "Niaqornat"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2051281058,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Nuugaatsiaq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 71.535,
+            "longitude": -53.2125,
+            "geocell": 5815267,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2051281058,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q663104",
+                "wikipedia_pages": {
+                    "en": "Nuugaatsiaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2051281081,
+            "country": 304,
+            "level1area": [
+                "glsm"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Paamiut",
+                "lt": "Pamiutas",
+                "ru": "Паамиут"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 61.994618,
+            "longitude": -49.6659478,
+            "geocell": 5469703,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2051281081,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q545767",
+                "wikipedia_pages": {
+                    "en": "Paamiut"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2051281124,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Qaarsut"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 70.7309814,
+            "longitude": -52.6374356,
+            "geocell": 5786473,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2051281124,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q205781",
+                "wikipedia_pages": {
+                    "en": "Qaarsut"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2051281173,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Qeqertaq"
+            },
+            "place_type": 86,
+            "population": 130,
+            "latitude": 69.9972222,
+            "longitude": -51.3027778,
+            "geocell": 5757686,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2051281173,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2086887",
+                "wikipedia_pages": {
+                    "en": "Qeqertaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2051281231,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Saattoq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 73.5242613,
+            "longitude": -56.1167476,
+            "geocell": 5887238,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2051281231,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7395738",
+                "wikipedia_pages": {
+                    "en": "Saattoq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2051281255,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Saqqaq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 70.0098637,
+            "longitude": -51.9474886,
+            "geocell": 5761280,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2051281255,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q427622",
+                "wikipedia_pages": {
+                    "en": "Saqqaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2051281341,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Sarfaq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 73.6472222,
+            "longitude": -56.2027778,
+            "geocell": 5890837,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2051281341,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7423865",
+                "wikipedia_pages": {
+                    "en": "Sarfaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2051281372,
+            "country": 304,
+            "level1area": [
+                "glsm"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "تسيلق",
+                "da": "Tasiilaq",
+                "de": "Tasiilaq",
+                "es": "Tasiilaq",
+                "fr": "Tasiilaq",
+                "he": "טאסיאילק",
+                "ja": "タシーラク",
+                "ka": "ტასიილაკი",
+                "kl": "Tasiilaq",
+                "ko": "타실라크",
+                "lt": "Tasilakas",
+                "mk": "Тасилак",
+                "ru": "Тасиилак",
+                "sv": "Tasiilaq",
+                "uk": "Аммассалік (Тасіілак)"
+            },
+            "place_type": 84,
+            "population": 1930,
+            "latitude": 65.6152573,
+            "longitude": -37.6378149,
+            "geocell": 5603023,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2051281372,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2139799",
+                "wikipedia_pages": {
+                    "kl": "kl:Tasiilaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2051281401,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Ukkusissat"
+            },
+            "place_type": 86,
+            "population": 184,
+            "latitude": 71.0505646,
+            "longitude": -51.8866542,
+            "geocell": 5797281,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2051281401,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2086912",
+                "wikipedia_pages": {
+                    "en": "Ukkusissat"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2057705785,
+            "country": 304,
+            "level1area": [
+                "glsm"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Itterajivit"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 70.459168,
+            "longitude": -22.329882,
+            "geocell": 5775976,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2057705785,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2057705891,
+            "country": 304,
+            "level1area": [
+                "glsm"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Uunarteq"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 70.4188889,
+            "longitude": -21.9722222,
+            "geocell": 5775980,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2057705891,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2527977",
+                "wikipedia_pages": {
+                    "en": "Uunarteq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2077565908,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Qorlortorsuaq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 60.7742141,
+            "longitude": -45.238936,
+            "geocell": 5426547,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2077565908,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2714832",
+                "wikipedia_pages": {
+                    "en": "Qorlortorsuaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2840144653,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Ipiutaq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 59.8781188,
+            "longitude": -44.2140509,
+            "geocell": 5394157,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2840144653,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3420738394,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Lichtenau",
+                "kl": "Alluitsoq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 60.5071376,
+            "longitude": -45.5377897,
+            "geocell": 5419344,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3420738394,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3420795093,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Tasiluk"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 60.6799138,
+            "longitude": -45.8040126,
+            "geocell": 5422941,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3420795093,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3438076305,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Nunataaq"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 61.1246293,
+            "longitude": -45.6244691,
+            "geocell": 5440943,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3438076305,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3879453",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5118647850,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Narsarsuaq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 61.1555545,
+            "longitude": -45.4238591,
+            "geocell": 5440945,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5118647850,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q59168",
+                "wikipedia_pages": {
+                    "en": "Narsarsuaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5312725677,
+            "country": 304,
+            "level1area": [
+                "glqt"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Nivâq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 68.6195605,
+            "longitude": -52.4062998,
+            "geocell": 5710875,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5312725677,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5584576456,
+            "country": 304,
+            "level1area": [
+                "glsm"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Pubik"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 65.7883633,
+            "longitude": -37.8760279,
+            "geocell": 5606621,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5584576456,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5825697753,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Timerliit",
+                "kl": "Timerliit"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 60.8556983,
+            "longitude": -45.3093021,
+            "geocell": 5430146,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5825697753,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6173420639,
+            "country": 304,
+            "level1area": [
+                "glqt"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Qasigiannguit"
+            },
+            "place_type": 84,
+            "population": 1001,
+            "latitude": 68.8193787,
+            "longitude": -51.19335,
+            "geocell": 5718088,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6173420639,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q950991",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6534842809,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Qeqertat"
+            },
+            "place_type": 86,
+            "population": 26,
+            "latitude": 77.494079,
+            "longitude": -66.6859075,
+            "geocell": 6027533,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6534842809,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1020284",
+                "wikipedia_pages": {
+                    "de": "Qeqertat"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6612158181,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Qorlortup Itinnera"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 61.1949813,
+            "longitude": -45.5472268,
+            "geocell": 5440944,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6612158181,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6612158182,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Qordlortoq"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 61.2068287,
+            "longitude": -45.5154516,
+            "geocell": 5444544,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6612158182,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6612158183,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Qinngua"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 61.2419897,
+            "longitude": -45.5259541,
+            "geocell": 5444544,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6612158183,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6612158184,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Qinngua Kangilleq"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 61.2530716,
+            "longitude": -45.5000654,
+            "geocell": 5444544,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6612158184,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6612158822,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Arnannguit",
+                "kl": "Arnannguit"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 61.2045466,
+            "longitude": -45.4814715,
+            "geocell": 5444545,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6612158822,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6612159174,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Kiattut"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 61.1817173,
+            "longitude": -45.4381141,
+            "geocell": 5440945,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6612159174,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7323657411,
+            "country": 304,
+            "level1area": [
+                "glqe"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Killinnguit"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 66.9170127,
+            "longitude": -53.5166704,
+            "geocell": 5649664,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7323657411,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8187991908,
+            "country": 304,
+            "level1area": [
+                "glsm"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Nerlerit Inaat"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 70.7440604,
+            "longitude": -22.6429221,
+            "geocell": 5786773,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8187991908,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8188719566,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Tussaaq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 73.0482599,
+            "longitude": -56.1796147,
+            "geocell": 5869238,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8188719566,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q38227555",
+                "wikipedia_pages": {
+                    "de": "Tussaaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8205199644,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Dyrnæs"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 60.9472502,
+            "longitude": -46.0313268,
+            "geocell": 5433739,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8205199644,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q17515039",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8241543322,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Qeqertarsuaq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 77.4218092,
+            "longitude": -70.1359684,
+            "geocell": 6027498,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8241543322,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q995335",
+                "wikipedia_pages": {
+                    "da": "Qeqertarsuaq (Qaanaaq)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8989818449,
+            "country": 304,
+            "level1area": [
+                "glqt"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Qeqertarsuatsiaq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 68.4132312,
+            "longitude": -53.2363619,
+            "geocell": 5703667,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8989818449,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9387267274,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Innaanganeq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 75.928811,
+            "longitude": -66.4346023,
+            "geocell": 5973535,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9387267274,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q70481221",
+                "wikipedia_pages": {
+                    "de": "Innaanganeq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9387284158,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Kangerluarsuk"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 77.5483318,
+            "longitude": -68.5538463,
+            "geocell": 6031114,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9387284158,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q71287094",
+                "wikipedia_pages": {
+                    "de": "Kangerluarsuk (Qaanaaq)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9387316220,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Kangerlussuaq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 77.3727963,
+            "longitude": -67.0974293,
+            "geocell": 6023929,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9387316220,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q86661919",
+                "wikipedia_pages": {
+                    "de": "Kangerlussuaq (Qaanaaq)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9387316406,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Narsaarsuk"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 76.4516017,
+            "longitude": -69.3359457,
+            "geocell": 5991506,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9387316406,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1468585",
+                "wikipedia_pages": {
+                    "de": "Narsaarsuk"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9387334817,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Neqi"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 77.8579774,
+            "longitude": -71.5454501,
+            "geocell": 6041884,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9387334817,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q86661929",
+                "wikipedia_pages": {
+                    "de": "Neqi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9387379168,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Quinisut"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 77.5150782,
+            "longitude": -67.7768234,
+            "geocell": 6031122,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9387379168,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q70481237",
+                "wikipedia_pages": {
+                    "de": "Quinisut"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9392539446,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Aappi"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 72.9753036,
+            "longitude": -55.7269084,
+            "geocell": 5865642,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9392539446,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q70481125",
+                "wikipedia_pages": {
+                    "de": "Aappi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9392618407,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Ikerasaarsuk"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 73.5283567,
+            "longitude": -56.4202507,
+            "geocell": 5887235,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9392618407,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3792506",
+                "wikipedia_pages": {
+                    "de": "Ikerasaarsuk (Upernavik)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9392645118,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Eqqorleq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 73.2274436,
+            "longitude": -56.3138262,
+            "geocell": 5876436,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9392645118,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q70481143",
+                "wikipedia_pages": {
+                    "de": "Eqqorleq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9392658422,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Ikerasak"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 72.2663959,
+            "longitude": -55.1301813,
+            "geocell": 5840448,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9392658422,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q86661660",
+                "wikipedia_pages": {
+                    "de": "Ikerasak (Upernavik)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9392670568,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Inussugaarsuk"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 72.7940881,
+            "longitude": -55.4143882,
+            "geocell": 5858445,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9392670568,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q70481157",
+                "wikipedia_pages": {
+                    "de": "Inussugaarsuk"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9392696131,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Itilliarsuk"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 73.5186291,
+            "longitude": -56.5304505,
+            "geocell": 5887234,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9392696131,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q86661671",
+                "wikipedia_pages": {
+                    "de": "Itilliarsuk (Upernavik)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9396742450,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Kittorsaq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 73.9316621,
+            "longitude": -56.7227387,
+            "geocell": 5901632,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9396742450,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q86661714",
+                "wikipedia_pages": {
+                    "de": "Kittorsaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9396803475,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Mernoq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 73.7530894,
+            "longitude": -56.3511218,
+            "geocell": 5894436,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9396803475,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q86661747",
+                "wikipedia_pages": {
+                    "de": "Mernoq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9396996556,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Danialiip Qaannivia"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 74.1097721,
+            "longitude": -57.0506015,
+            "geocell": 5908829,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9396996556,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9397004231,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Kingittoq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 72.6689168,
+            "longitude": -55.9463435,
+            "geocell": 5854840,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9397004231,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q86661708",
+                "wikipedia_pages": {
+                    "de": "Qaarsoq (Upernavik)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9397026581,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Qaarusulik"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 74.7122256,
+            "longitude": -57.809432,
+            "geocell": 5930421,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9397026581,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q70481174",
+                "wikipedia_pages": {
+                    "de": "Qaarusulik"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9397124769,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Qassersuaq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 73.0864089,
+            "longitude": -55.7116312,
+            "geocell": 5869242,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9397124769,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q86661748",
+                "wikipedia_pages": {
+                    "de": "Qassersuaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9397140118,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Saattoq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 73.1180676,
+            "longitude": -56.0727189,
+            "geocell": 5872839,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9397140118,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q71290860",
+                "wikipedia_pages": {
+                    "de": "Saattoq (bei Innaarsuit)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9397147511,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Saffiorfik"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 73.2913893,
+            "longitude": -55.978564,
+            "geocell": 5876440,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9397147511,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q70481189",
+                "wikipedia_pages": {
+                    "de": "Saffiorfik"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9397624806,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Noorliit"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 73.3664337,
+            "longitude": -56.0749411,
+            "geocell": 5880039,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9397624806,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9400678854,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Tunoqqu"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 72.8506909,
+            "longitude": -55.9937512,
+            "geocell": 5862040,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9400678854,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q69681522",
+                "wikipedia_pages": {
+                    "de": "Tunoqqu"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9403313713,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Uingasoq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 73.2896014,
+            "longitude": -56.0458302,
+            "geocell": 5876439,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9403313713,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q86661808",
+                "wikipedia_pages": {
+                    "de": "Uingasoq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9403344756,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Upernaviarsuk"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 72.7692826,
+            "longitude": -55.6468093,
+            "geocell": 5858443,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9403344756,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q86661829",
+                "wikipedia_pages": {
+                    "de": "Upernaviarsuk (Upernavik)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9403346371,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Uluaa"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 72.3906451,
+            "longitude": -54.907587,
+            "geocell": 5844050,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9403346371,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q70481206",
+                "wikipedia_pages": {
+                    "de": "Uluaa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9503096010,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Anaa"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 69.9618814,
+            "longitude": -50.6054499,
+            "geocell": 5757693,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9503096010,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q86661360",
+                "wikipedia_pages": {
+                    "de": "Anaa (Grönland)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9503104072,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Akunnaaq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 69.982228,
+            "longitude": -51.5677359,
+            "geocell": 5757684,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9503104072,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q86661356",
+                "wikipedia_pages": {
+                    "de": "Akunnaaq (Ilulissat)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9503179320,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "da": "Ritenbenk",
+                "kl": "Appat"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 69.7614576,
+            "longitude": -51.3012931,
+            "geocell": 5750486,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9503179320,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7336708",
+                "wikipedia_pages": {
+                    "de": "Appat (Ilulissat)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9503187129,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Arsivik"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 69.8444477,
+            "longitude": -50.6924071,
+            "geocell": 5754093,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9503187129,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q70480953",
+                "wikipedia_pages": {
+                    "de": "Arsivik"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9503249705,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Eqi"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 69.1352344,
+            "longitude": -51.0954204,
+            "geocell": 5728889,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9503249705,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q86661402",
+                "wikipedia_pages": {
+                    "de": "Eqi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9503267790,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Ataa"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 69.7587254,
+            "longitude": -50.9368367,
+            "geocell": 5750490,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9503267790,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4812606",
+                "wikipedia_pages": {
+                    "de": "Ataa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9503282912,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Ataartaa"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 70.3118514,
+            "longitude": -52.9930322,
+            "geocell": 5772070,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9503282912,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q70480963",
+                "wikipedia_pages": {
+                    "de": "Ataartaa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9503297518,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "da": "Nordre Huse",
+                "kl": "Avannarliit"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 69.1254384,
+            "longitude": -51.0861174,
+            "geocell": 5728889,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9503297518,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q86661363",
+                "wikipedia_pages": {
+                    "de": "Avannarliit"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9503309825,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Ikorfat"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 69.9718788,
+            "longitude": -51.4456535,
+            "geocell": 5757685,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9503309825,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q86661400",
+                "wikipedia_pages": {
+                    "de": "Ikorfat"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9556692947,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Illorsuit"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 69.9797443,
+            "longitude": -51.2044956,
+            "geocell": 5757687,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9556692947,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q86661404",
+                "wikipedia_pages": {
+                    "de": "Illorsuit (Ilulissat)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9556695960,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Paakitsoq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 69.5140145,
+            "longitude": -50.7309455,
+            "geocell": 5743292,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9556695960,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q86661443",
+                "wikipedia_pages": {
+                    "de": "Paakitsoq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9556703311,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Nuugaaq"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 69.9650729,
+            "longitude": -51.2542271,
+            "geocell": 5757687,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9556703311,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q70480977",
+                "wikipedia_pages": {
+                    "de": "Nuugaaq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9556743590,
+            "country": 304,
+            "level1area": [
+                "glav"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Naajaat"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 69.9627986,
+            "longitude": -51.1640678,
+            "geocell": 5757688,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9556743590,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q86661409",
+                "wikipedia_pages": {
+                    "de": "Naajaat (Ilulissat)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9800281222,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Itilleq"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 60.997666,
+            "longitude": -45.4583236,
+            "geocell": 5433745,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9800281222,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9800447561,
+            "country": 304,
+            "level1area": [
+                "glsm"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Nuussuaq"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 64.4336713,
+            "longitude": -50.2509119,
+            "geocell": 5559697,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9800447561,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9800447562,
+            "country": 304,
+            "level1area": [
+                "glsm"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Kangeq"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 64.1086736,
+            "longitude": -52.0506112,
+            "geocell": 5548879,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9800447562,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9800447563,
+            "country": 304,
+            "level1area": [
+                "glsm"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Niaqornarssuaq"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 64.3470709,
+            "longitude": -51.6894987,
+            "geocell": 5556083,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9800447563,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9805238646,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Atarnaatsit"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 61.0194795,
+            "longitude": -45.4569103,
+            "geocell": 5437345,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9805238646,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9805238648,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Tatsip Ataa"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 60.8335074,
+            "longitude": -45.4748949,
+            "geocell": 5430145,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9805238648,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9805270658,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Igaliku Kujalleq"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 60.8917865,
+            "longitude": -45.2703169,
+            "geocell": 5430147,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9805270658,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 10930589598,
+            "country": 304,
+            "level1area": [
+                "glku"
+            ],
+            "level2area": null,
+            "names": {
+                "kl": "Inneruulalik"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 61.1062129,
+            "longitude": -45.4825867,
+            "geocell": 5440945,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 10930589598,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]
