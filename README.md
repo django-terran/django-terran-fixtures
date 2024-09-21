@@ -31,7 +31,7 @@ See https://github.com/django-terran/django-terran
 | AZ, Azerbaijan | 4 | 70 | 8 | 4138 |
 | BA, Bosnia & Herzegovina | 6 | 3 | - | 8772 |
 | BB, Barbados | 2 | 11 | - | 319 |
-| BD, Bangladesh | 3 | 8 | 19 | 4159 |
+| BD, Bangladesh | 3 | 8 | 64 | 4159 |
 | BE, Belgium | 3 | 3 | 10 | 5992 |
 | BF, Burkina Faso | 1 | 13 | 45 | 15301 |
 | BG, Bulgaria | 4 | 28 | - | 6759 |
@@ -54,21 +54,21 @@ See https://github.com/django-terran/django-terran
 | CI, Côte d’Ivoire | 1 | 14 | - | 12294 |
 | CL, Chile | 2 | 16 | - | 14821 |
 | CM, Cameroon | 1 | 10 | - | 12090 |
-| CN, China | 1 | 33 | - | 437998 |
+| CN, China | 1 | 34 | - | 437998 |
 | CO, Colombia | 1 | 33 | - | 14765 |
 | CR, Costa Rica | 1 | 7 | - | 3404 |
 | CU, Cuba | 3 | 16 | - | 6438 |
-| CV, Cape Verde | 2 | - | - | - |
+| CV, Cape Verde | 2 | 2 | 22 | - |
 | CY, Cyprus | 2 | 6 | - | 516 |
 | CZ, Czechia | 2 | 14 | 76 | 16121 |
 | DE, Germany | 2 | 16 | - | 84334 |
 | DJ, Djibouti | 1 | 6 | - | 134 |
 | DK, Denmark | 1 | 5 | - | 8107 |
 | DM, Dominica | 1 | 10 | - | 86 |
-| DO, Dominican Republic | 2 | - | - | - |
+| DO, Dominican Republic | 2 | 10 | 32 | - |
 | DZ, Algeria | 1 | 48 | - | 12810 |
 | EC, Ecuador | 2 | 24 | - | 16243 |
-| EE, Estonia | 3 | 15 | - | 4661 |
+| EE, Estonia | 3 | 15 | 79 | 4661 |
 | EG, Egypt | 1 | 27 | - | 1921 |
 | ER, Eritrea | 2 | 6 | - | 482 |
 | ES, Spain | 2 | 19 | 50 | 66551 |
@@ -78,16 +78,16 @@ See https://github.com/django-terran/django-terran
 | FK, Falkland Islands | 1 | - | - | - |
 | FM, Micronesia | 2 | 4 | - | 58 |
 | FO, Faroe Islands | 1 | - | - | - |
-| FR, France | 2 | 18 | 97 | 269354 |
+| FR, France | 2 | 18 | 98 | 269354 |
 | GA, Gabon | 1 | 9 | - | 1091 |
-| GB, United Kingdom | 1 | 4 | 204 | 35847 |
+| GB, United Kingdom | 1 | 4 | 216 | 35847 |
 | GD, Grenada | 1 | 7 | - | 138 |
 | GE, Georgia | 4 | 12 | - | 4355 |
 | GH, Ghana | 2 | 16 | - | 9367 |
 | GI, Gibraltar | 1 | - | - | - |
 | GL, Greenland | 1 | 5 | - | 153 |
 | GM, Gambia | 1 | 6 | - | 1162 |
-| GN, Guinea | 2 | 8 | 16 | 14133 |
+| GN, Guinea | 2 | 8 | 33 | 14133 |
 | GQ, Equatorial Guinea | 2 | 2 | 8 | 1088 |
 | GR, Greece | 2 | 14 | - | 12386 |
 | GT, Guatemala | 1 | 22 | - | 4621 |
@@ -96,14 +96,14 @@ See https://github.com/django-terran/django-terran
 | HN, Honduras | 1 | 18 | - | 3313 |
 | HR, Croatia | 5 | 21 | - | 19025 |
 | HT, Haiti | 2 | 10 | - | 3953 |
-| HU, Hungary | 1 | 20 | - | 4638 |
+| HU, Hungary | 1 | 43 | - | 4638 |
 | ID, Indonesia | 1 | 7 | 34 | 94592 |
 | IE, Ireland | 3 | 4 | 26 | 3447 |
 | IL, Israel | 3 | 6 | - | 1222 |
-| IN, India | 1 | 32 | - | 285676 |
-| IQ, Iraq | 3 | 15 | - | 8245 |
+| IN, India | 1 | 36 | - | 285676 |
+| IQ, Iraq | 3 | 16 | 3 | 8245 |
 | IR, Iran | 1 | 31 | - | 46520 |
-| IS, Iceland | 3 | 8 | - | 119 |
+| IS, Iceland | 3 | 8 | 69 | 119 |
 | IT, Italy | 2 | 20 | 106 | 62995 |
 | JM, Jamaica | 1 | 14 | - | 1847 |
 | JO, Jordan | 1 | 12 | - | 803 |
@@ -117,7 +117,7 @@ See https://github.com/django-terran/django-terran
 | KP, North Korea | 1 | 12 | - | 5041 |
 | KR, South Korea | 3 | 17 | - | 17063 |
 | KW, Kuwait | 1 | 6 | - | 65 |
-| KZ, Kazakhstan | 1 | - | - | - |
+| KZ, Kazakhstan | 1 | 17 | - | - |
 | LA, Laos | 1 | 18 | - | 7308 |
 | LB, Lebanon | 1 | 8 | - | 1482 |
 | LC, St. Lucia | 1 | 10 | - | 310 |
@@ -130,7 +130,7 @@ See https://github.com/django-terran/django-terran
 | LV, Latvia | 4 | 43 | - | 5798 |
 | LY, Libya | 1 | 22 | - | 907 |
 | MA, Morocco | 2 | 12 | 75 | 13359 |
-| MC, Monaco | 3 | 9 | - | 1 |
+| MC, Monaco | 3 | 17 | - | 1 |
 | MD, Moldova | 2 | 37 | - | 1669 |
 | ME, Montenegro | 3 | 24 | - | 3616 |
 | MG, Madagascar | 2 | 6 | - | 63916 |
@@ -151,25 +151,25 @@ See https://github.com/django-terran/django-terran
 | NE, Niger | 1 | 8 | - | 24554 |
 | NG, Nigeria | 1 | 37 | - | 27868 |
 | NI, Nicaragua | 2 | 17 | - | 6989 |
-| NL, Netherlands | 2 | 12 | - | 6283 |
-| NO, Norway | 2 | 10 | - | 15109 |
-| NP, Nepal | 2 | 7 | - | 16902 |
+| NL, Netherlands | 2 | 15 | - | 6283 |
+| NO, Norway | 2 | 13 | - | 15109 |
+| NP, Nepal | 2 | 12 | 14 | 16902 |
 | NR, Nauru | 1 | 14 | - | 16 |
 | NZ, New Zealand | 1 | 17 | - | 2034 |
 | OM, Oman | 1 | 11 | - | 2728 |
 | PA, Panama | 2 | 14 | - | 2948 |
 | PE, Peru | 3 | 26 | - | 49879 |
 | PG, Papua New Guinea | 2 | 22 | - | 9552 |
-| PH, Philippines | 1 | 17 | 80 | 40395 |
+| PH, Philippines | 1 | 17 | 81 | 40395 |
 | PK, Pakistan | 2 | 7 | - | 24688 |
 | PL, Poland | 2 | 16 | - | 105293 |
-| PS, Palestinian Territories | 4 | 5 | - | 31 |
+| PS, Palestinian Territories | 4 | 16 | - | 31 |
 | PT, Portugal | 2 | 20 | - | 18403 |
 | PW, Palau | 1 | 16 | - | 42 |
 | PY, Paraguay | 1 | 18 | - | 1410 |
 | QA, Qatar | 1 | 8 | - | 45 |
 | RO, Romania | 2 | 42 | - | 13830 |
-| RS, Serbia | 3 | 19 | 7 | 5982 |
+| RS, Serbia | 3 | 20 | 12 | 5982 |
 | RU, Russia | 2 | 83 | - | 145065 |
 | RW, Rwanda | 1 | 5 | - | 2950 |
 | SA, Saudi Arabia | 1 | 13 | - | 6413 |
@@ -185,7 +185,7 @@ See https://github.com/django-terran/django-terran
 | SN, Senegal | 1 | 14 | - | 13345 |
 | SO, Somalia | 1 | 18 | - | 16989 |
 | SR, Suriname | 3 | 10 | - | 358 |
-| SS, South Sudan | 2 | 9 | - | 4781 |
+| SS, South Sudan | 2 | 10 | - | 4781 |
 | ST, São Tomé & Príncipe | 2 | 7 | - | 394 |
 | SV, El Salvador | 2 | 14 | - | 1786 |
 | SY, Syria | 1 | 14 | - | 7356 |
@@ -220,7 +220,7 @@ See https://github.com/django-terran/django-terran
 | ZA, South Africa | 1 | 9 | - | 2596 |
 | ZM, Zambia | 2 | 10 | - | 1617 |
 | ZW, Zimbabwe | 5 | 10 | - | 637 |
-| Total | 185 | 3453 | 1169 | 3390304 |
+| Total | 185 | 3543 | 1469 | 3390304 |
 
 ## How to use?
 
