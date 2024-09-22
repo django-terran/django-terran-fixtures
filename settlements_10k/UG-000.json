@@ -1,0 +1,1176 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 256588128,
+            "country": 800,
+            "level1area": [
+                "ugc"
+            ],
+            "level2area": [
+                "ug108"
+            ],
+            "names": {
+                "sw": "Mukono"
+            },
+            "place_type": 84,
+            "population": 161996,
+            "latitude": 0.360848,
+            "longitude": 32.7460874,
+            "geocell": 3252927,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 256588128,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q179198",
+                "wikipedia_pages": {
+                    "en": "Mukono Town"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 293918338,
+            "country": 800,
+            "level1area": [
+                "ugw"
+            ],
+            "level2area": null,
+            "names": {
+                "ko": "음바라라",
+                "ru": "Мбарара",
+                "sw": "Mbarara"
+            },
+            "place_type": 67,
+            "population": 195013,
+            "latitude": -0.6107896,
+            "longitude": 30.6533181,
+            "geocell": 3216906,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 293918338,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q731039",
+                "wikipedia_pages": {
+                    "en": "Mbarara"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 294001845,
+            "country": 800,
+            "level1area": [
+                "uge"
+            ],
+            "level2area": [
+                "ug204"
+            ],
+            "names": {
+                "ko": "진자",
+                "lt": "Džindža",
+                "ru": "Джинджа",
+                "sw": "Jinja"
+            },
+            "place_type": 67,
+            "population": 72931,
+            "latitude": 0.4353036,
+            "longitude": 33.2055568,
+            "geocell": 3256532,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 294001845,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q501709",
+                "wikipedia_pages": {
+                    "en": "Jinja, Uganda"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 304491931,
+            "country": 800,
+            "level1area": [
+                "uge"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Мбале",
+                "sw": "Mbale City"
+            },
+            "place_type": 67,
+            "population": 96189,
+            "latitude": 1.0711896,
+            "longitude": 34.1749506,
+            "geocell": 3278141,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 304491931,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1015727",
+                "wikipedia_pages": {
+                    "en": "Mbale"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 304816313,
+            "country": 800,
+            "level1area": [
+                "ugn"
+            ],
+            "level2area": [
+                "ug304"
+            ],
+            "names": {
+                "en": "Gulu",
+                "ko": "굴루",
+                "ru": "Гулу",
+                "sw": "Gulu",
+                "uk": "Гулу"
+            },
+            "place_type": 67,
+            "population": 152276,
+            "latitude": 2.770239,
+            "longitude": 32.3044273,
+            "geocell": 3339323,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 304816313,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q581379",
+                "wikipedia_pages": {
+                    "en": "Gulu"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 305377332,
+            "country": 800,
+            "level1area": [
+                "ugn"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Лира",
+                "sw": "Lira"
+            },
+            "place_type": 67,
+            "population": 99059,
+            "latitude": 2.2456918,
+            "longitude": 32.896244,
+            "geocell": 3321328,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 305377332,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1015699",
+                "wikipedia_pages": {
+                    "en": "Lira, Uganda"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 309083090,
+            "country": 800,
+            "level1area": [
+                "ugw"
+            ],
+            "level2area": [
+                "ug403"
+            ],
+            "names": {
+                "sw": "Hoima"
+            },
+            "place_type": 67,
+            "population": 100625,
+            "latitude": 1.430976,
+            "longitude": 31.352512,
+            "geocell": 3292513,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 309083090,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1624192",
+                "wikipedia_pages": {
+                    "en": "Hoima"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 311736035,
+            "country": 800,
+            "level1area": [
+                "ugn"
+            ],
+            "level2area": [
+                "ug332"
+            ],
+            "names": {
+                "sw": "Pakwach"
+            },
+            "place_type": 86,
+            "population": 22360,
+            "latitude": 2.4608979,
+            "longitude": 31.498716,
+            "geocell": 3328514,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 311736035,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q451589",
+                "wikipedia_pages": {
+                    "en": "Pakwach"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 311747244,
+            "country": 800,
+            "level1area": [
+                "ugw"
+            ],
+            "level2area": null,
+            "names": {
+                "ko": "포트포털",
+                "ru": "Форт-Портал",
+                "sw": "Fort Portal"
+            },
+            "place_type": 67,
+            "population": 54275,
+            "latitude": 0.6561907,
+            "longitude": 30.2779432,
+            "geocell": 3263702,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 311747244,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q500107",
+                "wikipedia_pages": {
+                    "en": "Fort Portal"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 311748711,
+            "country": 800,
+            "level1area": [
+                "ugc"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Масака",
+                "sw": "Masaka"
+            },
+            "place_type": 67,
+            "population": 103829,
+            "latitude": -0.3390264,
+            "longitude": 31.7465839,
+            "geocell": 3227717,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 311748711,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q956659",
+                "wikipedia_pages": {
+                    "en": "Masaka"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 435662822,
+            "country": 800,
+            "level1area": [
+                "ugw"
+            ],
+            "level2area": [
+                "ug408"
+            ],
+            "names": {
+                "ru": "Кисоро",
+                "sw": "Kisoro"
+            },
+            "place_type": 84,
+            "population": 17561,
+            "latitude": -1.2822138,
+            "longitude": 29.6926665,
+            "geocell": 3195296,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 435662822,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q525954",
+                "wikipedia_pages": {
+                    "en": "Kisoro"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 773119937,
+            "country": 800,
+            "level1area": [
+                "ugc"
+            ],
+            "level2area": [
+                "ug102"
+            ],
+            "names": {
+                "ar": "كمبالا",
+                "be": "Кампала",
+                "bg": "Кампала",
+                "br": "Kampala",
+                "ckb": "کامپالا",
+                "de": "Kampala",
+                "el": "Καμπάλα",
+                "en": "Kampala",
+                "eo": "Kampalo",
+                "es": "Kampala",
+                "fa": "کامپالا",
+                "fr": "Kampala",
+                "he": "קמפלה",
+                "hi": "कंपाला",
+                "hu": "Kampala",
+                "hy": "Կամպալա",
+                "it": "Kampala",
+                "ja": "カンパラ",
+                "ka": "კამპალა",
+                "kn": "ಕಂಪಾಲಾ",
+                "ko": "캄팔라",
+                "ky": "Кампала",
+                "mk": "Кампала",
+                "mr": "कंपाला",
+                "nl": "Kampala",
+                "pl": "Kampala",
+                "pt": "Kampala",
+                "ru": "Кампала",
+                "sr": "Кампала",
+                "sv": "Kampala",
+                "sw": "Kampala",
+                "ta": "கம்பாலா",
+                "tg": "Кампала",
+                "th": "กัมปาลา",
+                "tr": "Kampala",
+                "udm": "Кампала",
+                "ug": "كامپالا",
+                "uk": "Кампала",
+                "ur": "کمپالا"
+            },
+            "place_type": 67,
+            "population": 1516210,
+            "latitude": 0.3177137,
+            "longitude": 32.5813539,
+            "geocell": 3252925,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 773119937,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3894",
+                "wikipedia_pages": {
+                    "en": "Kampala"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1277061228,
+            "country": 800,
+            "level1area": [
+                "ugw"
+            ],
+            "level2area": [
+                "ug409"
+            ],
+            "names": {
+                "lt": "Masindis",
+                "sw": "Masindi"
+            },
+            "place_type": 67,
+            "population": 94622,
+            "latitude": 1.6852537,
+            "longitude": 31.7205937,
+            "geocell": 3299717,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1277061228,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1907120",
+                "wikipedia_pages": {
+                    "en": "Masindi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1655924532,
+            "country": 800,
+            "level1area": [
+                "ugc"
+            ],
+            "level2area": [
+                "ug104"
+            ],
+            "names": {
+                "sw": "Wobulenzi"
+            },
+            "place_type": 84,
+            "population": 27027,
+            "latitude": 0.7190602,
+            "longitude": 32.5285573,
+            "geocell": 3267325,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1655924532,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q15076215",
+                "wikipedia_pages": {
+                    "en": "Wobulenzi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1656035909,
+            "country": 800,
+            "level1area": [
+                "ugn"
+            ],
+            "level2area": [
+                "ug302"
+            ],
+            "names": {
+                "sw": "Apac"
+            },
+            "place_type": 84,
+            "population": 13700,
+            "latitude": 1.9847397,
+            "longitude": 32.5342155,
+            "geocell": 3310525,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1656035909,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2041227",
+                "wikipedia_pages": {
+                    "en": "Apac"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1818076420,
+            "country": 800,
+            "level1area": [
+                "ugn"
+            ],
+            "level2area": [
+                "ug318"
+            ],
+            "names": {
+                "sw": "Kaabong"
+            },
+            "place_type": 84,
+            "population": 23900,
+            "latitude": 3.5091967,
+            "longitude": 34.137534,
+            "geocell": 3368141,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1818076420,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6272909",
+                "wikipedia_pages": {
+                    "en": "Kaabong"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1999485035,
+            "country": 800,
+            "level1area": [
+                "ugn"
+            ],
+            "level2area": [
+                "ug303"
+            ],
+            "names": {
+                "ko": "아루아",
+                "sw": "Arua"
+            },
+            "place_type": 84,
+            "population": 62657,
+            "latitude": 3.0225076,
+            "longitude": 30.9104823,
+            "geocell": 3350109,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1999485035,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q500111",
+                "wikipedia_pages": {
+                    "en": "Arua"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2099387574,
+            "country": 800,
+            "level1area": [
+                "ugc"
+            ],
+            "level2area": null,
+            "names": {
+                "ko": "엔테베",
+                "sw": "Entebbe"
+            },
+            "place_type": 67,
+            "population": 69958,
+            "latitude": 0.0611715,
+            "longitude": 32.4698564,
+            "geocell": 3242124,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2099387574,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q211970",
+                "wikipedia_pages": {
+                    "en": "Entebbe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2163191058,
+            "country": 800,
+            "level1area": [
+                "ugc"
+            ],
+            "level2area": [
+                "ug113"
+            ],
+            "names": {
+                "ko": "키라",
+                "sw": "Kira"
+            },
+            "place_type": 67,
+            "population": 313761,
+            "latitude": 0.4003408,
+            "longitude": 32.6391845,
+            "geocell": 3256526,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2163191058,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q966819",
+                "wikipedia_pages": {
+                    "en": "Kira Town"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2229104438,
+            "country": 800,
+            "level1area": [
+                "uge"
+            ],
+            "level2area": [
+                "ug204"
+            ],
+            "names": {
+                "sw": "Buwenge"
+            },
+            "place_type": 84,
+            "population": 22000,
+            "latitude": 0.6490172,
+            "longitude": 33.1706213,
+            "geocell": 3263731,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2229104438,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5003228",
+                "wikipedia_pages": {
+                    "en": "Buwenge"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2229110603,
+            "country": 800,
+            "level1area": [
+                "ugc"
+            ],
+            "level2area": [
+                "ug125"
+            ],
+            "names": {
+                "sw": "Kalisizo"
+            },
+            "place_type": 84,
+            "population": 32700,
+            "latitude": -0.5340073,
+            "longitude": 31.6211959,
+            "geocell": 3220516,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2229110603,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6353141",
+                "wikipedia_pages": {
+                    "en": "Kalisizo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2229117829,
+            "country": 800,
+            "level1area": [
+                "ugw"
+            ],
+            "level2area": [
+                "ug432"
+            ],
+            "names": {
+                "sw": "Kyangwali"
+            },
+            "place_type": 84,
+            "population": 40026,
+            "latitude": 1.2273353,
+            "longitude": 30.8192486,
+            "geocell": 3285308,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2229117829,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2229120413,
+            "country": 800,
+            "level1area": [
+                "ugn"
+            ],
+            "level2area": [
+                "ug305"
+            ],
+            "names": {
+                "sw": "Namokora"
+            },
+            "place_type": 84,
+            "population": 19300,
+            "latitude": 3.3483484,
+            "longitude": 33.3343672,
+            "geocell": 3360933,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2229120413,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2229123931,
+            "country": 800,
+            "level1area": [
+                "ugn"
+            ],
+            "level2area": [
+                "ug312"
+            ],
+            "names": {
+                "sw": "Pader"
+            },
+            "place_type": 84,
+            "population": 13500,
+            "latitude": 2.8792604,
+            "longitude": 33.085819,
+            "geocell": 3342930,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2229123931,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6697104",
+                "wikipedia_pages": {
+                    "en": "Pader, Uganda"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2242410078,
+            "country": 800,
+            "level1area": [
+                "ugn"
+            ],
+            "level2area": [
+                "ug306"
+            ],
+            "names": {
+                "ro": "Kotido",
+                "sw": "Kotido"
+            },
+            "place_type": 84,
+            "population": 22900,
+            "latitude": 3.008143,
+            "longitude": 34.115341,
+            "geocell": 3350141,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2242410078,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2505963",
+                "wikipedia_pages": {
+                    "en": "Kotido"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2685125666,
+            "country": 800,
+            "level1area": [
+                "ugw"
+            ],
+            "level2area": [
+                "ug406"
+            ],
+            "names": {
+                "ru": "Касесе",
+                "sw": "Kasese"
+            },
+            "place_type": 67,
+            "population": 101679,
+            "latitude": 0.1723828,
+            "longitude": 30.085695,
+            "geocell": 3245700,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2685125666,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1232016",
+                "wikipedia_pages": {
+                    "en": "Kasese"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3302462647,
+            "country": 800,
+            "level1area": [
+                "uge"
+            ],
+            "level2area": [
+                "ug217"
+            ],
+            "names": {
+                "sw": "Budaka"
+            },
+            "place_type": 84,
+            "population": 178900,
+            "latitude": 1.0158418,
+            "longitude": 33.9490661,
+            "geocell": 3278139,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3302462647,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4864845",
+                "wikipedia_pages": {
+                    "en": "Budaka town"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3496962324,
+            "country": 800,
+            "level1area": [
+                "ugc"
+            ],
+            "level2area": [
+                "ug104"
+            ],
+            "names": {
+                "sw": "Luweero"
+            },
+            "place_type": 84,
+            "population": 42734,
+            "latitude": 0.8409356,
+            "longitude": 32.4935273,
+            "geocell": 3270924,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3496962324,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2318123",
+                "wikipedia_pages": {
+                    "en": "Luweero"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3500961528,
+            "country": 800,
+            "level1area": [
+                "ugc"
+            ],
+            "level2area": [
+                "ug113"
+            ],
+            "names": {
+                "sw": "Nansana"
+            },
+            "place_type": 67,
+            "population": 144441,
+            "latitude": 0.365816,
+            "longitude": 32.529226,
+            "geocell": 3252925,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3500961528,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q965956",
+                "wikipedia_pages": {
+                    "en": "Nansana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3533063859,
+            "country": 800,
+            "level1area": [
+                "ugc"
+            ],
+            "level2area": [
+                "ug104"
+            ],
+            "names": {
+                "ru": "Бомбо",
+                "sw": "Bombo"
+            },
+            "place_type": 84,
+            "population": 26370,
+            "latitude": 0.5770175,
+            "longitude": 32.5370142,
+            "geocell": 3260125,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3533063859,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4940747",
+                "wikipedia_pages": {
+                    "en": "Bombo, Uganda"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4534154091,
+            "country": 800,
+            "level1area": [
+                "uge"
+            ],
+            "level2area": [
+                "ug208"
+            ],
+            "names": {
+                "sw": "Kumi"
+            },
+            "place_type": 84,
+            "population": 13000,
+            "latitude": 1.4862082,
+            "longitude": 33.9331264,
+            "geocell": 3292539,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4534154091,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6273034",
+                "wikipedia_pages": {
+                    "en": "Kumi Town"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5957492393,
+            "country": 800,
+            "level1area": [
+                "ugn"
+            ],
+            "level2area": [
+                "ug313"
+            ],
+            "names": {
+                "sw": "Village 09;Bolomoni"
+            },
+            "place_type": 86,
+            "population": 31524,
+            "latitude": 3.291035,
+            "longitude": 31.3145267,
+            "geocell": 3357313,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5957492393,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6007449362,
+            "country": 800,
+            "level1area": [
+                "ugn"
+            ],
+            "level2area": [
+                "ug313"
+            ],
+            "names": {
+                "sw": "Block 09"
+            },
+            "place_type": 86,
+            "population": 20500,
+            "latitude": 3.3318617,
+            "longitude": 31.2941,
+            "geocell": 3360912,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6007449362,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7724528513,
+            "country": 800,
+            "level1area": [
+                "ugw"
+            ],
+            "level2area": [
+                "ug402"
+            ],
+            "names": {
+                "sw": "Bushenyi"
+            },
+            "place_type": 84,
+            "population": 41063,
+            "latitude": -0.5409995,
+            "longitude": 30.1887749,
+            "geocell": 3220501,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7724528513,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8341756988,
+            "country": 800,
+            "level1area": [
+                "ugw"
+            ],
+            "level2area": [
+                "ug408"
+            ],
+            "names": {
+                "sw": "Rukoro"
+            },
+            "place_type": 86,
+            "population": 800000,
+            "latitude": -1.2754083,
+            "longitude": 29.6440617,
+            "geocell": 3195296,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8341756988,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8631222375,
+            "country": 800,
+            "level1area": [
+                "ugn"
+            ],
+            "level2area": [
+                "ug330"
+            ],
+            "names": {
+                "sw": "Ajei Central"
+            },
+            "place_type": 86,
+            "population": 12000,
+            "latitude": 2.4763,
+            "longitude": 30.925435,
+            "geocell": 3328509,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8631222375,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9174655891,
+            "country": 800,
+            "level1area": [
+                "uge"
+            ],
+            "level2area": [
+                "ug202"
+            ],
+            "names": {
+                "sw": "Lumino"
+            },
+            "place_type": 86,
+            "population": 14624,
+            "latitude": 0.3257359,
+            "longitude": 33.9957017,
+            "geocell": 3252939,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9174655891,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q22082387",
+                "wikipedia_pages": {
+                    "en": "Lumino, Uganda"
+                }
+            }
+        }
+    }
+]

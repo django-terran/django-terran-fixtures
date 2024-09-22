@@ -1,0 +1,131 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 115622916,
+            "country": 548,
+            "level1area": [
+                "vusee"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Port Vila",
+                "ar": "بورت فيلا",
+                "ast": "Puertu Villa",
+                "az": "Port Vila",
+                "be": "Порт-Віла",
+                "bg": "Порт Вила",
+                "bi": "Port Vila",
+                "bn": "পোর্ট ভিলা",
+                "br": "Port Vila",
+                "bs": "Port Vila",
+                "ca": "Port Vila",
+                "cs": "Port Vila",
+                "cy": "Port Vila",
+                "da": "Port Vila",
+                "de": "Port Vila",
+                "el": "Πορτ Βίλα",
+                "en": "Port Vila",
+                "eo": "Portvilao",
+                "es": "Port Vila",
+                "et": "Port Vila",
+                "eu": "Port Vila",
+                "fa": "پورت ویلا",
+                "fi": "Port Vila",
+                "fr": "Port-Vila",
+                "fy": "Port Fila",
+                "gd": "Port Vila",
+                "gl": "Port Vila",
+                "he": "פורט וילה",
+                "hi": "पोर्ट विला",
+                "hr": "Port Vila",
+                "hu": "Port Vila",
+                "hy": "Պորտ Վիլա",
+                "id": "Port Vila",
+                "io": "Port Vila",
+                "is": "Port Vila",
+                "it": "Port Vila",
+                "ja": "ポートビラ",
+                "ka": "პორტ-ვილა",
+                "ko": "포트빌라",
+                "ky": "Порт-Вила",
+                "lb": "Port Vila",
+                "lt": "Port Vila",
+                "lv": "Vila",
+                "mk": "Порт Вила",
+                "ml": "പോർട്ട് വില",
+                "mr": "पोर्ट व्हिला",
+                "ms": "Port Vila",
+                "nl": "Port Vila",
+                "os": "Порт-Вилæ",
+                "pa": "ਪੋਰਟ ਵਿਲਾ",
+                "pl": "Port Vila",
+                "pt": "Porto Vila",
+                "ro": "Port Vila",
+                "ru": "Порт-Вила",
+                "sk": "Port Vila",
+                "sl": "Port Vila",
+                "sq": "Port Vila",
+                "sr": "Порт Вила",
+                "sv": "Port Vila",
+                "sw": "Port Vila",
+                "ta": "போர்ட் விலா",
+                "tg": "Порт-Вила",
+                "th": "พอร์ตวิลา",
+                "tr": "Port Vila",
+                "uk": "Порт-Віла",
+                "ur": "پورٹ ولا",
+                "uz": "Port-vila",
+                "vi": "Port Vila"
+            },
+            "place_type": 67,
+            "population": 44039,
+            "latitude": -17.7414972,
+            "longitude": 168.3150163,
+            "geocell": 2602683,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 115622916,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q37806",
+                "wikipedia_pages": {
+                    "en": "Port Vila"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2087030825,
+            "country": 548,
+            "level1area": [
+                "vusam"
+            ],
+            "level2area": null,
+            "names": {
+                "bi": "Luganville",
+                "de": "Luganville",
+                "fr": "Luganville",
+                "lt": "Luganvilis",
+                "ru": "Люганвиль"
+            },
+            "place_type": 67,
+            "population": 13156,
+            "latitude": -15.5121107,
+            "longitude": 167.1784414,
+            "geocell": 2681871,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2087030825,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q876557",
+                "wikipedia_pages": {
+                    "en": "Luganville"
+                }
+            }
+        }
+    }
+]

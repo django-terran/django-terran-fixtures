@@ -1,0 +1,1509 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 129991407,
+            "country": 498,
+            "level1area": [
+                "mdcu"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Chișinău",
+                "ar": "كيشيناو",
+                "ast": "Quixináu",
+                "az": "Kişinyov",
+                "be": "Кішынёў",
+                "bg": "Кишинев",
+                "br": "Chișinău",
+                "bs": "Kišinjev",
+                "ckb": "کیشیناو",
+                "cs": "Kišiněv",
+                "cy": "Chișinău",
+                "de": "Kischinau",
+                "el": "Κισινάου",
+                "en": "Chișinău",
+                "eo": "Kiŝinevo",
+                "es": "Chisinau",
+                "eu": "Chisinau",
+                "fa": "کیشیناو",
+                "fr": "Chisinau",
+                "ga": "Císineá",
+                "gd": "Chișinău",
+                "gl": "Chișinău",
+                "he": "קישינב",
+                "hi": "चिशिनाउ",
+                "hr": "Kišinjev",
+                "hsb": "Kišinjow",
+                "hu": "Kisinyov",
+                "hy": "Քիշնև",
+                "id": "Kishinev",
+                "io": "Chisinau",
+                "is": "Kisínev",
+                "it": "Chișinău",
+                "ja": "キシナウ",
+                "ka": "კიშინიოვი",
+                "kk": "Кишинев",
+                "kn": "ಕಿಶಿನೆವ್",
+                "ko": "키시너우",
+                "lb": "Chișinău",
+                "lt": "Kišiniovas",
+                "lv": "Kišiņeva",
+                "mk": "Кишињев",
+                "ml": "കിഷിനൌ",
+                "mr": "चिशिनाउ",
+                "nl": "Chisinau",
+                "nn": "Chișinău",
+                "os": "Кишинёв",
+                "pa": "ਕਿਸ਼ਨਾਓ",
+                "pl": "Kiszyniów",
+                "pt": "Chişinău",
+                "ro": "Chișinău",
+                "ru": "Кишинёв",
+                "sk": "Kišiňov",
+                "sl": "Kišinjev",
+                "sq": "Kishinau",
+                "sr": "Кишињев",
+                "sv": "Chisinau",
+                "sw": "Kishineu",
+                "ta": "சிஷினோ",
+                "tg": "Кишинёв",
+                "th": "คีชีเนา",
+                "tr": "Kişinev",
+                "tt": "Кишенәү",
+                "udm": "Кишинёв",
+                "ug": "كىشىنېۋ",
+                "uk": "Кишинів",
+                "ur": "کیشیناو",
+                "vi": "Chișinău"
+            },
+            "place_type": 67,
+            "population": 756900,
+            "latitude": 47.0245117,
+            "longitude": 28.8322923,
+            "geocell": 4934088,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 129991407,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.chisinau.md",
+                "wikidata_page_name": "Q21197",
+                "wikipedia_pages": {
+                    "ro": "Chișinău"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 261076253,
+            "country": 498,
+            "level1area": [
+                "mdun"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Унгень",
+                "bg": "Унге́н",
+                "de": "Ungheni",
+                "en": "Ungheni",
+                "es": "Ungheni",
+                "fi": "Ungheni",
+                "fr": "Ungheni",
+                "pt": "Ungheni",
+                "ro": "Ungheni",
+                "ru": "Унгены",
+                "sr": "Унгени",
+                "uk": "Унгени",
+                "ur": "اونگینی"
+            },
+            "place_type": 67,
+            "population": 38000,
+            "latitude": 47.2059965,
+            "longitude": 27.798917,
+            "geocell": 4941277,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 261076253,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q858713",
+                "wikipedia_pages": {
+                    "ro": "Ungheni"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 262054858,
+            "country": 498,
+            "level1area": [
+                "mdcu"
+            ],
+            "level2area": null,
+            "names": {
+                "ro": "Codru",
+                "ru": "Кодру"
+            },
+            "place_type": 84,
+            "population": 11500,
+            "latitude": 46.982736,
+            "longitude": 28.8155561,
+            "geocell": 4930488,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 262054858,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 262632905,
+            "country": 498,
+            "level1area": [
+                "mdcu"
+            ],
+            "level2area": null,
+            "names": {
+                "ro": "Cricova",
+                "ru": "Крикова"
+            },
+            "place_type": 84,
+            "population": 10642,
+            "latitude": 47.1387678,
+            "longitude": 28.8630616,
+            "geocell": 4937688,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 262632905,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 262635287,
+            "country": 498,
+            "level1area": [
+                "mdcl"
+            ],
+            "level2area": null,
+            "names": {
+                "ro": "Călărași",
+                "ru": "Калараш"
+            },
+            "place_type": 84,
+            "population": 16100,
+            "latitude": 47.2496047,
+            "longitude": 28.313869,
+            "geocell": 4941283,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 262635287,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1014367",
+                "wikipedia_pages": {
+                    "ro": "Călărași, Moldova"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 262635301,
+            "country": 498,
+            "level1area": [
+                "mdst"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Стръшени",
+                "pl": "Straszeny",
+                "ro": "Strășeni",
+                "ru": "Страшены"
+            },
+            "place_type": 67,
+            "population": 21100,
+            "latitude": 47.1474401,
+            "longitude": 28.6150196,
+            "geocell": 4937686,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 262635301,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2006102",
+                "wikipedia_pages": {
+                    "ro": "Strășeni"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 265099146,
+            "country": 498,
+            "level1area": [
+                "mddo"
+            ],
+            "level2area": null,
+            "names": {
+                "ro": "Dondușeni",
+                "ru": "Дондюшаны"
+            },
+            "place_type": 84,
+            "population": 10500,
+            "latitude": 48.2374994,
+            "longitude": 27.610869,
+            "geocell": 4977276,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 265099146,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1901003",
+                "wikipedia_pages": {
+                    "ru": "Дондюшаны"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 265099147,
+            "country": 498,
+            "level1area": [
+                "mded"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Единец",
+                "pl": "Jedyńce",
+                "ro": "Edineț",
+                "ru": "Единец",
+                "tr": "Yedinci"
+            },
+            "place_type": 67,
+            "population": 20200,
+            "latitude": 48.1684275,
+            "longitude": 27.2984813,
+            "geocell": 4973672,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 265099147,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1150271",
+                "wikipedia_pages": {
+                    "ro": "Edineț"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 265099148,
+            "country": 498,
+            "level1area": [
+                "mdso"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Сороки",
+                "ko": "소로키",
+                "pl": "Soroki",
+                "ro": "Soroca",
+                "ru": "Сороки",
+                "uk": "Сороки"
+            },
+            "place_type": 67,
+            "population": 37400,
+            "latitude": 48.1571286,
+            "longitude": 28.2996052,
+            "geocell": 4973682,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 265099148,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q853785",
+                "wikipedia_pages": {
+                    "ro": "Soroca"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 265099149,
+            "country": 498,
+            "level1area": [
+                "mddr"
+            ],
+            "level2area": null,
+            "names": {
+                "ro": "Drochia",
+                "ru": "Дрокия"
+            },
+            "place_type": 84,
+            "population": 16606,
+            "latitude": 48.0318141,
+            "longitude": 27.8157233,
+            "geocell": 4970078,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 265099149,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 265099150,
+            "country": 498,
+            "level1area": [
+                "mdri"
+            ],
+            "level2area": null,
+            "names": {
+                "ko": "리슈카니",
+                "ro": "Rîșcani",
+                "ru": "Рышканы",
+                "uk": "Ришкани"
+            },
+            "place_type": 84,
+            "population": 14400,
+            "latitude": 47.9535987,
+            "longitude": 27.5514453,
+            "geocell": 4966475,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 265099150,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1022131",
+                "wikipedia_pages": {
+                    "ru": "Рышканы"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 265099152,
+            "country": 498,
+            "level1area": [
+                "mdgl"
+            ],
+            "level2area": null,
+            "names": {
+                "pl": "Głodziany",
+                "ro": "Glodeni",
+                "ru": "Глодяны"
+            },
+            "place_type": 84,
+            "population": 12000,
+            "latitude": 47.7744001,
+            "longitude": 27.50441,
+            "geocell": 4959275,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 265099152,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2292609",
+                "wikipedia_pages": {
+                    "ro": "Glodeni, Moldova"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 265099156,
+            "country": 498,
+            "level1area": [
+                "mdsi"
+            ],
+            "level2area": null,
+            "names": {
+                "ro": "Sîngerei",
+                "ru": "Сынжерей"
+            },
+            "place_type": 84,
+            "population": 15300,
+            "latitude": 47.636085,
+            "longitude": 28.1455434,
+            "geocell": 4955681,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 265099156,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2249997",
+                "wikipedia_pages": {
+                    "ro": "Sîngerei"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 265099157,
+            "country": 498,
+            "level1area": [
+                "mdfa"
+            ],
+            "level2area": null,
+            "names": {
+                "ko": "팔레슈티",
+                "ro": "Fălești",
+                "ru": "Фалешты",
+                "uk": "Фалешти"
+            },
+            "place_type": 84,
+            "population": 18300,
+            "latitude": 47.5735141,
+            "longitude": 27.7068016,
+            "geocell": 4952077,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 265099157,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2078085",
+                "wikipedia_pages": {
+                    "ro": "Fălești"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 265099159,
+            "country": 498,
+            "level1area": [
+                "mdor"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Орхей",
+                "ca": "Orhei",
+                "de": "Orhei",
+                "en": "Orhei",
+                "es": "Orhei",
+                "fi": "Orhei",
+                "fr": "Orhei",
+                "lt": "Orhėjus",
+                "nl": "Orhei",
+                "pl": "Orgiejów",
+                "ro": "Orhei",
+                "ru": "Орхей"
+            },
+            "place_type": 67,
+            "population": 33500,
+            "latitude": 47.3782288,
+            "longitude": 28.8246754,
+            "geocell": 4944888,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 265099159,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "facebook": "https://www.facebook.com/orhei.md",
+                "website": "https://www.orhei.md/",
+                "wikidata_page_name": "Q423258",
+                "wikipedia_pages": {
+                    "ro": "Orhei"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 265099162,
+            "country": 498,
+            "level1area": [
+                "mdni"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Nisporeni",
+                "fr": "Nisporeni",
+                "hsb": "Nisporeni",
+                "pl": "Nisporeny",
+                "ro": "Nisporeni",
+                "ru": "Ниспорены",
+                "sr": "Ниспорени",
+                "uk": "Ніспорени",
+                "ur": "نیسپورینی"
+            },
+            "place_type": 84,
+            "population": 14700,
+            "latitude": 47.07758,
+            "longitude": 28.177842,
+            "geocell": 4934081,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 265099162,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2089107",
+                "wikipedia_pages": {
+                    "ro": "Nisporeni"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 265099163,
+            "country": 498,
+            "level1area": [
+                "mdia"
+            ],
+            "level2area": null,
+            "names": {
+                "ro": "Ialoveni",
+                "ru": "Яловены"
+            },
+            "place_type": 84,
+            "population": 15300,
+            "latitude": 46.9437563,
+            "longitude": 28.7767351,
+            "geocell": 4930487,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 265099163,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q597086",
+                "wikipedia_pages": {
+                    "ro": "Ialoveni"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 265099164,
+            "country": 498,
+            "level1area": [
+                "mdan"
+            ],
+            "level2area": null,
+            "names": {
+                "pl": "Nowe Anieny",
+                "ro": "Anenii Noi",
+                "ru": "Новые Анены"
+            },
+            "place_type": 84,
+            "population": 11700,
+            "latitude": 46.8815631,
+            "longitude": 29.2309122,
+            "geocell": 4926892,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 265099164,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q529282",
+                "wikipedia_pages": {
+                    "ru": "Новые Анены"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 265099165,
+            "country": 498,
+            "level1area": [
+                "mdbd"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بيندر",
+                "az": "Bəndər",
+                "be": "Бендэр",
+                "bg": "Бендери",
+                "de": "Bendery",
+                "en": "Bender",
+                "et": "Bender",
+                "fr": "Bender",
+                "he": "טיגינה",
+                "hy": "Բենդերի",
+                "ja": "ベンデル",
+                "ka": "ბენდერი",
+                "ko": "벤데르",
+                "lt": "Benderai",
+                "nl": "Bender",
+                "pl": "Bendery",
+                "ro": "Bender",
+                "ru": "Бендеры",
+                "tr": "Bender",
+                "uk": "Бендери"
+            },
+            "place_type": 67,
+            "population": 97027,
+            "latitude": 46.8218177,
+            "longitude": 29.4819196,
+            "geocell": 4926894,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 265099165,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q192176",
+                "wikipedia_pages": {
+                    "ru": "Бендеры"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 265099168,
+            "country": 498,
+            "level1area": [
+                "mdcs"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Къушани",
+                "ro": "Căușeni",
+                "ru": "Каушаны"
+            },
+            "place_type": 84,
+            "population": 19900,
+            "latitude": 46.6395913,
+            "longitude": 29.4056631,
+            "geocell": 4919694,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 265099168,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q657744",
+                "wikipedia_pages": {
+                    "ro": "Căușeni"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 265099170,
+            "country": 498,
+            "level1area": [
+                "mdcm"
+            ],
+            "level2area": null,
+            "names": {
+                "ko": "치미슐리야",
+                "pl": "Cimiszla",
+                "ro": "Cimișlia",
+                "ru": "Чимишлия",
+                "uk": "Чимішлія"
+            },
+            "place_type": 84,
+            "population": 16100,
+            "latitude": 46.5214777,
+            "longitude": 28.7832993,
+            "geocell": 4916087,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 265099170,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2019719",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 265099171,
+            "country": 498,
+            "level1area": [
+                "mdle"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Леова",
+                "en": "Leova",
+                "ro": "Leova",
+                "ru": "Леова"
+            },
+            "place_type": 84,
+            "population": 10900,
+            "latitude": 46.4780285,
+            "longitude": 28.2539655,
+            "geocell": 4912482,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 265099171,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2199004",
+                "wikipedia_pages": {
+                    "ro": "Leova"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 265099173,
+            "country": 498,
+            "level1area": [
+                "mdbs"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Бесарабка",
+                "de": "Basarabeasca",
+                "ka": "ბასარაბეასკა",
+                "ko": "베사라브카",
+                "lt": "Basarabiaska",
+                "pl": "Besarabka",
+                "ro": "Basarabeasca",
+                "ru": "Басарабяска",
+                "uk": "Бессарабка"
+            },
+            "place_type": 84,
+            "population": 12500,
+            "latitude": 46.3336041,
+            "longitude": 28.9615656,
+            "geocell": 4908889,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 265099173,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q809787",
+                "wikipedia_pages": {
+                    "ru": "Бессарабка"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 265099174,
+            "country": 498,
+            "level1area": [
+                "mdga"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Komrat",
+                "bg": "Комрат",
+                "ko": "콤라트",
+                "lt": "Komratas",
+                "pl": "Komrat",
+                "ro": "Comrat",
+                "ru": "Комрат",
+                "tr": "Komrat",
+                "uk": "Комрат"
+            },
+            "place_type": 67,
+            "population": 20113,
+            "latitude": 46.301119,
+            "longitude": 28.6558805,
+            "geocell": 4908886,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 265099174,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://comrat.md/",
+                "wikidata_page_name": "Q241122",
+                "wikipedia_pages": {
+                    "ro": "Comrat"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 265099177,
+            "country": 498,
+            "level1area": [
+                "mdca"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Кахул",
+                "ko": "카우훌",
+                "pl": "Kaguł",
+                "ro": "Cahul",
+                "ru": "Кагул",
+                "uk": "Каугул"
+            },
+            "place_type": 67,
+            "population": 39500,
+            "latitude": 45.9044087,
+            "longitude": 28.1946583,
+            "geocell": 4894481,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 265099177,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q503469",
+                "wikipedia_pages": {
+                    "ro": "Cahul"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 265099180,
+            "country": 498,
+            "level1area": [
+                "mdta"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Тараклия",
+                "ko": "타라클리야",
+                "lt": "Taraklija",
+                "ro": "Taraclia",
+                "ru": "Тараклия",
+                "uk": "Тараклія"
+            },
+            "place_type": 84,
+            "population": 21768,
+            "latitude": 45.8957779,
+            "longitude": 28.667035,
+            "geocell": 4890886,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 265099180,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://taraclia.md/",
+                "wikidata_page_name": "Q2006121",
+                "wikipedia_pages": {
+                    "ro": "Taraclia"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 266140221,
+            "country": 498,
+            "level1area": [
+                "mdcu"
+            ],
+            "level2area": null,
+            "names": {
+                "ro": "Durlești",
+                "ru": "Дурлешты"
+            },
+            "place_type": 84,
+            "population": 17900,
+            "latitude": 47.0176734,
+            "longitude": 28.7625586,
+            "geocell": 4934087,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 266140221,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 266185307,
+            "country": 498,
+            "level1area": [
+                "mdba"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Бэлць",
+                "bg": "Белци",
+                "el": "Μπάλτσι",
+                "ko": "벨치",
+                "lt": "Belcis",
+                "lv": "Belci",
+                "pl": "Bielce",
+                "ro": "Bălți",
+                "ru": "Бельцы",
+                "tr": "Balçık",
+                "uk": "Бельці"
+            },
+            "place_type": 67,
+            "population": 144800,
+            "latitude": 47.7623952,
+            "longitude": 27.9286022,
+            "geocell": 4959279,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 266185307,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.balti.md/",
+                "wikidata_page_name": "Q37801",
+                "wikipedia_pages": {
+                    "ro": "Bălți"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 273185788,
+            "country": 498,
+            "level1area": [
+                "mdsn"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Slobozia",
+                "en": "Slobozia",
+                "ko": "슬로보제야",
+                "ro": "Slobozia",
+                "ru": "Слободзея",
+                "uk": "Слободзея"
+            },
+            "place_type": 84,
+            "population": 16062,
+            "latitude": 46.7276351,
+            "longitude": 29.7087054,
+            "geocell": 4923297,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 273185788,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://slobadmin.ru/",
+                "wikidata_page_name": "Q603400",
+                "wikipedia_pages": {
+                    "ru": "Слободзея (Приднестровье)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 273195987,
+            "country": 498,
+            "level1area": [
+                "mdga"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Вулкънещ",
+                "de": "Wulkaneschty",
+                "pl": "Wułkanieszty",
+                "ro": "Vulcănești",
+                "ru": "Вулканешты"
+            },
+            "place_type": 84,
+            "population": 22000,
+            "latitude": 45.6824005,
+            "longitude": 28.4022095,
+            "geocell": 4883684,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 273195987,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1012868",
+                "wikipedia_pages": {
+                    "ro": "Vulcănești"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 273491045,
+            "country": 498,
+            "level1area": [
+                "mdcu"
+            ],
+            "level2area": null,
+            "names": {
+                "ro": "Sîngera",
+                "ru": "Сынжера"
+            },
+            "place_type": 84,
+            "population": 12000,
+            "latitude": 46.9140101,
+            "longitude": 28.9725412,
+            "geocell": 4930489,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 273491045,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2628984",
+                "wikipedia_pages": {
+                    "ru": "Сынджера"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 274071838,
+            "country": 498,
+            "level1area": [
+                "mdga"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Чадър Лунга",
+                "el": "Τσαντίρ Λούνγκα",
+                "ko": "차디르룬하",
+                "pl": "Czadyr-Łunga",
+                "ro": "Ceadîr-Lunga",
+                "ru": "Чадыр-Лунга",
+                "tr": "Çadır Lunga",
+                "uk": "Чадир-Лунга"
+            },
+            "place_type": 67,
+            "population": 22700,
+            "latitude": 46.057226,
+            "longitude": 28.8249983,
+            "geocell": 4898088,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 274071838,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "http://ceadir-lunga.md/",
+                "wikidata_page_name": "Q1012924",
+                "wikipedia_pages": {
+                    "ro": "Ceadîr-Lunga"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 274072659,
+            "country": 498,
+            "level1area": [
+                "mdga"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Конгаз",
+                "pl": "Kongaz",
+                "ro": "Congaz",
+                "ru": "Конгаз"
+            },
+            "place_type": 84,
+            "population": 13406,
+            "latitude": 46.1078974,
+            "longitude": 28.6021997,
+            "geocell": 4901686,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 274072659,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2565855",
+                "wikipedia_pages": {
+                    "ro": "Congaz, Găgăuzia"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 278767851,
+            "country": 498,
+            "level1area": [
+                "mdsn"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Dnestrowsk",
+                "en": "Dnestrovsk",
+                "ko": "드니스트로우스크",
+                "ro": "Dnestrovsc",
+                "ru": "Днестровск",
+                "uk": "Дністровськ"
+            },
+            "place_type": 84,
+            "population": 12382,
+            "latitude": 46.6251756,
+            "longitude": 29.9084843,
+            "geocell": 4919699,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 278767851,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q219547",
+                "wikipedia_pages": {
+                    "ru": "Днестровск"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 278768080,
+            "country": 498,
+            "level1area": [
+                "mdsn"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Dubısari",
+                "bg": "Дубъсари",
+                "de": "Dubossary",
+                "en": "Dubossary",
+                "fr": "Doubossary",
+                "ja": "ドゥベサリ",
+                "ka": "დუბესარი",
+                "ko": "두보사리",
+                "pl": "Dubosary",
+                "ro": "Dubăsari",
+                "ru": "Дубоссары",
+                "uk": "Дубоссари"
+            },
+            "place_type": 84,
+            "population": 25714,
+            "latitude": 47.2687548,
+            "longitude": 29.1493655,
+            "geocell": 4941291,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 278768080,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q688654",
+                "wikipedia_pages": {
+                    "ru": "Дубоссары"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 278775677,
+            "country": 498,
+            "level1area": [
+                "mdsn"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Рыбніца",
+                "bg": "Ръбница",
+                "de": "Rybniza",
+                "en": "Rybnitsa",
+                "fr": "Rîbnița",
+                "he": "ריבניצה",
+                "ja": "ルィブニツァ",
+                "ka": "რიბნიცა",
+                "ko": "르브니차",
+                "mk": "Рибница",
+                "os": "Рыбницæ",
+                "pl": "Rybnica",
+                "ro": "Rîbnița",
+                "ru": "Рыбница",
+                "uk": "Рибниця"
+            },
+            "place_type": 67,
+            "population": 50086,
+            "latitude": 47.7661115,
+            "longitude": 29.0073366,
+            "geocell": 4959290,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 278775677,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "http://www.rybnitsa.org",
+                "wikidata_page_name": "Q216363",
+                "wikipedia_pages": {
+                    "ru": "Рыбница"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 282317476,
+            "country": 498,
+            "level1area": [
+                "mdfl"
+            ],
+            "level2area": null,
+            "names": {
+                "ko": "플로레슈티",
+                "ro": "Florești",
+                "ru": "Флорешты"
+            },
+            "place_type": 84,
+            "population": 15300,
+            "latitude": 47.8938318,
+            "longitude": 28.2996474,
+            "geocell": 4962882,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 282317476,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2072887",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2339172677,
+            "country": 498,
+            "level1area": [
+                "mdsn"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "تيراسبول",
+                "az": "Tiraspol",
+                "be": "Ціраспаль",
+                "bg": "Тираспол",
+                "ca": "Tiraspol",
+                "de": "Tiraspol",
+                "el": "Τιράσπολ",
+                "en": "Tiraspol",
+                "eo": "Tiraspolo",
+                "es": "Tiráspol",
+                "et": "Tiraspol",
+                "fa": "تیراسپل",
+                "fi": "Tiraspol",
+                "fr": "Tiraspol",
+                "gl": "Tiráspol",
+                "he": "טירספול",
+                "hsb": "Tiraspol",
+                "hu": "Tiraszpol",
+                "hy": "Տիրասպոլ",
+                "it": "Tiraspol",
+                "ja": "ティラスポリ",
+                "ka": "ტირასპოლი",
+                "ko": "티라스폴",
+                "lt": "Tiraspolis",
+                "lv": "Tiraspole",
+                "ml": "ടിരാസ്പോൾ",
+                "nl": "Tiraspol",
+                "pl": "Tyraspol",
+                "ro": "Tiraspol",
+                "ru": "Тирасполь",
+                "ta": "திரசுப்போல்",
+                "th": "ตีรัสปอล",
+                "tr": "Tiraspol",
+                "uk": "Тирасполь",
+                "ur": "تیراسپول",
+                "uz": "Tiraspol"
+            },
+            "place_type": 67,
+            "population": 128979,
+            "latitude": 46.8371103,
+            "longitude": 29.6109989,
+            "geocell": 4926896,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2339172677,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://tirasadmin.gospmr.org",
+                "wikidata_page_name": "Q132572",
+                "wikipedia_pages": {
+                    "ru": "Тирасполь"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2399869817,
+            "country": 498,
+            "level1area": [
+                "mdsn"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Sukleja",
+                "en": "Sukleya",
+                "ko": "수클레야",
+                "ro": "Sucleia",
+                "ru": "Суклея",
+                "uk": "Суклея"
+            },
+            "place_type": 86,
+            "population": 10001,
+            "latitude": 46.8254077,
+            "longitude": 29.6636662,
+            "geocell": 4926896,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2399869817,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2638010",
+                "wikipedia_pages": {
+                    "ru": "Суклея"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2561188871,
+            "country": 498,
+            "level1area": [
+                "mdsn"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Паркани",
+                "de": "Parkany",
+                "en": "Parkany",
+                "ko": "파르카니",
+                "ro": "Parcani",
+                "ru": "Парканы",
+                "uk": "Паркани"
+            },
+            "place_type": 86,
+            "population": 10543,
+            "latitude": 46.8372011,
+            "longitude": 29.5173828,
+            "geocell": 4926895,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2561188871,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q212077",
+                "wikipedia_pages": {
+                    "ru": "Парканы (Слободзейский район)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4674764082,
+            "country": 498,
+            "level1area": [
+                "mdre"
+            ],
+            "level2area": null,
+            "names": {
+                "ko": "레지나",
+                "ro": "Rezina",
+                "ru": "Резина",
+                "uk": "Резина"
+            },
+            "place_type": 84,
+            "population": 10196,
+            "latitude": 47.7478918,
+            "longitude": 28.9681221,
+            "geocell": 4959289,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4674764082,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2281181",
+                "wikipedia_pages": {
+                    "ru": "Резина (город)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5011406121,
+            "country": 498,
+            "level1area": [
+                "mdhi"
+            ],
+            "level2area": null,
+            "names": {
+                "ko": "힌체슈티",
+                "ro": "Hîncești",
+                "ru": "Хынчешты",
+                "uk": "Хинчешти"
+            },
+            "place_type": 67,
+            "population": 12491,
+            "latitude": 46.8302002,
+            "longitude": 28.5871433,
+            "geocell": 4926885,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5011406121,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1141853",
+                "wikipedia_pages": {
+                    "ro": "Hîncești"
+                }
+            }
+        }
+    }
+]

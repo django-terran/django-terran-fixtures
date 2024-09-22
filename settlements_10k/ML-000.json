@@ -1,0 +1,1192 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27564954,
+            "country": 466,
+            "level1area": [
+                "mlbko"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "باماكو",
+                "be": "Бамако",
+                "bg": "Бамако",
+                "br": "Bamako",
+                "ckb": "باماکۆ",
+                "de": "Bamako",
+                "el": "Μπαμακό",
+                "en": "Bamako",
+                "eo": "Bamako",
+                "es": "Bamako",
+                "fa": "باماکو",
+                "fr": "Bamako",
+                "gl": "Bamaco",
+                "he": "במקו",
+                "hi": "बमाको",
+                "hu": "Bamako",
+                "hy": "Բամակո",
+                "is": "Bamakó",
+                "it": "Bamako",
+                "ja": "バマコ",
+                "ka": "ბამაკო",
+                "kab": "Bamaku",
+                "ko": "바마코",
+                "ky": "Бамако",
+                "lt": "Bamakas",
+                "mk": "Бамако",
+                "mr": "बमाको",
+                "nl": "Bamako",
+                "os": "Бамако",
+                "pl": "Bamako",
+                "ru": "Бамако",
+                "sr": "Бамако",
+                "sv": "Bamako",
+                "ta": "பமாக்கோ",
+                "tg": "Бамако",
+                "th": "บามาโก",
+                "tr": "Bamako",
+                "udm": "Бамако",
+                "uk": "Бамако",
+                "ur": "بماکو"
+            },
+            "place_type": 67,
+            "population": 1809106,
+            "latitude": 12.649319,
+            "longitude": -8.000337,
+            "geocell": 3695319,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27564954,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3703",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 89381749,
+            "country": 466,
+            "level1area": [
+                "ml6"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "تمبكتو",
+                "br": "Timbuktu",
+                "ca": "Timbuctú",
+                "cs": "Timbuktu",
+                "de": "Timbuktu",
+                "en": "Timbuktu",
+                "es": "Tombuctú",
+                "et": "Timbuktu",
+                "fa": "تیمبوکتو",
+                "fr": "Tombouctou",
+                "hi": "टिम्बकटू",
+                "kn": "ಟಿಂಬಕ್ಟೂ",
+                "ko": "팀북투",
+                "lt": "Timbuktu",
+                "nl": "Timboektoe",
+                "ru": "Тимбукту",
+                "sk": "Timbuktu",
+                "tr": "Tinbüktü",
+                "uk": "Тімбукту"
+            },
+            "place_type": 67,
+            "population": 36000,
+            "latitude": 16.7719091,
+            "longitude": -3.0087272,
+            "geocell": 3842969,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 89381749,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q9427",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 89918976,
+            "country": 466,
+            "level1area": [
+                "ml7"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "غاو",
+                "en": "Gao",
+                "fr": "Gao",
+                "ko": "가오",
+                "ru": "Гао",
+                "uk": "Гао"
+            },
+            "place_type": 67,
+            "population": 58000,
+            "latitude": 16.2788129,
+            "longitude": -0.0412392,
+            "geocell": 3824999,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 89918976,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q188904",
+                "wikipedia_pages": {
+                    "fr": "Gao (Mali)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 89942783,
+            "country": 466,
+            "level1area": [
+                "ml3"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سيكاسو",
+                "fr": "Sikasso",
+                "ko": "시카소",
+                "ru": "Сикасо"
+            },
+            "place_type": 67,
+            "population": 226000,
+            "latitude": 11.3165531,
+            "longitude": -5.6777526,
+            "geocell": 3648543,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 89942783,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q722827",
+                "wikipedia_pages": {
+                    "en": "Sikasso"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 277932033,
+            "country": 466,
+            "level1area": [
+                "ml1"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كايس",
+                "en": "Kayes",
+                "fr": "Kayes",
+                "ko": "케스",
+                "ru": "Каес"
+            },
+            "place_type": 67,
+            "population": 127368,
+            "latitude": 14.443406,
+            "longitude": -11.437914,
+            "geocell": 3760085,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 277932033,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q325164",
+                "wikipedia_pages": {
+                    "fr": "Kayes (Mali)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 277943923,
+            "country": 466,
+            "level1area": [
+                "ml3"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كوتيالا",
+                "fr": "Koutiala",
+                "ru": "Кутиала"
+            },
+            "place_type": 67,
+            "population": 99000,
+            "latitude": 12.3869501,
+            "longitude": -5.4600937,
+            "geocell": 3684545,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 277943923,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q281000",
+                "wikipedia_pages": {
+                    "fr": "Koutiala"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 358313999,
+            "country": 466,
+            "level1area": [
+                "ml4"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سان",
+                "fr": "San"
+            },
+            "place_type": 67,
+            "population": 26744,
+            "latitude": 13.3043073,
+            "longitude": -4.8957273,
+            "geocell": 3720551,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 358313999,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q950460",
+                "wikipedia_pages": {
+                    "fr": "San, Mali"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 495454624,
+            "country": 466,
+            "level1area": [
+                "ml5"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "دوينتزا",
+                "fr": "Douentza"
+            },
+            "place_type": 67,
+            "population": 27775,
+            "latitude": 15.0068749,
+            "longitude": -2.9529649,
+            "geocell": 3781770,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 495454624,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2358526",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1035398271,
+            "country": 466,
+            "level1area": [
+                "ml1"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "دييما",
+                "fr": "Diema"
+            },
+            "place_type": 84,
+            "population": 30592,
+            "latitude": 14.5417966,
+            "longitude": -9.1912651,
+            "geocell": 3763708,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1035398271,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q924368",
+                "wikipedia_pages": {
+                    "fr": "Diéma"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1703668304,
+            "country": 466,
+            "level1area": [
+                "ml2"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Allahina"
+            },
+            "place_type": 84,
+            "population": 11673,
+            "latitude": 15.2269021,
+            "longitude": -8.7405152,
+            "geocell": 3788912,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1703668304,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2419732",
+                "wikipedia_pages": {
+                    "fr": "Allahina"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1703668339,
+            "country": 466,
+            "level1area": [
+                "ml7"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أنسنكو",
+                "el": "Ανσονγκό",
+                "fr": "Ansongo"
+            },
+            "place_type": 67,
+            "population": 32700,
+            "latitude": 15.6639257,
+            "longitude": 0.5067841,
+            "geocell": 3803405,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1703668339,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2620152",
+                "wikipedia_pages": {
+                    "fr": "Ansongo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1703668490,
+            "country": 466,
+            "level1area": [
+                "ml7"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Bara"
+            },
+            "place_type": 84,
+            "population": 12354,
+            "latitude": 15.8171581,
+            "longitude": 0.3250818,
+            "geocell": 3810603,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1703668490,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2418855",
+                "wikipedia_pages": {
+                    "en": "Bara, Gao Region"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1703668713,
+            "country": 466,
+            "level1area": [
+                "ml3"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بوغوني",
+                "fr": "Bougouni"
+            },
+            "place_type": 67,
+            "population": 59679,
+            "latitude": 11.4194313,
+            "longitude": -7.4833878,
+            "geocell": 3652125,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1703668713,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q848574",
+                "wikipedia_pages": {
+                    "fr": "Bougouni"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1703669013,
+            "country": 466,
+            "level1area": [
+                "ml5"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ديالاساغو",
+                "fr": "Diallassagou"
+            },
+            "place_type": 84,
+            "population": 22539,
+            "latitude": 13.7407179,
+            "longitude": -3.626438,
+            "geocell": 3734963,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1703669013,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2419935",
+                "wikipedia_pages": {
+                    "fr": "22539"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1703669221,
+            "country": 466,
+            "level1area": [
+                "ml1"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Dioumara Koussata"
+            },
+            "place_type": 84,
+            "population": 16218,
+            "latitude": 14.5378493,
+            "longitude": -8.5660539,
+            "geocell": 3763714,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1703669221,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2183310",
+                "wikipedia_pages": {
+                    "fr": "Dioumara Koussata"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1703670035,
+            "country": 466,
+            "level1area": [
+                "ml6"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "غوندام",
+                "fr": "Goundam"
+            },
+            "place_type": 67,
+            "population": 16253,
+            "latitude": 16.4168533,
+            "longitude": -3.6636275,
+            "geocell": 3832163,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1703670035,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q976923",
+                "wikipedia_pages": {
+                    "de": "Goundam"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1703670426,
+            "country": 466,
+            "level1area": [
+                "ml2"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كاتي",
+                "fr": "Kati"
+            },
+            "place_type": 67,
+            "population": 114983,
+            "latitude": 12.7389091,
+            "longitude": -8.0684052,
+            "geocell": 3698919,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1703670426,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q771251",
+                "wikipedia_pages": {
+                    "en": "Kati, Mali"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1703670494,
+            "country": 466,
+            "level1area": [
+                "ml2"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Kiban"
+            },
+            "place_type": 84,
+            "population": 11300,
+            "latitude": 13.578154,
+            "longitude": -7.3529765,
+            "geocell": 3727726,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1703670494,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1703670519,
+            "country": 466,
+            "level1area": [
+                "ml1"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كيتا",
+                "fr": "Kita",
+                "ru": "Кита"
+            },
+            "place_type": 67,
+            "population": 54548,
+            "latitude": 13.0408383,
+            "longitude": -9.4889798,
+            "geocell": 3709705,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1703670519,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q578014",
+                "wikipedia_pages": {
+                    "fr": "Kita"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1703670808,
+            "country": 466,
+            "level1area": [
+                "ml4"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كي مازينا",
+                "fr": "Ke Macina"
+            },
+            "place_type": 84,
+            "population": 36170,
+            "latitude": 13.962189,
+            "longitude": -5.3594898,
+            "geocell": 3742146,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1703670808,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2464832",
+                "wikipedia_pages": {
+                    "fr": "Macina (Mali)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1703671124,
+            "country": 466,
+            "level1area": [
+                "ml4"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "نيونو",
+                "fr": "Niono-Socoura"
+            },
+            "place_type": 84,
+            "population": 47000,
+            "latitude": 14.2515119,
+            "longitude": -5.9783506,
+            "geocell": 3752940,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1703671124,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1703671193,
+            "country": 466,
+            "level1area": [
+                "ml1"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "واليا",
+                "fr": "Oualia"
+            },
+            "place_type": 84,
+            "population": 20989,
+            "latitude": 13.5941011,
+            "longitude": -10.3764581,
+            "geocell": 3727696,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1703671193,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2416663",
+                "wikipedia_pages": {
+                    "fr": "Oualia"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1703671467,
+            "country": 466,
+            "level1area": [
+                "ml2"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Sagabala"
+            },
+            "place_type": 86,
+            "population": 16011,
+            "latitude": 14.0849904,
+            "longitude": -8.1004728,
+            "geocell": 3745718,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1703671467,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1762631",
+                "wikipedia_pages": {
+                    "fr": "Sagabala"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1707219318,
+            "country": 466,
+            "level1area": [
+                "ml6"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ليري",
+                "fr": "Léré"
+            },
+            "place_type": 84,
+            "population": 16000,
+            "latitude": 15.7160981,
+            "longitude": -4.9021643,
+            "geocell": 3806950,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1707219318,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q540215",
+                "wikipedia_pages": {
+                    "fr": "Léré (Mali)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1707621787,
+            "country": 466,
+            "level1area": [
+                "ml6"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ديري",
+                "fr": "Diré"
+            },
+            "place_type": 67,
+            "population": 22400,
+            "latitude": 16.2678091,
+            "longitude": -3.3971368,
+            "geocell": 3824966,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1707621787,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2429438",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1707621796,
+            "country": 466,
+            "level1area": [
+                "ml9"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ميناكا",
+                "fr": "Ménaka",
+                "ru": "Менака",
+                "uk": "Менака"
+            },
+            "place_type": 67,
+            "population": 20700,
+            "latitude": 15.9167,
+            "longitude": 2.4,
+            "geocell": 3814224,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1707621796,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q855986",
+                "wikipedia_pages": {
+                    "fr": "Ménaka"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1717464540,
+            "country": 466,
+            "level1area": [
+                "ml5"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "موبتي",
+                "en": "Mopti",
+                "fr": "Mopti",
+                "ko": "몹티",
+                "ru": "Мопти"
+            },
+            "place_type": 67,
+            "population": 114296,
+            "latitude": 14.4877275,
+            "longitude": -4.1892469,
+            "geocell": 3760158,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1717464540,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q211227",
+                "wikipedia_pages": {
+                    "en": "Mopti"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1717506745,
+            "country": 466,
+            "level1area": [
+                "ml4"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سيغو",
+                "fa": "سگو",
+                "fr": "Ségou",
+                "ko": "세구",
+                "ru": "Сегу",
+                "ur": "سیگو"
+            },
+            "place_type": 67,
+            "population": 165000,
+            "latitude": 13.441518,
+            "longitude": -6.268147,
+            "geocell": 3724137,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1717506745,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q333476",
+                "wikipedia_pages": {
+                    "fr": "Ségou (ville)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1725811097,
+            "country": 466,
+            "level1area": [
+                "ml5"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Sévaré"
+            },
+            "place_type": 84,
+            "population": 40000,
+            "latitude": 14.5224127,
+            "longitude": -4.0921345,
+            "geocell": 3763759,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1725811097,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1014916",
+                "wikipedia_pages": {
+                    "en": "Sévaré"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2032098356,
+            "country": 466,
+            "level1area": [
+                "ml8"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كيدال",
+                "fa": "کیدال",
+                "fr": "Kidal",
+                "ko": "키달",
+                "ru": "Кидаль",
+                "ur": "کڈال"
+            },
+            "place_type": 67,
+            "population": 25000,
+            "latitude": 18.4408358,
+            "longitude": 1.4075395,
+            "geocell": 3904214,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2032098356,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q650100",
+                "wikipedia_pages": {
+                    "fr": "Kidal"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2130931872,
+            "country": 466,
+            "level1area": [
+                "ml4"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بلا",
+                "fr": "Bla"
+            },
+            "place_type": 84,
+            "population": 15000,
+            "latitude": 12.949364,
+            "longitude": -5.7620576,
+            "geocell": 3706142,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2130931872,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q497300",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7765565857,
+            "country": 466,
+            "level1area": [
+                "ml4"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بوسين",
+                "fr": "Boussin"
+            },
+            "place_type": 84,
+            "population": 12401,
+            "latitude": 13.5069999,
+            "longitude": -5.9353065,
+            "geocell": 3727740,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7765565857,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1766283",
+                "wikipedia_pages": {
+                    "fr": "Boussin"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7765639294,
+            "country": 466,
+            "level1area": [
+                "ml4"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Samine"
+            },
+            "place_type": 84,
+            "population": 10500,
+            "latitude": 13.134901,
+            "longitude": -6.0823596,
+            "geocell": 3713339,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7765639294,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7765645284,
+            "country": 466,
+            "level1area": [
+                "ml4"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Samabogo"
+            },
+            "place_type": 84,
+            "population": 13165,
+            "latitude": 12.8520689,
+            "longitude": -5.4993069,
+            "geocell": 3702545,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7765645284,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1764837",
+                "wikipedia_pages": {
+                    "fr": "Samabogo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7765648686,
+            "country": 466,
+            "level1area": [
+                "ml4"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ديارامانا",
+                "fr": "Diaramana"
+            },
+            "place_type": 84,
+            "population": 20426,
+            "latitude": 12.8446428,
+            "longitude": -5.411941,
+            "geocell": 3702545,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7765648686,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1765517",
+                "wikipedia_pages": {
+                    "fr": "Diaramana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7777500837,
+            "country": 466,
+            "level1area": [
+                "ml1"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Diakaba"
+            },
+            "place_type": 84,
+            "population": 16023,
+            "latitude": 13.3316974,
+            "longitude": -10.779871,
+            "geocell": 3720492,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7777500837,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1759190",
+                "wikipedia_pages": {
+                    "fr": "Diokéli"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7777618671,
+            "country": 466,
+            "level1area": [
+                "ml1"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Sagalo"
+            },
+            "place_type": 84,
+            "population": 15830,
+            "latitude": 12.200237,
+            "longitude": -10.6995769,
+            "geocell": 3680893,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7777618671,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1759932",
+                "wikipedia_pages": {
+                    "fr": "Sagalo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7779421323,
+            "country": 466,
+            "level1area": [
+                "ml2"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Kambila"
+            },
+            "place_type": 84,
+            "population": 13974,
+            "latitude": 12.7942121,
+            "longitude": -8.1040776,
+            "geocell": 3698918,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7779421323,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1762533",
+                "wikipedia_pages": {
+                    "fr": "Kambila"
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,300 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27565056,
+            "country": 694,
+            "level1area": [
+                "slw"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Freetown, Sierra Leone",
+                "ar": "فريتاون",
+                "az": "Fritaun",
+                "be": "Фрытаўн",
+                "bg": "Фрийтаун",
+                "br": "Freetown",
+                "de": "Freetown",
+                "el": "Φρίταουν",
+                "en": "Freetown",
+                "eo": "Fritaŭno",
+                "es": "Freetown",
+                "fa": "فری‌تاون",
+                "fr": "Freetown",
+                "he": "פריטאון",
+                "hu": "Freetown",
+                "hy": "Ֆրիթաուն",
+                "is": "Freetown",
+                "it": "Freetown",
+                "ja": "フリータウン",
+                "ka": "ფრიტაუნი",
+                "ko": "프리타운",
+                "ky": "Фритаун",
+                "lt": "Fritaunas",
+                "lv": "Frītauna",
+                "mk": "Фритаун",
+                "mr": "फ्रीटाउन",
+                "nl": "Freetown",
+                "pl": "Freetown",
+                "pt": "Freetown",
+                "ru": "Фритаун",
+                "sr": "Фритаун",
+                "sv": "Freetown",
+                "ta": "பிரீடவுன்",
+                "tg": "Фритаун",
+                "th": "ฟรีทาวน์",
+                "tr": "Freetown",
+                "udm": "Фритаун",
+                "uk": "Фрітаун",
+                "ur": "فری ٹاؤن"
+            },
+            "place_type": 67,
+            "population": 951000,
+            "latitude": 8.479004,
+            "longitude": -13.26795,
+            "geocell": 3544067,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27565056,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3780",
+                "wikipedia_pages": {
+                    "de": "Freetown"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 314005602,
+            "country": 694,
+            "level1area": [
+                "sle"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كينيما",
+                "en": "Kenema",
+                "ko": "케네마",
+                "lt": "Kenema",
+                "ru": "Кенема"
+            },
+            "place_type": 67,
+            "population": 188463,
+            "latitude": 7.8859723,
+            "longitude": -11.1863832,
+            "geocell": 3522488,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 314005602,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q634698",
+                "wikipedia_pages": {
+                    "en": "Kenema"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 314007819,
+            "country": 694,
+            "level1area": [
+                "sle"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Koidu",
+                "ko": "코이두",
+                "lt": "Koidu Taunas",
+                "ru": "Сефаду"
+            },
+            "place_type": 67,
+            "population": 124662,
+            "latitude": 8.642281,
+            "longitude": -10.971631,
+            "geocell": 3551290,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 314007819,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1002580",
+                "wikipedia_pages": {
+                    "en": "Koidutown-Sefadu"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 498808721,
+            "country": 694,
+            "level1area": [
+                "sls"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bonthe"
+            },
+            "place_type": 84,
+            "population": 10206,
+            "latitude": 7.527274,
+            "longitude": -12.501955,
+            "geocell": 3511674,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 498808721,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q892886",
+                "wikipedia_pages": {
+                    "en": "Bonthe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 543447056,
+            "country": 694,
+            "level1area": [
+                "slnw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Lunsar"
+            },
+            "place_type": 84,
+            "population": 36108,
+            "latitude": 8.687062,
+            "longitude": -12.5437429,
+            "geocell": 3551274,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 543447056,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q995392",
+                "wikipedia_pages": {
+                    "en": "Lunsar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 544374407,
+            "country": 694,
+            "level1area": [
+                "sln"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Makump Bana"
+            },
+            "place_type": 86,
+            "population": 10325,
+            "latitude": 8.8077134,
+            "longitude": -12.0400921,
+            "geocell": 3558479,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 544374407,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1978562828,
+            "country": 694,
+            "level1area": [
+                "sln"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Magburaka",
+                "lt": "Magburaka"
+            },
+            "place_type": 84,
+            "population": 40313,
+            "latitude": 8.722819,
+            "longitude": -11.949193,
+            "geocell": 3554880,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1978562828,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1883766",
+                "wikipedia_pages": {
+                    "en": "Magburaka"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3059719287,
+            "country": 694,
+            "level1area": [
+                "sln"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Makong"
+            },
+            "place_type": 72,
+            "population": 14750,
+            "latitude": 8.5700162,
+            "longitude": -11.7047601,
+            "geocell": 3547682,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3059719287,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3392705101,
+            "country": 694,
+            "level1area": [
+                "sln"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ronietta line"
+            },
+            "place_type": 86,
+            "population": 15340,
+            "latitude": 8.3479504,
+            "longitude": -12.4847461,
+            "geocell": 3540475,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3392705101,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

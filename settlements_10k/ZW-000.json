@@ -1,0 +1,949 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 241500809,
+            "country": 716,
+            "level1area": [
+                "zwmn"
+            ],
+            "level2area": null,
+            "names": {
+                "sn": "Victoria Falls"
+            },
+            "place_type": 84,
+            "population": 33060,
+            "latitude": -17.9349458,
+            "longitude": 25.8252767,
+            "geocell": 2594058,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 241500809,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1393804",
+                "wikipedia_pages": {
+                    "en": "Victoria Falls, Zimbabwe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 252622793,
+            "country": 716,
+            "level1area": [
+                "zwmi"
+            ],
+            "level2area": null,
+            "names": {
+                "ml": "ക്വെക്വെ",
+                "ru": "Квекве",
+                "sn": "Kwekwe"
+            },
+            "place_type": 67,
+            "population": 93072,
+            "latitude": -18.9284366,
+            "longitude": 29.8140035,
+            "geocell": 2558098,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 252622793,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q399083",
+                "wikipedia_pages": {
+                    "en": "Kwekwe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 253129357,
+            "country": 716,
+            "level1area": [
+                "zwmv"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ماسفينغو",
+                "ko": "마스빙고",
+                "ru": "Масвинго",
+                "sn": "Masvingo",
+                "uk": "Масвінґо"
+            },
+            "place_type": 67,
+            "population": 72527,
+            "latitude": -20.0720142,
+            "longitude": 30.8341936,
+            "geocell": 2518508,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 253129357,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q601142",
+                "wikipedia_pages": {
+                    "en": "Masvingo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 253192754,
+            "country": 716,
+            "level1area": [
+                "zwmi"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "غويرو",
+                "en": "Gweru",
+                "ko": "궤루",
+                "ml": "ഗ്വേരു",
+                "ru": "Гверу",
+                "sn": "Gweru",
+                "uk": "Ґверу"
+            },
+            "place_type": 67,
+            "population": 141260,
+            "latitude": -19.4616316,
+            "longitude": 29.8205953,
+            "geocell": 2540098,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 253192754,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q399316",
+                "wikipedia_pages": {
+                    "en": "Gweru"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 253224182,
+            "country": 716,
+            "level1area": [
+                "zwme"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "مارونديرا",
+                "ru": "Марондера",
+                "sn": "Marondera"
+            },
+            "place_type": 84,
+            "population": 52283,
+            "latitude": -18.190098,
+            "longitude": 31.545542,
+            "geocell": 2586915,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 253224182,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1019991",
+                "wikipedia_pages": {
+                    "en": "Marondera"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 253237975,
+            "country": 716,
+            "level1area": [
+                "zwma"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "موتاري",
+                "ko": "무타레",
+                "ml": "മുത്താരെ",
+                "ru": "Мутаре",
+                "sn": "Mutare"
+            },
+            "place_type": 67,
+            "population": 188243,
+            "latitude": -18.974656,
+            "longitude": 32.670473,
+            "geocell": 2558126,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 253237975,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q399322",
+                "wikipedia_pages": {
+                    "en": "Mutare"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 253241617,
+            "country": 716,
+            "level1area": [
+                "zwmw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kadoma",
+                "ru": "Кадома",
+                "sn": "Kadoma",
+                "uk": "Кадома"
+            },
+            "place_type": 67,
+            "population": 77749,
+            "latitude": -18.3374033,
+            "longitude": 29.9135021,
+            "geocell": 2579699,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 253241617,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q381560",
+                "wikipedia_pages": {
+                    "en": "Kadoma, Zimbabwe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 253286428,
+            "country": 716,
+            "level1area": [
+                "zwmi"
+            ],
+            "level2area": null,
+            "names": {
+                "sn": "Gokwe"
+            },
+            "place_type": 84,
+            "population": 17633,
+            "latitude": -18.224982,
+            "longitude": 28.953933,
+            "geocell": 2583289,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 253286428,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1534487",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 282335934,
+            "country": 716,
+            "level1area": [
+                "zwha"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "هراري",
+                "be": "Харарэ",
+                "bg": "Хараре",
+                "br": "Harare",
+                "ckb": "ھەرارێ",
+                "de": "Harare",
+                "el": "Χαράρε",
+                "en": "Harare",
+                "eo": "Harareo",
+                "es": "Harare",
+                "fa": "هراره",
+                "fi": "Harare",
+                "fr": "Harare",
+                "he": "הארארה",
+                "hi": "हरारे",
+                "hu": "Harare",
+                "hy": "Հարարե",
+                "is": "Harare",
+                "it": "Harare",
+                "ja": "ハラレ",
+                "ka": "ჰარარე",
+                "ko": "하라레",
+                "ky": "Хараре",
+                "lt": "Hararė",
+                "mk": "Хараре",
+                "ml": "ഹരാരെ",
+                "mn": "Хараре",
+                "mr": "हरारे",
+                "nl": "Harare",
+                "os": "Хараре",
+                "pl": "Harare",
+                "pt": "Harare",
+                "ru": "Хараре",
+                "sn": "Harare",
+                "sr": "Хараре",
+                "sv": "Harare",
+                "ta": "ஹராரே",
+                "tg": "Хараре",
+                "th": "ฮาราเร",
+                "tr": "Harare",
+                "udm": "Хараре",
+                "ug": "ھارارې",
+                "uk": "Хараре",
+                "ur": "ہرارے"
+            },
+            "place_type": 67,
+            "population": 1606000,
+            "latitude": -17.831773,
+            "longitude": 31.045686,
+            "geocell": 2597710,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 282335934,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3921",
+                "wikipedia_pages": {
+                    "en": "Harare"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 295148550,
+            "country": 716,
+            "level1area": [
+                "zwmw"
+            ],
+            "level2area": null,
+            "names": {
+                "sn": "Chegutu"
+            },
+            "place_type": 84,
+            "population": 42959,
+            "latitude": -18.130479,
+            "longitude": 30.146014,
+            "geocell": 2586901,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 295148550,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1068972",
+                "wikipedia_pages": {
+                    "en": "Chegutu"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 297522524,
+            "country": 716,
+            "level1area": [
+                "zwms"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "جواندا",
+                "ru": "Гванда",
+                "sn": "Gwanda"
+            },
+            "place_type": 84,
+            "population": 14450,
+            "latitude": -20.9414292,
+            "longitude": 29.0036855,
+            "geocell": 2486090,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 297522524,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1557796",
+                "wikipedia_pages": {
+                    "en": "Gwanda"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 301430334,
+            "country": 716,
+            "level1area": [
+                "zwmi"
+            ],
+            "level2area": null,
+            "names": {
+                "sn": "Shurugwi"
+            },
+            "place_type": 84,
+            "population": 16866,
+            "latitude": -19.668249,
+            "longitude": 30.000408,
+            "geocell": 2532900,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 301430334,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1188217",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 302734175,
+            "country": 716,
+            "level1area": [
+                "zwma"
+            ],
+            "level2area": null,
+            "names": {
+                "sn": "Rusape"
+            },
+            "place_type": 84,
+            "population": 25054,
+            "latitude": -18.5334765,
+            "longitude": 32.1256769,
+            "geocell": 2572521,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 302734175,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q991725",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 305463169,
+            "country": 716,
+            "level1area": [
+                "zwma"
+            ],
+            "level2area": null,
+            "names": {
+                "sn": "Chipinge"
+            },
+            "place_type": 84,
+            "population": 17458,
+            "latitude": -20.188929,
+            "longitude": 32.619425,
+            "geocell": 2514926,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 305463169,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q994412",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 306639497,
+            "country": 716,
+            "level1area": [
+                "zwmw"
+            ],
+            "level2area": null,
+            "names": {
+                "sn": "Kariba"
+            },
+            "place_type": 84,
+            "population": 24210,
+            "latitude": -16.527274,
+            "longitude": 28.7755479,
+            "geocell": 2644487,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 306639497,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1025799",
+                "wikipedia_pages": {
+                    "en": "Kariba, Zimbabwe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 307152707,
+            "country": 716,
+            "level1area": [
+                "zwmc"
+            ],
+            "level2area": null,
+            "names": {
+                "sn": "Bindura"
+            },
+            "place_type": 84,
+            "population": 40233,
+            "latitude": -17.2989727,
+            "longitude": 31.3299701,
+            "geocell": 2619313,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 307152707,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q863727",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 307615357,
+            "country": 716,
+            "level1area": [
+                "zwmw"
+            ],
+            "level2area": null,
+            "names": {
+                "sn": "Karoi"
+            },
+            "place_type": 84,
+            "population": 22293,
+            "latitude": -16.8190442,
+            "longitude": 29.6836936,
+            "geocell": 2633696,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 307615357,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q994419",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 307632873,
+            "country": 716,
+            "level1area": [
+                "zwme"
+            ],
+            "level2area": null,
+            "names": {
+                "sn": "Murewa"
+            },
+            "place_type": 84,
+            "population": 16666,
+            "latitude": -17.646074,
+            "longitude": 31.777541,
+            "geocell": 2604917,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 307632873,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1953653",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 309376734,
+            "country": 716,
+            "level1area": [
+                "zwmi"
+            ],
+            "level2area": null,
+            "names": {
+                "sn": "Zvishavane"
+            },
+            "place_type": 84,
+            "population": 35229,
+            "latitude": -20.3159097,
+            "longitude": 30.0526888,
+            "geocell": 2507700,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 309376734,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q231399",
+                "wikipedia_pages": {
+                    "en": "Zvishavane"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 310399116,
+            "country": 716,
+            "level1area": [
+                "zwms"
+            ],
+            "level2area": null,
+            "names": {
+                "sn": "Plumtree"
+            },
+            "place_type": 84,
+            "population": 11626,
+            "latitude": -20.4880677,
+            "longitude": 27.805601,
+            "geocell": 2504078,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 310399116,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1974068",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1042038700,
+            "country": 716,
+            "level1area": [
+                "zwme"
+            ],
+            "level2area": null,
+            "names": {
+                "sn": "Wedza"
+            },
+            "place_type": 84,
+            "population": 70968,
+            "latitude": -18.621494,
+            "longitude": 31.568184,
+            "geocell": 2568915,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1042038700,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1639709",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1243605851,
+            "country": 716,
+            "level1area": [
+                "zwmv"
+            ],
+            "level2area": null,
+            "names": {
+                "sn": "Chiredzi"
+            },
+            "place_type": 84,
+            "population": 26129,
+            "latitude": -21.0452949,
+            "longitude": 31.6688771,
+            "geocell": 2482516,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1243605851,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1074697",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2144877644,
+            "country": 716,
+            "level1area": [
+                "zwms"
+            ],
+            "level2area": null,
+            "names": {
+                "sn": "Beitbridge"
+            },
+            "place_type": 84,
+            "population": 41767,
+            "latitude": -22.1986233,
+            "longitude": 29.9917535,
+            "geocell": 2442899,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2144877644,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q814922",
+                "wikipedia_pages": {
+                    "en": "Beitbridge"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2288155260,
+            "country": 716,
+            "level1area": [
+                "zwmi"
+            ],
+            "level2area": null,
+            "names": {
+                "sn": "Redcliff"
+            },
+            "place_type": 84,
+            "population": 32346,
+            "latitude": -19.026094,
+            "longitude": 29.779494,
+            "geocell": 2554497,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2288155260,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q584001",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2543884067,
+            "country": 716,
+            "level1area": [
+                "zwmc"
+            ],
+            "level2area": null,
+            "names": {
+                "sn": "Shamva"
+            },
+            "place_type": 84,
+            "population": 10317,
+            "latitude": -17.3125435,
+            "longitude": 31.5785292,
+            "geocell": 2615715,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2543884067,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q606345",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2617611732,
+            "country": 716,
+            "level1area": [
+                "zwha"
+            ],
+            "level2area": null,
+            "names": {
+                "sn": "Epworth"
+            },
+            "place_type": 84,
+            "population": 152116,
+            "latitude": -17.8877361,
+            "longitude": 31.156797,
+            "geocell": 2597711,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2617611732,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2084814",
+                "wikipedia_pages": {
+                    "en": "Epworth, Zimbabwe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3028263335,
+            "country": 716,
+            "level1area": [
+                "zwmw"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "تشينهوي",
+                "ru": "Чинхойи",
+                "sn": "Chinhoyi"
+            },
+            "place_type": 84,
+            "population": 56794,
+            "latitude": -17.3615308,
+            "longitude": 30.1929353,
+            "geocell": 2615701,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3028263335,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q782743",
+                "wikipedia_pages": {
+                    "en": "Chinhoyi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3049269847,
+            "country": 716,
+            "level1area": [
+                "zwha"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Chitungwiza",
+                "ml": "ചിതുങ്വിസ",
+                "ru": "Читунгвиза",
+                "sn": "Chitungwiza"
+            },
+            "place_type": 67,
+            "population": 321782,
+            "latitude": -18.0143462,
+            "longitude": 31.0726737,
+            "geocell": 2590510,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3049269847,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q399119",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3802043943,
+            "country": 716,
+            "level1area": [
+                "zwmw"
+            ],
+            "level2area": null,
+            "names": {
+                "sn": "Norton"
+            },
+            "place_type": 84,
+            "population": 44054,
+            "latitude": -17.87454,
+            "longitude": 30.695954,
+            "geocell": 2597706,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3802043943,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q994406",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4092359007,
+            "country": 716,
+            "level1area": [
+                "zwme"
+            ],
+            "level2area": null,
+            "names": {
+                "sn": "Ruwa"
+            },
+            "place_type": 84,
+            "population": 22038,
+            "latitude": -17.897155,
+            "longitude": 31.237093,
+            "geocell": 2597712,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4092359007,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1972938",
+                "wikipedia_pages": {
+                    "en": "Ruwa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4155841482,
+            "country": 716,
+            "level1area": [
+                "zwbu"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بولاوايو",
+                "de": "Bulawayo",
+                "ml": "ബുലവായോ",
+                "ru": "Булавайо",
+                "sn": "Bulawayo",
+                "uk": "Булавайо"
+            },
+            "place_type": 67,
+            "population": 653337,
+            "latitude": -20.1560599,
+            "longitude": 28.5887063,
+            "geocell": 2514885,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4155841482,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q193250",
+                "wikipedia_pages": {
+                    "en": "Bulawayo"
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,437 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 38903284,
+            "country": 48,
+            "level1area": [
+                "bh13"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Manama",
+                "ar": "المنامة",
+                "ast": "Manama",
+                "az": "Manama",
+                "be": "Манама",
+                "bg": "Манама",
+                "bn": "মানামা",
+                "br": "Manama",
+                "bs": "Manama",
+                "ca": "Al-Manama",
+                "ckb": "مەنامە",
+                "cs": "Manáma",
+                "cy": "Manama",
+                "da": "Manama",
+                "de": "Manama",
+                "el": "Μανάμα",
+                "en": "Manama",
+                "eo": "Manamo",
+                "es": "Manama",
+                "et": "Manama",
+                "eu": "Manama",
+                "fa": "منامه",
+                "fi": "Manama",
+                "fr": "Manama",
+                "fy": "Manama",
+                "ga": "Manama",
+                "gd": "Manama",
+                "gl": "Manama",
+                "he": "מנאמה",
+                "hi": "मनामा",
+                "hr": "Manama",
+                "hsb": "Manama",
+                "hu": "Manáma",
+                "hy": "Մանամա",
+                "ia": "Manama",
+                "id": "Al-Manamah",
+                "io": "Al Manamah",
+                "is": "Manama",
+                "it": "Manama",
+                "ja": "マナーマ",
+                "ka": "მანამა",
+                "kab": "Manama",
+                "kk": "Манама",
+                "kn": "ಮನಾಮ",
+                "ko": "마나마",
+                "ky": "Манама",
+                "lb": "Manama",
+                "lt": "Menama",
+                "lv": "Manāma",
+                "mk": "Манама",
+                "ml": "മനാമ",
+                "mn": "Манама",
+                "mr": "मनामा",
+                "ms": "Manama",
+                "my": "မာနာမာမြို့",
+                "ne": "मनामा",
+                "nl": "Manamah",
+                "os": "Манамæ",
+                "pa": "ਮਨਾਮਾ",
+                "pl": "Manama",
+                "pt": "Manama",
+                "ro": "Manama",
+                "ru": "Манама",
+                "sk": "Manáma",
+                "sl": "Manama",
+                "sq": "Manama",
+                "sr": "Манама",
+                "sv": "Manama",
+                "sw": "Manama",
+                "ta": "மனாமா",
+                "tg": "Манама",
+                "th": "มานามา",
+                "tr": "Menâme",
+                "udm": "Манама",
+                "uk": "Манама",
+                "ur": "منامہ",
+                "uz": "Manama",
+                "vi": "Manama"
+            },
+            "place_type": 67,
+            "population": 157474,
+            "latitude": 26.2235041,
+            "longitude": 50.5822436,
+            "geocell": 4185505,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 38903284,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3882",
+                "wikipedia_pages": {
+                    "ar": "المنامة"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 659360718,
+            "country": 48,
+            "level1area": [
+                "bh17"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "مدينة حمد",
+                "cs": "Madínat Hamad",
+                "de": "Hamad",
+                "en": "Hamad Town",
+                "es": "Madinat Hamad",
+                "fr": "Hamad Town",
+                "ml": "ഹമദ് ടൗൺ"
+            },
+            "place_type": 84,
+            "population": 133350,
+            "latitude": 26.1267463,
+            "longitude": 50.4983356,
+            "geocell": 4181904,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 659360718,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2088687",
+                "wikipedia_pages": {
+                    "en": "Hamad Town"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1935263128,
+            "country": 48,
+            "level1area": [
+                "bh15"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الحد",
+                "cs": "al-Hidd",
+                "en": "Al-Hidd",
+                "fr": "Al-Hadd",
+                "ml": "അൽ-ഹിദ്"
+            },
+            "place_type": 84,
+            "population": 12797,
+            "latitude": 26.2440537,
+            "longitude": 50.6528891,
+            "geocell": 4185506,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1935263128,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3360322",
+                "wikipedia_pages": {
+                    "en": "Al Hidd"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2125987766,
+            "country": 48,
+            "level1area": [
+                "bh15"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بسيتين",
+                "en": "Busaiteen",
+                "ml": "ബുസൈതീൻ"
+            },
+            "place_type": 84,
+            "population": 19185,
+            "latitude": 26.2719165,
+            "longitude": 50.6028404,
+            "geocell": 4185506,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2125987766,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2141284320,
+            "country": 48,
+            "level1area": [
+                "bh17"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "عالي",
+                "cs": "Álí",
+                "de": "A'ali",
+                "en": "A'ali",
+                "es": "A'ali",
+                "fr": "A'ali",
+                "ml": "ആലി"
+            },
+            "place_type": 67,
+            "population": 100553,
+            "latitude": 26.1544539,
+            "longitude": 50.5273639,
+            "geocell": 4181905,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2141284320,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2351767",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2189166838,
+            "country": 48,
+            "level1area": [
+                "bh14"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الرفاع",
+                "cs": "ar-Riffá",
+                "de": "Ar-Riffa",
+                "en": "Riffa",
+                "es": "Riffa",
+                "fa": "رفاع",
+                "fr": "Riffa",
+                "he": "ריפה",
+                "ml": "റിഫാ",
+                "ru": "Эр-Рифа",
+                "ur": "رفاع"
+            },
+            "place_type": 67,
+            "population": 121566,
+            "latitude": 26.1315261,
+            "longitude": 50.5503431,
+            "geocell": 4181905,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2189166838,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1771398",
+                "wikipedia_pages": {
+                    "ar": "الرفاع"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2189168653,
+            "country": 48,
+            "level1area": [
+                "bh17"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "البديع",
+                "en": "Budaiya",
+                "fr": "Boudaya",
+                "ml": "ബുദൈയ"
+            },
+            "place_type": 84,
+            "population": 30702,
+            "latitude": 26.2156292,
+            "longitude": 50.4523545,
+            "geocell": 4185504,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2189168653,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2189170851,
+            "country": 48,
+            "level1area": [
+                "bh15"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "المحرق",
+                "cs": "Muhárrak",
+                "de": "al-Muharraq",
+                "en": "Muharraq",
+                "es": "Muharraq",
+                "fr": "Muharraq",
+                "he": "מוחארק",
+                "ml": "മുഹറഖ്",
+                "ru": "Мухаррак"
+            },
+            "place_type": 67,
+            "population": 75000,
+            "latitude": 26.2465946,
+            "longitude": 50.6164127,
+            "geocell": 4185506,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2189170851,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q270500",
+                "wikipedia_pages": {
+                    "en": "Muharraq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2363170274,
+            "country": 48,
+            "level1area": [
+                "bh14"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "مدينة عيسى",
+                "en": "Isa Town",
+                "ml": "ഈസ ടൗൺ"
+            },
+            "place_type": 84,
+            "population": 36876,
+            "latitude": 26.1741995,
+            "longitude": 50.5473432,
+            "geocell": 4181905,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2363170274,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1017673",
+                "wikipedia_pages": {
+                    "en": "Isa Town"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8717747963,
+            "country": 48,
+            "level1area": [
+                "bh17"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سلماباد",
+                "de": "Salmabad",
+                "en": "Salmabad",
+                "fa": "سلم‌آباد",
+                "ml": "സൽമാബാദ്"
+            },
+            "place_type": 84,
+            "population": 19342,
+            "latitude": 26.1846,
+            "longitude": 50.5253883,
+            "geocell": 4181905,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8717747963,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3133688",
+                "wikipedia_pages": {
+                    "ar": "سلماباد"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8717758949,
+            "country": 48,
+            "level1area": [
+                "bh13"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "توبلي",
+                "de": "Tubli",
+                "en": "Tubli",
+                "fa": "توبلی",
+                "ml": "തുബ്ലി",
+                "ur": "توبلی"
+            },
+            "place_type": 86,
+            "population": 27510,
+            "latitude": 26.1891729,
+            "longitude": 50.5566209,
+            "geocell": 4181905,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8717758949,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

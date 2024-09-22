@@ -1,0 +1,873 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27565022,
+            "country": 148,
+            "level1area": [
+                "tdnd"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "N'Djamena",
+                "ar": "انجمينا",
+                "az": "Ncamena",
+                "be": "Нджамена",
+                "bg": "Нджамена",
+                "br": "Ndjamena",
+                "bs": "N'Djamena",
+                "ca": "N'Djamena",
+                "ckb": "نجامێنا",
+                "cs": "N'Djamena",
+                "cy": "N'Djamena",
+                "da": "N'Djamena",
+                "de": "N’Djamena",
+                "el": "Ντζαμένα",
+                "en": "N'Djamena",
+                "eo": "Niĝameno",
+                "es": "Yamena",
+                "et": "N'Djamena",
+                "eu": "N'Djamena",
+                "fa": "انجامنا",
+                "fr": "N'Djaména",
+                "fy": "N'Djamena",
+                "gd": "N'Djamena",
+                "gl": "Xamena",
+                "he": "נג'מנה",
+                "hr": "N’Djamena",
+                "hu": "N’Djamena",
+                "hy": "Նջամենա",
+                "id": "N'Djamena",
+                "io": "N'Djamena",
+                "is": "N’Djamena",
+                "it": "N'Djamena",
+                "ja": "ンジャメナ",
+                "ka": "ნჯამენა",
+                "kab": "Nǧamena",
+                "kk": "Нджамена",
+                "ko": "은자메나",
+                "ky": "Нжамена",
+                "lb": "N'Djamena",
+                "lt": "Ndžamena",
+                "lv": "Ndžamena",
+                "mk": "Нџамена",
+                "mr": "इंजामिना",
+                "ms": "N'Djamena",
+                "nl": "Ndjamena",
+                "nn": "N'Djamena",
+                "pl": "Ndżamena",
+                "pt": "Jamena",
+                "ro": "N'Djamena",
+                "ru": "Нджамена",
+                "sk": "N’Djamena",
+                "sr": "Нџамена",
+                "sv": "N’Djamena",
+                "sw": "N'Djamena",
+                "ta": "நிஜாமீனா",
+                "tg": "Нҷамена",
+                "th": "เอ็นจาเมนา",
+                "tr": "Encemine",
+                "udm": "Нджамена",
+                "uk": "Нджамена",
+                "ur": "اینجامینا",
+                "vi": "N’Djamena"
+            },
+            "place_type": 67,
+            "population": 1092066,
+            "latitude": 12.1191543,
+            "longitude": 15.0502758,
+            "geocell": 3677550,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27565022,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3659",
+                "wikipedia_pages": {
+                    "ar": "انجمينا"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 150384326,
+            "country": 148,
+            "level1area": [
+                "tdod"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أبشي",
+                "de": "Abischi",
+                "en": "Abéché",
+                "es": "Abéché",
+                "fa": "ابشی",
+                "fr": "Abéché",
+                "hu": "Abéché",
+                "ko": "아베셰",
+                "ru": "Абеше",
+                "uk": "Абеше",
+                "ur": "ابےچے"
+            },
+            "place_type": 67,
+            "population": 78191,
+            "latitude": 13.8280295,
+            "longitude": 20.8283652,
+            "geocell": 3738808,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 150384326,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q242587",
+                "wikipedia_pages": {
+                    "ar": "أبشي"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 150545728,
+            "country": 148,
+            "level1area": [
+                "tdba"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أم هاجر",
+                "de": "Umm Hadschar",
+                "en": "Umm Hajar",
+                "fr": "Oum Hadjer"
+            },
+            "place_type": 67,
+            "population": 20742,
+            "latitude": 13.2937546,
+            "longitude": 19.6889527,
+            "geocell": 3717196,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 150545728,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2656174",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 150545850,
+            "country": 148,
+            "level1area": [
+                "tdba"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أتي",
+                "en": "Ati",
+                "fr": "Ati",
+                "ko": "아티",
+                "ru": "Ати",
+                "uk": "Аті"
+            },
+            "place_type": 67,
+            "population": 35311,
+            "latitude": 13.2125691,
+            "longitude": 18.3396857,
+            "geocell": 3717183,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 150545850,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q755791",
+                "wikipedia_pages": {
+                    "ar": "أتي (تشاد)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 150570006,
+            "country": 148,
+            "level1area": [
+                "tdod"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أدري",
+                "en": "Adré",
+                "fr": "Adré",
+                "ru": "Адре"
+            },
+            "place_type": 67,
+            "population": 12000,
+            "latitude": 13.4664563,
+            "longitude": 22.1977187,
+            "geocell": 3724421,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 150570006,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2570307",
+                "wikipedia_pages": {
+                    "en": "Adré"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240494362,
+            "country": 148,
+            "level1area": [
+                "tdma"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "قمرة",
+                "de": "Koumra",
+                "en": "Koumra",
+                "es": "Koumra",
+                "fa": "کومرا",
+                "fr": "Koumra",
+                "ru": "Кумра",
+                "uk": "Кумра",
+                "ur": "کؤمرا"
+            },
+            "place_type": 67,
+            "population": 38220,
+            "latitude": 8.9189081,
+            "longitude": 17.5478111,
+            "geocell": 3562375,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240494362,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1070175",
+                "wikipedia_pages": {
+                    "fr": "Koumra"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 252509153,
+            "country": 148,
+            "level1area": [
+                "tdme"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بونقور",
+                "en": "Bongor",
+                "es": "Bongor",
+                "fr": "Bongor",
+                "ru": "Бонгор",
+                "uk": "Бонгор"
+            },
+            "place_type": 67,
+            "population": 30518,
+            "latitude": 10.2816341,
+            "longitude": 15.3713139,
+            "geocell": 3609153,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 252509153,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q892441",
+                "wikipedia_pages": {
+                    "fr": "Bongor"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 254126801,
+            "country": 148,
+            "level1area": [
+                "tdhl"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "مساقط",
+                "en": "Massaguet",
+                "fr": "Massaguet"
+            },
+            "place_type": 67,
+            "population": 29364,
+            "latitude": 12.4824256,
+            "longitude": 15.439632,
+            "geocell": 3688354,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 254126801,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1907375",
+                "wikipedia_pages": {
+                    "ar": "مساقط"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 322037986,
+            "country": 148,
+            "level1area": [
+                "tdsa"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أم تيمان",
+                "en": "Am Timan",
+                "es": "Am Timan",
+                "fr": "Am Timan",
+                "hu": "Am Timan",
+                "ru": "Ам-Тиман",
+                "uk": "Ам-Тіман"
+            },
+            "place_type": 67,
+            "population": 38261,
+            "latitude": 11.0396368,
+            "longitude": 20.2826429,
+            "geocell": 3638002,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 322037986,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q451529",
+                "wikipedia_pages": {
+                    "fr": "Am Timan"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 322044775,
+            "country": 148,
+            "level1area": [
+                "tdgr"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "مونقو",
+                "de": "Mongo",
+                "en": "Mongo",
+                "fr": "Mongo",
+                "ru": "Монго",
+                "uk": "Монго"
+            },
+            "place_type": 67,
+            "population": 40233,
+            "latitude": 12.1842561,
+            "longitude": 18.6842092,
+            "geocell": 3677586,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 322044775,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q540895",
+                "wikipedia_pages": {
+                    "fr": "Mongo (Tchad)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 322046510,
+            "country": 148,
+            "level1area": [
+                "tdhl"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "نجمة",
+                "en": "Gama",
+                "fr": "Gama"
+            },
+            "place_type": 84,
+            "population": 34539,
+            "latitude": 11.7914158,
+            "longitude": 17.1628832,
+            "geocell": 3663171,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 322046510,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 322497973,
+            "country": 148,
+            "level1area": [
+                "tdbo"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "فايا لارجو",
+                "de": "Faya-Largeau",
+                "en": "Faya-Largeau",
+                "es": "Faya-Largeau",
+                "fr": "Faya-Largeau",
+                "ru": "Файя-Ларжо",
+                "uk": "Файя-Ларжо",
+                "ur": "فایا-لارگیاو"
+            },
+            "place_type": 67,
+            "population": 14123,
+            "latitude": 17.9209323,
+            "longitude": 19.0953202,
+            "geocell": 3886390,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 322497973,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q516769",
+                "wikipedia_pages": {
+                    "ar": "فايا لارجو"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 322506424,
+            "country": 148,
+            "level1area": [
+                "tdeo"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "فادا",
+                "en": "Fada",
+                "es": "Fada",
+                "fr": "Fada",
+                "ru": "Фада",
+                "uk": "Фада"
+            },
+            "place_type": 67,
+            "population": 23786,
+            "latitude": 17.1930577,
+            "longitude": 21.5813259,
+            "geocell": 3857615,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 322506424,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q985562",
+                "wikipedia_pages": {
+                    "fr": "Fada"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 360153172,
+            "country": 148,
+            "level1area": [
+                "tdlr"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Doba",
+                "ar": "دوبا",
+                "bg": "Доба",
+                "de": "Doba",
+                "es": "Doba",
+                "fa": "دوبا",
+                "fr": "Doba",
+                "it": "Doba",
+                "ja": "ドバ",
+                "ko": "도바",
+                "nl": "Doba",
+                "pl": "Doba",
+                "ru": "Доба",
+                "sv": "Doba",
+                "uk": "Доба",
+                "ur": "ڈوبا"
+            },
+            "place_type": 67,
+            "population": 24000,
+            "latitude": 8.6592029,
+            "longitude": 16.8538495,
+            "geocell": 3551568,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 360153172,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q985618",
+                "wikipedia_pages": {
+                    "fr": "Doba (ville)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 360163529,
+            "country": 148,
+            "level1area": [
+                "tdmc"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سارة",
+                "de": "Sarh",
+                "en": "Sarh",
+                "es": "Sarh",
+                "et": "Sarh",
+                "fa": "ساره",
+                "fr": "Sarh",
+                "ko": "사르",
+                "ru": "Сарх",
+                "uk": "Сарх",
+                "ur": "صرح"
+            },
+            "place_type": 67,
+            "population": 113000,
+            "latitude": 9.1406471,
+            "longitude": 18.3937969,
+            "geocell": 3569583,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 360163529,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q337530",
+                "wikipedia_pages": {
+                    "ar": "سارة (مدينة)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 469212727,
+            "country": 148,
+            "level1area": [
+                "tdlc"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بول",
+                "en": "Bol",
+                "es": "Bol",
+                "et": "Bol",
+                "fr": "Bol",
+                "ru": "Бол",
+                "uk": "Бол"
+            },
+            "place_type": 67,
+            "population": 112490,
+            "latitude": 13.4676491,
+            "longitude": 14.714412,
+            "geocell": 3724347,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 469212727,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q891241",
+                "wikipedia_pages": {
+                    "fr": "Bol (Tchad)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 811383246,
+            "country": 148,
+            "level1area": [
+                "tdlo"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "موندو",
+                "en": "Moundou",
+                "et": "Moundou",
+                "fr": "Moundou",
+                "ko": "문두",
+                "ru": "Мунду",
+                "uk": "Мунду"
+            },
+            "place_type": 67,
+            "population": 137929,
+            "latitude": 8.5654637,
+            "longitude": 16.073831,
+            "geocell": 3547960,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 811383246,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q333074",
+                "wikipedia_pages": {
+                    "fr": "Moundou"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1693132866,
+            "country": 148,
+            "level1area": [
+                "tdhl"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "مسكوري",
+                "en": "Massakory",
+                "fr": "Massakory",
+                "ru": "Масакори",
+                "uk": "Масакорі"
+            },
+            "place_type": 67,
+            "population": 16237,
+            "latitude": 12.996486,
+            "longitude": 15.7349101,
+            "geocell": 3706357,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1693132866,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2498357",
+                "wikipedia_pages": {
+                    "fr": "Massakory"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1972867801,
+            "country": 148,
+            "level1area": [
+                "tdee"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أم جرس",
+                "en": "Am-Djarass",
+                "fa": "ام جرس",
+                "fr": "Amdjarass",
+                "ur": "ام جرس"
+            },
+            "place_type": 67,
+            "population": 20850,
+            "latitude": 16.0662879,
+            "longitude": 22.8350448,
+            "geocell": 3818028,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1972867801,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2842496",
+                "wikipedia_pages": {
+                    "en": "Amdjarass"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2078112116,
+            "country": 148,
+            "level1area": [
+                "tdbg"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سالل",
+                "en": "Salal",
+                "fr": "Salal",
+                "ur": "سالال"
+            },
+            "place_type": 84,
+            "population": 16075,
+            "latitude": 14.846512,
+            "longitude": 17.218642,
+            "geocell": 3774772,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2078112116,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3469561",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2090425801,
+            "country": 148,
+            "level1area": [
+                "tdwf"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بلتن",
+                "en": "Biltine",
+                "es": "Biltine",
+                "fr": "Biltine",
+                "ru": "Бильтин",
+                "uk": "Більтин"
+            },
+            "place_type": 67,
+            "population": 11840,
+            "latitude": 14.525174,
+            "longitude": 20.928701,
+            "geocell": 3764009,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2090425801,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1809024",
+                "wikipedia_pages": {
+                    "ar": "بلتن"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2378389848,
+            "country": 148,
+            "level1area": [
+                "tdta"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "لادي",
+                "en": "Laï",
+                "fr": "Laï",
+                "ru": "Лаи",
+                "uk": "Лаї"
+            },
+            "place_type": 67,
+            "population": 20428,
+            "latitude": 9.3956566,
+            "longitude": 16.3018822,
+            "geocell": 3576763,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2378389848,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1856972",
+                "wikipedia_pages": {
+                    "fr": "Laï"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3266666998,
+            "country": 148,
+            "level1area": [
+                "tdmo"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بالا",
+                "en": "Pala",
+                "fr": "Pala",
+                "ru": "Пала",
+                "uk": "Пала"
+            },
+            "place_type": 67,
+            "population": 40202,
+            "latitude": 9.3662802,
+            "longitude": 14.9097028,
+            "geocell": 3576749,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3266666998,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1774419",
+                "wikipedia_pages": {
+                    "fr": "Pala (Tchad)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6029987766,
+            "country": 148,
+            "level1area": [
+                "tdsi"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "داقيسا",
+                "fr": "Daguessa"
+            },
+            "place_type": 86,
+            "population": 14911,
+            "latitude": 12.0424159,
+            "longitude": 22.41624,
+            "geocell": 3674024,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6029987766,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5208672",
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1110779940,
+            "country": 780,
+            "level1area": [
+                "ttsfo"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "San Fernando",
+                "ru": "Сан-Фернандо"
+            },
+            "place_type": 67,
+            "population": 55419,
+            "latitude": 10.2807069,
+            "longitude": -61.4645896,
+            "geocell": 3608385,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1110779940,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1023712",
+                "wikipedia_pages": {
+                    "en": "San Fernando, Trinidad and Tobago"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1383960098,
+            "country": 780,
+            "level1area": [
+                "ttctt"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Couva"
+            },
+            "place_type": 84,
+            "population": 48858,
+            "latitude": 10.4223291,
+            "longitude": -61.458708,
+            "geocell": 3615585,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1383960098,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2602007",
+                "wikipedia_pages": {
+                    "en": "Couva"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1452374984,
+            "country": 780,
+            "level1area": [
+                "ttptf"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Point Fortin"
+            },
+            "place_type": 84,
+            "population": 20161,
+            "latitude": 10.1759283,
+            "longitude": -61.6827286,
+            "geocell": 3604783,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1452374984,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q786957",
+                "wikipedia_pages": {
+                    "en": "Point Fortin"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1816584304,
+            "country": 780,
+            "level1area": [
+                "tttob"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Scarborough",
+                "ja": "スカボロー",
+                "lt": "Skarboras",
+                "ru": "Скарборо"
+            },
+            "place_type": 67,
+            "population": 17000,
+            "latitude": 11.1852893,
+            "longitude": -60.735024,
+            "geocell": 3640792,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1816584304,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q966660",
+                "wikipedia_pages": {
+                    "en": "Scarborough, Tobago"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1824462523,
+            "country": 780,
+            "level1area": [
+                "ttcha"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Chaguanas",
+                "lt": "Čaguanasas",
+                "uk": "Чагуанас"
+            },
+            "place_type": 67,
+            "population": 83489,
+            "latitude": 10.5147394,
+            "longitude": -61.4076757,
+            "geocell": 3619185,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1824462523,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1444575",
+                "wikipedia_pages": {
+                    "en": "Chaguanas"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2718091147,
+            "country": 780,
+            "level1area": [
+                "ttpos"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Порт-оф-Спейн",
+                "br": "Port of Spain",
+                "en": "Port of Spain",
+                "es": "Puerto España",
+                "fr": "Port-d'Espagne",
+                "hu": "Port of Spain",
+                "ja": "ポートオブスペイン",
+                "mr": "स्पेनचा बंदर्गा",
+                "pa": "ਪੋਰਟ ਆਫ਼ ਸਪੇਨ",
+                "pl": "Port of Spain",
+                "pt": "Porto Espanha",
+                "ru": "Порт-оф-Спейн",
+                "sr": "Порт ов Спејн",
+                "sv": "Port-of-Spain",
+                "ta": "போர்ட் ஆஃப் ஸ்பெயின்",
+                "uk": "Порт-оф-Спейн",
+                "ur": "پورٹ آف اسپین"
+            },
+            "place_type": 67,
+            "population": 37074,
+            "latitude": 10.6572678,
+            "longitude": -61.5180173,
+            "geocell": 3622784,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2718091147,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q39178",
+                "wikipedia_pages": {
+                    "en": "Port of Spain"
+                }
+            }
+        }
+    }
+]

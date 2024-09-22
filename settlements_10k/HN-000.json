@@ -1,0 +1,1150 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 275951189,
+            "country": 340,
+            "level1area": [
+                "hncr"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Puerto Cortés",
+                "fr": "Puerto Cortes",
+                "hu": "Puerto Cortés",
+                "lt": "Puerto Kortesas",
+                "ru": "Пуэрто-Кортес"
+            },
+            "place_type": 67,
+            "population": 200000,
+            "latitude": 15.851465,
+            "longitude": -87.9426681,
+            "geocell": 3809720,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 275951189,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q673089",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 275955378,
+            "country": 340,
+            "level1area": [
+                "hncr"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Lima",
+                "lt": "La Lima"
+            },
+            "place_type": 84,
+            "population": 53492,
+            "latitude": 15.4402726,
+            "longitude": -87.9277925,
+            "geocell": 3795320,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 275955378,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 302514187,
+            "country": 340,
+            "level1area": [
+                "hnch"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Choluteca",
+                "hu": "Choluteca",
+                "lt": "Čoluteka",
+                "ru": "Чолутека"
+            },
+            "place_type": 67,
+            "population": 120000,
+            "latitude": 13.3014081,
+            "longitude": -87.1842323,
+            "geocell": 3719728,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 302514187,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1773148",
+                "wikipedia_pages": {
+                    "en": "Choluteca, Choluteca"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 303536229,
+            "country": 340,
+            "level1area": [
+                "hnep"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Danlí",
+                "hu": "Danli",
+                "lt": "Danli"
+            },
+            "place_type": 67,
+            "population": 222211,
+            "latitude": 14.0324698,
+            "longitude": -86.5682844,
+            "geocell": 3744934,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 303536229,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1958679",
+                "wikipedia_pages": {
+                    "en": "Danlí, El Paraíso"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 304624288,
+            "country": 340,
+            "level1area": [
+                "hnat"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "La Ceiba",
+                "es": "La Ceiba",
+                "hu": "La Ceiba",
+                "lt": "La Seiba",
+                "ru": "Ла-Сейба",
+                "uk": "Ла-Сейба"
+            },
+            "place_type": 67,
+            "population": 196856,
+            "latitude": 15.7833743,
+            "longitude": -86.7917749,
+            "geocell": 3806132,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 304624288,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q916536",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 304624491,
+            "country": 340,
+            "level1area": [
+                "hncl"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Trujillo"
+            },
+            "place_type": 67,
+            "population": 30000,
+            "latitude": 15.9179668,
+            "longitude": -85.9529579,
+            "geocell": 3813340,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 304624491,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q992173",
+                "wikipedia_pages": {
+                    "es": "Trujillo (Honduras)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 305138115,
+            "country": 340,
+            "level1area": [
+                "hnfm"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "تيجوسيجالبا",
+                "az": "Tequsiqalpa",
+                "be": "Тэгусігальпа",
+                "bg": "Тегусигалпа",
+                "de": "Tegucigalpa",
+                "el": "Τεγκουσιγκάλπα",
+                "en": "Tegucigalpa",
+                "eo": "Tegucigalpo",
+                "es": "Tegucigalpa",
+                "fa": "تگوسیگالپا",
+                "fr": "Tegucigalpa",
+                "fy": "Tegusigalpa",
+                "he": "טגוסיגלפה",
+                "hu": "Tegucigalpa",
+                "hy": "Տեգուսիգալպա",
+                "is": "Tegucigalpa",
+                "ja": "テグシガルパ",
+                "ka": "ტეგუსიგალპა",
+                "ko": "테구시갈파",
+                "lt": "Tegusigalpa",
+                "lv": "Tegusigalpa",
+                "mk": "Тегусигалпа",
+                "ml": "ടെഗൂസിഗാൽപ",
+                "mr": "तेगुसिगल्पा",
+                "pl": "Tegucigalpa",
+                "ru": "Тегусигальпа",
+                "sr": "Тегусигалпа",
+                "sv": "Tegucigalpa",
+                "ta": "டெகுசிகல்பா",
+                "th": "เตกูซิกัลปา",
+                "udm": "Тегусигальпа",
+                "uk": "Тегусігальпа",
+                "ur": "ٹیگوسیگلپا"
+            },
+            "place_type": 67,
+            "population": 1120000,
+            "latitude": 14.1057433,
+            "longitude": -87.2040052,
+            "geocell": 3748527,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 305138115,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3238",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 307404866,
+            "country": 340,
+            "level1area": [
+                "hnyo"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Olanchito",
+                "hu": "Olanchito",
+                "ru": "Оланчито"
+            },
+            "place_type": 84,
+            "population": 22500,
+            "latitude": 15.4836326,
+            "longitude": -86.5725014,
+            "geocell": 3795334,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 307404866,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2720977",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 307406289,
+            "country": 340,
+            "level1area": [
+                "hnyo"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Yoro",
+                "hu": "Yoro"
+            },
+            "place_type": 67,
+            "population": 64425,
+            "latitude": 15.1379438,
+            "longitude": -87.124948,
+            "geocell": 3784528,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 307406289,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2561180",
+                "wikipedia_pages": {
+                    "es": "Yoro (Yoro)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 307972722,
+            "country": 340,
+            "level1area": [
+                "hnol"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Catacamas"
+            },
+            "place_type": 67,
+            "population": 112909,
+            "latitude": 14.8483829,
+            "longitude": -85.8935619,
+            "geocell": 3773741,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 307972722,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://catacamas.net/",
+                "wikidata_page_name": "Q772672",
+                "wikipedia_pages": {
+                    "en": "Catacamas"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 307972854,
+            "country": 340,
+            "level1area": [
+                "hnol"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Juticalpa",
+                "hu": "Juticalpa",
+                "ru": "Хутикальпа"
+            },
+            "place_type": 67,
+            "population": 33260,
+            "latitude": 14.6672029,
+            "longitude": -86.2195829,
+            "geocell": 3766537,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 307972854,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q773764",
+                "wikipedia_pages": {
+                    "en": "Juticalpa, Olancho"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 307974116,
+            "country": 340,
+            "level1area": [
+                "hnle"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Gracias",
+                "hu": "Gracias"
+            },
+            "place_type": 67,
+            "population": 50256,
+            "latitude": 14.5889861,
+            "longitude": -88.5813531,
+            "geocell": 3762914,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 307974116,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2561339",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 307974181,
+            "country": 340,
+            "level1area": [
+                "hnin"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Esperanza",
+                "hu": "La Esperanza"
+            },
+            "place_type": 67,
+            "population": 21000,
+            "latitude": 14.3081342,
+            "longitude": -88.1767846,
+            "geocell": 3755718,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 307974181,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2561304",
+                "wikipedia_pages": {
+                    "es": "La Esperanza (Intibucá)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 307976883,
+            "country": 340,
+            "level1area": [
+                "hncl"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Sonaguera"
+            },
+            "place_type": 84,
+            "population": 64364,
+            "latitude": 15.6184829,
+            "longitude": -86.2711555,
+            "geocell": 3802537,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 307976883,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 308300634,
+            "country": 340,
+            "level1area": [
+                "hncl"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Tocoa",
+                "hu": "Tocoa"
+            },
+            "place_type": 84,
+            "population": 46900,
+            "latitude": 15.657581,
+            "longitude": -86.0049706,
+            "geocell": 3802539,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 308300634,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2226585",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 308302278,
+            "country": 340,
+            "level1area": [
+                "hnep"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Teupasenti"
+            },
+            "place_type": 84,
+            "population": 43477,
+            "latitude": 14.2262673,
+            "longitude": -86.7156333,
+            "geocell": 3752132,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 308302278,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 308305741,
+            "country": 340,
+            "level1area": [
+                "hncm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Comayagua",
+                "hu": "Comayagua",
+                "lt": "Komajagva"
+            },
+            "place_type": 67,
+            "population": 58600,
+            "latitude": 14.4527976,
+            "longitude": -87.6379227,
+            "geocell": 3759323,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 308305741,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q679169",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 308306349,
+            "country": 340,
+            "level1area": [
+                "hnin"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Jesús de Otoro"
+            },
+            "place_type": 84,
+            "population": 29478,
+            "latitude": 14.4844242,
+            "longitude": -87.9822013,
+            "geocell": 3759320,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 308306349,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2105288",
+                "wikipedia_pages": {
+                    "es": "Jesús de Otoro"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 308306420,
+            "country": 340,
+            "level1area": [
+                "hnsb"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Santa Bárbara",
+                "hu": "Santa Barbara"
+            },
+            "place_type": 67,
+            "population": 29283,
+            "latitude": 14.9216741,
+            "longitude": -88.2364439,
+            "geocell": 3777317,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 308306420,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2283714",
+                "wikipedia_pages": {
+                    "es": "Santa Bárbara (Santa Bárbara)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 310741303,
+            "country": 340,
+            "level1area": [
+                "hncr"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Peña Blanca"
+            },
+            "place_type": 86,
+            "population": 32800,
+            "latitude": 14.9692781,
+            "longitude": -88.0276322,
+            "geocell": 3777319,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 310741303,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6073802",
+                "wikipedia_pages": {
+                    "es": "Peña Blanca (Honduras)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 321605844,
+            "country": 340,
+            "level1area": [
+                "hncm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Villa de San Antonio"
+            },
+            "place_type": 84,
+            "population": 24419,
+            "latitude": 14.324657,
+            "longitude": -87.612039,
+            "geocell": 3755723,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 321605844,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2257820",
+                "wikipedia_pages": {
+                    "es": "Villa de San Antonio"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 321605887,
+            "country": 340,
+            "level1area": [
+                "hncm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Ajuterique"
+            },
+            "place_type": 86,
+            "population": 11505,
+            "latitude": 14.3825684,
+            "longitude": -87.7096241,
+            "geocell": 3755722,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 321605887,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q762654",
+                "wikipedia_pages": {
+                    "es": "Ajuterique"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 321606235,
+            "country": 340,
+            "level1area": [
+                "hncm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Siguatepeque",
+                "hu": "Siguatepeque"
+            },
+            "place_type": 84,
+            "population": 39070,
+            "latitude": 14.5978089,
+            "longitude": -87.8353071,
+            "geocell": 3762921,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 321606235,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2552676",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 322043137,
+            "country": 340,
+            "level1area": [
+                "hncm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Taulabé"
+            },
+            "place_type": 84,
+            "population": 24699,
+            "latitude": 14.6933682,
+            "longitude": -87.9670274,
+            "geocell": 3766520,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 322043137,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1643763",
+                "wikipedia_pages": {
+                    "es": "Taulabé"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 322500734,
+            "country": 340,
+            "level1area": [
+                "hnat"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Jutiapa"
+            },
+            "place_type": 84,
+            "population": 34224,
+            "latitude": 15.7440437,
+            "longitude": -86.5136708,
+            "geocell": 3806134,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 322500734,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 485309376,
+            "country": 340,
+            "level1area": [
+                "hnfm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Guaimaca",
+                "hu": "Guaymaca"
+            },
+            "place_type": 67,
+            "population": 31431,
+            "latitude": 14.5488704,
+            "longitude": -86.8276624,
+            "geocell": 3762931,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 485309376,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1928232",
+                "wikipedia_pages": {
+                    "es": "Guaimaca"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 506411655,
+            "country": 340,
+            "level1area": [
+                "hnat"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Arizona"
+            },
+            "place_type": 84,
+            "population": 30226,
+            "latitude": 15.6836396,
+            "longitude": -87.3329197,
+            "geocell": 3802526,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 506411655,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 506420930,
+            "country": 340,
+            "level1area": [
+                "hnat"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Porvenir"
+            },
+            "place_type": 84,
+            "population": 23593,
+            "latitude": 15.7556629,
+            "longitude": -86.8955185,
+            "geocell": 3806131,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 506420930,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 560653380,
+            "country": 340,
+            "level1area": [
+                "hncm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Libertad"
+            },
+            "place_type": 84,
+            "population": 27036,
+            "latitude": 14.7581127,
+            "longitude": -87.6087325,
+            "geocell": 3770123,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 560653380,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1986477",
+                "wikipedia_pages": {
+                    "es": "La Libertad (Comayagua)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 569961544,
+            "country": 340,
+            "level1area": [
+                "hncm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Las Lajas"
+            },
+            "place_type": 84,
+            "population": 14792,
+            "latitude": 14.8953473,
+            "longitude": -87.5821657,
+            "geocell": 3773724,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 569961544,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2360984",
+                "wikipedia_pages": {
+                    "es": "Las Lajas (Honduras)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 571412882,
+            "country": 340,
+            "level1area": [
+                "hncr"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Yojoa"
+            },
+            "place_type": 84,
+            "population": 85179,
+            "latitude": 15.0467699,
+            "longitude": -87.9292168,
+            "geocell": 3780920,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 571412882,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 575372314,
+            "country": 340,
+            "level1area": [
+                "hnfm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Orica"
+            },
+            "place_type": 84,
+            "population": 14199,
+            "latitude": 14.7158274,
+            "longitude": -86.9426895,
+            "geocell": 3770130,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 575372314,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q304913",
+                "wikipedia_pages": {
+                    "es": "Orica"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1055485024,
+            "country": 340,
+            "level1area": [
+                "hncr"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Choloma",
+                "hu": "Choloma",
+                "lt": "Čoloma"
+            },
+            "place_type": 67,
+            "population": 222828,
+            "latitude": 15.6127426,
+            "longitude": -87.950694,
+            "geocell": 3802520,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1055485024,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q998218",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2457629810,
+            "country": 340,
+            "level1area": [
+                "hnsb"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Protección"
+            },
+            "place_type": 84,
+            "population": 13661,
+            "latitude": 15.0273903,
+            "longitude": -88.6475061,
+            "geocell": 3780913,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2457629810,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3371222422,
+            "country": 340,
+            "level1area": [
+                "hncr"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Pedro Sula",
+                "hu": "San Pedro Sula",
+                "ru": "Сан-Педро-Сула"
+            },
+            "place_type": 67,
+            "population": 1000000,
+            "latitude": 15.5062156,
+            "longitude": -88.0248937,
+            "geocell": 3798919,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3371222422,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q274584",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4198896794,
+            "country": 340,
+            "level1area": [
+                "hncm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Ojos de Agua"
+            },
+            "place_type": 84,
+            "population": 10603,
+            "latitude": 14.7636141,
+            "longitude": -87.6502669,
+            "geocell": 3770123,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4198896794,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q9303426",
+                "wikipedia_pages": {
+                    "es": "Ojos de Agua (Honduras)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4451233286,
+            "country": 340,
+            "level1area": [
+                "hnlp"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Paz"
+            },
+            "place_type": 67,
+            "population": 46264,
+            "latitude": 14.3233902,
+            "longitude": -87.683199,
+            "geocell": 3755723,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4451233286,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2283725",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6343792240,
+            "country": 340,
+            "level1area": [
+                "hncm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Jerónimo"
+            },
+            "place_type": 84,
+            "population": 21688,
+            "latitude": 14.6268043,
+            "longitude": -87.6074588,
+            "geocell": 3766523,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6343792240,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "es": "San Jerónimo (Comayagua)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11934571268,
+            "country": 340,
+            "level1area": [
+                "hncp"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Santa Rosa de Copán",
+                "hu": "Santa Rosa de Copán"
+            },
+            "place_type": 67,
+            "population": 56000,
+            "latitude": 14.7675556,
+            "longitude": -88.7780977,
+            "geocell": 3770112,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11934571268,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q954300",
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

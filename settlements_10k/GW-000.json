@@ -1,0 +1,132 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 254525765,
+            "country": 624,
+            "level1area": [
+                "gwbs"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بيساو",
+                "az": "Bisau",
+                "be": "Бісау",
+                "bg": "Бисау",
+                "bn": "বিসাউ",
+                "br": "Bissau",
+                "ckb": "بیساو",
+                "de": "Bissau",
+                "el": "Μπισσάου",
+                "en": "Bissau",
+                "eo": "Bisaŭo",
+                "es": "Bisáu",
+                "fa": "بیسائو",
+                "fr": "Bissau",
+                "he": "ביסאו",
+                "hu": "Bissau",
+                "hy": "Բիսաու",
+                "is": "Bissá",
+                "ja": "ビサウ",
+                "ka": "ბისაუ",
+                "ko": "비사우",
+                "ky": "Бисау",
+                "lt": "Bisau",
+                "lv": "Bisava",
+                "mk": "Бисау",
+                "mr": "बिसाउ",
+                "nl": "Bissau",
+                "pl": "Bissau",
+                "pt": "Bissau",
+                "ru": "Бисау",
+                "sr": "Бисао",
+                "sv": "Bissau",
+                "sw": "Bisau",
+                "ta": "பிசாவு",
+                "tg": "Бисау",
+                "th": "บิสเซา",
+                "tr": "Bissau",
+                "udm": "Бисау",
+                "uk": "Бісау",
+                "ur": "بساؤ"
+            },
+            "place_type": 67,
+            "population": 395954,
+            "latitude": 11.861324,
+            "longitude": -15.583055,
+            "geocell": 3666444,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 254525765,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3739",
+                "wikipedia_pages": {
+                    "en": "Bissau"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1440998494,
+            "country": 624,
+            "level1area": [
+                "gwl"
+            ],
+            "level2area": [
+                "gwba"
+            ],
+            "names": {
+                "pt": "Bafatá"
+            },
+            "place_type": 67,
+            "population": 34760,
+            "latitude": 12.1723403,
+            "longitude": -14.6555027,
+            "geocell": 3677253,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1440998494,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q799788",
+                "wikipedia_pages": {
+                    "pt": "Bafatá (cidade)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1944578267,
+            "country": 624,
+            "level1area": [
+                "gwn"
+            ],
+            "level2area": [
+                "gwoi"
+            ],
+            "names": {
+                "pt": "Bissorã"
+            },
+            "place_type": 84,
+            "population": 50774,
+            "latitude": 12.2235221,
+            "longitude": -15.4507416,
+            "geocell": 3680845,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1944578267,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q572152",
+                "wikipedia_pages": {
+                    "pt": "Bissorã"
+                }
+            }
+        }
+    }
+]

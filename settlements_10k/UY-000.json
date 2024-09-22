@@ -1,0 +1,1182 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 296140043,
+            "country": 858,
+            "level1area": [
+                "uymo"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "مونتيفيديو",
+                "be": "Мантэвідэа",
+                "bg": "Монтевидео",
+                "bn": "মোন্তেবিদেও",
+                "br": "Montevideo",
+                "ckb": "مۆنتێڤیدیۆ",
+                "de": "Montevideo",
+                "el": "Μοντεβιδέο",
+                "en": "Montevideo",
+                "es": "Montevideo",
+                "fa": "مونته‌ویدئو",
+                "fr": "Montevideo",
+                "gl": "Montevideo",
+                "he": "מונטווידאו",
+                "hi": "मोण्टेवीडियो",
+                "hu": "Montevideo",
+                "hy": "Մոնտեվիդեո",
+                "is": "Montevídeó",
+                "it": "Montevideo",
+                "ja": "モンテビデオ",
+                "ka": "მონტევიდეო",
+                "ko": "몬테비데오",
+                "lt": "Montevidėjas",
+                "mk": "Монтевидео",
+                "ml": "മൊണ്ടേവീഡിയോ",
+                "mr": "मोन्तेविदेओ",
+                "my": "မွန်တီဗစ်ဒီအိုမြို့",
+                "nl": "Montevideo",
+                "os": "Монтевидео",
+                "pa": "ਮੋਂਤੇਵੀਦਿਓ",
+                "pl": "Montevideo",
+                "pt": "Montevidéu",
+                "ru": "Монтевидео",
+                "sk": "Montevideo",
+                "sr": "Монтевидео",
+                "sv": "Montevideo",
+                "ta": "மொண்டிவிடியோ",
+                "th": "มอนเตวิเดโอ",
+                "tr": "Montevideo",
+                "ug": "مونتېۋىدېئو",
+                "uk": "Монтевідео",
+                "ur": "مونٹیویڈیو"
+            },
+            "place_type": 67,
+            "population": 1319108,
+            "latitude": -34.9058916,
+            "longitude": -56.1913095,
+            "geocell": 1981238,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 296140043,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.montevideo.gub.uy/",
+                "wikidata_page_name": "Q1335",
+                "wikipedia_pages": {
+                    "es": "Montevideo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 302608039,
+            "country": 858,
+            "level1area": [
+                "uypa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Paysandú",
+                "es": "Paysandú",
+                "ru": "Пайсанду",
+                "uk": "Пайсанду"
+            },
+            "place_type": 67,
+            "population": 76429,
+            "latitude": -32.3217257,
+            "longitude": -58.0892136,
+            "geocell": 2074819,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 302608039,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q309442",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 302608467,
+            "country": 858,
+            "level1area": [
+                "uyrn"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Young"
+            },
+            "place_type": 67,
+            "population": 16756,
+            "latitude": -32.6995318,
+            "longitude": -57.6341992,
+            "geocell": 2064023,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 302608467,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1005607",
+                "wikipedia_pages": {
+                    "en": "Young, Uruguay"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 302608615,
+            "country": 858,
+            "level1area": [
+                "uyfs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Trinidad"
+            },
+            "place_type": 67,
+            "population": 21429,
+            "latitude": -33.5173479,
+            "longitude": -56.8979718,
+            "geocell": 2031631,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 302608615,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q862508",
+                "wikipedia_pages": {
+                    "en": "Trinidad, Uruguay"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 302608868,
+            "country": 858,
+            "level1area": [
+                "uysj"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San José",
+                "ru": "Сан-Хосе-де-Майо"
+            },
+            "place_type": 67,
+            "population": 36747,
+            "latitude": -34.3396521,
+            "longitude": -56.7143155,
+            "geocell": 2002832,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 302608868,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q983435",
+                "wikipedia_pages": {
+                    "en": "San José de Mayo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 302610183,
+            "country": 858,
+            "level1area": [
+                "uyca"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Santa Lucía",
+                "lt": "Santa Lusija",
+                "ru": "Санта-Лусия"
+            },
+            "place_type": 67,
+            "population": 16742,
+            "latitude": -34.4550929,
+            "longitude": -56.3893012,
+            "geocell": 1999236,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 302610183,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1014315",
+                "wikipedia_pages": {
+                    "es": "Santa Lucía (Uruguay)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 302610933,
+            "country": 858,
+            "level1area": [
+                "uyca"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Canelones"
+            },
+            "place_type": 67,
+            "population": 19865,
+            "latitude": -34.5242373,
+            "longitude": -56.2817519,
+            "geocell": 1995637,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 302610933,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q841342",
+                "wikipedia_pages": {
+                    "en": "Canelones, Uruguay"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 302611004,
+            "country": 858,
+            "level1area": [
+                "uyma"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Maldonado"
+            },
+            "place_type": 67,
+            "population": 62592,
+            "latitude": -34.9087162,
+            "longitude": -54.9582718,
+            "geocell": 1981250,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 302611004,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q16258",
+                "wikipedia_pages": {
+                    "en": "Maldonado, Uruguay"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 302666274,
+            "country": 858,
+            "level1area": [
+                "uyta"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Tacuarembó"
+            },
+            "place_type": 67,
+            "population": 54757,
+            "latitude": -31.7110183,
+            "longitude": -55.9788762,
+            "geocell": 2096440,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 302666274,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "45000"
+                ],
+                "website": "http://www.imtacuarembo.com/",
+                "wikidata_page_name": "Q833016",
+                "wikipedia_pages": {
+                    "es": "Tacuarembó"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 313943603,
+            "country": 858,
+            "level1area": [
+                "uyrn"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Fray Bentos"
+            },
+            "place_type": 67,
+            "population": 24406,
+            "latitude": -33.1165167,
+            "longitude": -58.3130977,
+            "geocell": 2046016,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 313943603,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q849835",
+                "wikipedia_pages": {
+                    "en": "Fray Bentos"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 321555078,
+            "country": 858,
+            "level1area": [
+                "uyro"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Rocha",
+                "es": "Rocha",
+                "ru": "Роча",
+                "uk": "Роча"
+            },
+            "place_type": 67,
+            "population": 25422,
+            "latitude": -34.4810095,
+            "longitude": -54.3365608,
+            "geocell": 1999256,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 321555078,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1017387",
+                "wikipedia_pages": {
+                    "en": "Rocha, Uruguay"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 321555240,
+            "country": 858,
+            "level1area": [
+                "uyma"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Carlos"
+            },
+            "place_type": 67,
+            "population": 27471,
+            "latitude": -34.7920447,
+            "longitude": -54.9207502,
+            "geocell": 1988450,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 321555240,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q374670",
+                "wikipedia_pages": {
+                    "en": "San Carlos, Uruguay"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 332268980,
+            "country": 858,
+            "level1area": [
+                "uysa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Salto",
+                "es": "Salto",
+                "fr": "Salto",
+                "ru": "Салту"
+            },
+            "place_type": 67,
+            "population": 104028,
+            "latitude": -31.38889,
+            "longitude": -57.9608876,
+            "geocell": 2110820,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 332268980,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.salto.gub.uy/",
+                "wikidata_page_name": "Q335506",
+                "wikipedia_pages": {
+                    "en": "Salto, Uruguay"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 332598161,
+            "country": 858,
+            "level1area": [
+                "uyso"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Mercedes"
+            },
+            "place_type": 67,
+            "population": 41975,
+            "latitude": -33.2484204,
+            "longitude": -58.0298671,
+            "geocell": 2042419,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 332598161,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q844914",
+                "wikipedia_pages": {
+                    "en": "Mercedes, Uruguay"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 332601915,
+            "country": 858,
+            "level1area": [
+                "uyso"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Dolores"
+            },
+            "place_type": 67,
+            "population": 17174,
+            "latitude": -33.5300696,
+            "longitude": -58.2170674,
+            "geocell": 2031617,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 332601915,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q546964",
+                "wikipedia_pages": {
+                    "en": "Dolores, Uruguay"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 332605466,
+            "country": 858,
+            "level1area": [
+                "uyco"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Carmelo",
+                "ru": "Кармело"
+            },
+            "place_type": 67,
+            "population": 18041,
+            "latitude": -33.9967827,
+            "longitude": -58.2836485,
+            "geocell": 2017217,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 332605466,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1043575",
+                "wikipedia_pages": {
+                    "es": "Carmelo (Uruguay)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 347693883,
+            "country": 858,
+            "level1area": [
+                "uyla"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Minas",
+                "ru": "Минас"
+            },
+            "place_type": 67,
+            "population": 38446,
+            "latitude": -34.3773987,
+            "longitude": -55.2382144,
+            "geocell": 2002847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 347693883,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "http://www.lavalleja.gub.uy",
+                "wikidata_page_name": "Q868205",
+                "wikipedia_pages": {
+                    "en": "Minas, Uruguay"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 415635916,
+            "country": 858,
+            "level1area": [
+                "uyca"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Progreso",
+                "lt": "Progresas",
+                "ru": "Прогресо"
+            },
+            "place_type": 67,
+            "population": 16244,
+            "latitude": -34.6798644,
+            "longitude": -56.2154727,
+            "geocell": 1992037,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 415635916,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "90300"
+                ],
+                "wikidata_page_name": "Q2000138",
+                "wikipedia_pages": {
+                    "es": "Progreso (Uruguay)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 415689707,
+            "country": 858,
+            "level1area": [
+                "uyar"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Bella Unión"
+            },
+            "place_type": 67,
+            "population": 12200,
+            "latitude": -30.2612301,
+            "longitude": -57.6059002,
+            "geocell": 2150423,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 415689707,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q815782",
+                "wikipedia_pages": {
+                    "en": "Bella Unión"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 415719961,
+            "country": 858,
+            "level1area": [
+                "uyco"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Rosario"
+            },
+            "place_type": 67,
+            "population": 10085,
+            "latitude": -34.3115588,
+            "longitude": -57.3512918,
+            "geocell": 2002826,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 415719961,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1023540",
+                "wikipedia_pages": {
+                    "en": "Rosario, Uruguay"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 416470120,
+            "country": 858,
+            "level1area": [
+                "uyar"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Artigas",
+                "lt": "Artigasas",
+                "pt": "Artigas",
+                "ru": "Артигас",
+                "uk": "Артиґас"
+            },
+            "place_type": 67,
+            "population": 40658,
+            "latitude": -30.3984136,
+            "longitude": -56.4638078,
+            "geocell": 2146835,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 416470120,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q712567",
+                "wikipedia_pages": {
+                    "es": "Artigas (ciudad)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 416492912,
+            "country": 858,
+            "level1area": [
+                "uydu"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Durazno"
+            },
+            "place_type": 67,
+            "population": 34372,
+            "latitude": -33.3804517,
+            "longitude": -56.5224396,
+            "geocell": 2038834,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 416492912,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q855645",
+                "wikipedia_pages": {
+                    "en": "Durazno"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 422918346,
+            "country": 858,
+            "level1area": [
+                "uyca"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Las Piedras",
+                "lt": "Las Piedrasas",
+                "ru": "Лас-Пьедрас"
+            },
+            "place_type": 67,
+            "population": 71268,
+            "latitude": -34.7274904,
+            "longitude": -56.2164982,
+            "geocell": 1988437,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 422918346,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q615470",
+                "wikipedia_pages": {
+                    "es": "Las Piedras (Uruguay)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 427239178,
+            "country": 858,
+            "level1area": [
+                "uyca"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Paz"
+            },
+            "place_type": 67,
+            "population": 20526,
+            "latitude": -34.7632835,
+            "longitude": -56.22327,
+            "geocell": 1988437,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 427239178,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q997833",
+                "wikipedia_pages": {
+                    "es": "La Paz (Uruguay)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 429019682,
+            "country": 858,
+            "level1area": [
+                "uyco"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Nueva Helvecia"
+            },
+            "place_type": 67,
+            "population": 10630,
+            "latitude": -34.2849689,
+            "longitude": -57.2336726,
+            "geocell": 2006427,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 429019682,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q999572",
+                "wikipedia_pages": {
+                    "en": "Nueva Helvecia"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 429019695,
+            "country": 858,
+            "level1area": [
+                "uyco"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Juan Lacaze"
+            },
+            "place_type": 67,
+            "population": 12816,
+            "latitude": -34.434266,
+            "longitude": -57.4380432,
+            "geocell": 1999225,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 429019695,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q657514",
+                "wikipedia_pages": {
+                    "en": "Juan Lacaze"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 445968232,
+            "country": 858,
+            "level1area": [
+                "uyca"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Pando"
+            },
+            "place_type": 67,
+            "population": 25949,
+            "latitude": -34.721323,
+            "longitude": -55.959447,
+            "geocell": 1988440,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 445968232,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q639340",
+                "wikipedia_pages": {
+                    "es": "Pando (Uruguay)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 470781780,
+            "country": 858,
+            "level1area": [
+                "uysj"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Libertad"
+            },
+            "place_type": 67,
+            "population": 10166,
+            "latitude": -34.6310156,
+            "longitude": -56.6164899,
+            "geocell": 1992033,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 470781780,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q946150",
+                "wikipedia_pages": {
+                    "en": "Libertad, Uruguay"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 617428620,
+            "country": 858,
+            "level1area": [
+                "uycl"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Melo"
+            },
+            "place_type": 67,
+            "population": 51830,
+            "latitude": -32.3680849,
+            "longitude": -54.1697146,
+            "geocell": 2074858,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 617428620,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "37000"
+                ],
+                "wikidata_page_name": "Q738250",
+                "wikipedia_pages": {
+                    "es": "Melo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 671778599,
+            "country": 858,
+            "level1area": [
+                "uyta"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Paso de los Toros"
+            },
+            "place_type": 67,
+            "population": 12985,
+            "latitude": -32.8108095,
+            "longitude": -56.5174948,
+            "geocell": 2056834,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 671778599,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q664156",
+                "wikipedia_pages": {
+                    "es": "Paso de los Toros"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 886601234,
+            "country": 858,
+            "level1area": [
+                "uyrv"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Rivera"
+            },
+            "place_type": 67,
+            "population": 64485,
+            "latitude": -30.900058,
+            "longitude": -55.5408151,
+            "geocell": 2125244,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 886601234,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q646498",
+                "wikipedia_pages": {
+                    "en": "Rivera"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1296548565,
+            "country": 858,
+            "level1area": [
+                "uyca"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Barros Blancos"
+            },
+            "place_type": 67,
+            "population": 31650,
+            "latitude": -34.7520226,
+            "longitude": -56.0002807,
+            "geocell": 1988439,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1296548565,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q808981",
+                "wikipedia_pages": {
+                    "es": "Barros Blancos"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1324391734,
+            "country": 858,
+            "level1area": [
+                "uyfd"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Florida"
+            },
+            "place_type": 67,
+            "population": 33640,
+            "latitude": -34.101363,
+            "longitude": -56.214752,
+            "geocell": 2010037,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1324391734,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q842472",
+                "wikipedia_pages": {
+                    "en": "Florida, Uruguay"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1374267802,
+            "country": 858,
+            "level1area": [
+                "uytt"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Treinta y Tres",
+                "lt": "Treinta i Tresas",
+                "ru": "Трейнта-и-Трес",
+                "uk": "Трейнта-і-Трес"
+            },
+            "place_type": 67,
+            "population": 32259,
+            "latitude": -33.2315713,
+            "longitude": -54.3862595,
+            "geocell": 2042456,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1374267802,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://treintaytres.gub.uy/",
+                "wikidata_page_name": "Q830390",
+                "wikipedia_pages": {
+                    "es": "Treinta y Tres (Uruguay)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1377855698,
+            "country": 858,
+            "level1area": [
+                "uycl"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Río Branco",
+                "fa": "ریو برانکو",
+                "ur": "ریو برانکو"
+            },
+            "place_type": 67,
+            "population": 14604,
+            "latitude": -32.588689,
+            "longitude": -53.3780831,
+            "geocell": 2067666,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1377855698,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1006165",
+                "wikipedia_pages": {
+                    "es": "Río Branco"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1382089438,
+            "country": 858,
+            "level1area": [
+                "uyco"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Colonia del Sacramento",
+                "pt": "Colônia do Sacramento"
+            },
+            "place_type": 67,
+            "population": 26231,
+            "latitude": -34.4698592,
+            "longitude": -57.8433679,
+            "geocell": 1999221,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1382089438,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q56064",
+                "wikipedia_pages": {
+                    "en": "Colonia del Sacramento"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1987919961,
+            "country": 858,
+            "level1area": [
+                "uyca"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Ciudad de la Costa"
+            },
+            "place_type": 67,
+            "population": 112449,
+            "latitude": -34.8255833,
+            "longitude": -55.958956,
+            "geocell": 1984840,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1987919961,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q869403",
+                "wikipedia_pages": {
+                    "en": "Ciudad de la Costa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2102107935,
+            "country": 858,
+            "level1area": [
+                "uysj"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Ciudad del Plata"
+            },
+            "place_type": 67,
+            "population": 31146,
+            "latitude": -34.7515308,
+            "longitude": -56.4205752,
+            "geocell": 1988435,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2102107935,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q370254",
+                "wikipedia_pages": {
+                    "en": "Ciudad del Plata"
+                }
+            }
+        }
+    }
+]

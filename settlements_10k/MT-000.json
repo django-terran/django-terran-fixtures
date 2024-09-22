@@ -1,0 +1,555 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 129953030,
+            "country": 470,
+            "level1area": [
+                "mt64"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الصبار",
+                "en": "Zabbar",
+                "it": "Zabbar",
+                "mt": "Ħaż-Żabbar"
+            },
+            "place_type": 84,
+            "population": 15404,
+            "latitude": 35.8753368,
+            "longitude": 14.5374788,
+            "geocell": 4530745,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 129953030,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q39518",
+                "wikipedia_pages": {
+                    "en": "Żabbar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 129953073,
+            "country": 470,
+            "level1area": [
+                "mt08"
+            ],
+            "level2area": null,
+            "names": {
+                "it": "Figura",
+                "mt": "Il-Fgura"
+            },
+            "place_type": 84,
+            "population": 11670,
+            "latitude": 35.8728325,
+            "longitude": 14.520799,
+            "geocell": 4530745,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 129953073,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "FGR"
+                ],
+                "wikidata_page_name": "Q44388",
+                "wikipedia_pages": {
+                    "en": "Fgura"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130869315,
+            "country": 470,
+            "level1area": [
+                "mt49"
+            ],
+            "level2area": null,
+            "names": {
+                "it": "San Giovanni",
+                "mt": "San Ġwann"
+            },
+            "place_type": 84,
+            "population": 12523,
+            "latitude": 35.9093052,
+            "longitude": 14.4788042,
+            "geocell": 4534344,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130869315,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q39507",
+                "wikipedia_pages": {
+                    "en": "San Ġwann"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130871200,
+            "country": 470,
+            "level1area": [
+                "mt48"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Saint Julian's",
+                "es": "San Julián",
+                "it": "San Giuliano",
+                "mt": "San Ġiljan",
+                "ru": "Сан Джулианс"
+            },
+            "place_type": 84,
+            "population": 10232,
+            "latitude": 35.9199225,
+            "longitude": 14.4877119,
+            "geocell": 4534344,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130871200,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q669979",
+                "wikipedia_pages": {
+                    "en": "St. Julian's, Malta"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130877808,
+            "country": 470,
+            "level1area": [
+                "mt38"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الناشار",
+                "en": "Naxxar",
+                "it": "Nasciaro",
+                "lt": "Našaras",
+                "mt": "In-Naxxar"
+            },
+            "place_type": 84,
+            "population": 13443,
+            "latitude": 35.9133396,
+            "longitude": 14.4432851,
+            "geocell": 4534344,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130877808,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q44397",
+                "wikipedia_pages": {
+                    "en": "Naxxar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130878149,
+            "country": 470,
+            "level1area": [
+                "mt32"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "موستا",
+                "en": "Mosta",
+                "it": "Musta",
+                "mt": "Il-Mosta"
+            },
+            "place_type": 84,
+            "population": 20241,
+            "latitude": 35.9079178,
+            "longitude": 14.4241508,
+            "geocell": 4534344,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130878149,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q39520",
+                "wikipedia_pages": {
+                    "en": "Mosta"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130878486,
+            "country": 470,
+            "level1area": [
+                "mt04"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بئر كيركرة",
+                "en": "Birkirkara",
+                "it": "Birchircara",
+                "mt": "Birkirkara"
+            },
+            "place_type": 84,
+            "population": 22247,
+            "latitude": 35.8994547,
+            "longitude": 14.4649578,
+            "geocell": 4530744,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130878486,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q39583",
+                "wikipedia_pages": {
+                    "en": "Birkirkara"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130883184,
+            "country": 470,
+            "level1area": [
+                "mt43"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Όρμι",
+                "en": "Qormi",
+                "it": "Curmi",
+                "lt": "Kormis",
+                "mt": "Ħal Qormi",
+                "ru": "Корми"
+            },
+            "place_type": 84,
+            "population": 16779,
+            "latitude": 35.877464,
+            "longitude": 14.4739598,
+            "geocell": 4530744,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130883184,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q39578",
+                "wikipedia_pages": {
+                    "en": "Qormi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130885854,
+            "country": 470,
+            "level1area": [
+                "mt66"
+            ],
+            "level2area": null,
+            "names": {
+                "mt": "Ħaż-Żebbuġ"
+            },
+            "place_type": 84,
+            "population": 11903,
+            "latitude": 35.8725956,
+            "longitude": 14.4398593,
+            "geocell": 4530744,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130885854,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "en": "Ħaż-Żebbuġ"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130888701,
+            "country": 470,
+            "level1area": [
+                "mt68"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الزرياق",
+                "en": "Żurrieq",
+                "it": "Zurrico",
+                "mt": "Iż-Żurrieq",
+                "ru": "Зуррик"
+            },
+            "place_type": 84,
+            "population": 11823,
+            "latitude": 35.8294676,
+            "longitude": 14.4745172,
+            "geocell": 4530744,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130888701,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q44417",
+                "wikipedia_pages": {
+                    "en": "Żurrieq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130892778,
+            "country": 470,
+            "level1area": [
+                "mt67"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الزيتون",
+                "en": "Żejtun",
+                "it": "Zeitun",
+                "mt": "Iż-Żejtun"
+            },
+            "place_type": 84,
+            "population": 11508,
+            "latitude": 35.8537008,
+            "longitude": 14.5315311,
+            "geocell": 4530745,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130892778,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q44392",
+                "wikipedia_pages": {
+                    "mt": "mt:Żejtun"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130908825,
+            "country": 470,
+            "level1area": [
+                "mt46"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الرباط",
+                "de": "Rabat",
+                "el": "Ραμπάτ",
+                "en": "Rabat",
+                "es": "Rabat",
+                "it": "Rabat",
+                "mt": "Ir-Rabat",
+                "nl": "Rabat",
+                "sr": "Рабат",
+                "ur": "ربط"
+            },
+            "place_type": 84,
+            "population": 11497,
+            "latitude": 35.8818906,
+            "longitude": 14.3988213,
+            "geocell": 4530743,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130908825,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q44381",
+                "wikipedia_pages": {
+                    "en": "Rabat, Malta"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130910723,
+            "country": 470,
+            "level1area": [
+                "mt01"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "عطارد",
+                "en": "Attard",
+                "it": "Attard",
+                "mt": "Ħ'Attard"
+            },
+            "place_type": 84,
+            "population": 10650,
+            "latitude": 35.8909172,
+            "longitude": 14.4430093,
+            "geocell": 4530744,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130910723,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q44557",
+                "wikipedia_pages": {
+                    "en": "Attard"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130923717,
+            "country": 470,
+            "level1area": [
+                "mt30"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mellieha",
+                "it": "Mellea",
+                "mt": "Il-Mellieħa",
+                "ru": "Меллиха"
+            },
+            "place_type": 86,
+            "population": 10087,
+            "latitude": 35.9599618,
+            "longitude": 14.368367,
+            "geocell": 4534343,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130923717,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q755979",
+                "wikipedia_pages": {
+                    "en": "Mellieħa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130932631,
+            "country": 470,
+            "level1area": [
+                "mt27"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "وادي العين",
+                "en": "Marsascala",
+                "it": "Marsascala",
+                "mt": "Wied il-Għajn"
+            },
+            "place_type": 84,
+            "population": 12134,
+            "latitude": 35.8629162,
+            "longitude": 14.5591879,
+            "geocell": 4530745,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130932631,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q534571",
+                "wikipedia_pages": {
+                    "mt": "mt:Wied il-Għajn (Marsaskala)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1501825792,
+            "country": 470,
+            "level1area": [
+                "mt51"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "البحر القديس بولس",
+                "cs": "Záliv Sv. Pavla",
+                "en": "Saint Paul's Bay",
+                "es": "Bahía de San Pablo",
+                "it": "Baia di San Paolo",
+                "mt": "San Pawl il-Baħar",
+                "ru": "Сент-Полс-Бэй"
+            },
+            "place_type": 84,
+            "population": 21046,
+            "latitude": 35.9480742,
+            "longitude": 14.3973929,
+            "geocell": 4534343,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1501825792,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q39521",
+                "wikipedia_pages": {
+                    "en": "St. Paul's Bay"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1501849405,
+            "country": 470,
+            "level1area": [
+                "mt56"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سليمة",
+                "en": "Sliema",
+                "it": "Sliema",
+                "mt": "Tas-Sliema",
+                "ru": "Слима"
+            },
+            "place_type": 84,
+            "population": 16854,
+            "latitude": 35.9127609,
+            "longitude": 14.5020708,
+            "geocell": 4534345,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1501849405,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q39526",
+                "wikipedia_pages": {
+                    "en": "Sliema"
+                }
+            }
+        }
+    }
+]

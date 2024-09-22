@@ -1,0 +1,4372 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11094836,
+            "country": 752,
+            "level1area": [
+                "sed"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Nišiopingas",
+                "ru": "Нючёпинг",
+                "sv": "Nyköping"
+            },
+            "place_type": 67,
+            "population": 29891,
+            "latitude": 58.7545409,
+            "longitude": 17.0120656,
+            "geocell": 5355170,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11094836,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54356",
+                "wikipedia_pages": {
+                    "sv": "Nyköping"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 15412058,
+            "country": 752,
+            "level1area": [
+                "sem"
+            ],
+            "level2area": null,
+            "names": {
+                "et": "Helsingborg",
+                "he": "הלסינגבורג",
+                "hu": "Helsingborg",
+                "is": "Helsingjaborg",
+                "lt": "Helsingborgas",
+                "mk": "Хелсингборг",
+                "ru": "Хельсингборг",
+                "sr": "Хелсингборг",
+                "sv": "Helsingborg"
+            },
+            "place_type": 67,
+            "population": 93838,
+            "latitude": 56.0442098,
+            "longitude": 12.703706,
+            "geocell": 5257927,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 15412058,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q25411",
+                "wikipedia_pages": {
+                    "sv": "Helsingborg"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 20975578,
+            "country": 752,
+            "level1area": [
+                "see"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "لينشوبينغ",
+                "be": "Лінчэпінг",
+                "bg": "Линшьопинг",
+                "el": "Λινκόπινγκ",
+                "fa": "لینشوپینگ",
+                "hy": "Լինչոպինգ",
+                "ja": "リンシェーピング",
+                "ka": "ლინჩეპინგი",
+                "ko": "린셰핑",
+                "lt": "Linšiopingas",
+                "lv": "Linšēpinga",
+                "mk": "Линшепинг",
+                "ru": "Линчёпинг",
+                "sr": "Линћепинг",
+                "sv": "Linköping",
+                "th": "ลินเชอปิง",
+                "uk": "Лінчепінг"
+            },
+            "place_type": 67,
+            "population": 115682,
+            "latitude": 58.4098135,
+            "longitude": 15.6245252,
+            "geocell": 5344356,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 20975578,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q25413",
+                "wikipedia_pages": {
+                    "sv": "Linköping"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 21441802,
+            "country": 752,
+            "level1area": [
+                "sew"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Лудвика",
+                "sv": "Ludvika"
+            },
+            "place_type": 84,
+            "population": 15245,
+            "latitude": 60.1503771,
+            "longitude": 15.1813989,
+            "geocell": 5405551,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 21441802,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.ludvika.se/",
+                "wikidata_page_name": "Q848393",
+                "wikipedia_pages": {
+                    "sv": "Ludvika"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 21528692,
+            "country": 752,
+            "level1area": [
+                "sem"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Hioganas",
+                "ru": "Хёганес",
+                "sv": "Höganäs"
+            },
+            "place_type": 84,
+            "population": 14356,
+            "latitude": 56.2008565,
+            "longitude": 12.5515849,
+            "geocell": 5265125,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 21528692,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q911875",
+                "wikipedia_pages": {
+                    "sv": "Höganäs"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25508576,
+            "country": 752,
+            "level1area": [
+                "seg"
+            ],
+            "level2area": null,
+            "names": {
+                "he": "וקשה",
+                "hu": "Växjö",
+                "lt": "Vekšė",
+                "ru": "Векшё",
+                "sr": "Векше",
+                "sv": "Växjö"
+            },
+            "place_type": 67,
+            "population": 55600,
+            "latitude": 56.8787183,
+            "longitude": 14.8094385,
+            "geocell": 5286748,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25508576,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q26152",
+                "wikipedia_pages": {
+                    "sv": "Växjö"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25508588,
+            "country": 752,
+            "level1area": [
+                "seo"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Šiovdė",
+                "ru": "Шёвде",
+                "sv": "Skövde"
+            },
+            "place_type": 84,
+            "population": 34466,
+            "latitude": 58.3896329,
+            "longitude": 13.8456344,
+            "geocell": 5340738,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25508588,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q21166",
+                "wikipedia_pages": {
+                    "sv": "Skövde"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25597313,
+            "country": 752,
+            "level1area": [
+                "set"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Карлскуга",
+                "sv": "Karlskoga"
+            },
+            "place_type": 84,
+            "population": 27562,
+            "latitude": 59.3291667,
+            "longitude": 14.5176911,
+            "geocell": 5376745,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25597313,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54732",
+                "wikipedia_pages": {
+                    "sv": "Karlskoga"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25735371,
+            "country": 752,
+            "level1area": [
+                "sec"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Uppsala",
+                "eo": "Upsalo",
+                "fi": "Uppsala",
+                "he": "אופסלה",
+                "hu": "Uppsala",
+                "is": "Uppsalir",
+                "ko": "웁살라",
+                "lt": "Upsala",
+                "ru": "Уппсала",
+                "sr": "Упсала",
+                "sv": "Uppsala"
+            },
+            "place_type": 67,
+            "population": 166698,
+            "latitude": 59.8586126,
+            "longitude": 17.6387436,
+            "geocell": 5394776,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25735371,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.uppsala.se",
+                "wikidata_page_name": "Q25286",
+                "wikipedia_pages": {
+                    "sv": "Uppsala"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25869331,
+            "country": 752,
+            "level1area": [
+                "ses"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Кристинехамн",
+                "sv": "Kristinehamn"
+            },
+            "place_type": 84,
+            "population": 18829,
+            "latitude": 59.3113619,
+            "longitude": 14.11176,
+            "geocell": 5376741,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25869331,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q215832",
+                "wikipedia_pages": {
+                    "sv": "Kristinehamn"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25929985,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ستوكهولم",
+                "ast": "Estocolmu",
+                "az": "Stokholm",
+                "be": "Стакгольм",
+                "bg": "Стокхолм",
+                "bn": "স্টকহোম",
+                "br": "Stockholm",
+                "ca": "Estocolm",
+                "ckb": "ستۆکھۆڵم",
+                "cs": "Stockholm",
+                "da": "Stockholm",
+                "de": "Stockholm",
+                "el": "Στοκχόλμη",
+                "en": "Stockholm",
+                "eo": "Stokholmo",
+                "es": "Estocolmo",
+                "et": "Stockholm",
+                "eu": "Stockholm",
+                "fa": "استکهلم",
+                "fi": "Tukholma",
+                "fr": "Stockholm",
+                "fy": "Stokholm",
+                "ga": "Stócólm",
+                "gl": "Estocolmo",
+                "he": "סטוקהולם",
+                "hi": "स्टॉकहोम",
+                "hr": "Stockholm",
+                "hu": "Stockholm",
+                "hy": "Ստոքհոլմ",
+                "is": "Stokkhólmur",
+                "it": "Stoccolma",
+                "ja": "ストックホルム",
+                "ka": "სტოკჰოლმი",
+                "kab": "Stukulm",
+                "kk": "Стокгольм",
+                "ko": "스톡홀름",
+                "lt": "Stokholmas",
+                "lv": "Stokholma",
+                "mk": "Стокхолм",
+                "ml": "സ്റ്റോക്ക്‌ഹോം",
+                "mr": "स्टॉकहोम",
+                "my": "စတော့ဟုမ်းမြို့",
+                "nl": "Stockholm",
+                "os": "Стокгольм",
+                "pl": "Sztokholm",
+                "pt": "Estocolmo",
+                "ro": "Stockholm",
+                "ru": "Стокгольм",
+                "sk": "Štokholm",
+                "sq": "Stokholmi",
+                "sr": "Стокхолм",
+                "sv": "Stockholm",
+                "ta": "ஸ்டாக்ஹோம்",
+                "tg": "Стокҳолм",
+                "th": "สตอกโฮล์ม",
+                "tr": "Stokholm",
+                "tt": "Стокһолм",
+                "udm": "Стокгольм",
+                "ug": "Stokgolm",
+                "uk": "Стокгольм",
+                "ur": "سٹاکہوم",
+                "uz": "Stokgolm"
+            },
+            "place_type": 67,
+            "population": 984748,
+            "latitude": 59.3251172,
+            "longitude": 18.0710935,
+            "geocell": 5376780,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25929985,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1754",
+                "wikipedia_pages": {
+                    "sv": "Stockholm"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25930131,
+            "country": 752,
+            "level1area": [
+                "seo"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Gotenburg",
+                "ar": "غوتنبرغ",
+                "ast": "Gotemburgu",
+                "az": "Göteborq",
+                "be": "Гётэбарг",
+                "bg": "Гьотеборг",
+                "bn": "গোথেনবার্গ",
+                "br": "Göteborg",
+                "bs": "Geteborg",
+                "ca": "Göteborg",
+                "ckb": "یۆتۆبۆری",
+                "cs": "Göteborg",
+                "cy": "Göteborg",
+                "da": "Göteborg",
+                "de": "Göteborg",
+                "dsb": "Göteborg",
+                "el": "Γκέτεμποργκ",
+                "en": "Gothenburg",
+                "eo": "Göteborg",
+                "es": "Gotemburgo",
+                "et": "Göteborg",
+                "eu": "Göteborg",
+                "fa": "یوتبری",
+                "fi": "Göteborg",
+                "fr": "Göteborg",
+                "fy": "Goateboarch",
+                "ga": "Göteborg",
+                "gd": "Göteborg",
+                "gl": "Gotemburgo",
+                "he": "גטבורג",
+                "hi": "गोथनबर्ग",
+                "hr": "Göteborg",
+                "hsb": "Göteborg",
+                "hu": "Göteborg",
+                "hy": "Գյոթեբորգ",
+                "ia": "Göteborg",
+                "id": "Göteborg",
+                "io": "Göteborg",
+                "is": "Gautaborg",
+                "it": "Göteborg",
+                "ja": "イェーテボリ",
+                "ka": "გეტებორგი",
+                "kk": "Гётеборг",
+                "ko": "예테보리",
+                "ky": "Гөтеборг",
+                "lb": "Göteborg",
+                "lt": "Geteborgas",
+                "lv": "Gēteborga",
+                "mk": "Гетеборг",
+                "ml": "ഗോഥെൻബർഗ്",
+                "mn": "Гётеборг",
+                "mr": "योहतेबोर्य",
+                "ms": "Gothenburg",
+                "my": "ဂိုသန်ဘာ့ဂ်မြို့",
+                "nl": "Göteborg (stad)",
+                "nn": "Göteborg",
+                "os": "Гётеборг",
+                "pl": "Göteborg",
+                "pt": "Gotemburgo",
+                "ro": "Göteborg",
+                "ru": "Гётеборг",
+                "sk": "Göteborg",
+                "sl": "Göteborg",
+                "sq": "Göteborg",
+                "sr": "Гетеборг",
+                "sv": "Göteborg",
+                "sw": "Göteborg",
+                "tg": "Гӯтебург",
+                "th": "กอเทนเบิร์ก",
+                "tr": "Göteborg",
+                "tt": "Гөтеборг",
+                "ug": "گوتېنبۇرگ",
+                "uk": "Гетеборг",
+                "ur": "یوہتیبوری",
+                "uz": "Gyoteborg",
+                "vi": "Göteborg"
+            },
+            "place_type": 67,
+            "population": 607882,
+            "latitude": 57.7072326,
+            "longitude": 11.9670171,
+            "geocell": 5319119,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25930131,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q25287",
+                "wikipedia_pages": {
+                    "sv": "Göteborg"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25975135,
+            "country": 752,
+            "level1area": [
+                "ses"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Karlstad",
+                "he": "קרלסטד",
+                "hu": "Karlstad",
+                "lt": "Karlstadas",
+                "lv": "Kārlstāde",
+                "ru": "Карлстад",
+                "sr": "Карлстад",
+                "sv": "Karlstad",
+                "uk": "Карлстад"
+            },
+            "place_type": 67,
+            "population": 62797,
+            "latitude": 59.3809146,
+            "longitude": 13.5027631,
+            "geocell": 5376735,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25975135,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q25457",
+                "wikipedia_pages": {
+                    "sv": "Karlstad"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26290051,
+            "country": 752,
+            "level1area": [
+                "seg"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Юнгбю",
+                "sv": "Ljungby"
+            },
+            "place_type": 84,
+            "population": 15205,
+            "latitude": 56.8325886,
+            "longitude": 13.9359916,
+            "geocell": 5286739,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26290051,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q744491",
+                "wikipedia_pages": {
+                    "sv": "Ljungby"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26458262,
+            "country": 752,
+            "level1area": [
+                "seo"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Скара",
+                "sv": "Skara"
+            },
+            "place_type": 84,
+            "population": 11437,
+            "latitude": 58.3846075,
+            "longitude": 13.4397675,
+            "geocell": 5340734,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26458262,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q939389",
+                "wikipedia_pages": {
+                    "sv": "Skara"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26502249,
+            "country": 752,
+            "level1area": [
+                "sew"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Мура",
+                "sv": "Mora"
+            },
+            "place_type": 84,
+            "population": 10896,
+            "latitude": 61.0086787,
+            "longitude": 14.5442519,
+            "geocell": 5437945,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26502249,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q849874",
+                "wikipedia_pages": {
+                    "sv": "Mora"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26502343,
+            "country": 752,
+            "level1area": [
+                "sew"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Бурленге",
+                "sv": "Borlänge"
+            },
+            "place_type": 84,
+            "population": 44898,
+            "latitude": 60.4856426,
+            "longitude": 15.4234561,
+            "geocell": 5416354,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26502343,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54341",
+                "wikipedia_pages": {
+                    "sv": "Borlänge"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26585395,
+            "country": 752,
+            "level1area": [
+                "seo"
+            ],
+            "level2area": null,
+            "names": {
+                "he": "טרולהטן",
+                "ru": "Тролльхеттан",
+                "sv": "Trollhättan"
+            },
+            "place_type": 84,
+            "population": 44498,
+            "latitude": 58.2827931,
+            "longitude": 12.2908612,
+            "geocell": 5337122,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26585395,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54339",
+                "wikipedia_pages": {
+                    "sv": "Trollhättan"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26585396,
+            "country": 752,
+            "level1area": [
+                "seo"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Венерсборг",
+                "sv": "Vänersborg"
+            },
+            "place_type": 84,
+            "population": 21699,
+            "latitude": 58.3811988,
+            "longitude": 12.3226877,
+            "geocell": 5340723,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26585396,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54759",
+                "wikipedia_pages": {
+                    "sv": "Vänersborg"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26585398,
+            "country": 752,
+            "level1area": [
+                "seo"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Uddevalla",
+                "lt": "Udevala",
+                "ru": "Уддевалла",
+                "sv": "Uddevalla"
+            },
+            "place_type": 84,
+            "population": 31212,
+            "latitude": 58.3490555,
+            "longitude": 11.9382855,
+            "geocell": 5340719,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26585398,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27447",
+                "wikipedia_pages": {
+                    "sv": "Uddevalla"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26587059,
+            "country": 752,
+            "level1area": [
+                "sef"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Ветланда",
+                "sv": "Vetlanda"
+            },
+            "place_type": 84,
+            "population": 13050,
+            "latitude": 57.4260178,
+            "longitude": 15.0870226,
+            "geocell": 5308350,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26587059,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://vetlanda.se/",
+                "wikidata_page_name": "Q611013",
+                "wikipedia_pages": {
+                    "sv": "Vetlanda"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26592946,
+            "country": 752,
+            "level1area": [
+                "sef"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Несшё",
+                "sv": "Nässjö"
+            },
+            "place_type": 84,
+            "population": 16678,
+            "latitude": 57.6530377,
+            "longitude": 14.6981554,
+            "geocell": 5315546,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26592946,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q654299",
+                "wikipedia_pages": {
+                    "sv": "Nässjö"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26594373,
+            "country": 752,
+            "level1area": [
+                "seh"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Vestervikas",
+                "ru": "Вестервик",
+                "sv": "Västervik"
+            },
+            "place_type": 84,
+            "population": 21178,
+            "latitude": 57.7594186,
+            "longitude": 16.6385035,
+            "geocell": 5319166,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26594373,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54764",
+                "wikipedia_pages": {
+                    "sv": "Västervik"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26794098,
+            "country": 752,
+            "level1area": [
+                "set"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Kumla",
+                "ru": "Кумла",
+                "sv": "Kumla"
+            },
+            "place_type": 84,
+            "population": 14062,
+            "latitude": 59.1272047,
+            "longitude": 15.1435463,
+            "geocell": 5369551,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26794098,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q725826",
+                "wikipedia_pages": {
+                    "sv": "Kumla"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26804505,
+            "country": 752,
+            "level1area": [
+                "sem"
+            ],
+            "level2area": null,
+            "names": {
+                "da": "Malmø",
+                "de": "Malmö",
+                "en": "Malmo",
+                "fr": "Malmö",
+                "he": "מאלמה",
+                "hu": "Malmö",
+                "ja": "マルメ",
+                "ko": "말뫼",
+                "lt": "Malmė",
+                "mk": "Малме",
+                "ro": "Malmö",
+                "ru": "Мальмё",
+                "sr": "Малме",
+                "sv": "Malmö"
+            },
+            "place_type": 67,
+            "population": 316588,
+            "latitude": 55.6052931,
+            "longitude": 13.0001566,
+            "geocell": 5243530,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26804505,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2211",
+                "wikipedia_pages": {
+                    "sv": "Malmö"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27150427,
+            "country": 752,
+            "level1area": [
+                "sei"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "فيسبي",
+                "el": "Βίσμπυ",
+                "fa": "ویزبه",
+                "ja": "ヴィースビ",
+                "ko": "비스뷔",
+                "lt": "Visbis",
+                "lv": "Visbija",
+                "mk": "Висби",
+                "ne": "भिस्बी",
+                "ru": "Висбю",
+                "sr": "Висби",
+                "sv": "Visby",
+                "ur": "ویسپے"
+            },
+            "place_type": 67,
+            "population": 22593,
+            "latitude": 57.6379361,
+            "longitude": 18.297982,
+            "geocell": 5315582,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27150427,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54757",
+                "wikipedia_pages": {
+                    "sv": "Visby"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27323968,
+            "country": 752,
+            "level1area": [
+                "sem"
+            ],
+            "level2area": null,
+            "names": {
+                "da": "Lund",
+                "ja": "ルンド",
+                "ko": "룬드",
+                "nn": "Lund",
+                "ru": "Лунд",
+                "sv": "Lund"
+            },
+            "place_type": 67,
+            "population": 82800,
+            "latitude": 55.7029296,
+            "longitude": 13.1929449,
+            "geocell": 5247131,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27323968,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2167",
+                "wikipedia_pages": {
+                    "sv": "Lund"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27374565,
+            "country": 752,
+            "level1area": [
+                "sem"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Истад",
+                "sv": "Ystad"
+            },
+            "place_type": 84,
+            "population": 18350,
+            "latitude": 55.4295203,
+            "longitude": 13.8201171,
+            "geocell": 5236338,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27374565,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q28287",
+                "wikipedia_pages": {
+                    "sv": "Ystad"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27377535,
+            "country": 752,
+            "level1area": [
+                "sem"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Kristianstadas",
+                "ru": "Кристианстад",
+                "sv": "Kristianstad"
+            },
+            "place_type": 84,
+            "population": 35711,
+            "latitude": 56.0293778,
+            "longitude": 14.1566859,
+            "geocell": 5257941,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27377535,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q26937",
+                "wikipedia_pages": {
+                    "sv": "Kristianstad"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27395889,
+            "country": 752,
+            "level1area": [
+                "sek"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Карлсхамн",
+                "sv": "Karlshamn"
+            },
+            "place_type": 84,
+            "population": 19075,
+            "latitude": 56.1701723,
+            "longitude": 14.8631279,
+            "geocell": 5261548,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27395889,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54769",
+                "wikipedia_pages": {
+                    "sv": "Karlshamn"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27396028,
+            "country": 752,
+            "level1area": [
+                "sek"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Ronebis",
+                "ru": "Роннебю",
+                "sv": "Ronneby"
+            },
+            "place_type": 84,
+            "population": 11767,
+            "latitude": 56.2100417,
+            "longitude": 15.2760355,
+            "geocell": 5265152,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27396028,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.ronneby.se/",
+                "wikidata_page_name": "Q823785",
+                "wikipedia_pages": {
+                    "sv": "Ronneby"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27405018,
+            "country": 752,
+            "level1area": [
+                "seh"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Nibru",
+                "ru": "Нюбру",
+                "sv": "Nybro"
+            },
+            "place_type": 84,
+            "population": 12810,
+            "latitude": 56.7452259,
+            "longitude": 15.9061542,
+            "geocell": 5283159,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27405018,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q930238",
+                "wikipedia_pages": {
+                    "sv": "Nybro"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27426448,
+            "country": 752,
+            "level1area": [
+                "seo"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Лидчёпинг",
+                "sv": "Lidköping"
+            },
+            "place_type": 84,
+            "population": 25644,
+            "latitude": 58.5037196,
+            "longitude": 13.1576427,
+            "geocell": 5347931,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27426448,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q29988",
+                "wikipedia_pages": {
+                    "sv": "Lidköping"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27430678,
+            "country": 752,
+            "level1area": [
+                "seo"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Мариестад",
+                "sv": "Mariestad"
+            },
+            "place_type": 84,
+            "population": 16249,
+            "latitude": 58.7093225,
+            "longitude": 13.8228754,
+            "geocell": 5355138,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27430678,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q948117",
+                "wikipedia_pages": {
+                    "sv": "Mariestad"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27431648,
+            "country": 752,
+            "level1area": [
+                "see"
+            ],
+            "level2area": null,
+            "names": {
+                "he": "נורשפינג",
+                "hu": "Norrköping",
+                "ru": "Норрчёпинг",
+                "sv": "Norrköping"
+            },
+            "place_type": 67,
+            "population": 87247,
+            "latitude": 58.5909124,
+            "longitude": 16.1903511,
+            "geocell": 5347961,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27431648,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q25724",
+                "wikipedia_pages": {
+                    "sv": "Norrköping"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27432055,
+            "country": 752,
+            "level1area": [
+                "sex"
+            ],
+            "level2area": null,
+            "names": {
+                "he": "יבלה",
+                "hu": "Gävle",
+                "lt": "Jevlė",
+                "ru": "Евле",
+                "sr": "Јевле",
+                "sv": "Gävle"
+            },
+            "place_type": 67,
+            "population": 102904,
+            "latitude": 60.6750132,
+            "longitude": 17.1467019,
+            "geocell": 5423571,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27432055,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q25748",
+                "wikipedia_pages": {
+                    "sv": "Gävle"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27432369,
+            "country": 752,
+            "level1area": [
+                "seac"
+            ],
+            "level2area": null,
+            "names": {
+                "eo": "Umeå",
+                "et": "Umeå",
+                "fi": "Uumaja",
+                "hu": "Umeå",
+                "lt": "Umeo",
+                "pl": "Umeå",
+                "ru": "Умео",
+                "sr": "Умео",
+                "sv": "Umeå",
+                "uk": "Умео"
+            },
+            "place_type": 67,
+            "population": 89607,
+            "latitude": 63.8256568,
+            "longitude": 20.2630745,
+            "geocell": 5538802,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27432369,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q25579",
+                "wikipedia_pages": {
+                    "sv": "Umeå"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27439001,
+            "country": 752,
+            "level1area": [
+                "sem"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Treleborgas",
+                "ru": "Треллеборг",
+                "sv": "Trelleborg"
+            },
+            "place_type": 84,
+            "population": 28290,
+            "latitude": 55.37592,
+            "longitude": 13.1461522,
+            "geocell": 5232731,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27439001,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q26943",
+                "wikipedia_pages": {
+                    "sv": "Trelleborg"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27513227,
+            "country": 752,
+            "level1area": [
+                "seu"
+            ],
+            "level2area": null,
+            "names": {
+                "he": "וסטרוס",
+                "lt": "Vesterosas",
+                "ru": "Вестерос",
+                "sr": "Вестерос",
+                "sv": "Västerås"
+            },
+            "place_type": 67,
+            "population": 110877,
+            "latitude": 59.6110992,
+            "longitude": 16.5463679,
+            "geocell": 5387565,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27513227,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q25412",
+                "wikipedia_pages": {
+                    "sv": "Västerås"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27532837,
+            "country": 752,
+            "level1area": [
+                "sed"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Katrineholmas",
+                "ru": "Катринехольм",
+                "sv": "Katrineholm"
+            },
+            "place_type": 84,
+            "population": 20000,
+            "latitude": 58.9959119,
+            "longitude": 16.2062225,
+            "geocell": 5362362,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27532837,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54758",
+                "wikipedia_pages": {
+                    "sv": "Katrineholm"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27544566,
+            "country": 752,
+            "level1area": [
+                "sec"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Enköping"
+            },
+            "place_type": 84,
+            "population": 21121,
+            "latitude": 59.6356115,
+            "longitude": 17.077856,
+            "geocell": 5387570,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27544566,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://enkoping.se/",
+                "wikidata_page_name": "Q21167",
+                "wikipedia_pages": {
+                    "sv": "Enköping"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27557254,
+            "country": 752,
+            "level1area": [
+                "sex"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Худиксваль",
+                "sv": "Hudiksvall"
+            },
+            "place_type": 84,
+            "population": 15015,
+            "latitude": 61.7281607,
+            "longitude": 17.105575,
+            "geocell": 5463171,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27557254,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.hudiksvall.se/",
+                "wikidata_page_name": "Q642964",
+                "wikipedia_pages": {
+                    "sv": "Hudiksvall"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27557890,
+            "country": 752,
+            "level1area": [
+                "sex"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Болнес",
+                "fa": "بولناس",
+                "ja": "ボルネス",
+                "lt": "Bolnesas",
+                "nl": "Bollnäs (stad)",
+                "ru": "Болльнес",
+                "sr": "Болнес",
+                "sv": "Bollnäs",
+                "uk": "Болльнес"
+            },
+            "place_type": 84,
+            "population": 12455,
+            "latitude": 61.3513005,
+            "longitude": 16.3972013,
+            "geocell": 5448763,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27557890,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q953769",
+                "wikipedia_pages": {
+                    "sv": "Bollnäs"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27558251,
+            "country": 752,
+            "level1area": [
+                "sex"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Сёдерхамн",
+                "sv": "Söderhamn"
+            },
+            "place_type": 84,
+            "population": 12056,
+            "latitude": 61.2998501,
+            "longitude": 17.0607599,
+            "geocell": 5445170,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27558251,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q746839",
+                "wikipedia_pages": {
+                    "sv": "Söderhamn"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27558580,
+            "country": 752,
+            "level1area": [
+                "sex"
+            ],
+            "level2area": null,
+            "names": {
+                "he": "סאנדוויקן",
+                "ru": "Сандвикен",
+                "sv": "Sandviken"
+            },
+            "place_type": 84,
+            "population": 25344,
+            "latitude": 60.6218652,
+            "longitude": 16.7759991,
+            "geocell": 5423567,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27558580,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54756",
+                "wikipedia_pages": {
+                    "sv": "Sandviken"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27558697,
+            "country": 752,
+            "level1area": [
+                "sez"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Estešundas",
+                "ru": "Эстерсунд",
+                "sr": "Естерсунд",
+                "sv": "Östersund"
+            },
+            "place_type": 67,
+            "population": 44000,
+            "latitude": 63.1793655,
+            "longitude": 14.6357061,
+            "geocell": 5513546,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27558697,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q26515",
+                "wikipedia_pages": {
+                    "sv": "Östersund"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27559814,
+            "country": 752,
+            "level1area": [
+                "sebd"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Luulaja",
+                "fr": "Luleå",
+                "lt": "Liuleo",
+                "ru": "Лулео",
+                "sr": "Лулео",
+                "sv": "Luleå"
+            },
+            "place_type": 67,
+            "population": 73864,
+            "latitude": 65.5831187,
+            "longitude": 22.1459535,
+            "geocell": 5600021,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27559814,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q26268",
+                "wikipedia_pages": {
+                    "sv": "Luleå"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27560253,
+            "country": 752,
+            "level1area": [
+                "sey"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Эрншёльдсвик",
+                "sr": "Ерншелдсвик",
+                "sv": "Örnsköldsvik",
+                "uk": "Ерншельдсвік"
+            },
+            "place_type": 84,
+            "population": 32953,
+            "latitude": 63.2888613,
+            "longitude": 18.7160209,
+            "geocell": 5517187,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27560253,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q28327",
+                "wikipedia_pages": {
+                    "sv": "Örnsköldsvik"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27560697,
+            "country": 752,
+            "level1area": [
+                "sey"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "هارنوساند",
+                "be": "Гэрнёсанд",
+                "bg": "Херньосанд",
+                "el": "Χέρνεσαντ",
+                "eo": "Hernusando",
+                "fa": "هرنوسند",
+                "he": "הרנוסאנד",
+                "hy": "Հերնյոսանդ",
+                "ja": "ヘーノーサンド",
+                "ko": "헤르뇌산드",
+                "lt": "Herniosandas",
+                "os": "Хернёсанд",
+                "ru": "Хернёсанд",
+                "sr": "Хернесанд",
+                "sv": "Härnösand",
+                "th": "แฮเนอซันด์",
+                "uk": "Гернесанд"
+            },
+            "place_type": 67,
+            "population": 24689,
+            "latitude": 62.6323084,
+            "longitude": 17.9379914,
+            "geocell": 5495579,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27560697,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3240427",
+                "wikipedia_pages": {
+                    "sv": "Härnösand"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27593232,
+            "country": 752,
+            "level1area": [
+                "set"
+            ],
+            "level2area": null,
+            "names": {
+                "he": "ארברו",
+                "lt": "Erebru",
+                "ru": "Эребру",
+                "sr": "Еребро",
+                "sv": "Örebro"
+            },
+            "place_type": 67,
+            "population": 98237,
+            "latitude": 59.2747287,
+            "longitude": 15.2151181,
+            "geocell": 5373152,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27593232,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q25732",
+                "wikipedia_pages": {
+                    "sv": "Örebro"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27699239,
+            "country": 752,
+            "level1area": [
+                "sem"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Ландскруна",
+                "sv": "Landskrona"
+            },
+            "place_type": 84,
+            "population": 30499,
+            "latitude": 55.8698007,
+            "longitude": 12.8296734,
+            "geocell": 5250728,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27699239,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54352",
+                "wikipedia_pages": {
+                    "sv": "Landskrona"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27699240,
+            "country": 752,
+            "level1area": [
+                "sem"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Ломма",
+                "sv": "Lomma"
+            },
+            "place_type": 84,
+            "population": 10837,
+            "latitude": 55.6745348,
+            "longitude": 13.0708928,
+            "geocell": 5243530,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27699240,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q995369",
+                "wikipedia_pages": {
+                    "sv": "Lomma"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27699411,
+            "country": 752,
+            "level1area": [
+                "sem"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Энгельхольм",
+                "sv": "Ängelholm"
+            },
+            "place_type": 84,
+            "population": 22532,
+            "latitude": 56.2429224,
+            "longitude": 12.8619375,
+            "geocell": 5265128,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27699411,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54755",
+                "wikipedia_pages": {
+                    "sv": "Ängelholm"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 28256477,
+            "country": 752,
+            "level1area": [
+                "seo"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Алингсос",
+                "sv": "Alingsås"
+            },
+            "place_type": 84,
+            "population": 24482,
+            "latitude": 57.9299658,
+            "longitude": 12.5329678,
+            "geocell": 5326325,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 28256477,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54743",
+                "wikipedia_pages": {
+                    "sv": "Alingsås"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 28350059,
+            "country": 752,
+            "level1area": [
+                "seo"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Чинна",
+                "sv": "Kinna"
+            },
+            "place_type": 84,
+            "population": 14776,
+            "latitude": 57.5080076,
+            "longitude": 12.6970568,
+            "geocell": 5311926,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 28350059,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q667818",
+                "wikipedia_pages": {
+                    "sv": "Kinna"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 28362755,
+            "country": 752,
+            "level1area": [
+                "seh"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Oskaršhamnas",
+                "ru": "Оскарсхамн",
+                "sv": "Oskarshamn"
+            },
+            "place_type": 84,
+            "population": 17258,
+            "latitude": 57.2632811,
+            "longitude": 16.4443478,
+            "geocell": 5301164,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 28362755,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q654268",
+                "wikipedia_pages": {
+                    "sv": "Oskarshamn"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 28797960,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Норртелье",
+                "sv": "Norrtälje"
+            },
+            "place_type": 84,
+            "population": 19365,
+            "latitude": 59.7591735,
+            "longitude": 18.7037476,
+            "geocell": 5391187,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 28797960,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3588743",
+                "wikipedia_pages": {
+                    "sv": "Norrtälje"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 28899227,
+            "country": 752,
+            "level1area": [
+                "sew"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Авеста",
+                "sv": "Avesta"
+            },
+            "place_type": 84,
+            "population": 11949,
+            "latitude": 60.1469553,
+            "longitude": 16.1826996,
+            "geocell": 5405561,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 28899227,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q83682",
+                "wikipedia_pages": {
+                    "sv": "Avesta"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29266387,
+            "country": 752,
+            "level1area": [
+                "sebd"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Puuti",
+                "ru": "Буден",
+                "sv": "Boden"
+            },
+            "place_type": 84,
+            "population": 18680,
+            "latitude": 65.8275004,
+            "longitude": 21.6964105,
+            "geocell": 5610816,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29266387,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q586179",
+                "wikipedia_pages": {
+                    "sv": "Boden"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29684311,
+            "country": 752,
+            "level1area": [
+                "see"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Мьёльбю",
+                "sv": "Mjölby"
+            },
+            "place_type": 84,
+            "population": 12245,
+            "latitude": 58.3254361,
+            "longitude": 15.131448,
+            "geocell": 5340751,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29684311,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q538915",
+                "wikipedia_pages": {
+                    "sv": "Mjölby"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29691384,
+            "country": 752,
+            "level1area": [
+                "seo"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Кунгэльв",
+                "sv": "Kungälv"
+            },
+            "place_type": 84,
+            "population": 17894,
+            "latitude": 57.8707951,
+            "longitude": 11.9799616,
+            "geocell": 5322719,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29691384,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27455",
+                "wikipedia_pages": {
+                    "sv": "Kungälv"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29756716,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Лидингё",
+                "sv": "Lidingö"
+            },
+            "place_type": 84,
+            "population": 31561,
+            "latitude": 59.3643845,
+            "longitude": 18.133142,
+            "geocell": 5376781,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29756716,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.lidingo.se/",
+                "wikidata_page_name": "Q54349",
+                "wikipedia_pages": {
+                    "sv": "Lidingö"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29814285,
+            "country": 752,
+            "level1area": [
+                "ses"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Арвика",
+                "sv": "Arvika"
+            },
+            "place_type": 84,
+            "population": 14052,
+            "latitude": 59.6543555,
+            "longitude": 12.5916225,
+            "geocell": 5387525,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29814285,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.arvika.se/",
+                "wikidata_page_name": "Q654308",
+                "wikipedia_pages": {
+                    "sv": "Arvika"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29915594,
+            "country": 752,
+            "level1area": [
+                "seu"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Фагерста",
+                "sv": "Fagersta"
+            },
+            "place_type": 84,
+            "population": 11130,
+            "latitude": 60.0038627,
+            "longitude": 15.7906054,
+            "geocell": 5401957,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29915594,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q985617",
+                "wikipedia_pages": {
+                    "sv": "Fagersta"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29916407,
+            "country": 752,
+            "level1area": [
+                "seu"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Сала",
+                "sv": "Sala"
+            },
+            "place_type": 84,
+            "population": 12289,
+            "latitude": 59.9202268,
+            "longitude": 16.6056444,
+            "geocell": 5398366,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29916407,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q930262",
+                "wikipedia_pages": {
+                    "sv": "Sala"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29917204,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Мерста",
+                "sv": "Märsta"
+            },
+            "place_type": 84,
+            "population": 24068,
+            "latitude": 59.6252383,
+            "longitude": 17.8515672,
+            "geocell": 5387578,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29917204,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54748",
+                "wikipedia_pages": {
+                    "sv": "Märsta"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30097620,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "he": "טבי",
+                "sv": "Täby"
+            },
+            "place_type": 84,
+            "population": 75137,
+            "latitude": 59.43674,
+            "longitude": 18.05614,
+            "geocell": 5380380,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30097620,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54337",
+                "wikipedia_pages": {
+                    "sv": "Täby (tätort)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30097996,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Sioderteljė",
+                "ru": "Сёдертелье",
+                "sv": "Södertälje"
+            },
+            "place_type": 67,
+            "population": 64619,
+            "latitude": 59.1964289,
+            "longitude": 17.6271663,
+            "geocell": 5369576,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30097996,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q26518",
+                "wikipedia_pages": {
+                    "sv": "Södertälje"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30146159,
+            "country": 752,
+            "level1area": [
+                "sef"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Вернаму",
+                "sv": "Värnamo"
+            },
+            "place_type": 84,
+            "population": 19778,
+            "latitude": 57.184902,
+            "longitude": 14.0410977,
+            "geocell": 5297540,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30146159,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54771",
+                "wikipedia_pages": {
+                    "sv": "Värnamo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30146374,
+            "country": 752,
+            "level1area": [
+                "sen"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Кунгсбакка",
+                "sv": "Kungsbacka"
+            },
+            "place_type": 84,
+            "population": 18600,
+            "latitude": 57.4888563,
+            "longitude": 12.0787529,
+            "geocell": 5308320,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30146374,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://kungsbacka.se/",
+                "wikidata_page_name": "Q28374",
+                "wikipedia_pages": {
+                    "sv": "Kungsbacka"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30146989,
+            "country": 752,
+            "level1area": [
+                "seo"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Линдуме",
+                "sv": "Lindome"
+            },
+            "place_type": 84,
+            "population": 11037,
+            "latitude": 57.5791257,
+            "longitude": 12.0876599,
+            "geocell": 5311920,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30146989,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1796281",
+                "wikipedia_pages": {
+                    "sv": "Lindome"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30146990,
+            "country": 752,
+            "level1area": [
+                "seo"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Miolndalas",
+                "ru": "Мёльндаль",
+                "sv": "Mölndal"
+            },
+            "place_type": 84,
+            "population": 60000,
+            "latitude": 57.6564918,
+            "longitude": 12.0153085,
+            "geocell": 5315520,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30146990,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q27437",
+                "wikipedia_pages": {
+                    "sv": "Mölndal"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30147521,
+            "country": 752,
+            "level1area": [
+                "sen"
+            ],
+            "level2area": null,
+            "names": {
+                "he": "ורברג",
+                "ru": "Варберг",
+                "sv": "Varberg"
+            },
+            "place_type": 84,
+            "population": 27602,
+            "latitude": 57.1057412,
+            "longitude": 12.2502949,
+            "geocell": 5297522,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30147521,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q21168",
+                "wikipedia_pages": {
+                    "sv": "Varberg"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30147825,
+            "country": 752,
+            "level1area": [
+                "sen"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Фалькенберг",
+                "sv": "Falkenberg"
+            },
+            "place_type": 84,
+            "population": 20035,
+            "latitude": 56.904894,
+            "longitude": 12.4912926,
+            "geocell": 5290324,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30147825,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54766",
+                "wikipedia_pages": {
+                    "sv": "Falkenberg"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30577975,
+            "country": 752,
+            "level1area": [
+                "seo"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Лерум",
+                "sv": "Lerum"
+            },
+            "place_type": 84,
+            "population": 16855,
+            "latitude": 57.7701659,
+            "longitude": 12.2695051,
+            "geocell": 5319122,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30577975,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q988275",
+                "wikipedia_pages": {
+                    "sv": "Lerum"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30578919,
+            "country": 752,
+            "level1area": [
+                "seo"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Miolnliukė",
+                "ru": "Мёльнлюкке",
+                "sv": "Mölnlycke",
+                "uk": "Мьолнліке"
+            },
+            "place_type": 84,
+            "population": 17728,
+            "latitude": 57.6583613,
+            "longitude": 12.1135762,
+            "geocell": 5315521,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30578919,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q25462",
+                "wikipedia_pages": {
+                    "sv": "Mölnlycke"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 31014648,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Järfälla"
+            },
+            "place_type": 84,
+            "population": 65295,
+            "latitude": 59.4204736,
+            "longitude": 17.8285472,
+            "geocell": 5380378,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 31014648,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q301259",
+                "wikipedia_pages": {
+                    "sv": "Järfälla kommun"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 31066580,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Соллентуна",
+                "sv": "Sollentuna"
+            },
+            "place_type": 84,
+            "population": 73660,
+            "latitude": 59.4293164,
+            "longitude": 17.9500556,
+            "geocell": 5380379,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 31066580,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q503746",
+                "wikipedia_pages": {
+                    "sv": "Sollentuna kommun"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 31110308,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Danderyd"
+            },
+            "place_type": 84,
+            "population": 31150,
+            "latitude": 59.4043647,
+            "longitude": 18.0358505,
+            "geocell": 5380380,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 31110308,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q113679",
+                "wikipedia_pages": {
+                    "sv": "Danderyds kommun"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 32657698,
+            "country": 752,
+            "level1area": [
+                "sed"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Окселёсунд",
+                "sv": "Oxelösund"
+            },
+            "place_type": 84,
+            "population": 10870,
+            "latitude": 58.670026,
+            "longitude": 17.104144,
+            "geocell": 5351571,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 32657698,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 35729508,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Тумба",
+                "sv": "Tumba"
+            },
+            "place_type": 84,
+            "population": 42344,
+            "latitude": 59.2005555,
+            "longitude": 17.8343123,
+            "geocell": 5373178,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 35729508,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q83715",
+                "wikipedia_pages": {
+                    "sv": "Tumba"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 38461549,
+            "country": 752,
+            "level1area": [
+                "sebd"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Jällivaara",
+                "ru": "Елливаре",
+                "sv": "Gällivare"
+            },
+            "place_type": 84,
+            "population": 18570,
+            "latitude": 67.135243,
+            "longitude": 20.6604843,
+            "geocell": 5657606,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 38461549,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q259046",
+                "wikipedia_pages": {
+                    "sv": "Gällivare"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 38510292,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Vallentuna"
+            },
+            "place_type": 84,
+            "population": 31937,
+            "latitude": 59.5332247,
+            "longitude": 18.0764505,
+            "geocell": 5383980,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 38510292,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54358",
+                "wikipedia_pages": {
+                    "sv": "Vallentuna"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 46686456,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Окерсберга",
+                "sv": "Åkersberga"
+            },
+            "place_type": 84,
+            "population": 32659,
+            "latitude": 59.4823516,
+            "longitude": 18.2943981,
+            "geocell": 5380382,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 46686456,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54728",
+                "wikipedia_pages": {
+                    "sv": "Åkersberga"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 46792661,
+            "country": 752,
+            "level1area": [
+                "sef"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Йиславед",
+                "sv": "Gislaved"
+            },
+            "place_type": 84,
+            "population": 10037,
+            "latitude": 57.3019768,
+            "longitude": 13.5392235,
+            "geocell": 5304735,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 46792661,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 49871511,
+            "country": 752,
+            "level1area": [
+                "seu"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Арбуга",
+                "sv": "Arboga"
+            },
+            "place_type": 84,
+            "population": 10330,
+            "latitude": 59.394187,
+            "longitude": 15.8396643,
+            "geocell": 5376758,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 49871511,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q669660",
+                "wikipedia_pages": {
+                    "sv": "Arboga"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 53403734,
+            "country": 752,
+            "level1area": [
+                "sem"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Staffanstorp"
+            },
+            "place_type": 84,
+            "population": 14808,
+            "latitude": 55.6427393,
+            "longitude": 13.2113993,
+            "geocell": 5243532,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 53403734,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1003201",
+                "wikipedia_pages": {
+                    "sv": "Staffanstorp"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 54519667,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Solna"
+            },
+            "place_type": 84,
+            "population": 74790,
+            "latitude": 59.361367,
+            "longitude": 18.0013693,
+            "geocell": 5376780,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 54519667,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q28476747",
+                "wikipedia_pages": {
+                    "sv": "Solna"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 54522077,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Sundbyberg"
+            },
+            "place_type": 84,
+            "population": 39224,
+            "latitude": 59.3628802,
+            "longitude": 17.9681359,
+            "geocell": 5376779,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 54522077,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q972564",
+                "wikipedia_pages": {
+                    "sv": "Sundbybergs kommun"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 55079611,
+            "country": 752,
+            "level1area": [
+                "sem"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Arlöv"
+            },
+            "place_type": 84,
+            "population": 10201,
+            "latitude": 55.6378013,
+            "longitude": 13.0777501,
+            "geocell": 5243530,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 55079611,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q676026",
+                "wikipedia_pages": {
+                    "sv": "Arlöv"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 55102316,
+            "country": 752,
+            "level1area": [
+                "sem"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Бьерред",
+                "sv": "Bjärred"
+            },
+            "place_type": 84,
+            "population": 10000,
+            "latitude": 55.7221863,
+            "longitude": 13.0216436,
+            "geocell": 5247130,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 55102316,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q879479",
+                "wikipedia_pages": {
+                    "sv": "Bjärred"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 56449803,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Upplands Väsby"
+            },
+            "place_type": 84,
+            "population": 41816,
+            "latitude": 59.517164,
+            "longitude": 17.9164192,
+            "geocell": 5383979,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 56449803,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54343",
+                "wikipedia_pages": {
+                    "sv": "Upplands Väsby"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 56520072,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Ekerö"
+            },
+            "place_type": 84,
+            "population": 10907,
+            "latitude": 59.2904595,
+            "longitude": 17.813072,
+            "geocell": 5373178,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 56520072,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q492614",
+                "wikipedia_pages": {
+                    "sv": "Ekerö kommun"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 59773306,
+            "country": 752,
+            "level1area": [
+                "sed"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Strengnesas",
+                "ru": "Стренгнес",
+                "sv": "Strängnäs"
+            },
+            "place_type": 84,
+            "population": 12856,
+            "latitude": 59.3763155,
+            "longitude": 17.0268194,
+            "geocell": 5376770,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 59773306,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q106909",
+                "wikipedia_pages": {
+                    "sv": "Strängnäs"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60141422,
+            "country": 752,
+            "level1area": [
+                "ses"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Skoghalis",
+                "ru": "Скугхалль",
+                "sv": "Skoghall"
+            },
+            "place_type": 84,
+            "population": 14447,
+            "latitude": 59.3238493,
+            "longitude": 13.4701864,
+            "geocell": 5376734,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60141422,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q576644",
+                "wikipedia_pages": {
+                    "sv": "Skoghall"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 61102737,
+            "country": 752,
+            "level1area": [
+                "sey"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Тимро",
+                "sv": "Timrå"
+            },
+            "place_type": 84,
+            "population": 10443,
+            "latitude": 62.4893197,
+            "longitude": 17.3273736,
+            "geocell": 5488373,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 61102737,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 68707953,
+            "country": 752,
+            "level1area": [
+                "sem"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Сведала",
+                "sv": "Svedala"
+            },
+            "place_type": 84,
+            "population": 10627,
+            "latitude": 55.5152421,
+            "longitude": 13.2384358,
+            "geocell": 5239932,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 68707953,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q369863",
+                "wikipedia_pages": {
+                    "sv": "Svedala"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 71565648,
+            "country": 752,
+            "level1area": [
+                "seu"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Чёпинг",
+                "sv": "Köping"
+            },
+            "place_type": 84,
+            "population": 17743,
+            "latitude": 59.5137434,
+            "longitude": 15.9970475,
+            "geocell": 5383959,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 71565648,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q174126",
+                "wikipedia_pages": {
+                    "sv": "Köping"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 80268995,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Нюнесхамн",
+                "da": "Nynäshamn",
+                "de": "Nynäshamn",
+                "en": "Nynäshamn",
+                "et": "Nynäshamn",
+                "hu": "Nynäshamn",
+                "it": "Nynäshamn",
+                "nl": "Nynäshamn",
+                "nn": "Nynäshamn",
+                "pl": "Nynäshamn",
+                "pt": "Nynäshamn",
+                "ru": "Нюнесхамн",
+                "sv": "Nynäshamn",
+                "uk": "Нинесгамн",
+                "vi": "Nynäshamn"
+            },
+            "place_type": 84,
+            "population": 13510,
+            "latitude": 58.9056457,
+            "longitude": 17.9470987,
+            "geocell": 5362379,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 80268995,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.nynashamn.se/",
+                "wikidata_page_name": "Q738338",
+                "wikipedia_pages": {
+                    "sv": "Nynäshamn"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 111958987,
+            "country": 752,
+            "level1area": [
+                "sef"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Транос",
+                "sv": "Tranås"
+            },
+            "place_type": 84,
+            "population": 15000,
+            "latitude": 58.0341073,
+            "longitude": 14.9756413,
+            "geocell": 5329949,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 111958987,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q988403",
+                "wikipedia_pages": {
+                    "sv": "Tranås"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 112032928,
+            "country": 752,
+            "level1area": [
+                "sec"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Bålsta"
+            },
+            "place_type": 84,
+            "population": 13138,
+            "latitude": 59.5682102,
+            "longitude": 17.5293647,
+            "geocell": 5383975,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 112032928,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q661608",
+                "wikipedia_pages": {
+                    "sv": "Bålsta"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 122697276,
+            "country": 752,
+            "level1area": [
+                "sem"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Esliovas",
+                "ru": "Эслёв",
+                "sv": "Eslöv"
+            },
+            "place_type": 84,
+            "population": 17748,
+            "latitude": 55.8374959,
+            "longitude": 13.3036265,
+            "geocell": 5250733,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 122697276,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q79237",
+                "wikipedia_pages": {
+                    "sv": "Eslöv"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 122713274,
+            "country": 752,
+            "level1area": [
+                "sem"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Hesleholmas",
+                "ru": "Хеслехольм",
+                "sv": "Hässleholm"
+            },
+            "place_type": 84,
+            "population": 18500,
+            "latitude": 56.157986,
+            "longitude": 13.7653328,
+            "geocell": 5261537,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 122713274,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q847665",
+                "wikipedia_pages": {
+                    "sv": "Hässleholm"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 124274960,
+            "country": 752,
+            "level1area": [
+                "sew"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Сетер",
+                "fa": "ستر، سوئد",
+                "nl": "Säter (stad)",
+                "ru": "Сетер",
+                "sv": "Säter",
+                "uk": "Сетер (місто)"
+            },
+            "place_type": 84,
+            "population": 10925,
+            "latitude": 60.3469718,
+            "longitude": 15.7486886,
+            "geocell": 5412757,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 124274960,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.sater.se/",
+                "wikidata_page_name": "Q992613",
+                "wikipedia_pages": {
+                    "sv": "Säter"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 124275433,
+            "country": 752,
+            "level1area": [
+                "sew"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Хедемура",
+                "sv": "Hedemora"
+            },
+            "place_type": 84,
+            "population": 15209,
+            "latitude": 60.2785997,
+            "longitude": 15.9870293,
+            "geocell": 5409159,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 124275433,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.hedemora.se/",
+                "wikidata_page_name": "Q1001183",
+                "wikipedia_pages": {
+                    "sv": "Hedemora"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 175828354,
+            "country": 752,
+            "level1area": [
+                "seo"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Partille"
+            },
+            "place_type": 84,
+            "population": 29444,
+            "latitude": 57.7406279,
+            "longitude": 12.1100789,
+            "geocell": 5319121,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 175828354,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2054961",
+                "wikipedia_pages": {
+                    "sv": "Partille"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 191664748,
+            "country": 752,
+            "level1area": [
+                "sef"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Йёнчёпинг",
+                "sr": "Јенћепинг",
+                "sv": "Jönköping"
+            },
+            "place_type": 67,
+            "population": 84423,
+            "latitude": 57.7825634,
+            "longitude": 14.165719,
+            "geocell": 5319141,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 191664748,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q25415",
+                "wikipedia_pages": {
+                    "sv": "Jönköping"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 191664752,
+            "country": 752,
+            "level1area": [
+                "sef"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Хускварна",
+                "sv": "Huskvarna"
+            },
+            "place_type": 84,
+            "population": 24870,
+            "latitude": 57.7918701,
+            "longitude": 14.2739261,
+            "geocell": 5319142,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 191664752,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q263877",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 192240720,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Boo"
+            },
+            "place_type": 84,
+            "population": 24052,
+            "latitude": 59.3205986,
+            "longitude": 18.2613337,
+            "geocell": 5376782,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 192240720,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54752",
+                "wikipedia_pages": {
+                    "sv": "Boo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 192273562,
+            "country": 752,
+            "level1area": [
+                "seu"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Хальстахаммар",
+                "sv": "Hallstahammar"
+            },
+            "place_type": 84,
+            "population": 10478,
+            "latitude": 59.6134488,
+            "longitude": 16.2301613,
+            "geocell": 5387562,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 192273562,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1019560",
+                "wikipedia_pages": {
+                    "sv": "Hallstahammar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 192284376,
+            "country": 752,
+            "level1area": [
+                "see"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Финспонг",
+                "sv": "Finspång"
+            },
+            "place_type": 84,
+            "population": 12807,
+            "latitude": 58.70773,
+            "longitude": 15.7758645,
+            "geocell": 5355157,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 192284376,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "sv": "Finspång"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 192294046,
+            "country": 752,
+            "level1area": [
+                "seo"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Torslanda"
+            },
+            "place_type": 84,
+            "population": 23414,
+            "latitude": 57.7243742,
+            "longitude": 11.7653423,
+            "geocell": 5319117,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 192294046,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q10383796",
+                "wikipedia_pages": {
+                    "sv": "Torslanda, Göteborg"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 221606587,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Tullinge"
+            },
+            "place_type": 86,
+            "population": 16894,
+            "latitude": 59.2067468,
+            "longitude": 17.9051873,
+            "geocell": 5373179,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 221606587,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3622685",
+                "wikipedia_pages": {
+                    "sv": "Tullinge"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 262554934,
+            "country": 752,
+            "level1area": [
+                "sem"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Oxie"
+            },
+            "place_type": 84,
+            "population": 11493,
+            "latitude": 55.5461572,
+            "longitude": 13.0967868,
+            "geocell": 5239930,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 262554934,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1995123",
+                "wikipedia_pages": {
+                    "sv": "Oxie"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 276047511,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Nacka"
+            },
+            "place_type": 84,
+            "population": 88085,
+            "latitude": 59.3099477,
+            "longitude": 18.1677049,
+            "geocell": 5376781,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 276047511,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.nacka.se/",
+                "wikidata_page_name": "Q13383459",
+                "wikipedia_pages": {
+                    "sv": "Nacka"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 283253592,
+            "country": 752,
+            "level1area": [
+                "sey"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Sundsvall",
+                "he": "סונדרסוואל",
+                "ru": "Сундсвалль",
+                "sr": "Сундсвал",
+                "sv": "Sundsvall"
+            },
+            "place_type": 67,
+            "population": 57606,
+            "latitude": 62.3907552,
+            "longitude": 17.3071024,
+            "geocell": 5484773,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 283253592,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q26476",
+                "wikipedia_pages": {
+                    "sv": "Sundsvall"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 304051622,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Jordbro"
+            },
+            "place_type": 84,
+            "population": 10291,
+            "latitude": 59.1423991,
+            "longitude": 18.1317918,
+            "geocell": 5369581,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 304051622,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1703720",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 322329736,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Ханден",
+                "sv": "Handen"
+            },
+            "place_type": 84,
+            "population": 12233,
+            "latitude": 59.1676451,
+            "longitude": 18.1409008,
+            "geocell": 5369581,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 322329736,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1574991",
+                "wikipedia_pages": {
+                    "sv": "Handen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 337846684,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Tyresö"
+            },
+            "place_type": 84,
+            "population": 39437,
+            "latitude": 59.2390408,
+            "longitude": 18.3073536,
+            "geocell": 5373183,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 337846684,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q21667397",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 410426765,
+            "country": 752,
+            "level1area": [
+                "see"
+            ],
+            "level2area": null,
+            "names": {
+                "he": "מוטלה",
+                "ru": "Мутала",
+                "sv": "Motala"
+            },
+            "place_type": 84,
+            "population": 29823,
+            "latitude": 58.5420395,
+            "longitude": 15.041261,
+            "geocell": 5347950,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 410426765,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54357",
+                "wikipedia_pages": {
+                    "sv": "Motala"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 442688099,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Flemingsberg"
+            },
+            "place_type": 84,
+            "population": 15558,
+            "latitude": 59.2223899,
+            "longitude": 17.9398948,
+            "geocell": 5373179,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 442688099,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4117115",
+                "wikipedia_pages": {
+                    "sv": "Flemingsberg"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 510542745,
+            "country": 752,
+            "level1area": [
+                "sew"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Фалун",
+                "sr": "Фалун",
+                "sv": "Falun"
+            },
+            "place_type": 67,
+            "population": 39492,
+            "latitude": 60.6070068,
+            "longitude": 15.6323059,
+            "geocell": 5423556,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 510542745,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.falun.se/",
+                "wikidata_page_name": "Q26509",
+                "wikipedia_pages": {
+                    "sv": "Falun"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 560126199,
+            "country": 752,
+            "level1area": [
+                "seac"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Шеллефтео",
+                "sv": "Skellefteå"
+            },
+            "place_type": 84,
+            "population": 32775,
+            "latitude": 64.7520185,
+            "longitude": 20.959339,
+            "geocell": 5571209,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 560126199,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://skelleftea.se/",
+                "wikidata_page_name": "Q54344",
+                "wikipedia_pages": {
+                    "sv": "Skellefteå"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 751822208,
+            "country": 752,
+            "level1area": [
+                "sebd"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Piitime",
+                "ru": "Питео",
+                "sv": "Piteå"
+            },
+            "place_type": 84,
+            "population": 40838,
+            "latitude": 65.3134652,
+            "longitude": 21.4900252,
+            "geocell": 5592814,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 751822208,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.pitea.se/",
+                "wikidata_page_name": "Q21169",
+                "wikipedia_pages": {
+                    "sv": "Piteå"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 762233330,
+            "country": 752,
+            "level1area": [
+                "sen"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Onsala"
+            },
+            "place_type": 84,
+            "population": 13779,
+            "latitude": 57.4272188,
+            "longitude": 12.0302702,
+            "geocell": 5308320,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 762233330,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1112077620,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Stuvsta-Snättringe"
+            },
+            "place_type": 84,
+            "population": 15847,
+            "latitude": 59.2532237,
+            "longitude": 17.9850911,
+            "geocell": 5373179,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1112077620,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q10682494",
+                "wikipedia_pages": {
+                    "sv": "Stuvsta-Snättringe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1395086026,
+            "country": 752,
+            "level1area": [
+                "seo"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Фалшьопинг",
+                "fa": "ویژه:پالایهٔ_خرابکاری",
+                "ja": "ファルシェーピング",
+                "lt": "Falšiopingas",
+                "ru": "Фальчёпинг",
+                "sr": "Фалћепинг",
+                "sv": "Falköping",
+                "ur": "فالکوپینگ"
+            },
+            "place_type": 84,
+            "population": 16350,
+            "latitude": 58.1695083,
+            "longitude": 13.5542412,
+            "geocell": 5333535,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1395086026,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q21165",
+                "wikipedia_pages": {
+                    "sv": "Falköping"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1594669682,
+            "country": 752,
+            "level1area": [
+                "sen"
+            ],
+            "level2area": null,
+            "names": {
+                "he": "האלמסטד",
+                "lt": "Halmstadas",
+                "ru": "Хальмстад",
+                "sr": "Халмстад",
+                "sv": "Halmstad"
+            },
+            "place_type": 67,
+            "population": 55688,
+            "latitude": 56.6739826,
+            "longitude": 12.8574827,
+            "geocell": 5279528,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1594669682,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q26521",
+                "wikipedia_pages": {
+                    "sv": "Halmstad"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599473536,
+            "country": 752,
+            "level1area": [
+                "sek"
+            ],
+            "level2area": null,
+            "names": {
+                "he": "קרלסקרונה",
+                "is": "Karlskróna",
+                "lt": "Karlskruna",
+                "ru": "Карлскруна",
+                "sr": "Карлскрона",
+                "sv": "Karlskrona"
+            },
+            "place_type": 67,
+            "population": 35212,
+            "latitude": 56.1621073,
+            "longitude": 15.5866422,
+            "geocell": 5261555,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599473536,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q25789",
+                "wikipedia_pages": {
+                    "sv": "Karlskrona"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1607319731,
+            "country": 752,
+            "level1area": [
+                "seh"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Kalmaras",
+                "ru": "Кальмар",
+                "sr": "Калмар",
+                "sv": "Kalmar"
+            },
+            "place_type": 67,
+            "population": 35170,
+            "latitude": 56.6628826,
+            "longitude": 16.3662382,
+            "geocell": 5279563,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1607319731,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q26345",
+                "wikipedia_pages": {
+                    "sv": "Kalmar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1643360977,
+            "country": 752,
+            "level1area": [
+                "seo"
+            ],
+            "level2area": null,
+            "names": {
+                "he": "בורוס",
+                "lt": "Burosas",
+                "ru": "Бурос",
+                "sv": "Borås"
+            },
+            "place_type": 67,
+            "population": 66273,
+            "latitude": 57.7210839,
+            "longitude": 12.9407407,
+            "geocell": 5319129,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1643360977,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q26040",
+                "wikipedia_pages": {
+                    "sv": "Borås"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2022692055,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Sjödalen-Fullersta"
+            },
+            "place_type": 84,
+            "population": 22304,
+            "latitude": 59.2362466,
+            "longitude": 17.9761219,
+            "geocell": 5373179,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2022692055,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q10669406",
+                "wikipedia_pages": {
+                    "sv": "Sjödalen-Fullersta"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2235001454,
+            "country": 752,
+            "level1area": [
+                "sem"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Höllviken"
+            },
+            "place_type": 84,
+            "population": 10607,
+            "latitude": 55.4137626,
+            "longitude": 12.9632315,
+            "geocell": 5236329,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2235001454,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1025480",
+                "wikipedia_pages": {
+                    "sv": "Höllviken"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2236313278,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Huddinge"
+            },
+            "place_type": 84,
+            "population": 95234,
+            "latitude": 59.2293827,
+            "longitude": 17.9748815,
+            "geocell": 5373179,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2236313278,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q21667231",
+                "wikipedia_pages": {
+                    "sv": "Huddinge kommun"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4137298009,
+            "country": 752,
+            "level1area": [
+                "seab"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Västerhaninge"
+            },
+            "place_type": 84,
+            "population": 15134,
+            "latitude": 59.1221593,
+            "longitude": 18.1085969,
+            "geocell": 5369581,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4137298009,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1544751",
+                "wikipedia_pages": {
+                    "sv": "Västerhaninge"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5300615844,
+            "country": 752,
+            "level1area": [
+                "seo"
+            ],
+            "level2area": null,
+            "names": {
+                "sv": "Stenungsund"
+            },
+            "place_type": 84,
+            "population": 14167,
+            "latitude": 58.0725069,
+            "longitude": 11.8229383,
+            "geocell": 5329918,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5300615844,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1001939",
+                "wikipedia_pages": {
+                    "sv": "Stenungsund"
+                }
+            }
+        }
+    }
+]

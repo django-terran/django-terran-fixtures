@@ -1,0 +1,683 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 245482378,
+            "country": 591,
+            "level1area": [
+                "pa4"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "David",
+                "es": "David",
+                "ru": "Давид",
+                "uk": "Давид"
+            },
+            "place_type": 67,
+            "population": 82907,
+            "latitude": 8.4371469,
+            "longitude": -82.4286281,
+            "geocell": 3543375,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 245482378,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q279009",
+                "wikipedia_pages": {
+                    "en": "David, Chiriquí"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 247027425,
+            "country": 591,
+            "level1area": [
+                "pa9"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Santiago",
+                "hu": "Santiago de Veraguas",
+                "ru": "Сантьяго"
+            },
+            "place_type": 67,
+            "population": 88997,
+            "latitude": 8.0989867,
+            "longitude": -80.9803978,
+            "geocell": 3528990,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 247027425,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q685509",
+                "wikipedia_pages": {
+                    "en": "Santiago de Veraguas"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 247030264,
+            "country": 591,
+            "level1area": [
+                "pa6"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Chitré",
+                "ru": "Читре"
+            },
+            "place_type": 67,
+            "population": 46191,
+            "latitude": 7.9633096,
+            "longitude": -80.4283492,
+            "geocell": 3525395,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 247030264,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q657763",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 331148078,
+            "country": 591,
+            "level1area": [
+                "pa2"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Penonomé",
+                "ru": "Пенономе"
+            },
+            "place_type": 67,
+            "population": 88143,
+            "latitude": 8.5204989,
+            "longitude": -80.359579,
+            "geocell": 3546996,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 331148078,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q654169",
+                "wikipedia_pages": {
+                    "en": "Penonomé, Coclé"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 339209702,
+            "country": 591,
+            "level1area": [
+                "pa3"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Colón",
+                "hu": "Colón",
+                "ko": "콜론",
+                "lt": "Kolonas",
+                "mk": "Колон",
+                "ru": "Колон (Панама)"
+            },
+            "place_type": 67,
+            "population": 78000,
+            "latitude": 9.3553005,
+            "longitude": -79.8974085,
+            "geocell": 3575801,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 339209702,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q627852",
+                "wikipedia_pages": {
+                    "en": "Colón, Panama"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 343043185,
+            "country": 591,
+            "level1area": [
+                "pa3"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Cativá",
+                "ru": "Катива"
+            },
+            "place_type": 84,
+            "population": 34282,
+            "latitude": 9.3634008,
+            "longitude": -79.8349538,
+            "geocell": 3575801,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 343043185,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4977479",
+                "wikipedia_pages": {
+                    "en": "Cativá"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1126761918,
+            "country": 591,
+            "level1area": [
+                "pa10"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Carlos"
+            },
+            "place_type": 84,
+            "population": 15541,
+            "latitude": 8.472706,
+            "longitude": -79.9561983,
+            "geocell": 3543400,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1126761918,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2072542",
+                "wikipedia_pages": {
+                    "en": "San Carlos District, Panama"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1242998122,
+            "country": 591,
+            "level1area": [
+                "pa8"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Panama-stad",
+                "ar": "مدينة بنما",
+                "az": "Panama",
+                "be": "Панама",
+                "bg": "Панама",
+                "bn": "পানামা সিটি",
+                "br": "Ciudad de Panamá",
+                "bs": "Panama City",
+                "ca": "Ciutat de Panamà",
+                "ckb": "پەنەما",
+                "cs": "Ciudad de Panamá",
+                "cy": "Dinas Panama",
+                "da": "Panama City",
+                "de": "Panama-Stadt",
+                "el": "Πόλη του Παναμά",
+                "en": "Panama City",
+                "eo": "Panamurbo",
+                "es": "Panamá",
+                "et": "Panamá",
+                "eu": "Panama Hiria",
+                "fa": "پاناماسیتی",
+                "fi": "Panamá",
+                "fr": "Panama",
+                "fy": "Panama-Stêd",
+                "gd": "Panama",
+                "gl": "Cidade de Panamá",
+                "he": "פנמה סיטי",
+                "hr": "Panamá",
+                "hu": "Panamaváros",
+                "id": "Kota Panama",
+                "io": "Panama-Urbo",
+                "is": "Panamaborg",
+                "it": "Panamà",
+                "ja": "パナマ市",
+                "ka": "პანამა",
+                "ko": "파나마시티",
+                "lt": "Panama",
+                "lv": "Panama",
+                "mk": "Панама",
+                "mr": "पनामा सिटी",
+                "nl": "Panama-Stad",
+                "nn": "Panama by",
+                "pl": "Panama",
+                "pt": "Cidade do Panamá",
+                "ro": "Ciudad de Panamá",
+                "ru": "Панама",
+                "sk": "Panama",
+                "sr": "Панама",
+                "sv": "Panama City",
+                "sw": "Panama City",
+                "ta": "பனாமா நகரம்",
+                "th": "ปานามาซิตี",
+                "tr": "Panama",
+                "uk": "Панама",
+                "ur": "پاناما شہر",
+                "vi": "Thành phố Panama"
+            },
+            "place_type": 67,
+            "population": 880691,
+            "latitude": 8.9714493,
+            "longitude": -79.5341802,
+            "geocell": 3561404,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1242998122,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "http://www.municipio.gob.pa",
+                "wikidata_page_name": "Q3306",
+                "wikipedia_pages": {
+                    "es": "Ciudad de Panamá"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1289592582,
+            "country": 591,
+            "level1area": [
+                "pa9"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Soná"
+            },
+            "place_type": 84,
+            "population": 10802,
+            "latitude": 8.0090033,
+            "longitude": -81.3149695,
+            "geocell": 3528986,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1289592582,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2242402436,
+            "country": 591,
+            "level1area": [
+                "pa4"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Puerto Armuelles",
+                "es": "Puerto Armuelles",
+                "ru": "Пуэрто-Армуэльес"
+            },
+            "place_type": 84,
+            "population": 11743,
+            "latitude": 8.2725603,
+            "longitude": -82.8604458,
+            "geocell": 3536171,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2242402436,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3130855",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2415959730,
+            "country": 591,
+            "level1area": [
+                "pa1"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Changuinola"
+            },
+            "place_type": 67,
+            "population": 28588,
+            "latitude": 9.452538,
+            "longitude": -82.5180737,
+            "geocell": 3579374,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2415959730,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2417423678,
+            "country": 591,
+            "level1area": [
+                "pa4"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Pedregal"
+            },
+            "place_type": 84,
+            "population": 17427,
+            "latitude": 8.3678082,
+            "longitude": -82.4347489,
+            "geocell": 3539775,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2417423678,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4410707963,
+            "country": 591,
+            "level1area": [
+                "pa10"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Arraiján"
+            },
+            "place_type": 84,
+            "population": 41041,
+            "latitude": 8.9453238,
+            "longitude": -79.6422757,
+            "geocell": 3561403,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4410707963,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "es": "Arraiján (corregimiento)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4412467275,
+            "country": 591,
+            "level1area": [
+                "pa10"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Burunga"
+            },
+            "place_type": 84,
+            "population": 39102,
+            "latitude": 8.9670808,
+            "longitude": -79.6657715,
+            "geocell": 3561403,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4412467275,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "es": "Burunga"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4413934109,
+            "country": 591,
+            "level1area": [
+                "pa10"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Veracruz"
+            },
+            "place_type": 84,
+            "population": 18589,
+            "latitude": 8.8913829,
+            "longitude": -79.6255991,
+            "geocell": 3557803,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4413934109,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "es": "Veracruz (Panamá)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4939108079,
+            "country": 591,
+            "level1area": [
+                "pa10"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Nuevo Arraiján"
+            },
+            "place_type": 84,
+            "population": 26298,
+            "latitude": 8.9260464,
+            "longitude": -79.7211543,
+            "geocell": 3561402,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4939108079,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7068660",
+                "wikipedia_pages": {
+                    "es": "Nuevo Arraiján"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5546889145,
+            "country": 591,
+            "level1area": [
+                "pa4"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Pablo Viejo"
+            },
+            "place_type": 84,
+            "population": 10088,
+            "latitude": 8.4433659,
+            "longitude": -82.4785889,
+            "geocell": 3543375,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5546889145,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5555037623,
+            "country": 591,
+            "level1area": [
+                "pa1"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Empalme"
+            },
+            "place_type": 86,
+            "population": 11398,
+            "latitude": 9.4187024,
+            "longitude": -82.5215992,
+            "geocell": 3579374,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5555037623,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5352181",
+                "wikipedia_pages": {
+                    "es": "El Silencio (Bocas del Toro)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5698510429,
+            "country": 591,
+            "level1area": [
+                "pa4"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Concepción"
+            },
+            "place_type": 84,
+            "population": 17698,
+            "latitude": 8.5189164,
+            "longitude": -82.623702,
+            "geocell": 3546973,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5698510429,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5700069281,
+            "country": 591,
+            "level1area": [
+                "pa4"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Volcán"
+            },
+            "place_type": 84,
+            "population": 10286,
+            "latitude": 8.7735312,
+            "longitude": -82.6371606,
+            "geocell": 3554173,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5700069281,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5834394575,
+            "country": 591,
+            "level1area": [
+                "pa4"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Las Lomas"
+            },
+            "place_type": 84,
+            "population": 14599,
+            "latitude": 8.4322112,
+            "longitude": -82.3923526,
+            "geocell": 3543376,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5834394575,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5935289100,
+            "country": 591,
+            "level1area": [
+                "pa3"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Sabanitas"
+            },
+            "place_type": 84,
+            "population": 19052,
+            "latitude": 9.3468997,
+            "longitude": -79.8033588,
+            "geocell": 3575801,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5935289100,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4977864",
+                "wikipedia_pages": {
+                    "es": "Sabanitas"
+                }
+            }
+        }
+    }
+]

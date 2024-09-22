@@ -1,0 +1,783 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27043346,
+            "country": 180,
+            "level1area": [
+                "cdkn"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كينشاسا",
+                "az": "Kinşasa",
+                "be": "Кіншаса",
+                "bg": "Киншаса",
+                "br": "Kinshasa",
+                "ckb": "کینشاسا",
+                "cs": "Kinshasa",
+                "de": "Kinshasa",
+                "el": "Κινσάσα",
+                "en": "Kinshasa",
+                "eo": "Kinŝaso",
+                "es": "Kinsasa",
+                "fa": "کینشاسا",
+                "fr": "Kinshasa",
+                "fy": "Kinsjasa",
+                "he": "קינשאסה",
+                "hi": "किन्शासा",
+                "hu": "Kinshasa",
+                "hy": "Կինշասա",
+                "is": "Kinsasa",
+                "ja": "キンシャサ",
+                "ka": "კინშასა",
+                "kk": "Киншаса",
+                "kn": "ಕಿನ್ಶಾಸಾ",
+                "ko": "킨샤사",
+                "ky": "Киншаса",
+                "lt": "Kinšasa",
+                "lv": "Kinšasa",
+                "mk": "Киншаса",
+                "ml": "കിൻഷസ",
+                "mr": "किन्शासा",
+                "my": "ကင်ရှာဆာမြို့",
+                "nl": "Kinshasa",
+                "os": "Киншаса",
+                "pl": "Kinszasa",
+                "pt": "Kinshasa",
+                "ru": "Киншаса",
+                "sr": "Киншаса",
+                "sv": "Kinshasa",
+                "sw": "Kinshasa",
+                "ta": "கின்ஷாசா",
+                "tg": "Киншаса",
+                "th": "กินชาซา",
+                "tk": "Kinşasa",
+                "tr": "Kinşasa",
+                "udm": "Киншаса",
+                "uk": "Кіншаса",
+                "ur": "کنشاسا"
+            },
+            "place_type": 67,
+            "population": 9046000,
+            "latitude": -4.3217055,
+            "longitude": 15.3125974,
+            "geocell": 3083553,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27043346,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3838",
+                "wikipedia_pages": {
+                    "fr": "Kinshasa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27564973,
+            "country": 180,
+            "level1area": [
+                "cdhk"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "لوبومباشي",
+                "de": "Lubumbashi",
+                "en": "Lubumbashi",
+                "eo": "Lubumbaŝo",
+                "ko": "루붐바시",
+                "pt": "Lubumbashi",
+                "ru": "Лубумбаши",
+                "sw": "Lubumbashi",
+                "uk": "Лубумбаші"
+            },
+            "place_type": 67,
+            "population": 1139064,
+            "latitude": -11.6642316,
+            "longitude": 27.4826264,
+            "geocell": 2820874,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27564973,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q187593",
+                "wikipedia_pages": {
+                    "en": "Lubumbashi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27565034,
+            "country": 180,
+            "level1area": [
+                "cdke"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "مبوجي-مايي",
+                "de": "Kasaï-Oriental",
+                "en": "Kasaï-Oriental",
+                "eo": "Orienta Kasajo",
+                "es": "Kasai Oriental",
+                "fa": "کاسای",
+                "fi": "Itä-Kasai",
+                "fr": "Mbuji-Mayi",
+                "hu": "Kelet-Kasai",
+                "it": "Kasai Orientale",
+                "ja": "東カサイ州",
+                "ka": "აღმოსავლეთ კასაის",
+                "ko": "음부지마이",
+                "pl": "Kasai Wschodnie",
+                "pt": "Cassai Oriental",
+                "ru": "Мбужи-Майи",
+                "sv": "Kasaï-Oriental",
+                "sw": "Mbuji-Mayi",
+                "uk": "Східне Касаї"
+            },
+            "place_type": 67,
+            "population": 1680991,
+            "latitude": -6.1258942,
+            "longitude": 23.5998111,
+            "geocell": 3018835,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27565034,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q319660",
+                "wikipedia_pages": {
+                    "en": "Mbuji-Mayi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29806459,
+            "country": 180,
+            "level1area": [
+                "cdbc"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Boma",
+                "ko": "보마",
+                "ru": "Бома",
+                "sw": "Boma",
+                "uk": "Бома"
+            },
+            "place_type": 67,
+            "population": 162521,
+            "latitude": -5.85,
+            "longitude": 13.05,
+            "geocell": 3029530,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29806459,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q223917",
+                "wikipedia_pages": {
+                    "en": "Boma, Democratic Republic of the Congo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29808924,
+            "country": 180,
+            "level1area": [
+                "cdmn"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Bolobo"
+            },
+            "place_type": 67,
+            "population": 31366,
+            "latitude": -2.166682,
+            "longitude": 16.23333,
+            "geocell": 3162762,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29808924,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2594437",
+                "wikipedia_pages": {
+                    "en": "Bolobo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60715164,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Goma",
+                "en": "Goma",
+                "ko": "고마",
+                "ru": "Гома",
+                "sw": "Goma",
+                "uk": "Гома"
+            },
+            "place_type": 67,
+            "population": 2000000,
+            "latitude": -1.6665685,
+            "longitude": 29.225652,
+            "geocell": 3180892,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60715164,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q204381",
+                "wikipedia_pages": {
+                    "en": "Goma"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 82673255,
+            "country": 180,
+            "level1area": [
+                "cdmn"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Инонго",
+                "sw": "Inongo",
+                "uk": "Інонго"
+            },
+            "place_type": 84,
+            "population": 46657,
+            "latitude": -1.9253353,
+            "longitude": 18.2863998,
+            "geocell": 3169982,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 82673255,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q943652",
+                "wikipedia_pages": {
+                    "en": "Inongo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 83529422,
+            "country": 180,
+            "level1area": [
+                "cdit"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Буниа",
+                "de": "Bunia",
+                "ru": "Буниа",
+                "sw": "Bunia"
+            },
+            "place_type": 67,
+            "population": 366126,
+            "latitude": 1.5620529,
+            "longitude": 30.2478844,
+            "geocell": 3296102,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 83529422,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q648298",
+                "wikipedia_pages": {
+                    "en": "Bunia"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 98869302,
+            "country": 180,
+            "level1area": [
+                "cdsa"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Lusambo"
+            },
+            "place_type": 84,
+            "population": 28520,
+            "latitude": -4.9736384,
+            "longitude": 23.4432792,
+            "geocell": 3062034,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 98869302,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3267776",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 310985979,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Sake"
+            },
+            "place_type": 84,
+            "population": 17151,
+            "latitude": -1.571281,
+            "longitude": 29.053624,
+            "geocell": 3184490,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 310985979,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q84082",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 382198330,
+            "country": 180,
+            "level1area": [
+                "cdkn"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Mbankana"
+            },
+            "place_type": 84,
+            "population": 15200,
+            "latitude": -4.4491551,
+            "longitude": 16.1994431,
+            "geocell": 3079961,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 382198330,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 435514019,
+            "country": 180,
+            "level1area": [
+                "cdma"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kindu",
+                "ko": "킨두",
+                "ru": "Кинду",
+                "sw": "Kindu",
+                "uk": "Кінду"
+            },
+            "place_type": 67,
+            "population": 170000,
+            "latitude": -2.9493766,
+            "longitude": 25.9184499,
+            "geocell": 3134059,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 435514019,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q270225",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 435755862,
+            "country": 180,
+            "level1area": [
+                "cdlu"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Kolwezi",
+                "en": "Kolwezi",
+                "ko": "콜웨지",
+                "ru": "Колвези",
+                "sw": "Kolwezi",
+                "uk": "Колвезі"
+            },
+            "place_type": 67,
+            "population": 453147,
+            "latitude": -10.7169952,
+            "longitude": 25.4669918,
+            "geocell": 2853254,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 435755862,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q271404",
+                "wikipedia_pages": {
+                    "en": "Kolwezi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 435884993,
+            "country": 180,
+            "level1area": [
+                "cdsk"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Увира",
+                "sw": "Uvira",
+                "uk": "Увіра"
+            },
+            "place_type": 67,
+            "population": 170000,
+            "latitude": -3.4055866,
+            "longitude": 29.1375509,
+            "geocell": 3116091,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 435884993,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q923687",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 618524223,
+            "country": 180,
+            "level1area": [
+                "cdhk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kipushi"
+            },
+            "place_type": 84,
+            "population": 132861,
+            "latitude": -11.7602295,
+            "longitude": 27.2365303,
+            "geocell": 2817272,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 618524223,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1081284",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 622518227,
+            "country": 180,
+            "level1area": [
+                "cdhk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Sakania"
+            },
+            "place_type": 67,
+            "population": 10158,
+            "latitude": -12.7489705,
+            "longitude": 28.5562506,
+            "geocell": 2781285,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 622518227,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2592149",
+                "wikipedia_pages": {
+                    "en": "Sakania"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 626497236,
+            "country": 180,
+            "level1area": [
+                "cdit"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Nia-Nia"
+            },
+            "place_type": 84,
+            "population": 25000,
+            "latitude": 1.4073372,
+            "longitude": 27.6074223,
+            "geocell": 3292476,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 626497236,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7023497",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 629118819,
+            "country": 180,
+            "level1area": [
+                "cdnu"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Gbadolite",
+                "es": "Gbadolite",
+                "fa": "گبادولیت",
+                "fr": "Gbadolite",
+                "ka": "გბადოლიტე",
+                "nl": "Gbadolite",
+                "ru": "Гбадолите",
+                "sv": "Gbadolite",
+                "sw": "Gbadolite",
+                "uk": "Гбадоліте"
+            },
+            "place_type": 84,
+            "population": 113807,
+            "latitude": 4.2812396,
+            "longitude": 20.9999077,
+            "geocell": 3393209,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 629118819,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q833866",
+                "wikipedia_pages": {
+                    "fr": "Gbadolite"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 630640178,
+            "country": 180,
+            "level1area": [
+                "cdlu"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Tenke"
+            },
+            "place_type": 84,
+            "population": 50000,
+            "latitude": -10.605252,
+            "longitude": 26.1183171,
+            "geocell": 2856861,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 630640178,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2272876673,
+            "country": 180,
+            "level1area": [
+                "cdlu"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Fungurume"
+            },
+            "place_type": 84,
+            "population": 125000,
+            "latitude": -10.6165717,
+            "longitude": 26.3166156,
+            "geocell": 2856863,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2272876673,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2274965885,
+            "country": 180,
+            "level1area": [
+                "cdhl"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Malemba-Nkulu",
+                "sw": "Malemba-Nkulu"
+            },
+            "place_type": 84,
+            "population": 29970,
+            "latitude": -8.0413219,
+            "longitude": 26.7909208,
+            "geocell": 2950467,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2274965885,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3281852",
+                "wikipedia_pages": {
+                    "fr": "Malemba-Nkulu"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2878825710,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Bisie"
+            },
+            "place_type": 86,
+            "population": 10000,
+            "latitude": -1.0504341,
+            "longitude": 27.7369089,
+            "geocell": 3202477,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2878825710,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3415627480,
+            "country": 180,
+            "level1area": [
+                "cdta"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Kalemie",
+                "fr": "Kalemie",
+                "ko": "칼레미",
+                "ru": "Калемие",
+                "sw": "Kalemie"
+            },
+            "place_type": 67,
+            "population": 355126,
+            "latitude": -5.9460209,
+            "longitude": 29.1967172,
+            "geocell": 3026091,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3415627480,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q732801",
+                "wikipedia_pages": {
+                    "fr": "Kalemie"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5037562276,
+            "country": 180,
+            "level1area": [
+                "cdsk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kazimia"
+            },
+            "place_type": 84,
+            "population": 14432,
+            "latitude": -4.5468176,
+            "longitude": 29.1535741,
+            "geocell": 3076491,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5037562276,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

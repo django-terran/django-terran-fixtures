@@ -1,0 +1,3347 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 441183,
+            "country": 300,
+            "level1area": [
+                "gri"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Athene",
+                "ar": "أثينا",
+                "ast": "Atenes",
+                "az": "Afina",
+                "be": "Афіны",
+                "bg": "Атина",
+                "bn": "অ্যাথেন্স",
+                "br": "Aten",
+                "bs": "Atina",
+                "ca": "Atenes",
+                "ckb": "ئەسینا",
+                "cs": "Athény",
+                "cy": "Athen",
+                "da": "Athen",
+                "de": "Athen",
+                "el": "Αθήνα",
+                "en": "Athens",
+                "eo": "Ateno",
+                "es": "Atenas",
+                "et": "Ateena",
+                "eu": "Atenas",
+                "fa": "آتن",
+                "fi": "Ateena",
+                "fr": "Athènes",
+                "fy": "Atene",
+                "ga": "An Aithin",
+                "gd": "An Àithne",
+                "gl": "Atenas",
+                "he": "אתונה",
+                "hi": "एथेंस",
+                "hr": "Atena",
+                "hu": "Athén",
+                "hy": "Աթենք",
+                "ia": "Athenas",
+                "id": "Athena",
+                "io": "Athina",
+                "is": "Aþena",
+                "it": "Atene",
+                "ja": "アテネ",
+                "ka": "ათენი",
+                "kab": "Atena",
+                "kk": "Афина",
+                "kn": "ಅಥೆನ್ಸ್",
+                "ko": "아테네",
+                "lb": "Athen",
+                "lt": "Atėnai",
+                "lv": "Atēnas",
+                "mk": "Атина",
+                "ml": "അഥേന",
+                "mn": "Афин",
+                "mr": "अथेन्स",
+                "ms": "Athens",
+                "my": "အေသင်မြို့",
+                "nl": "Athene",
+                "nn": "Aten",
+                "os": "Афинæтæ",
+                "pl": "Ateny",
+                "pt": "Atenas",
+                "ro": "Atena",
+                "ru": "Афины",
+                "sk": "Atény",
+                "sl": "Atene",
+                "sq": "Athinë",
+                "sr": "Атина",
+                "sv": "Aten",
+                "sw": "Athens",
+                "ta": "ஏதென்ஸ்",
+                "te": "ఏథెన్స్",
+                "th": "เอเธนส์",
+                "tk": "Afiny",
+                "tr": "Atina",
+                "tt": "Афиннар",
+                "udm": "Афины",
+                "ug": "ئافېنا",
+                "uk": "Афіни",
+                "ur": "ایتھنز",
+                "uz": "Afina",
+                "vi": "Athena"
+            },
+            "place_type": 67,
+            "population": 3090508,
+            "latitude": 37.9755648,
+            "longitude": 23.7348324,
+            "geocell": 4606437,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 441183,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1524",
+                "wikipedia_pages": {
+                    "el": "Αθήνα"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26490651,
+            "country": 300,
+            "level1area": [
+                "gri"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Елевсина",
+                "ca": "Eleusis",
+                "de": "Elefsina",
+                "el": "Ελευσίνα",
+                "en": "Eleusis",
+                "es": "Elefsina",
+                "fi": "Elefsina",
+                "fr": "Éleusis",
+                "hu": "Elefszína",
+                "it": "Eleusi",
+                "mk": "Елевсина",
+                "ml": "എലെഫ്സീന",
+                "nl": "Eleusis",
+                "ru": "Элевсис"
+            },
+            "place_type": 84,
+            "population": 25863,
+            "latitude": 38.047608,
+            "longitude": 23.5348663,
+            "geocell": 4610035,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26490651,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q204905",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 28490587,
+            "country": 300,
+            "level1area": [
+                "grl"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Cos",
+                "de": "Kos",
+                "el": "Κως",
+                "en": "Kos",
+                "es": "Cos",
+                "fr": "Cos",
+                "it": "Coo",
+                "ko": "코스섬",
+                "mk": "Кос",
+                "ml": "കോസ്",
+                "pl": "Kos",
+                "pt": "Cós",
+                "ro": "Kos",
+                "ru": "Кос",
+                "sr": "Кос",
+                "tr": "İstanköy",
+                "uk": "Кос"
+            },
+            "place_type": 67,
+            "population": 19432,
+            "latitude": 36.8940286,
+            "longitude": 27.2866636,
+            "geocell": 4566872,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 28490587,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q568212",
+                "wikipedia_pages": {
+                    "de": "Kos (Stadt)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29438069,
+            "country": 300,
+            "level1area": [
+                "grm"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كاندية",
+                "bg": "Ираклио",
+                "ca": "Càndia",
+                "cs": "Iraklion",
+                "da": "Iraklion",
+                "de": "Heraklion",
+                "el": "Ηράκλειο",
+                "en": "Heraklion",
+                "eo": "Iraklion",
+                "es": "Heraclión",
+                "et": "Irákleion",
+                "fi": "Heraklion",
+                "fr": "Héraklion",
+                "he": "הרקליון",
+                "hr": "Heraklion",
+                "hu": "Iráklio",
+                "ja": "イラクリオン",
+                "lt": "Heraklionas",
+                "mk": "Ираклион",
+                "ml": "ഹെരാക്ലിയോൺ",
+                "pl": "Heraklion",
+                "ru": "Ираклион",
+                "sq": "Iraklioni",
+                "sr": "Ираклион",
+                "sv": "Heraklion",
+                "tr": "Kandiye",
+                "uk": "Іракліон"
+            },
+            "place_type": 67,
+            "population": 140730,
+            "latitude": 35.33908,
+            "longitude": 25.1332843,
+            "geocell": 4512851,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29438069,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q160544",
+                "wikipedia_pages": {
+                    "el": "Ηράκλειο Κρήτης"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 31376614,
+            "country": 300,
+            "level1area": [
+                "grm"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ريثيمنو",
+                "de": "Rethymnon",
+                "el": "Ρέθυμνο",
+                "en": "Rethymnon",
+                "es": "Rétino",
+                "et": "Réthymno",
+                "fr": "Réthymnon",
+                "hu": "Réthimno",
+                "it": "Rethymno",
+                "lt": "Retimnas",
+                "mk": "Ретимно",
+                "ml": "റെത്തിംനോൺ",
+                "nl": "Rethimnon",
+                "pl": "Retimno",
+                "ru": "Ретимнон",
+                "tr": "Resmo",
+                "uk": "Ретимно"
+            },
+            "place_type": 67,
+            "population": 29000,
+            "latitude": 35.3676472,
+            "longitude": 24.4736079,
+            "geocell": 4512844,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 31376614,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q200908",
+                "wikipedia_pages": {
+                    "el": "Ρέθυμνο"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 31376615,
+            "country": 300,
+            "level1area": [
+                "grm"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "خانية",
+                "de": "Chania",
+                "el": "Χανιά",
+                "en": "Chania",
+                "eo": "Ĥanio",
+                "es": "La Canea",
+                "et": "Chaniá",
+                "fa": "خانیا",
+                "fi": "Hania",
+                "fr": "La Canée",
+                "he": "חאניה",
+                "hu": "Haniá",
+                "it": "Chania",
+                "ja": "ハニア",
+                "ko": "하니아",
+                "lt": "Chanija",
+                "mk": "Хања",
+                "ml": "ഖാനിയ",
+                "nl": "Chania",
+                "ru": "Ханья",
+                "tr": "Hanya",
+                "uk": "Ханья"
+            },
+            "place_type": 67,
+            "population": 53910,
+            "latitude": 35.5120831,
+            "longitude": 24.0191544,
+            "geocell": 4520040,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 31376615,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q182299",
+                "wikipedia_pages": {
+                    "el": "Χανιά"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 57549546,
+            "country": 300,
+            "level1area": [
+                "gre"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Лариса",
+                "ca": "Làrissa",
+                "de": "Larisa",
+                "el": "Λάρισα",
+                "en": "Larissa",
+                "es": "Lárisa",
+                "et": "Lárisa",
+                "fi": "Larissa",
+                "fr": "Larissa",
+                "hr": "Larisa",
+                "hu": "Lárisza",
+                "lt": "Larisa",
+                "mk": "Лариса",
+                "ml": "ലാറിസ",
+                "ru": "Лариса",
+                "sq": "Larisa",
+                "sr": "Лариса",
+                "tr": "Yenişehir",
+                "uk": "Ларіса"
+            },
+            "place_type": 67,
+            "population": 144651,
+            "latitude": 39.6383092,
+            "longitude": 22.4160706,
+            "geocell": 4667624,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 57549546,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "http://www.larissa-dimos.gr/new/",
+                "wikidata_page_name": "Q178405",
+                "wikipedia_pages": {
+                    "el": "Λάρισα"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 57553013,
+            "country": 300,
+            "level1area": [
+                "grb"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Катерини",
+                "ca": "Katerini",
+                "de": "Katerini",
+                "el": "Κατερίνη",
+                "en": "Katerini",
+                "et": "Kateríni",
+                "fr": "Katerini",
+                "hr": "Katerini",
+                "hu": "Kateríni",
+                "lt": "Katerinė",
+                "mk": "Катерина",
+                "ml": "കാറ്റെറീനി",
+                "ro": "Katerini",
+                "ru": "Катерини",
+                "sr": "Катерини",
+                "tr": "Katerin",
+                "uk": "Катеріні"
+            },
+            "place_type": 67,
+            "population": 56000,
+            "latitude": 40.2713616,
+            "longitude": 22.5087618,
+            "geocell": 4689225,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 57553013,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q210470",
+                "wikipedia_pages": {
+                    "el": "Κατερίνη"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 57554537,
+            "country": 300,
+            "level1area": [
+                "grb"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سالونيك",
+                "bg": "Солун",
+                "bs": "Solun",
+                "ca": "Tessalònica",
+                "cs": "Soluň",
+                "de": "Thessaloniki",
+                "el": "Θεσσαλονίκη",
+                "en": "Thessaloniki",
+                "eo": "Tesaloniko",
+                "es": "Salónica",
+                "et": "Thessaloníki",
+                "eu": "Tesalonika",
+                "fi": "Thessaloniki",
+                "fr": "Thessalonique",
+                "ga": "Teasaloinicé",
+                "he": "סלוניקי",
+                "hr": "Solun",
+                "hu": "Theszaloníki",
+                "is": "Þessaloniki",
+                "it": "Salonicco",
+                "ja": "テッサロニキ",
+                "kn": "ತೆಸಲೋನಿಕಿ",
+                "lt": "Salonikai",
+                "lv": "Saloniki",
+                "mk": "Солун",
+                "ml": "തെസ്സലോനിക്ക",
+                "nl": "Thessaloniki",
+                "pl": "Saloniki",
+                "pt": "Salónica",
+                "ro": "Salonic",
+                "ru": "Салоники",
+                "sk": "Solún",
+                "sl": "Solun",
+                "sq": "Selanik",
+                "sr": "Солун",
+                "tr": "Selanik",
+                "tt": "Сәләник",
+                "uk": "Салоніки"
+            },
+            "place_type": 67,
+            "population": 790824,
+            "latitude": 40.6403167,
+            "longitude": 22.9352716,
+            "geocell": 4703629,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 57554537,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.thessaloniki.gr/",
+                "wikidata_page_name": "Q17151",
+                "wikipedia_pages": {
+                    "el": "Θεσσαλονίκη"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 62221032,
+            "country": 300,
+            "level1area": [
+                "grg"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "باتراس",
+                "bg": "Патра",
+                "ca": "Patres",
+                "cs": "Patras",
+                "de": "Patras",
+                "el": "Πάτρα",
+                "en": "Patras",
+                "es": "Pátra",
+                "et": "Pátra",
+                "fi": "Patras",
+                "fr": "Patras",
+                "hr": "Patras",
+                "hu": "Pátra",
+                "it": "Patrasso",
+                "ja": "パトラ",
+                "lt": "Patrai",
+                "mk": "Патра",
+                "ml": "പാട്രാസ്",
+                "nl": "Patras",
+                "pt": "Pátras",
+                "ro": "Patras",
+                "ru": "Патры",
+                "sq": "Patra",
+                "sr": "Патра",
+                "tr": "Balyabadra",
+                "uk": "Патри"
+            },
+            "place_type": 67,
+            "population": 300000,
+            "latitude": 38.246242,
+            "longitude": 21.7350847,
+            "geocell": 4617217,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 62221032,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q133123",
+                "wikipedia_pages": {
+                    "en": "Patras"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 77831792,
+            "country": 300,
+            "level1area": [
+                "grl"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Антимахия",
+                "de": "Antimachia",
+                "el": "Αντιμάχεια",
+                "en": "Antimachia",
+                "ru": "Андимахия"
+            },
+            "place_type": 84,
+            "population": 33388,
+            "latitude": 36.8112916,
+            "longitude": 27.0974999,
+            "geocell": 4566870,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 77831792,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1408844",
+                "wikipedia_pages": {
+                    "de": "Andimachia (Stadt)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 126244310,
+            "country": 300,
+            "level1area": [
+                "grl"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Rodes",
+                "cs": "Rhodos",
+                "da": "Rhodos",
+                "de": "Rhodos",
+                "el": "Ρόδος",
+                "en": "Rhodes",
+                "es": "Rodas",
+                "fi": "Rodos",
+                "fr": "Rhodes",
+                "hu": "Rodosz",
+                "it": "Rodi",
+                "ja": "ロドス",
+                "ko": "로도스",
+                "mk": "Родос",
+                "ml": "റോഡോസ്",
+                "nl": "Rhodos",
+                "pl": "Rodos",
+                "ro": "Rodos",
+                "ru": "Родос",
+                "sk": "Rodos",
+                "sr": "Родос",
+                "sv": "Rhodos",
+                "tr": "Rodos",
+                "uk": "Родос"
+            },
+            "place_type": 67,
+            "population": 45310,
+            "latitude": 36.4437233,
+            "longitude": 28.227369,
+            "geocell": 4552482,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 126244310,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q188731",
+                "wikipedia_pages": {
+                    "el": "Ρόδος (πόλη)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130167065,
+            "country": 300,
+            "level1area": [
+                "grc"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Кожани",
+                "ca": "Kozani",
+                "de": "Kozani",
+                "el": "Κοζάνη",
+                "et": "Kozáni",
+                "eu": "Kozani",
+                "fr": "Kozani",
+                "hu": "Kozáni",
+                "lt": "Kozanė",
+                "mk": "Кожани",
+                "ml": "കൊജാനി",
+                "ru": "Козани",
+                "sq": "Kozhan",
+                "sr": "Кожани",
+                "tr": "Kozani",
+                "uk": "Козані"
+            },
+            "place_type": 67,
+            "population": 35242,
+            "latitude": 40.3007259,
+            "longitude": 21.7883119,
+            "geocell": 4692817,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130167065,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q180176",
+                "wikipedia_pages": {
+                    "el": "Κοζάνη"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130167067,
+            "country": 300,
+            "level1area": [
+                "grc"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Кайляри",
+                "el": "Πτολεμαΐδα",
+                "en": "Ptolemaida",
+                "fr": "Ptolemaïda",
+                "mk": "Кајлари"
+            },
+            "place_type": 67,
+            "population": 32130,
+            "latitude": 40.5146139,
+            "longitude": 21.6812621,
+            "geocell": 4700016,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130167067,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q573182",
+                "wikipedia_pages": {
+                    "el": "Πτολεμαΐδα"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130167081,
+            "country": 300,
+            "level1area": [
+                "grb"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Воден",
+                "ca": "Edessa",
+                "de": "Edessa",
+                "el": "Έδεσσα",
+                "en": "Edessa",
+                "et": "Édessa",
+                "eu": "Edessa",
+                "fr": "Édessa",
+                "hu": "Édesza",
+                "lt": "Edesa",
+                "mk": "Воден",
+                "ml": "എഡെസ",
+                "ru": "Эдеса",
+                "sr": "Воден",
+                "tr": "Vodina",
+                "uk": "Едеса"
+            },
+            "place_type": 67,
+            "population": 18253,
+            "latitude": 40.8008523,
+            "longitude": 22.0503508,
+            "geocell": 4710820,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130167081,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q209978",
+                "wikipedia_pages": {
+                    "el": "Έδεσσα"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130167092,
+            "country": 300,
+            "level1area": [
+                "grb"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Негуш",
+                "de": "Naoussa",
+                "el": "Νάουσα",
+                "en": "Naoussa",
+                "et": "Náousa",
+                "fr": "Náoussa",
+                "hu": "Náusza",
+                "lt": "Nausa",
+                "mk": "Негуш",
+                "ru": "Науса",
+                "sr": "Негуш"
+            },
+            "place_type": 67,
+            "population": 19870,
+            "latitude": 40.630574,
+            "longitude": 22.0696057,
+            "geocell": 4703620,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130167092,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q567755",
+                "wikipedia_pages": {
+                    "el": "Νάουσα"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130167098,
+            "country": 300,
+            "level1area": [
+                "grb"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Енидже Вардар",
+                "ca": "Giannitsa",
+                "de": "Giannitsa",
+                "el": "Γιαννιτσά",
+                "en": "Giannitsa",
+                "et": "Giannitsá",
+                "eu": "Giannitsa",
+                "fr": "Giannitsá",
+                "hr": "Janica",
+                "hu": "Janicá",
+                "mk": "Пазар",
+                "ml": "യാനിറ്റ്സ",
+                "pl": "Jenidze",
+                "ro": "Giannitsa",
+                "ru": "Яница",
+                "sr": "Пазар",
+                "tr": "Yenice",
+                "uk": "Яниця"
+            },
+            "place_type": 67,
+            "population": 29647,
+            "latitude": 40.79304,
+            "longitude": 22.411477,
+            "geocell": 4707224,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130167098,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q929022",
+                "wikipedia_pages": {
+                    "el": "Γιαννιτσά"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130167162,
+            "country": 300,
+            "level1area": [
+                "grb"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Νέα Μουδανιά",
+                "mk": "Нова Мудања",
+                "ml": "നിയ മുദാനിയ"
+            },
+            "place_type": 67,
+            "population": 10042,
+            "latitude": 40.239881,
+            "longitude": 23.2853943,
+            "geocell": 4689232,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130167162,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1811070",
+                "wikipedia_pages": {
+                    "en": "Nea Moudania"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130170551,
+            "country": 300,
+            "level1area": [
+                "grc"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "فلورينا",
+                "bg": "Лерин",
+                "ca": "Flórina",
+                "de": "Florina",
+                "el": "Φλώρινα",
+                "en": "Florina",
+                "es": "Flórina",
+                "et": "Flórina",
+                "eu": "Florina",
+                "fa": "فلورینا",
+                "fi": "Flórina",
+                "fr": "Florina",
+                "he": "פלורינה",
+                "hr": "Florina",
+                "hu": "Lerin",
+                "it": "Florina",
+                "ja": "フロリナ",
+                "ko": "플로리나",
+                "lt": "Florina",
+                "mk": "Лерин",
+                "ml": "ഫ്ലോറിന",
+                "nl": "Florina",
+                "nn": "Flórina",
+                "pl": "Florina",
+                "ro": "Florina",
+                "ru": "Флорина",
+                "sk": "Florina",
+                "sq": "Follorina",
+                "sr": "Лерин",
+                "sv": "Florina",
+                "tr": "Florina",
+                "uk": "Флорина",
+                "vi": "Florina"
+            },
+            "place_type": 67,
+            "population": 14297,
+            "latitude": 40.7829027,
+            "longitude": 21.4138858,
+            "geocell": 4707214,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130170551,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q202272",
+                "wikipedia_pages": {
+                    "el": "Φλώρινα"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130250597,
+            "country": 300,
+            "level1area": [
+                "gre"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Трикала",
+                "de": "Trikala",
+                "el": "Τρίκαλα",
+                "en": "Trikala",
+                "es": "Tríkala",
+                "et": "Tríkala",
+                "fr": "Trikala",
+                "hr": "Trikala",
+                "hu": "Tríkala",
+                "mk": "Трикала",
+                "ml": "ത്രിക്കാല",
+                "ro": "Trikolj",
+                "ru": "Трикала",
+                "sq": "Tërhallë",
+                "sr": "Трикала",
+                "tr": "Tırhala",
+                "uk": "Трикала"
+            },
+            "place_type": 67,
+            "population": 61653,
+            "latitude": 39.5560869,
+            "longitude": 21.7678844,
+            "geocell": 4664017,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130250597,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q207467",
+                "wikipedia_pages": {
+                    "en": "Trikala"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130250802,
+            "country": 300,
+            "level1area": [
+                "gre"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Karditsa",
+                "de": "Karditsa",
+                "el": "Καρδίτσα",
+                "en": "Karditsa",
+                "et": "Kardítsa",
+                "eu": "Karditsa",
+                "fr": "Karditsa",
+                "hu": "Kardíca",
+                "mk": "Кардица",
+                "ml": "കർഡീറ്റ്സ",
+                "ro": "Kardița",
+                "ru": "Кардица",
+                "sq": "Kardicë",
+                "uk": "Кардиця"
+            },
+            "place_type": 67,
+            "population": 38554,
+            "latitude": 39.3660304,
+            "longitude": 21.9287519,
+            "geocell": 4656819,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130250802,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q214212",
+                "wikipedia_pages": {
+                    "el": "Καρδίτσα"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 134237444,
+            "country": 300,
+            "level1area": [
+                "grb"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Кукуш",
+                "ca": "Kilkís",
+                "de": "Kilkis",
+                "el": "Κιλκίς",
+                "en": "Kilkis",
+                "et": "Kilkís",
+                "eu": "Kilkis",
+                "fr": "Kilkís",
+                "hu": "Kilkísz",
+                "it": "Kilkis",
+                "mk": "Кукуш",
+                "ml": "കിൽക്കീസ്",
+                "pl": "Kilkis",
+                "ro": "Kilkis",
+                "ru": "Килкис",
+                "sr": "Кукуш",
+                "tr": "Kılkış",
+                "uk": "Кілкіс"
+            },
+            "place_type": 67,
+            "population": 17430,
+            "latitude": 40.9935874,
+            "longitude": 22.8741455,
+            "geocell": 4714428,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 134237444,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q214347",
+                "wikipedia_pages": {
+                    "el": "Κιλκίς"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 135519334,
+            "country": 300,
+            "level1area": [
+                "grg"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Mesolongi",
+                "de": "Mesolongi",
+                "el": "Μεσολόγγι",
+                "en": "Mesolongi",
+                "et": "Mesolóngi",
+                "eu": "Mesolongi",
+                "fr": "Mesolongi",
+                "hu": "Meszolóngi",
+                "mk": "Месолонги",
+                "ru": "Месолонгион",
+                "uk": "Месолонгіон"
+            },
+            "place_type": 67,
+            "population": 20000,
+            "latitude": 38.3686353,
+            "longitude": 21.4283544,
+            "geocell": 4620814,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 135519334,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q642810",
+                "wikipedia_pages": {
+                    "el": "Μεσολόγγι"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 135531710,
+            "country": 300,
+            "level1area": [
+                "gre"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Volos",
+                "el": "Βόλος",
+                "en": "Volos",
+                "et": "Vólos",
+                "fr": "Volos",
+                "hr": "Volos",
+                "hu": "Vólosz",
+                "ja": "ヴォロス",
+                "lt": "Volosas",
+                "mk": "Волос",
+                "ml": "വോലോസ്",
+                "pl": "Wolos",
+                "ro": "Volos",
+                "ru": "Волос",
+                "sr": "Волос",
+                "uk": "Волос"
+            },
+            "place_type": 67,
+            "population": 82439,
+            "latitude": 39.3624833,
+            "longitude": 22.9401864,
+            "geocell": 4656829,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 135531710,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q200036",
+                "wikipedia_pages": {
+                    "el": "Βόλος"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 135541513,
+            "country": 300,
+            "level1area": [
+                "grc"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Костур",
+                "ca": "Kastorià",
+                "el": "Καστοριά",
+                "en": "Kastoria",
+                "eu": "Kastoria",
+                "mk": "Костур",
+                "ml": "കസ്റ്റോറിയ",
+                "sr": "Костур",
+                "uk": "Касторія"
+            },
+            "place_type": 67,
+            "population": 13387,
+            "latitude": 40.5216297,
+            "longitude": 21.2636522,
+            "geocell": 4700012,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 135541513,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q206954",
+                "wikipedia_pages": {
+                    "el": "Καστοριά"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 135541913,
+            "country": 300,
+            "level1area": [
+                "grc"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Гревена",
+                "el": "Γρεβενά",
+                "mk": "Гребен",
+                "ml": "ഗ്രെവെനാ"
+            },
+            "place_type": 84,
+            "population": 10177,
+            "latitude": 40.0844637,
+            "longitude": 21.4273985,
+            "geocell": 4682014,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 135541913,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q216982",
+                "wikipedia_pages": {
+                    "el": "Γρεβενά"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 136904436,
+            "country": 300,
+            "level1area": [
+                "grb"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Сяр",
+                "ca": "Serres",
+                "de": "Serres",
+                "el": "Σέρρες",
+                "en": "Serres",
+                "es": "Serres",
+                "et": "Sérres",
+                "eu": "Serres",
+                "fr": "Serrès",
+                "hu": "Széresz",
+                "lt": "Serės",
+                "mk": "Сер",
+                "ml": "സേറസ്",
+                "ro": "Serres",
+                "ru": "Сере",
+                "sr": "Сер",
+                "sv": "Serrai",
+                "tr": "Serez",
+                "uk": "Сере"
+            },
+            "place_type": 67,
+            "population": 56000,
+            "latitude": 41.0910711,
+            "longitude": 23.5498031,
+            "geocell": 4718035,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 136904436,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q206957",
+                "wikipedia_pages": {
+                    "el": "Σέρρες"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 137704920,
+            "country": 300,
+            "level1area": [
+                "gra"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Кавала",
+                "ca": "Kavala",
+                "de": "Kavala",
+                "el": "Καβάλα",
+                "en": "Kavala",
+                "es": "Kavala",
+                "et": "Kavála",
+                "fr": "Kavala",
+                "hu": "Kavála",
+                "ja": "カヴァラ",
+                "lt": "Kavala",
+                "mk": "Кавала",
+                "ml": "കവാല",
+                "nl": "Kavála",
+                "pl": "Kawala",
+                "pt": "Cavala",
+                "ro": "Kavala",
+                "ru": "Кавала",
+                "sr": "Кавала",
+                "sv": "Kavála",
+                "tr": "Kavala",
+                "uk": "Кавала"
+            },
+            "place_type": 67,
+            "population": 54027,
+            "latitude": 40.9369224,
+            "longitude": 24.4122766,
+            "geocell": 4714444,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 137704920,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://kavala.gov.gr/web/guest/home",
+                "wikidata_page_name": "Q187352",
+                "wikipedia_pages": {
+                    "el": "Καβάλα"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 137705481,
+            "country": 300,
+            "level1area": [
+                "gra"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Ксанти",
+                "ca": "Xanthi",
+                "de": "Xanthi",
+                "el": "Ξάνθη",
+                "en": "Xanthi",
+                "es": "Xanti",
+                "et": "Xánthi",
+                "fr": "Xanthi",
+                "hu": "Xánthi",
+                "lt": "Ksantė",
+                "mk": "Скеча",
+                "ml": "ക്സാന്തി",
+                "pl": "Ksanti",
+                "ro": "Xanthi",
+                "ru": "Ксанти",
+                "sr": "Ксанти",
+                "tr": "İskeçe",
+                "uk": "Ксанті"
+            },
+            "place_type": 67,
+            "population": 52000,
+            "latitude": 41.13805,
+            "longitude": 24.8864089,
+            "geocell": 4721648,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 137705481,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q210296",
+                "wikipedia_pages": {
+                    "el": "Ξάνθη"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 139260064,
+            "country": 300,
+            "level1area": [
+                "gra"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Дедеагач",
+                "cs": "Alexandrupoli",
+                "de": "Alexandroupoli",
+                "el": "Αλεξανδρούπολη",
+                "en": "Alexandroupoli",
+                "es": "Alejandrópolis",
+                "et": "Alexandroúpoli",
+                "fr": "Alexandroúpoli",
+                "hu": "Alexandrúpoli",
+                "it": "Alessandropoli",
+                "lt": "Aleksandrupolis",
+                "mk": "Дедеагач",
+                "ml": "അലക്സാണ്ട്രോപോളി",
+                "pl": "Aleksandropolis",
+                "pt": "Alexandrópolis",
+                "ru": "Александруполис",
+                "sl": "Alexandroupoli",
+                "sr": "Александрополис",
+                "tr": "Dedeağaç",
+                "uk": "Александруполіс"
+            },
+            "place_type": 67,
+            "population": 53000,
+            "latitude": 40.845666,
+            "longitude": 25.8778814,
+            "geocell": 4710858,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 139260064,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q190847",
+                "wikipedia_pages": {
+                    "el": "Αλεξανδρούπολη"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 139314748,
+            "country": 300,
+            "level1area": [
+                "grd"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "يانينة",
+                "be": "Яніна",
+                "bg": "Янина",
+                "ca": "Ioànnina",
+                "de": "Ioannina",
+                "el": "Ιωάννινα",
+                "en": "Ioannina",
+                "es": "Ioánina",
+                "et": "Ioánnina",
+                "eu": "Ioanina",
+                "fr": "Ioánnina",
+                "he": "יואנינה",
+                "hr": "Janjina",
+                "hu": "Joánina",
+                "is": "Jóannína",
+                "it": "Giannina",
+                "ja": "ヨアニナ",
+                "ka": "იანინა",
+                "ko": "요안니나",
+                "lt": "Janina",
+                "mk": "Јанина",
+                "ml": "യാനിന",
+                "pl": "Janina",
+                "pt": "Janina",
+                "ro": "Ianina",
+                "ru": "Янина",
+                "sk": "Janina",
+                "sq": "Janinë",
+                "sr": "Јањина",
+                "tr": "Yanya",
+                "uk": "Яніна"
+            },
+            "place_type": 67,
+            "population": 89061,
+            "latitude": 39.6639818,
+            "longitude": 20.8522784,
+            "geocell": 4667608,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 139314748,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q183199",
+                "wikipedia_pages": {
+                    "el": "Ιωάννινα"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 139484029,
+            "country": 300,
+            "level1area": [
+                "grd"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Игуменица",
+                "ca": "Igumenitsa",
+                "de": "Igoumenitsa",
+                "el": "Ηγουμενίτσα",
+                "en": "Igoumenitsa",
+                "es": "Igumenitsa",
+                "et": "Igoumenítsa",
+                "fr": "Igoumenítsa",
+                "mk": "Игуменица",
+                "ml": "ഇഗൗമെനിറ്റ്സ",
+                "nl": "Igoemenitsa",
+                "ru": "Игуменица",
+                "sq": "Gumenicë",
+                "sr": "Игуменица"
+            },
+            "place_type": 84,
+            "population": 17902,
+            "latitude": 39.5045005,
+            "longitude": 20.2639166,
+            "geocell": 4664002,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 139484029,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q213874",
+                "wikipedia_pages": {
+                    "el": "Ηγουμενίτσα"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 139501068,
+            "country": 300,
+            "level1area": [
+                "grg"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Naupacte",
+                "de": "Nafpaktos",
+                "el": "Ναύπακτος",
+                "en": "Nafpaktos",
+                "es": "Lepanto",
+                "fr": "Naupacte",
+                "hu": "Návpaktosz",
+                "it": "Lepanto",
+                "nl": "Nafpaktos",
+                "ru": "Навпактос"
+            },
+            "place_type": 84,
+            "population": 12950,
+            "latitude": 38.3926119,
+            "longitude": 21.8287498,
+            "geocell": 4620818,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 139501068,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q782278",
+                "wikipedia_pages": {
+                    "el": "Ναύπακτος"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 139535235,
+            "country": 300,
+            "level1area": [
+                "gre"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Tyrnavos",
+                "el": "Τύρναβος",
+                "en": "Tirnavos",
+                "fr": "Tyrnavos",
+                "hu": "Tírnavosz",
+                "mk": "Трново",
+                "ru": "Тирнавос"
+            },
+            "place_type": 84,
+            "population": 11116,
+            "latitude": 39.7388604,
+            "longitude": 22.2882216,
+            "geocell": 4671222,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 139535235,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q950532",
+                "wikipedia_pages": {
+                    "el": "Τύρναβος"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 139648176,
+            "country": 300,
+            "level1area": [
+                "grd"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Preveza",
+                "el": "Πρέβεζα",
+                "en": "Preveza",
+                "et": "Préveza",
+                "fr": "Preveza",
+                "hu": "Préveza",
+                "mk": "Превеза",
+                "ml": "പ്രേവെസ",
+                "ro": "Preveza",
+                "ru": "Превеза",
+                "sq": "Prevezë",
+                "sr": "Превеза",
+                "uk": "Превеза"
+            },
+            "place_type": 67,
+            "population": 19072,
+            "latitude": 38.9571673,
+            "longitude": 20.7516209,
+            "geocell": 4642407,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 139648176,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q213898",
+                "wikipedia_pages": {
+                    "el": "Πρέβεζα"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 144717158,
+            "country": 300,
+            "level1area": [
+                "gre"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Nea Ionia",
+                "el": "Νέα Ιωνία",
+                "en": "Nea Ionia",
+                "fr": "Nouvelle-Ionie",
+                "hu": "Néa Jonía",
+                "ru": "Неа-Иония"
+            },
+            "place_type": 84,
+            "population": 30804,
+            "latitude": 39.3748394,
+            "longitude": 22.9325138,
+            "geocell": 4656829,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 144717158,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2418603",
+                "wikipedia_pages": {
+                    "el": "Νέα Ιωνία Μαγνησίας"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 154085779,
+            "country": 300,
+            "level1area": [
+                "grh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Livadia",
+                "el": "Λιβαδειά",
+                "en": "Livadia",
+                "fr": "Livadia",
+                "hu": "Livadiá",
+                "ru": "Левадия",
+                "tr": "Livadya"
+            },
+            "place_type": 84,
+            "population": 20061,
+            "latitude": 38.438148,
+            "longitude": 22.8790519,
+            "geocell": 4624428,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 154085779,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q210698",
+                "wikipedia_pages": {
+                    "el": "Λιβαδειά"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 154086178,
+            "country": 300,
+            "level1area": [
+                "grh"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Tebes",
+                "cs": "Théby",
+                "de": "Thiva",
+                "el": "Θήβα",
+                "en": "Thiva",
+                "et": "Teeba",
+                "fr": "Thèbes",
+                "hu": "Thíva",
+                "mk": "Теба",
+                "ml": "തീബ",
+                "nl": "Thebe",
+                "ru": "Фивы",
+                "sk": "Téby",
+                "tr": "Thebai"
+            },
+            "place_type": 84,
+            "population": 22883,
+            "latitude": 38.3200705,
+            "longitude": 23.3175613,
+            "geocell": 4620833,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 154086178,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5760",
+                "wikipedia_pages": {
+                    "el": "Θήβα"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 154087583,
+            "country": 300,
+            "level1area": [
+                "gri"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Megara",
+                "el": "Μέγαρα",
+                "en": "Megara",
+                "fr": "Mégare",
+                "hu": "Megara",
+                "lt": "Megara",
+                "ru": "Мегара"
+            },
+            "place_type": 84,
+            "population": 23032,
+            "latitude": 37.9965887,
+            "longitude": 23.3445017,
+            "geocell": 4606433,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 154087583,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q184864",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 154089041,
+            "country": 300,
+            "level1area": [
+                "gri"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Пирея",
+                "ca": "el Pireu",
+                "cs": "Pireus",
+                "da": "Piræus",
+                "de": "Piräus",
+                "el": "Πειραιάς",
+                "en": "Piraeus",
+                "es": "El Pireo",
+                "et": "Pireus",
+                "fr": "Le Pirée",
+                "he": "פיראוס",
+                "hr": "Pireus",
+                "hu": "Pireusz",
+                "it": "Pireo",
+                "lb": "Piräus",
+                "lt": "Pirėjas",
+                "mk": "Пиреј",
+                "ml": "പിറേയസ്",
+                "nl": "Piraeus",
+                "pl": "Pireus",
+                "ru": "Пирей",
+                "sk": "Pireus",
+                "sl": "Pirej",
+                "sq": "Pire",
+                "sr": "Пиреј",
+                "sv": "Pireus",
+                "tr": "Pire",
+                "uk": "Пірей"
+            },
+            "place_type": 67,
+            "population": 163688,
+            "latitude": 37.9431594,
+            "longitude": 23.6470593,
+            "geocell": 4606436,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 154089041,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q58976",
+                "wikipedia_pages": {
+                    "el": "Πειραιάς"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 154092358,
+            "country": 300,
+            "level1area": [
+                "gri"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Koropi",
+                "el": "Κορωπί",
+                "en": "Koropi",
+                "fr": "Koropí",
+                "hu": "Koropí",
+                "ml": "കൊറോപ്പി",
+                "ru": "Коропион"
+            },
+            "place_type": 84,
+            "population": 15860,
+            "latitude": 37.8986169,
+            "longitude": 23.8740711,
+            "geocell": 4602838,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 154092358,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2670586",
+                "wikipedia_pages": {
+                    "el": "Κορωπί"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 154562740,
+            "country": 300,
+            "level1area": [
+                "grj"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Триполи",
+                "ca": "Trípoli",
+                "de": "Tripoli",
+                "el": "Τρίπολη",
+                "en": "Tripoli",
+                "es": "Trípoli",
+                "et": "Trípoli",
+                "fi": "Trípoli",
+                "fr": "Tripoli",
+                "hu": "Trípoli",
+                "mk": "Триполи",
+                "ml": "ട്രിപ്പോളി",
+                "ru": "Триполис",
+                "sq": "Tripolica",
+                "sr": "Триполи",
+                "tr": "Tripoliçe",
+                "uk": "Триполі"
+            },
+            "place_type": 67,
+            "population": 30866,
+            "latitude": 37.5102911,
+            "longitude": 22.3724241,
+            "geocell": 4592023,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 154562740,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q193409",
+                "wikipedia_pages": {
+                    "el": "Τρίπολη Αρκαδίας"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 161650096,
+            "country": 300,
+            "level1area": [
+                "grj"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Corint",
+                "da": "Korinth",
+                "de": "Korinth",
+                "el": "Κόρινθος",
+                "en": "Corinth",
+                "es": "Corinto",
+                "et": "Kórinthos",
+                "eu": "Korinto",
+                "fi": "Korintti",
+                "fr": "Corinthe",
+                "hr": "Korint",
+                "hu": "Korinthosz",
+                "it": "Corinto",
+                "mk": "Коринт",
+                "ml": "കൊരിന്ത്",
+                "nl": "Korinthe",
+                "ru": "Коринф",
+                "sk": "Korint",
+                "sq": "Korinti",
+                "sr": "Коринт",
+                "tr": "Gördös",
+                "uk": "Коринф"
+            },
+            "place_type": 67,
+            "population": 29787,
+            "latitude": 37.9385413,
+            "longitude": 22.9273768,
+            "geocell": 4606429,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 161650096,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q103011",
+                "wikipedia_pages": {
+                    "el": "Κόρινθος"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 161658541,
+            "country": 300,
+            "level1area": [
+                "grj"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Esparta",
+                "cs": "Sparta",
+                "de": "Sparta",
+                "el": "Σπάρτη",
+                "en": "Sparta",
+                "es": "Esparta",
+                "et": "Sparta",
+                "eu": "Esparta",
+                "fr": "Sparte",
+                "hr": "Sparta",
+                "hu": "Szpárti",
+                "it": "Sparta",
+                "mk": "Спарта",
+                "nl": "Sparta",
+                "ru": "Спарта",
+                "sk": "Sparta",
+                "sr": "Спарта",
+                "tr": "Sparta",
+                "uk": "Спарта"
+            },
+            "place_type": 67,
+            "population": 16239,
+            "latitude": 37.0744494,
+            "longitude": 22.4301778,
+            "geocell": 4574024,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 161658541,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2308046",
+                "wikipedia_pages": {
+                    "el": "Σπάρτη"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 161668036,
+            "country": 300,
+            "level1area": [
+                "grj"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Nafplio",
+                "el": "Ναύπλιο",
+                "en": "Nafplio",
+                "es": "Nauplia",
+                "fr": "Nauplie",
+                "hu": "Návplio",
+                "it": "Nauplia",
+                "nl": "Nauplion",
+                "ru": "Нафплион"
+            },
+            "place_type": 84,
+            "population": 14532,
+            "latitude": 37.5659229,
+            "longitude": 22.8068782,
+            "geocell": 4592028,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 161668036,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q202337",
+                "wikipedia_pages": {
+                    "el": "Ναύπλιο"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 164626837,
+            "country": 300,
+            "level1area": [
+                "gra"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Драма",
+                "ca": "Drama",
+                "de": "Drama",
+                "el": "Δράμα",
+                "en": "Drama",
+                "et": "Dráma",
+                "eu": "Drama",
+                "fr": "Drama",
+                "hu": "Dráma",
+                "mk": "Драма",
+                "ml": "ഡ്രാമ",
+                "ru": "Драма",
+                "sr": "Драма",
+                "tr": "Dırama",
+                "uk": "Драма"
+            },
+            "place_type": 67,
+            "population": 42501,
+            "latitude": 41.1499443,
+            "longitude": 24.1468286,
+            "geocell": 4721641,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 164626837,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q212841",
+                "wikipedia_pages": {
+                    "el": "Δράμα Μακεδονίας"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 193699922,
+            "country": 300,
+            "level1area": [
+                "grj"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كالاماتا",
+                "ca": "Kalamata",
+                "de": "Kalamata",
+                "el": "Καλαμάτα",
+                "en": "Kalamata",
+                "es": "Kalamata",
+                "et": "Kalamáta",
+                "eu": "Kalamata",
+                "fa": "کالاماتا",
+                "fr": "Kalamata",
+                "hu": "Kalamáta",
+                "it": "Calamata",
+                "mk": "Каламата",
+                "ml": "കലമാത്ത",
+                "nl": "Kalamáta",
+                "ru": "Каламата",
+                "uk": "Каламата",
+                "ur": "کالاماتا"
+            },
+            "place_type": 67,
+            "population": 57620,
+            "latitude": 37.0372714,
+            "longitude": 22.110707,
+            "geocell": 4574021,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 193699922,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q167895",
+                "wikipedia_pages": {
+                    "el": "Καλαμάτα"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 193702230,
+            "country": 300,
+            "level1area": [
+                "grg"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Pirgos",
+                "de": "Pyrgos",
+                "el": "Πύργος",
+                "en": "Pyrgos",
+                "et": "Pýrgos",
+                "eu": "Pyrgos",
+                "fr": "Pýrgos",
+                "hu": "Pírgosz",
+                "mk": "Пиргос",
+                "ml": "പിർഗോസ്",
+                "nl": "Pyrgos",
+                "ru": "Пиргос",
+                "sr": "Пиргос",
+                "uk": "Піргос"
+            },
+            "place_type": 67,
+            "population": 34902,
+            "latitude": 37.6722103,
+            "longitude": 21.4392124,
+            "geocell": 4595614,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 193702230,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q216307",
+                "wikipedia_pages": {
+                    "en": "Pirgos, Greece"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 247364698,
+            "country": 300,
+            "level1area": [
+                "grg"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Amaliada",
+                "de": "Amaliada",
+                "el": "Αμαλιάδα",
+                "en": "Amaliada",
+                "fr": "Amaliada",
+                "hu": "Amaliáda",
+                "ru": "Амалиада"
+            },
+            "place_type": 84,
+            "population": 18261,
+            "latitude": 37.7971312,
+            "longitude": 21.35145,
+            "geocell": 4599213,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 247364698,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q162933",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 277422488,
+            "country": 300,
+            "level1area": [
+                "gri"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Rafina",
+                "el": "Ραφήνα",
+                "en": "Rafina",
+                "fr": "Rafína",
+                "hu": "Rafína",
+                "ru": "Рафина"
+            },
+            "place_type": 84,
+            "population": 11909,
+            "latitude": 38.0203695,
+            "longitude": 24.0073367,
+            "geocell": 4610040,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 277422488,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2127223",
+                "wikipedia_pages": {
+                    "el": "Ραφήνα"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 279136267,
+            "country": 300,
+            "level1area": [
+                "gri"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Nea Makri",
+                "el": "Νέα Μάκρη",
+                "en": "Nea Makri",
+                "fr": "Néa Mákri",
+                "hu": "Néa Mákri",
+                "ru": "Неа-Макри"
+            },
+            "place_type": 84,
+            "population": 13986,
+            "latitude": 38.083049,
+            "longitude": 23.97907,
+            "geocell": 4610039,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 279136267,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2292363",
+                "wikipedia_pages": {
+                    "en": "Nea Makri"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286519134,
+            "country": 300,
+            "level1area": [
+                "grj"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Argos",
+                "de": "Argos",
+                "el": "Άργος",
+                "en": "Argos",
+                "et": "Árgos",
+                "eu": "Argos",
+                "fr": "Argos",
+                "hu": "Argosz",
+                "lt": "Argas",
+                "mk": "Аргос",
+                "ml": "ആർഗോസ്",
+                "nl": "Argos",
+                "ru": "Аргос",
+                "sr": "Аргос",
+                "uk": "Аргос"
+            },
+            "place_type": 67,
+            "population": 22209,
+            "latitude": 37.6349668,
+            "longitude": 22.7285084,
+            "geocell": 4595627,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286519134,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "21200"
+                ],
+                "website": "https://newargos.gr/",
+                "wikidata_page_name": "Q189901",
+                "wikipedia_pages": {
+                    "el": "Άργος"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286542728,
+            "country": 300,
+            "level1area": [
+                "grh"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Làmia",
+                "de": "Lamia",
+                "el": "Λαμία",
+                "en": "Lamia",
+                "es": "Lamía",
+                "et": "Lamía",
+                "fi": "Lamia",
+                "fr": "Lamía",
+                "hu": "Lamía",
+                "mk": "Ламија",
+                "ml": "ലാമിയ",
+                "ro": "Lamia",
+                "ru": "Ламия",
+                "sr": "Ламија",
+                "uk": "Ламія"
+            },
+            "place_type": 67,
+            "population": 52006,
+            "latitude": 38.8993832,
+            "longitude": 22.433582,
+            "geocell": 4638824,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286542728,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q192980",
+                "wikipedia_pages": {
+                    "en": "Lamia (city)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 295225609,
+            "country": 300,
+            "level1area": [
+                "grb"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Александрия",
+                "ca": "Alexándreia",
+                "el": "Αλεξάνδρεια",
+                "en": "Alexandreia",
+                "fr": "Alexándreia",
+                "hu": "Alexándria",
+                "mk": "Гида",
+                "ru": "Александрия",
+                "tr": "Rumluk"
+            },
+            "place_type": 67,
+            "population": 15864,
+            "latitude": 40.6279906,
+            "longitude": 22.4448468,
+            "geocell": 4703624,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 295225609,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1014285",
+                "wikipedia_pages": {
+                    "el": "Αλεξάνδρεια Ημαθίας"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 299263482,
+            "country": 300,
+            "level1area": [
+                "gra"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Orestiada",
+                "el": "Ορεστιάδα",
+                "en": "Orestiada",
+                "et": "Orestiáda",
+                "fr": "Orestiada",
+                "hu": "Oresztiáda",
+                "mk": "Кумчифтлии",
+                "ru": "Орестиас",
+                "tr": "Kumçiftliği"
+            },
+            "place_type": 84,
+            "population": 15246,
+            "latitude": 41.5030836,
+            "longitude": 26.5329437,
+            "geocell": 4736065,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 299263482,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q992228",
+                "wikipedia_pages": {
+                    "el": "Ορεστιάδα"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 300808140,
+            "country": 300,
+            "level1area": [
+                "grg"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Ègio",
+                "de": "Egio",
+                "el": "Αίγιο",
+                "en": "Aigio",
+                "eu": "Aigio",
+                "fr": "Egio",
+                "hu": "Éijo",
+                "ml": "ഈജിയോ",
+                "ru": "Эйон",
+                "uk": "Егіо"
+            },
+            "place_type": 67,
+            "population": 21061,
+            "latitude": 38.2505699,
+            "longitude": 22.0852909,
+            "geocell": 4617220,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 300808140,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q212686",
+                "wikipedia_pages": {
+                    "el": "Αίγιο"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 301280236,
+            "country": 300,
+            "level1area": [
+                "grj"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Loutraki",
+                "el": "Λουτράκι",
+                "en": "Loutraki",
+                "fr": "Loutráki",
+                "hu": "Lutráki",
+                "ru": "Лутракион"
+            },
+            "place_type": 84,
+            "population": 11383,
+            "latitude": 37.9743673,
+            "longitude": 22.9777228,
+            "geocell": 4606429,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 301280236,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1850556",
+                "wikipedia_pages": {
+                    "el": "Λουτράκι"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 357914968,
+            "country": 300,
+            "level1area": [
+                "gri"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Aspropyrgos",
+                "el": "Ασπρόπυργος",
+                "en": "Aspropyrgos",
+                "fr": "Asprópyrgos",
+                "hu": "Aszprópirgosz",
+                "ml": "അസ്പ്രോപിർഗോസ്",
+                "ru": "Аспропиргос"
+            },
+            "place_type": 84,
+            "population": 27741,
+            "latitude": 38.058688,
+            "longitude": 23.5888352,
+            "geocell": 4610035,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 357914968,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2087513",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 357915480,
+            "country": 300,
+            "level1area": [
+                "gri"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Mandra",
+                "el": "Μάνδρα",
+                "fr": "Mandra",
+                "hu": "Mándra",
+                "ml": "മാണ്ട്ര",
+                "ru": "Мандра"
+            },
+            "place_type": 84,
+            "population": 10947,
+            "latitude": 38.0747896,
+            "longitude": 23.4969518,
+            "geocell": 4610034,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 357915480,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q16329065",
+                "wikipedia_pages": {
+                    "el": "Μάνδρα Αττικής"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 357916285,
+            "country": 300,
+            "level1area": [
+                "gri"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Magoula",
+                "el": "Μαγούλα",
+                "en": "Magoula",
+                "fr": "Magoula",
+                "ml": "മഗൂല"
+            },
+            "place_type": 84,
+            "population": 10947,
+            "latitude": 38.0791202,
+            "longitude": 23.5217004,
+            "geocell": 4610035,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 357916285,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1135222",
+                "wikipedia_pages": {
+                    "el": "Μαγούλα Αττικής"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 358786193,
+            "country": 300,
+            "level1area": [
+                "gri"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Καλύβια Θορικού",
+                "fr": "Kalývia Thorikoú",
+                "hu": "Kalívia Thorikú",
+                "ru": "Каливия-Торику"
+            },
+            "place_type": 84,
+            "population": 12202,
+            "latitude": 37.8394442,
+            "longitude": 23.9281669,
+            "geocell": 4602839,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 358786193,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2338679",
+                "wikipedia_pages": {
+                    "el": "Καλύβια Θορικού"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 358796157,
+            "country": 300,
+            "level1area": [
+                "gri"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Artemida",
+                "el": "Αρτέμιδα",
+                "en": "Artemida",
+                "fr": "Artémida",
+                "hu": "Artémida",
+                "ml": "ആർട്ടിമിഡ"
+            },
+            "place_type": 84,
+            "population": 17391,
+            "latitude": 37.9741958,
+            "longitude": 24.0091361,
+            "geocell": 4606440,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 358796157,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q706587",
+                "wikipedia_pages": {
+                    "el": "Αρτέμιδα Αττικής"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 416862341,
+            "country": 300,
+            "level1area": [
+                "grl"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Ермуполи",
+                "ca": "Hermúpolis",
+                "cs": "Ermupoli",
+                "el": "Ερμούπολη",
+                "en": "Ermoupoli",
+                "es": "Ermúpoli",
+                "et": "Ermoúpoli",
+                "fr": "Ermoúpoli",
+                "hr": "Ermoupolis",
+                "hu": "Ermúpoli",
+                "id": "Ermoupoli",
+                "it": "Ermopoli",
+                "ja": "エルムポリ",
+                "ko": "에르무폴리",
+                "lt": "Ermupolis",
+                "ml": "എർമൂപോളി",
+                "nl": "Ermoupoli",
+                "nn": "Ermoúpoli",
+                "pl": "Ermupoli",
+                "pt": "Hermópolis",
+                "ro": "Ermoupolis",
+                "ru": "Эрмуполис",
+                "sr": "Ермуполи",
+                "sv": "Ermoupoli",
+                "tr": "Hermupolis",
+                "uk": "Ермуполіс"
+            },
+            "place_type": 84,
+            "population": 11407,
+            "latitude": 37.444567,
+            "longitude": 24.9423162,
+            "geocell": 4588449,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 416862341,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q210087",
+                "wikipedia_pages": {
+                    "el": "Ερμούπολη"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 660967246,
+            "country": 300,
+            "level1area": [
+                "gri"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Παιανία",
+                "en": "Paiania",
+                "fr": "Péania",
+                "ml": "പെയാനിയ",
+                "ru": "Пеания"
+            },
+            "place_type": 84,
+            "population": 10295,
+            "latitude": 37.9537116,
+            "longitude": 23.8523932,
+            "geocell": 4606438,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 660967246,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1236193",
+                "wikipedia_pages": {
+                    "el": "Παιανία"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1584055372,
+            "country": 300,
+            "level1area": [
+                "grg"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Agrínio",
+                "de": "Agrinio",
+                "el": "Αγρίνιο",
+                "en": "Agrinio",
+                "et": "Agrínio",
+                "eu": "Agrinio",
+                "fr": "Agrinio",
+                "hr": "Agrinio",
+                "hu": "Agrínio",
+                "lt": "Agrinijas",
+                "mk": "Агринио",
+                "ml": "അഗ്രിനിയോ",
+                "ru": "Агринион",
+                "sr": "Агринион",
+                "uk": "Агрініо"
+            },
+            "place_type": 67,
+            "population": 54253,
+            "latitude": 38.6248275,
+            "longitude": 21.4094206,
+            "geocell": 4631614,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1584055372,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q396807",
+                "wikipedia_pages": {
+                    "el": "Αγρίνιο"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1606160775,
+            "country": 300,
+            "level1area": [
+                "grk"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Mitilene",
+                "de": "Mytilini",
+                "el": "Μυτιλήνη",
+                "en": "Mytilene",
+                "es": "Mitilene",
+                "fr": "Mytilène",
+                "it": "Mitilene",
+                "lt": "Mitilėnė",
+                "mk": "Митилена",
+                "ml": "മിറ്റിലിനി",
+                "pt": "Mitilene",
+                "ro": "Mytilene",
+                "ru": "Митилини",
+                "sk": "Mytilény",
+                "tr": "Midilli",
+                "uk": "Мітилена"
+            },
+            "place_type": 67,
+            "population": 36163,
+            "latitude": 39.1037355,
+            "longitude": 26.554788,
+            "geocell": 4649665,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1606160775,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q189059",
+                "wikipedia_pages": {
+                    "el": "Μυτιλήνη"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1827940532,
+            "country": 300,
+            "level1area": [
+                "grf"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كورفو",
+                "ca": "Corfú",
+                "cs": "Korfu",
+                "da": "Korfu",
+                "de": "Korfu",
+                "el": "Κέρκυρα",
+                "en": "Corfu",
+                "es": "Corfú",
+                "et": "Kérkyra",
+                "fi": "Korfu",
+                "fr": "Corfou",
+                "hu": "Korfu",
+                "it": "Corfù",
+                "lt": "Kerkyra",
+                "mk": "Крф",
+                "ml": "കോർഫു",
+                "nl": "Korfoe",
+                "pl": "Korfu",
+                "pt": "Corfu",
+                "ro": "Corfu",
+                "ru": "Корфу",
+                "sk": "Korfu",
+                "sq": "Korfuz",
+                "sr": "Крф",
+                "sv": "Korfu",
+                "tr": "Körfüz",
+                "uk": "Керкіра"
+            },
+            "place_type": 67,
+            "population": 39487,
+            "latitude": 39.6217347,
+            "longitude": 19.9180908,
+            "geocell": 4667599,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1827940532,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q205832",
+                "wikipedia_pages": {
+                    "el": "Κέρκυρα (πόλη)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1833523007,
+            "country": 300,
+            "level1area": [
+                "grb"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Περαία",
+                "mk": "Хаџи Бали"
+            },
+            "place_type": 67,
+            "population": 18326,
+            "latitude": 40.5026552,
+            "longitude": 22.9262363,
+            "geocell": 4700029,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1833523007,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3554474",
+                "wikipedia_pages": {
+                    "el": "Περαία"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1834381643,
+            "country": 300,
+            "level1area": [
+                "grb"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Бер",
+                "de": "Veria",
+                "el": "Βέροια",
+                "en": "Veria",
+                "es": "Véria",
+                "et": "Véroia",
+                "eu": "Veria",
+                "fr": "Véria",
+                "hu": "Veria",
+                "it": "Veria",
+                "lt": "Verija",
+                "mk": "Бер",
+                "ml": "വേറിയ",
+                "pt": "Véria",
+                "ro": "Veria",
+                "ru": "Верия",
+                "sr": "Бер",
+                "tr": "Karaferye",
+                "uk": "Верія"
+            },
+            "place_type": 67,
+            "population": 42794,
+            "latitude": 40.5215342,
+            "longitude": 22.2036834,
+            "geocell": 4700022,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1834381643,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q201722",
+                "wikipedia_pages": {
+                    "el": "Βέροια"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1842633752,
+            "country": 300,
+            "level1area": [
+                "grl"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Πόθια",
+                "en": "Pothia",
+                "it": "Pothia",
+                "ru": "Потия",
+                "tr": "Kelemez"
+            },
+            "place_type": 84,
+            "population": 12324,
+            "latitude": 36.9515787,
+            "longitude": 26.9820732,
+            "geocell": 4570469,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1842633752,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2120402",
+                "wikipedia_pages": {
+                    "el": "Πόθια"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1854259941,
+            "country": 300,
+            "level1area": [
+                "gri"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Σαλαμίνα",
+                "en": "Salamina",
+                "fr": "Salamine",
+                "hu": "Szalamína",
+                "ru": "Саламин"
+            },
+            "place_type": 84,
+            "population": 25730,
+            "latitude": 37.9654391,
+            "longitude": 23.493022,
+            "geocell": 4606434,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1854259941,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3500883",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1907438353,
+            "country": 300,
+            "level1area": [
+                "grh"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Χαλκίδα",
+                "en": "Chalkida",
+                "et": "Chalkída",
+                "fr": "Chalcis",
+                "hu": "Chalcis",
+                "lt": "Chalkidė",
+                "mk": "Халкида",
+                "ml": "ഖൽക്കീഡ",
+                "ru": "Халкис",
+                "sk": "Chalkida",
+                "sr": "Халкида",
+                "tr": "Halkida",
+                "uk": "Халкіда"
+            },
+            "place_type": 67,
+            "population": 59125,
+            "latitude": 38.4623664,
+            "longitude": 23.5946877,
+            "geocell": 4624435,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1907438353,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q200133",
+                "wikipedia_pages": {
+                    "el": "Χαλκίδα"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2189143339,
+            "country": 300,
+            "level1area": [
+                "grd"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Arta",
+                "de": "Arta",
+                "el": "Άρτα",
+                "en": "Arta",
+                "et": "Árta",
+                "eu": "Arta",
+                "fr": "Árta",
+                "hu": "Arta",
+                "mk": "Aрта",
+                "ml": "ആർട്ട",
+                "ru": "Арта",
+                "sq": "Nartë",
+                "tr": "Narda",
+                "uk": "Арта"
+            },
+            "place_type": 67,
+            "population": 19435,
+            "latitude": 39.1613205,
+            "longitude": 20.986264,
+            "geocell": 4649609,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2189143339,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q208573",
+                "wikipedia_pages": {
+                    "el": "Άρτα"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2329456592,
+            "country": 300,
+            "level1area": [
+                "grm"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Vasilies",
+                "el": "Βασιλειές",
+                "en": "Vasilies",
+                "ru": "Василиес"
+            },
+            "place_type": 86,
+            "population": 16662,
+            "latitude": 35.2715083,
+            "longitude": 25.1364081,
+            "geocell": 4509251,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2329456592,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q12230119",
+                "wikipedia_pages": {
+                    "el": "Βασιλείες Ηρακλείου"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2370546748,
+            "country": 300,
+            "level1area": [
+                "grk"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Quios",
+                "de": "Chios",
+                "el": "Χίος",
+                "en": "Chios",
+                "hu": "Híosz",
+                "ml": "ഖിയോസ്",
+                "ru": "Хиос",
+                "tr": "Sakız"
+            },
+            "place_type": 84,
+            "population": 23779,
+            "latitude": 38.3722387,
+            "longitude": 26.132979,
+            "geocell": 4620861,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2370546748,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.chioscity.gr/",
+                "wikidata_page_name": "Q748832",
+                "wikipedia_pages": {
+                    "en": "Chios (town)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5104716934,
+            "country": 300,
+            "level1area": [
+                "grm"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Νέα Αλικαρνασσός",
+                "en": "Nea Alikarnassos",
+                "fr": "Nouvelle-Halicarnasse",
+                "hu": "Néa Alikarnaszósz"
+            },
+            "place_type": 84,
+            "population": 12925,
+            "latitude": 35.3420927,
+            "longitude": 25.1579088,
+            "geocell": 4512851,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5104716934,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1021602",
+                "wikipedia_pages": {
+                    "el": "Νέα Αλικαρνασσός Ηρακλείου"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5142797413,
+            "country": 300,
+            "level1area": [
+                "grm"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "إيرابترا",
+                "de": "Ierapetra",
+                "el": "Ιεράπετρα",
+                "en": "Ierapetra",
+                "fr": "Ierápetra",
+                "hu": "Jerápetra",
+                "ja": "イエラペトラ",
+                "ml": "യെരാപെട്ര",
+                "ru": "Иерапетра",
+                "tr": "Yerapetre"
+            },
+            "place_type": 84,
+            "population": 12355,
+            "latitude": 35.0080938,
+            "longitude": 25.7391169,
+            "geocell": 4502057,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5142797413,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q938412",
+                "wikipedia_pages": {
+                    "el": "Ιεράπετρα"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5262444770,
+            "country": 300,
+            "level1area": [
+                "grm"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Agios Nikolaos",
+                "el": "Άγιος Νικόλαος",
+                "en": "Agios Nikolaos",
+                "fr": "Agios Nikolaos",
+                "hu": "Ájiosz Nikólaosz",
+                "ml": "ആഗിയോസ് നിക്കോളാവോസ്",
+                "pl": "Ajos Nikolaos",
+                "ru": "Айос-Николаос",
+                "uk": "Айос-Ніколаос"
+            },
+            "place_type": 84,
+            "population": 11421,
+            "latitude": 35.1905899,
+            "longitude": 25.7175216,
+            "geocell": 4505657,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5262444770,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q211463",
+                "wikipedia_pages": {
+                    "el": "Άγιος Νικόλαος Λασιθίου"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 10089762437,
+            "country": 300,
+            "level1area": [
+                "gra"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Gjumjurdžina",
+                "de": "Komotini",
+                "el": "Κομοτηνή",
+                "en": "Komotini",
+                "mk": "Ѓумурџина",
+                "ml": "കൊമോട്ടിനി",
+                "ro": "Komotini",
+                "ru": "Комотини",
+                "tr": "Gümülcine",
+                "uk": "Комотіні"
+            },
+            "place_type": 67,
+            "population": 50990,
+            "latitude": 41.1182,
+            "longitude": 25.4035708,
+            "geocell": 4721654,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 10089762437,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://komotini.gr",
+                "wikidata_page_name": "Q208403",
+                "wikipedia_pages": {
+                    "el": "Κομοτηνή"
+                }
+            }
+        }
+    }
+]

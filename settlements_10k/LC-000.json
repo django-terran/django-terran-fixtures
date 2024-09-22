@@ -1,0 +1,86 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3994579959,
+            "country": 662,
+            "level1area": [
+                "lc06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Gros Islet",
+                "fr": "Gros Îlet"
+            },
+            "place_type": 84,
+            "population": 21660,
+            "latitude": 14.0801333,
+            "longitude": -60.9524988,
+            "geocell": 3745190,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3994579959,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3116994",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4428259435,
+            "country": 662,
+            "level1area": [
+                "lc02"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كاستريس",
+                "az": "Kastris",
+                "be": "Кастры",
+                "bg": "Кастрийс",
+                "br": "Castries",
+                "el": "Κάστρις",
+                "en": "Castries",
+                "es": "Castries",
+                "fa": "کاستریس",
+                "fr": "Castries",
+                "fy": "Kastrys",
+                "he": "קסטריז",
+                "hu": "Castries",
+                "ja": "カストリーズ",
+                "ka": "კასტრი",
+                "ko": "캐스트리스",
+                "lt": "Kastris",
+                "lv": "Kastri",
+                "mk": "Кастри",
+                "mr": "कॅस्ट्रीझ",
+                "pl": "Castries",
+                "ru": "Кастри",
+                "sr": "Кастри",
+                "sv": "Castries",
+                "ta": "காஸ்ட்ரீஸ்",
+                "th": "แคสตรีส์",
+                "uk": "Кастрі",
+                "ur": "کاستریس"
+            },
+            "place_type": 84,
+            "population": 22000,
+            "latitude": 14.0095966,
+            "longitude": -60.9902359,
+            "geocell": 3745190,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4428259435,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q41699",
+                "wikipedia_pages": {
+                    "en": "Castries"
+                }
+            }
+        }
+    }
+]

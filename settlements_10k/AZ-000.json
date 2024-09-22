@@ -1,0 +1,3160 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 171513871,
+            "country": 31,
+            "level1area": [
+                "aznx"
+            ],
+            "level2area": [
+                "aznv"
+            ],
+            "names": {
+                "ar": "نخجوان",
+                "az": "Naxçıvan",
+                "be": "Нахічэвань",
+                "bg": "Нахичеван",
+                "ckb": "نەخچیڤان",
+                "cs": "Nachičevan",
+                "de": "Nachitschewan",
+                "en": "Nakhchivan",
+                "es": "Najicheván",
+                "fa": "نخجوان",
+                "fr": "Nakhitchevan",
+                "hi": "नखचिवान",
+                "hr": "Nahičevan",
+                "hy": "Նախիջևան",
+                "ja": "ナヒチェヴァン",
+                "ka": "ნახიჩევანი",
+                "kk": "Нахшыван",
+                "ky": "Нахичеван",
+                "ml": "നഖ്ചിവാൻ",
+                "nl": "Nachitsjevan",
+                "pl": "Nachiczewan",
+                "ru": "Нахичевань",
+                "sk": "Nachičevan",
+                "sr": "Нахчиван",
+                "tg": "Нахҷувон",
+                "tr": "Nahçıvan",
+                "tt": "Нахчыван",
+                "uk": "Нахічевань",
+                "ur": "ناخچیوان"
+            },
+            "place_type": 67,
+            "population": 81400,
+            "latitude": 39.217497,
+            "longitude": 45.4069671,
+            "geocell": 4653454,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 171513871,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q230104",
+                "wikipedia_pages": {
+                    "az": "Naxçıvan"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 172794981,
+            "country": 31,
+            "level1area": [
+                "aznx"
+            ],
+            "level2area": [
+                "azcul"
+            ],
+            "names": {
+                "az": "Culfa",
+                "cs": "Džulfa",
+                "en": "Julfa",
+                "fa": "جلفا",
+                "hy": "Ջուղա",
+                "ja": "ジュルファ",
+                "ml": "ജുൽഫ",
+                "pl": "Dżulfa",
+                "ru": "Джульфа"
+            },
+            "place_type": 84,
+            "population": 13500,
+            "latitude": 38.9540587,
+            "longitude": 45.6270343,
+            "geocell": 4642656,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 172794981,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 183122494,
+            "country": 31,
+            "level1area": [
+                "azskr"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "شمكير",
+                "az": "Şəmkir",
+                "de": "Şəmkir",
+                "en": "Shamkir",
+                "es": "Shamkir",
+                "fa": "شمکور",
+                "fr": "Şəmkir",
+                "ja": "シャムキル",
+                "ka": "შამქორი",
+                "ml": "ഷംകിർ",
+                "ru": "Шамкир",
+                "uk": "Шамкір",
+                "ur": "شمخور"
+            },
+            "place_type": 67,
+            "population": 44100,
+            "latitude": 40.8357964,
+            "longitude": 46.0246224,
+            "geocell": 4711060,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 183122494,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q390783",
+                "wikipedia_pages": {
+                    "tr": "Şemkir"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 183345861,
+            "country": 31,
+            "level1area": [
+                "azga"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كنجه",
+                "az": "Gəncə",
+                "de": "Gandscha",
+                "en": "Ganja",
+                "es": "Ganyá",
+                "fr": "Gəncə",
+                "hi": "गांजा",
+                "hy": "Գանձակ",
+                "ja": "ギャンジャ",
+                "lt": "Gendžė",
+                "ml": "ഗഞ്ച",
+                "pl": "Gandża",
+                "ru": "Гянджа",
+                "tr": "Gence",
+                "uk": "Ґанджа"
+            },
+            "place_type": 67,
+            "population": 335800,
+            "latitude": 40.6798083,
+            "longitude": 46.3597178,
+            "geocell": 4703863,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 183345861,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q131290",
+                "wikipedia_pages": {
+                    "en": "Ganja, Azerbaijan"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 184600213,
+            "country": 31,
+            "level1area": [
+                "aztov"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "تووز",
+                "az": "Tovuz",
+                "de": "Tovuz",
+                "en": "Tovuz",
+                "es": "Tovuz",
+                "fa": "تووز",
+                "fr": "Tovuz",
+                "ja": "トヴズ",
+                "ka": "თოვუზი",
+                "ml": "ടോവുസ്",
+                "ru": "Товуз",
+                "uk": "Товуз",
+                "ur": "تووز"
+            },
+            "place_type": 67,
+            "population": 14200,
+            "latitude": 40.992505,
+            "longitude": 45.6159428,
+            "geocell": 4714656,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 184600213,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1026084",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 184640403,
+            "country": 31,
+            "level1area": [
+                "azqaz"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Qazax",
+                "en": "Gazakh",
+                "ka": "ყაზახი",
+                "ml": "ഖസാക്ക്",
+                "ru": "Газах"
+            },
+            "place_type": 84,
+            "population": 22000,
+            "latitude": 41.0911532,
+            "longitude": 45.361029,
+            "geocell": 4718253,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 184640403,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q586758",
+                "wikipedia_pages": {
+                    "en": "Qazax"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 226791840,
+            "country": 31,
+            "level1area": [
+                "azsmi"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Şamaxı",
+                "en": "Shamakhi",
+                "hi": "शामाखी",
+                "ja": "シャマフ",
+                "ml": "ഷമാഖി",
+                "ru": "Шемаха",
+                "uk": "Шамахи"
+            },
+            "place_type": 84,
+            "population": 41000,
+            "latitude": 40.6338603,
+            "longitude": 48.6382239,
+            "geocell": 4703886,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 226791840,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q388224",
+                "wikipedia_pages": {
+                    "az": "Şamaxı"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 226938372,
+            "country": 31,
+            "level1area": [
+                "azsr"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Şirvan",
+                "en": "Shirvan",
+                "fa": "شیروان",
+                "ja": "シルヴァーン",
+                "ml": "ശിർവാൻ",
+                "pl": "Szyrwan",
+                "ru": "Ширван"
+            },
+            "place_type": 84,
+            "population": 82800,
+            "latitude": 39.9549667,
+            "longitude": 48.9455904,
+            "geocell": 4678689,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 226938372,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q8082545",
+                "wikipedia_pages": {
+                    "az": "Şirvan (Şamaxı)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 227052744,
+            "country": 31,
+            "level1area": [
+                "azmi"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "مينغاشوير",
+                "az": "Mingəçevir",
+                "de": "Mingəçevir",
+                "en": "Mingachevir",
+                "es": "Mingachevir",
+                "fa": "مینگه‌چویر",
+                "fr": "Mingachevir",
+                "ja": "ミンギャチェヴィル",
+                "lt": "Mingečevyras",
+                "ml": "മിംഗചെവിർ",
+                "pl": "Mingeczaur",
+                "ru": "Мингечевир",
+                "uk": "Мінгечаур",
+                "ur": "منگچویر"
+            },
+            "place_type": 67,
+            "population": 102400,
+            "latitude": 40.7646918,
+            "longitude": 47.052389,
+            "geocell": 4707470,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 227052744,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q230932",
+                "wikipedia_pages": {
+                    "ru": "Мингечевир"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 227109482,
+            "country": 31,
+            "level1area": [
+                "azsa"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "شكي",
+                "az": "Şəki",
+                "de": "Şəki",
+                "en": "Sheki",
+                "es": "Şəki",
+                "fr": "Şəki",
+                "hi": "शेकी",
+                "ja": "シャキ",
+                "ka": "შაქი",
+                "ml": "ഷാക്കി",
+                "ru": "Шеки",
+                "uk": "Шекі",
+                "ur": "شکی"
+            },
+            "place_type": 67,
+            "population": 65800,
+            "latitude": 41.2033609,
+            "longitude": 47.1802623,
+            "geocell": 4725471,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 227109482,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q234783",
+                "wikipedia_pages": {
+                    "en": "Shaki, Azerbaijan"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 227127401,
+            "country": 31,
+            "level1area": [
+                "azye"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Yevlax",
+                "en": "Yevlakh",
+                "ja": "イェヴラフ",
+                "lt": "Jevlachas",
+                "ml": "യെവ്ലഖ്",
+                "ru": "Евлах",
+                "uk": "Євлах"
+            },
+            "place_type": 67,
+            "population": 63100,
+            "latitude": 40.6111615,
+            "longitude": 47.1479948,
+            "geocell": 4703871,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 227127401,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q175459",
+                "wikipedia_pages": {
+                    "az": "Yevlax"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 228290010,
+            "country": 31,
+            "level1area": [
+                "azagu"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Ağsu",
+                "ja": "アグス",
+                "ru": "Ахсу"
+            },
+            "place_type": 84,
+            "population": 22300,
+            "latitude": 40.5680452,
+            "longitude": 48.3944412,
+            "geocell": 4700283,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 228290010,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 228300327,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Qobustan",
+                "en": "Gobustan",
+                "ja": "コブスタン",
+                "ml": "ഗോബുസ്ഥാൻ",
+                "ru": "Гобустан"
+            },
+            "place_type": 84,
+            "population": 16000,
+            "latitude": 40.0826777,
+            "longitude": 49.4120821,
+            "geocell": 4682294,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 228300327,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q685724",
+                "wikipedia_pages": {
+                    "az": "Qobustan (Qaradağ)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 229481406,
+            "country": 31,
+            "level1area": [
+                "azuca"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Ucar",
+                "ja": "ウジャル",
+                "ru": "Уджар"
+            },
+            "place_type": 84,
+            "population": 18300,
+            "latitude": 40.5185386,
+            "longitude": 47.6487809,
+            "geocell": 4700276,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 229481406,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q646809",
+                "wikipedia_pages": {
+                    "ru": "Уджар"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 229485648,
+            "country": 31,
+            "level1area": [
+                "azkur"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Kürdəmir",
+                "en": "Kurdamir",
+                "ja": "キュルダミル",
+                "ml": "കുർദാമിർ",
+                "ru": "Кюрдамир"
+            },
+            "place_type": 84,
+            "population": 19300,
+            "latitude": 40.3455247,
+            "longitude": 48.1488951,
+            "geocell": 4693081,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 229485648,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1851063",
+                "wikipedia_pages": {
+                    "en": "Kurdamir"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 229488461,
+            "country": 31,
+            "level1area": [
+                "azgoy"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Göyçay",
+                "en": "Goychay",
+                "ja": "ギョイチャイ",
+                "ml": "ഗോയ്ചയ്",
+                "ru": "Гёйчай",
+                "uk": "Ґейчай"
+            },
+            "place_type": 84,
+            "population": 37300,
+            "latitude": 40.6494415,
+            "longitude": 47.7412208,
+            "geocell": 4703877,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 229488461,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1822209",
+                "wikipedia_pages": {
+                    "en": "Goychay (city)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 229492717,
+            "country": 31,
+            "level1area": [
+                "azhac"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Hacıqabul",
+                "en": "Hajibagul",
+                "ja": "ハジュガブル",
+                "ru": "Аджыгабул"
+            },
+            "place_type": 84,
+            "population": 27400,
+            "latitude": 40.0286557,
+            "longitude": 48.9350797,
+            "geocell": 4682289,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 229492717,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 229499571,
+            "country": 31,
+            "level1area": [
+                "azgad"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Gədəbəy",
+                "en": "Gadabay",
+                "ja": "ガダバイ",
+                "ru": "Кедабек",
+                "uk": "Ґадебей"
+            },
+            "place_type": 84,
+            "population": 11700,
+            "latitude": 40.573901,
+            "longitude": 45.8138795,
+            "geocell": 4700258,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 229499571,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2352160",
+                "wikipedia_pages": {
+                    "az": "Gədəbəy"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 229503490,
+            "country": 31,
+            "level1area": [
+                "azgyg"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Göygöl",
+                "de": "Goygol",
+                "ja": "ゴイゴル",
+                "ru": "Гёйгёль",
+                "uk": "Гейгель"
+            },
+            "place_type": 84,
+            "population": 18200,
+            "latitude": 40.5837549,
+            "longitude": 46.3169375,
+            "geocell": 4700263,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 229503490,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 229639771,
+            "country": 31,
+            "level1area": [
+                "azbar"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بردعة",
+                "az": "Bərdə",
+                "de": "Bərdə",
+                "en": "Barda",
+                "es": "Bərdə",
+                "fa": "بردع",
+                "fr": "Barda",
+                "ja": "バルダ",
+                "ml": "ബർദ",
+                "ru": "Барда",
+                "uk": "Барда",
+                "ur": "بردع"
+            },
+            "place_type": 67,
+            "population": 40300,
+            "latitude": 40.3812457,
+            "longitude": 47.1246287,
+            "geocell": 4693071,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 229639771,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q842869",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 229673181,
+            "country": 31,
+            "level1area": [
+                "azagc"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Ağcabədi",
+                "en": "Aghjabadi",
+                "hy": "Բեղամէջ",
+                "ja": "アグジャバディ",
+                "ml": "അഗ്ജബദി",
+                "ru": "Агджабеди",
+                "tr": "Ağcabadi"
+            },
+            "place_type": 84,
+            "population": 41400,
+            "latitude": 40.050544,
+            "longitude": 47.4607462,
+            "geocell": 4682274,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 229673181,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1983875",
+                "wikipedia_pages": {
+                    "ru": "Агджабеди"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 229679563,
+            "country": 31,
+            "level1area": [
+                "azzar"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Zərdab",
+                "en": "Zardab",
+                "ja": "ザルダブ",
+                "ml": "സർദാബ്",
+                "ru": "Зардоб",
+                "tr": "Zerdab"
+            },
+            "place_type": 84,
+            "population": 11320,
+            "latitude": 40.2196441,
+            "longitude": 47.7086766,
+            "geocell": 4689477,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 229679563,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q747796",
+                "wikipedia_pages": {
+                    "tr": "Zerdab"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 229697540,
+            "country": 31,
+            "level1area": [
+                "azsab"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "صابر آباد",
+                "az": "Sabirabad",
+                "be": "Сабірабад",
+                "bg": "Сабирабад",
+                "de": "Sabirabad",
+                "en": "Sabirabad",
+                "es": "Sabirabad",
+                "fa": "صابرآباد",
+                "fr": "Sabirabad",
+                "hsb": "Sabirabad",
+                "hy": "Սաբիրաբադ",
+                "ja": "サビラバド",
+                "mk": "Сабирабад",
+                "ml": "സാബിരാബാദ്",
+                "os": "Сабирабад",
+                "ru": "Сабирабад",
+                "sr": "Сабирабад",
+                "tg": "Собиробод",
+                "tt": "Сабирабад",
+                "uk": "Сабірабад",
+                "ur": "صابر آباد"
+            },
+            "place_type": 67,
+            "population": 30800,
+            "latitude": 40.008006,
+            "longitude": 48.475032,
+            "geocell": 4682284,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 229697540,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2148635",
+                "wikipedia_pages": {
+                    "az": "azb:صابیراباد"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 229699967,
+            "country": 31,
+            "level1area": [
+                "azsat"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Saatlı",
+                "en": "Saatly",
+                "ja": "サアトル",
+                "ru": "Саатлы"
+            },
+            "place_type": 84,
+            "population": 20300,
+            "latitude": 39.9376009,
+            "longitude": 48.3689097,
+            "geocell": 4678683,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 229699967,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1993517",
+                "wikipedia_pages": {
+                    "az": "Saatlı"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 230964856,
+            "country": 31,
+            "level1area": [
+                "azsal"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Səlyan",
+                "en": "Salyan",
+                "ja": "サリヤン",
+                "ru": "Салян"
+            },
+            "place_type": 84,
+            "population": 38900,
+            "latitude": 39.5990891,
+            "longitude": 48.9831723,
+            "geocell": 4664289,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 230964856,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 231332430,
+            "country": 31,
+            "level1area": [
+                "aznef"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "نفطجاله",
+                "az": "Neftçala",
+                "de": "Neftçala",
+                "en": "Neftchala",
+                "es": "Neftçala",
+                "fa": "نفت چاله",
+                "fr": "Neftçala",
+                "hi": "नेफ्तचाला",
+                "ja": "ネフトチャラ",
+                "ml": "നെഫ്ത്ചാല",
+                "ru": "Нефтечала",
+                "uk": "Нефтчала"
+            },
+            "place_type": 67,
+            "population": 22100,
+            "latitude": 39.3790532,
+            "longitude": 49.248607,
+            "geocell": 4657092,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 231332430,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2087800",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 231379524,
+            "country": 31,
+            "level1area": [
+                "azbil"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بيلاسوار",
+                "az": "Biləsuvar",
+                "de": "Biləsuvar",
+                "en": "Biləsuvar",
+                "es": "Biləsuvar",
+                "fr": "Biləsuvar",
+                "ja": "ビラスヴァル",
+                "ml": "ബിലാസുവർ",
+                "ru": "Билясувар",
+                "uk": "Білясувар"
+            },
+            "place_type": 67,
+            "population": 23500,
+            "latitude": 39.4561281,
+            "longitude": 48.5465607,
+            "geocell": 4660685,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 231379524,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2043938",
+                "wikipedia_pages": {
+                    "tr": "Bilesuvar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 231405163,
+            "country": 31,
+            "level1area": [
+                "azcal"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "جليل‌ آباد",
+                "az": "Cəlilabad",
+                "be": "Джалілабад",
+                "de": "Cəlilabad",
+                "en": "Jalilabad",
+                "es": "Yalilabad",
+                "fa": "جلیل‌آباد",
+                "fr": "Cəlilabad",
+                "hy": "Ջալիլաբադ",
+                "ja": "ジャリラバド",
+                "ml": "ജലീലാബാദ്",
+                "ru": "Джалилабад",
+                "tg": "Ҷалилобод",
+                "tt": "Җәлилабад",
+                "uk": "Джалілабад",
+                "ur": "جلیل آباد"
+            },
+            "place_type": 67,
+            "population": 47400,
+            "latitude": 39.2103933,
+            "longitude": 48.5050593,
+            "geocell": 4653485,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 231405163,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1020627",
+                "wikipedia_pages": {
+                    "az": "Cəlilabad"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 231418623,
+            "country": 31,
+            "level1area": [
+                "azmas"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Masallı",
+                "en": "Masally",
+                "ja": "マサッル",
+                "ru": "Масаллы"
+            },
+            "place_type": 84,
+            "population": 26700,
+            "latitude": 39.0322111,
+            "longitude": 48.6721093,
+            "geocell": 4646286,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 231418623,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q512116",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 231540379,
+            "country": 31,
+            "level1area": [
+                "azla"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "لنكران",
+                "az": "Lənkəran",
+                "de": "Lənkəran",
+                "en": "Lankaran",
+                "es": "Lankaran",
+                "fr": "Lankaran",
+                "hi": "लंकाराण",
+                "ja": "レンキャラン",
+                "ml": "ലങ്കരാൻ",
+                "pl": "Lenkoran",
+                "ru": "Ленкорань",
+                "uk": "Ленкорань"
+            },
+            "place_type": 67,
+            "population": 51600,
+            "latitude": 38.7537311,
+            "longitude": 48.8539286,
+            "geocell": 4635488,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 231540379,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q228811",
+                "wikipedia_pages": {
+                    "en": "Lankaran"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 231795671,
+            "country": 31,
+            "level1area": [
+                "azimi"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "إيميشلي",
+                "az": "İmişli",
+                "de": "İmişli",
+                "en": "Imishli",
+                "es": "İmişli",
+                "fa": "ایمیشلی",
+                "fr": "İmişli",
+                "ja": "イミシュリ",
+                "ml": "ഈമിശ്ലി",
+                "ru": "Имишли",
+                "uk": "Імішлі",
+                "ur": "ایمیشلی"
+            },
+            "place_type": 67,
+            "population": 36200,
+            "latitude": 39.8716243,
+            "longitude": 48.0594743,
+            "geocell": 4675080,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 231795671,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1996815",
+                "wikipedia_pages": {
+                    "en": "Imishli (city)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232331884,
+            "country": 31,
+            "level1area": [
+                "azbey"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Beyləqan",
+                "ja": "ベイラガン",
+                "ru": "Бейлаган",
+                "tr": "Beylagan",
+                "uk": "Бейлаган"
+            },
+            "place_type": 84,
+            "population": 18000,
+            "latitude": 39.7671115,
+            "longitude": 47.6153495,
+            "geocell": 4671476,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232331884,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 232351722,
+            "country": 31,
+            "level1area": [
+                "azags"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Ağdaş",
+                "en": "Aghdash",
+                "ja": "アグダシュ",
+                "ru": "Агдаш"
+            },
+            "place_type": 84,
+            "population": 32700,
+            "latitude": 40.6440169,
+            "longitude": 47.4727422,
+            "geocell": 4703874,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 232351722,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 234030668,
+            "country": 31,
+            "level1area": [
+                "azdas"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Yuxarı Daşkəsən",
+                "ru": "Юхары Дашкесан",
+                "uk": "Юхары Дашкесан"
+            },
+            "place_type": 86,
+            "population": 10700,
+            "latitude": 40.4933515,
+            "longitude": 46.0726732,
+            "geocell": 4696660,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 234030668,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 234040855,
+            "country": 31,
+            "level1area": [
+                "aztar"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Tərtər",
+                "en": "Tartar",
+                "hy": "Թարթառ",
+                "ja": "タルタル",
+                "ml": "ടർട്ടർ",
+                "ru": "Тертер",
+                "tr": "Terter"
+            },
+            "place_type": 84,
+            "population": 19900,
+            "latitude": 40.3429739,
+            "longitude": 46.9321023,
+            "geocell": 4693069,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 234040855,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2268790",
+                "wikipedia_pages": {
+                    "az": "Tərtər"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 244311324,
+            "country": 31,
+            "level1area": [
+                "azzaq"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Zaqatala",
+                "ja": "ザガタラ",
+                "ka": "ზაქათალა",
+                "ml": "സഗതല",
+                "ru": "Загатала",
+                "uk": "Заґатала"
+            },
+            "place_type": 84,
+            "population": 21800,
+            "latitude": 41.6307469,
+            "longitude": 46.6435449,
+            "geocell": 4739866,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 244311324,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q147548",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 244311432,
+            "country": 31,
+            "level1area": [
+                "azqba"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "قوبا",
+                "az": "Quba",
+                "en": "Guba",
+                "hi": "क़ुबा",
+                "ja": "グバ",
+                "ml": "ഖുബാ",
+                "ru": "Губа",
+                "tr": "Kuba"
+            },
+            "place_type": 84,
+            "population": 25400,
+            "latitude": 41.3615456,
+            "longitude": 48.5142385,
+            "geocell": 4729085,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 244311432,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q647982",
+                "wikipedia_pages": {
+                    "en": "Quba"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 244311735,
+            "country": 31,
+            "level1area": [
+                "azqab"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Qəbələ",
+                "en": "Gabala",
+                "ja": "カバラ",
+                "ml": "ഖാബാല",
+                "ru": "Габала",
+                "tr": "Gabala"
+            },
+            "place_type": 84,
+            "population": 14100,
+            "latitude": 40.9785932,
+            "longitude": 47.8489094,
+            "geocell": 4714678,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 244311735,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "tr": "Gabala FC"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 244315387,
+            "country": 31,
+            "level1area": [
+                "azqus"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Qusar",
+                "en": "Gusar",
+                "ja": "グサル",
+                "lt": "Kusaras",
+                "ru": "Гусар",
+                "uk": "Ґусар"
+            },
+            "place_type": 84,
+            "population": 18600,
+            "latitude": 41.4303387,
+            "longitude": 48.4327339,
+            "geocell": 4732684,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 244315387,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q145715",
+                "wikipedia_pages": {
+                    "az": "Qusar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 244340354,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Lökbatan",
+                "ru": "Локбатан"
+            },
+            "place_type": 84,
+            "population": 34400,
+            "latitude": 40.3252712,
+            "longitude": 49.7308283,
+            "geocell": 4693097,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 244340354,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2027140",
+                "wikipedia_pages": {
+                    "en": "Lökbatan"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 244370824,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Ələt",
+                "en": "Alat",
+                "hu": "Aljat",
+                "ja": "アリャート",
+                "ml": "അൽയാത്ത്",
+                "ru": "Алят"
+            },
+            "place_type": 84,
+            "population": 12500,
+            "latitude": 39.9477043,
+            "longitude": 49.4066384,
+            "geocell": 4678694,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 244370824,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 244372671,
+            "country": 31,
+            "level1area": [
+                "azabs"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Qobu",
+                "ru": "Гобу"
+            },
+            "place_type": 86,
+            "population": 17400,
+            "latitude": 40.401317,
+            "longitude": 49.7143913,
+            "geocell": 4696697,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 244372671,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 275612382,
+            "country": 31,
+            "level1area": [
+                "azism"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "İsmayıllı",
+                "en": "Ismailli",
+                "ja": "イスマイル",
+                "ml": "ഇസ്മായില്ലി",
+                "ru": "Исмаиллы"
+            },
+            "place_type": 84,
+            "population": 26100,
+            "latitude": 40.788056,
+            "longitude": 48.1485653,
+            "geocell": 4707481,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 275612382,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q344252",
+                "wikipedia_pages": {
+                    "az": "İsmayıllı rayonu"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 339102495,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Binəqədi",
+                "en": "Binagadi",
+                "ru": "Бинагади"
+            },
+            "place_type": 84,
+            "population": 44800,
+            "latitude": 40.4679226,
+            "longitude": 49.828023,
+            "geocell": 4696698,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 339102495,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 886038351,
+            "country": 31,
+            "level1area": [
+                "aztov"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Qovlar",
+                "en": "Govlyar",
+                "ka": "ქოვლარი",
+                "ru": "Говлар",
+                "tr": "Qovlar Şəhəri"
+            },
+            "place_type": 84,
+            "population": 15500,
+            "latitude": 40.9480372,
+            "longitude": 45.7350484,
+            "geocell": 4714657,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 886038351,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1104258889,
+            "country": 31,
+            "level1area": [
+                "azsm"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سومقاييت",
+                "az": "Sumqayıt",
+                "de": "Sumqayit",
+                "en": "Sumgayit",
+                "es": "Sumqayit",
+                "fr": "Sumqayit",
+                "hi": "सुमगायित",
+                "ja": "スムガイト",
+                "ml": "സുംഗായിത്ത്",
+                "pl": "Sumgait",
+                "ru": "Сумгаит",
+                "tr": "Sumgayıt",
+                "uk": "Сумгаїт"
+            },
+            "place_type": 67,
+            "population": 377900,
+            "latitude": 40.5961585,
+            "longitude": 49.6696668,
+            "geocell": 4700296,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1104258889,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q179833",
+                "wikipedia_pages": {
+                    "en": "Sumqayit"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1117022698,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Balaxanı",
+                "ru": "Балаханы"
+            },
+            "place_type": 86,
+            "population": 21400,
+            "latitude": 40.4615983,
+            "longitude": 49.9214189,
+            "geocell": 4696699,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1117022698,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1641136759,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Mərdəkan",
+                "ml": "മർദക്കാൻ",
+                "ru": "Мардакан"
+            },
+            "place_type": 84,
+            "population": 32100,
+            "latitude": 40.4935881,
+            "longitude": 50.1495477,
+            "geocell": 4696701,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1641136759,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1026043",
+                "wikipedia_pages": {
+                    "az": "Mərdəkan"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1849683437,
+            "country": 31,
+            "level1area": [
+                "azsbn"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "شابران",
+                "az": "Şabran",
+                "de": "Şabran",
+                "en": "Shabran",
+                "es": "Şabran",
+                "fr": "Şabran",
+                "hi": "शब्रन",
+                "ja": "シャブラン",
+                "ml": "ഷാബ്രാൻ",
+                "ru": "Шабран",
+                "uk": "Шабран"
+            },
+            "place_type": 67,
+            "population": 25600,
+            "latitude": 41.208437,
+            "longitude": 48.9947028,
+            "geocell": 4725489,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1849683437,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q387971",
+                "wikipedia_pages": {
+                    "en": "Şabran"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1849683441,
+            "country": 31,
+            "level1area": [
+                "azsiy"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Siyəzən",
+                "en": "Siazan",
+                "ru": "Сиазань"
+            },
+            "place_type": 84,
+            "population": 26300,
+            "latitude": 41.075412,
+            "longitude": 49.1129023,
+            "geocell": 4718291,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1849683441,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1017683",
+                "wikipedia_pages": {
+                    "en": "Siyazan"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1880415465,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Pirallahı",
+                "ru": "Пираллахы",
+                "uk": "Піраллаги"
+            },
+            "place_type": 84,
+            "population": 16200,
+            "latitude": 40.4591806,
+            "longitude": 50.3339854,
+            "geocell": 4696703,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1880415465,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1880415468,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Müşfiqabad",
+                "ru": "Мушфигабад"
+            },
+            "place_type": 86,
+            "population": 16190,
+            "latitude": 40.4687491,
+            "longitude": 49.6217908,
+            "geocell": 4696696,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1880415468,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6950599",
+                "wikipedia_pages": {
+                    "en": "Müşviqabad"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1880415470,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Sulutəpə"
+            },
+            "place_type": 86,
+            "population": 23440,
+            "latitude": 40.4293193,
+            "longitude": 49.7670712,
+            "geocell": 4696697,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1880415470,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1885271085,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Suraxanı",
+                "ru": "Сураханы"
+            },
+            "place_type": 86,
+            "population": 210500,
+            "latitude": 40.4200285,
+            "longitude": 50.0018916,
+            "geocell": 4696700,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1885271085,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1885271086,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Əmircan"
+            },
+            "place_type": 86,
+            "population": 30300,
+            "latitude": 40.421975,
+            "longitude": 49.9900707,
+            "geocell": 4696699,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1885271086,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1886282979,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Ramana",
+                "ru": "Рамана"
+            },
+            "place_type": 86,
+            "population": 13000,
+            "latitude": 40.4576396,
+            "longitude": 49.983584,
+            "geocell": 4696699,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1886282979,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1886282980,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Sahil",
+                "ru": "Сахиль"
+            },
+            "place_type": 84,
+            "population": 22200,
+            "latitude": 40.227045,
+            "longitude": 49.5805255,
+            "geocell": 4689495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1886282980,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1886282981,
+            "country": 31,
+            "level1area": [
+                "azabs"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "خردلان",
+                "az": "Xırdalan",
+                "de": "Xırdalan",
+                "en": "Khyrdalan",
+                "es": "Xırdalan",
+                "fa": "خردلان",
+                "fr": "Xırdalan",
+                "ja": "フルダラン",
+                "ml": "ഖിർദലൻ",
+                "ru": "Хырдалан",
+                "uk": "Хирдалан",
+                "ur": "خردالان"
+            },
+            "place_type": 67,
+            "population": 195200,
+            "latitude": 40.4531707,
+            "longitude": 49.7454579,
+            "geocell": 4696697,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1886282981,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://absheron-ih.gov.az/",
+                "wikidata_page_name": "Q642109",
+                "wikipedia_pages": {
+                    "en": "Xırdalan"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1886282982,
+            "country": 31,
+            "level1area": [
+                "azabs"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Masazır",
+                "ru": "Масазыр"
+            },
+            "place_type": 86,
+            "population": 11240,
+            "latitude": 40.471873,
+            "longitude": 49.7552234,
+            "geocell": 4696697,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1886282982,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1887565774,
+            "country": 31,
+            "level1area": [
+                "azxac"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Xudat",
+                "en": "Khudat",
+                "ru": "Худат"
+            },
+            "place_type": 84,
+            "population": 17000,
+            "latitude": 41.6328952,
+            "longitude": 48.6803534,
+            "geocell": 4739886,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1887565774,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2064647688,
+            "country": 31,
+            "level1area": [
+                "azabs"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Mehdiabad",
+                "ru": "Мехтиабад"
+            },
+            "place_type": 86,
+            "population": 20500,
+            "latitude": 40.4962645,
+            "longitude": 49.8497478,
+            "geocell": 4696698,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2064647688,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2117350415,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Bakoe",
+                "ar": "باكو",
+                "ast": "Bakú",
+                "az": "Bakı",
+                "be": "Баку",
+                "bg": "Баку",
+                "bn": "বাকু",
+                "br": "Bakou",
+                "bs": "Baku",
+                "ca": "Bakú",
+                "ckb": "باکوو",
+                "cs": "Baku",
+                "cy": "Baku",
+                "da": "Baku",
+                "de": "Baku",
+                "dsb": "Baku",
+                "el": "Μπακού",
+                "en": "Baku",
+                "eo": "Bakuo",
+                "es": "Bakú",
+                "et": "Bakuu",
+                "eu": "Baku",
+                "fa": "باکو",
+                "fi": "Baku",
+                "fr": "Bakou",
+                "fy": "Bakû",
+                "ga": "Bakı",
+                "gd": "Baku",
+                "gl": "Bakú",
+                "he": "באקו",
+                "hi": "बाकू",
+                "hr": "Baku",
+                "hsb": "Baku",
+                "hu": "Baku",
+                "hy": "Բաքու",
+                "ia": "Baku",
+                "id": "Baku",
+                "io": "Baku",
+                "is": "Bakú",
+                "it": "Baku",
+                "ja": "バクー",
+                "ka": "ბაქო",
+                "kab": "Baku",
+                "kk": "Баку",
+                "kn": "ಬಾಕು",
+                "ko": "바쿠",
+                "ky": "Баку",
+                "lb": "Baku",
+                "lt": "Baku",
+                "lv": "Baku",
+                "mk": "Баку",
+                "ml": "ബാക്കു",
+                "mn": "Баку",
+                "mr": "बाकू",
+                "ms": "Baku",
+                "my": "ဘာကူးမြို့",
+                "ne": "बाकु (राजधानी)",
+                "nl": "Bakoe",
+                "nn": "Baku",
+                "os": "Баку",
+                "pa": "ਬਾਕੂ",
+                "pl": "Baku",
+                "pt": "Baku",
+                "ro": "Baku",
+                "ru": "Баку",
+                "sk": "Baku",
+                "sl": "Baku",
+                "sq": "Baku",
+                "sr": "Баку",
+                "sv": "Baku",
+                "sw": "Baku",
+                "ta": "பாகு",
+                "tg": "Боку",
+                "th": "บากู",
+                "tk": "Baku",
+                "tr": "Bakü",
+                "tt": "Бакы",
+                "udm": "Баку",
+                "ug": "باکو",
+                "uk": "Баку",
+                "ur": "باکو",
+                "uz": "Boku",
+                "vi": "Baku"
+            },
+            "place_type": 67,
+            "population": 2300500,
+            "latitude": 40.3755885,
+            "longitude": 49.8328009,
+            "geocell": 4693098,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2117350415,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://baku-ih.gov.az",
+                "wikidata_page_name": "Q9248",
+                "wikipedia_pages": {
+                    "az": "Bakı"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2564078373,
+            "country": 31,
+            "level1area": [
+                "azabs"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Saray",
+                "ru": "Сарай"
+            },
+            "place_type": 86,
+            "population": 37600,
+            "latitude": 40.5347917,
+            "longitude": 49.7140443,
+            "geocell": 4700297,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2564078373,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2567920965,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Buzovna",
+                "ru": "Бузовна"
+            },
+            "place_type": 86,
+            "population": 34300,
+            "latitude": 40.5222385,
+            "longitude": 50.1029082,
+            "geocell": 4700301,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2567920965,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2567920968,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Şüvəlan",
+                "ru": "Шувелан"
+            },
+            "place_type": 86,
+            "population": 20900,
+            "latitude": 40.4867414,
+            "longitude": 50.1839699,
+            "geocell": 4696701,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2567920968,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2593591503,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Binə",
+                "en": "Bina",
+                "ru": "Бина"
+            },
+            "place_type": 86,
+            "population": 80100,
+            "latitude": 40.4488891,
+            "longitude": 50.0893889,
+            "geocell": 4696700,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2593591503,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2593591504,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Zirə",
+                "en": "Zirya",
+                "ru": "Зиря"
+            },
+            "place_type": 86,
+            "population": 11700,
+            "latitude": 40.3669228,
+            "longitude": 50.290529,
+            "geocell": 4693102,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2593591504,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2593591506,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Türkan",
+                "ru": "Тюркан"
+            },
+            "place_type": 86,
+            "population": 12600,
+            "latitude": 40.3662798,
+            "longitude": 50.2131192,
+            "geocell": 4693102,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2593591506,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2593595832,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Hövsan",
+                "ru": "Говсан"
+            },
+            "place_type": 86,
+            "population": 47500,
+            "latitude": 40.3678904,
+            "longitude": 50.0812596,
+            "geocell": 4693100,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2593595832,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2769037514,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Yeni Suraxanı"
+            },
+            "place_type": 86,
+            "population": 15900,
+            "latitude": 40.4302954,
+            "longitude": 50.0374178,
+            "geocell": 4696700,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2769037514,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2769061352,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Maştağa",
+                "en": "Mastaga",
+                "ru": "Маштага",
+                "tr": "Maştağa"
+            },
+            "place_type": 86,
+            "population": 91400,
+            "latitude": 40.5315618,
+            "longitude": 50.0009549,
+            "geocell": 4700300,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2769061352,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2769061353,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Nardaran",
+                "en": "Nardaran",
+                "ru": "Нардаран"
+            },
+            "place_type": 86,
+            "population": 24100,
+            "latitude": 40.5588769,
+            "longitude": 50.0065319,
+            "geocell": 4700300,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2769061353,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2773322813,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Zabrat qəsəbəsi",
+                "ru": "Забрат"
+            },
+            "place_type": 86,
+            "population": 37800,
+            "latitude": 40.4812238,
+            "longitude": 49.9525772,
+            "geocell": 4696699,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2773322813,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2773420099,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Sabunçu",
+                "ru": "Сабунчи"
+            },
+            "place_type": 86,
+            "population": 25800,
+            "latitude": 40.4481434,
+            "longitude": 49.93389,
+            "geocell": 4696699,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2773420099,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2775724264,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Kürdəxanı",
+                "ru": "Кюрдаханы"
+            },
+            "place_type": 86,
+            "population": 10100,
+            "latitude": 40.5507963,
+            "longitude": 49.9172226,
+            "geocell": 4700299,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2775724264,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2813832545,
+            "country": 31,
+            "level1area": [
+                "azqab"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Vəndam",
+                "ru": "Вандам"
+            },
+            "place_type": 86,
+            "population": 10500,
+            "latitude": 40.9478825,
+            "longitude": 47.9436274,
+            "geocell": 4714679,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2813832545,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2846569988,
+            "country": 31,
+            "level1area": [
+                "azzaq"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Əliabad",
+                "en": "Aliabad",
+                "ka": "ალიაბადი"
+            },
+            "place_type": 86,
+            "population": 11200,
+            "latitude": 41.47917,
+            "longitude": 46.6179399,
+            "geocell": 4732666,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2846569988,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2896493407,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Binə Sovxoz",
+                "ru": "Бина Совхоз"
+            },
+            "place_type": 86,
+            "population": 25790,
+            "latitude": 40.4192197,
+            "longitude": 50.1087759,
+            "geocell": 4696701,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2896493407,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2981640243,
+            "country": 31,
+            "level1area": [
+                "aznx"
+            ],
+            "level2area": [
+                "azbab"
+            ],
+            "names": {
+                "az": "Cəhri",
+                "ru": "Джахри"
+            },
+            "place_type": 86,
+            "population": 10600,
+            "latitude": 39.3491976,
+            "longitude": 45.4138622,
+            "geocell": 4657054,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2981640243,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2983469452,
+            "country": 31,
+            "level1area": [
+                "aznx"
+            ],
+            "level2area": [
+                "azbab"
+            ],
+            "names": {
+                "az": "Nehrəm"
+            },
+            "place_type": 84,
+            "population": 16600,
+            "latitude": 39.1147709,
+            "longitude": 45.4633433,
+            "geocell": 4649854,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2983469452,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3007084420,
+            "country": 31,
+            "level1area": [
+                "azcal"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Göytəpə",
+                "be": "Гёйтэпэ",
+                "en": "Goytepe",
+                "ja": "ギョイテペ",
+                "ru": "Гёйтепе",
+                "sv": "Göjtäpä",
+                "uk": "Ґьойтепе"
+            },
+            "place_type": 84,
+            "population": 15500,
+            "latitude": 39.1197314,
+            "longitude": 48.5951352,
+            "geocell": 4649885,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3007084420,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2656617",
+                "wikipedia_pages": {
+                    "az": "Göytəpə"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3060424307,
+            "country": 31,
+            "level1area": [
+                "azabs"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Hökməli"
+            },
+            "place_type": 86,
+            "population": 17000,
+            "latitude": 40.4308751,
+            "longitude": 49.7372976,
+            "geocell": 4696697,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3060424307,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3129805281,
+            "country": 31,
+            "level1area": [
+                "azxac"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "خاشماز",
+                "az": "Xaçmaz",
+                "de": "Xaçmaz",
+                "en": "Khachmaz",
+                "es": "Xaçmaz",
+                "fa": "خاچماز",
+                "fr": "Khachmaz",
+                "hi": "खाचमज़",
+                "ja": "ハチマズ",
+                "ml": "ഖച്മാസ്",
+                "ru": "Хачмаз",
+                "uk": "Хачмаз",
+                "ur": "خاشماز"
+            },
+            "place_type": 67,
+            "population": 43000,
+            "latitude": 41.4655339,
+            "longitude": 48.8011599,
+            "geocell": 4732688,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3129805281,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1018160",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3129815587,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Bülbülə",
+                "ru": "Бюльбюля"
+            },
+            "place_type": 86,
+            "population": 24800,
+            "latitude": 40.4325375,
+            "longitude": 49.9781541,
+            "geocell": 4696699,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3129815587,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3133934972,
+            "country": 31,
+            "level1area": [
+                "azmas"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Ərkivan",
+                "ru": "Аркиван"
+            },
+            "place_type": 86,
+            "population": 18100,
+            "latitude": 39.0156083,
+            "longitude": 48.6427009,
+            "geocell": 4646286,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3133934972,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4069454",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3140466882,
+            "country": 31,
+            "level1area": [
+                "azlan"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Liman",
+                "uk": "Ліман"
+            },
+            "place_type": 84,
+            "population": 11100,
+            "latitude": 38.8783968,
+            "longitude": 48.8071452,
+            "geocell": 4639088,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3140466882,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3253585793,
+            "country": 31,
+            "level1area": [
+                "azaga"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Ağstafa",
+                "en": "Aghstafa",
+                "ru": "Акстафа",
+                "uk": "Аґстафа"
+            },
+            "place_type": 84,
+            "population": 16000,
+            "latitude": 41.1136807,
+            "longitude": 45.4459531,
+            "geocell": 4721854,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3253585793,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3475112893,
+            "country": 31,
+            "level1area": [
+                "azdas"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Daşkəsən",
+                "hy": "Քարհատ",
+                "ja": "ダシュキャサン",
+                "ru": "Дашкесан"
+            },
+            "place_type": 84,
+            "population": 11200,
+            "latitude": 40.5207975,
+            "longitude": 46.0814587,
+            "geocell": 4700260,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3475112893,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2332472",
+                "wikipedia_pages": {
+                    "ru": "Дашкесан (город)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3710920196,
+            "country": 31,
+            "level1area": [
+                "azast"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "آستارا",
+                "az": "Astara",
+                "de": "Astara",
+                "fa": "آستارا آذربایجان",
+                "hy": "Աստարա",
+                "ja": "アスタラ",
+                "ka": "ასტარა",
+                "ko": "아스타라",
+                "ml": "അസ്താറ",
+                "ru": "Астара"
+            },
+            "place_type": 84,
+            "population": 17600,
+            "latitude": 38.4529953,
+            "longitude": 48.8746559,
+            "geocell": 4624688,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3710920196,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q266896",
+                "wikipedia_pages": {
+                    "az": "Astara (Azərbaycan)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4027452036,
+            "country": 31,
+            "level1area": [
+                "azxa"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "خانكندي",
+                "az": "Xankəndi",
+                "bn": "খানকেন্দি",
+                "cs": "Chankendi",
+                "de": "Chankendi",
+                "el": "Χανκέντι",
+                "en": "Khankendi",
+                "es": "Jankendi",
+                "fr": "Khankendy",
+                "hi": "खानकेंडी",
+                "hr": "Hankendi",
+                "hy": "Ստեփանակերտ",
+                "ja": "カンケンディ",
+                "ka": "ხანკენდი",
+                "ko": "칸켄디",
+                "ml": "സ്റ്റെപാനകെർട്ട്",
+                "pl": "Chankendi",
+                "ru": "Ханкенди",
+                "sk": "Chankendi",
+                "sr": "Ханкенди",
+                "tr": "Hankendi",
+                "uk": "Ханкенді"
+            },
+            "place_type": 67,
+            "population": 53400,
+            "latitude": 39.8182044,
+            "longitude": 46.7517171,
+            "geocell": 4675067,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4027452036,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4027452036,
+            "country": 31,
+            "level1area": [
+                "azxci"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "خانكندي",
+                "az": "Xankəndi",
+                "bn": "খানকেন্দি",
+                "cs": "Chankendi",
+                "de": "Chankendi",
+                "el": "Χανκέντι",
+                "en": "Khankendi",
+                "es": "Jankendi",
+                "fr": "Khankendy",
+                "hi": "खानकेंडी",
+                "hr": "Hankendi",
+                "hy": "Ստեփանակերտ",
+                "ja": "カンケンディ",
+                "ka": "ხანკენდი",
+                "ko": "칸켄디",
+                "ml": "സ്റ്റെപാനകെർട്ട്",
+                "pl": "Chankendi",
+                "ru": "Ханкенди",
+                "sk": "Chankendi",
+                "sr": "Ханкенди",
+                "tr": "Hankendi",
+                "uk": "Ханкенді"
+            },
+            "place_type": 67,
+            "population": 53400,
+            "latitude": 39.8182044,
+            "longitude": 46.7517171,
+            "geocell": 4675067,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4027452036,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4763558427,
+            "country": 31,
+            "level1area": [
+                "aznx"
+            ],
+            "level2area": [
+                "azord"
+            ],
+            "names": {
+                "az": "Ordubad",
+                "cs": "Ordubad",
+                "en": "Ordubad",
+                "fa": "اردوباد",
+                "ru": "Ордубад"
+            },
+            "place_type": 84,
+            "population": 10800,
+            "latitude": 38.9062025,
+            "longitude": 46.0222267,
+            "geocell": 4642660,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4763558427,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1000839",
+                "wikipedia_pages": {
+                    "az": "Ordubad"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5856364066,
+            "country": 31,
+            "level1area": [
+                "azbal"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Balakən",
+                "en": "Balakan",
+                "ka": "ბელაქანი",
+                "ru": "Балакен"
+            },
+            "place_type": 84,
+            "population": 14100,
+            "latitude": 41.7246212,
+            "longitude": 46.4089371,
+            "geocell": 4743464,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5856364066,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6815160319,
+            "country": 31,
+            "level1area": [
+                "azqax"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Qax",
+                "en": "Qakh",
+                "ka": "კახი",
+                "ml": "കാഖ്",
+                "ru": "Гах",
+                "uk": "Ґах"
+            },
+            "place_type": 84,
+            "population": 14500,
+            "latitude": 41.4185515,
+            "longitude": 46.9192097,
+            "geocell": 4732669,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6815160319,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11173455470,
+            "country": 31,
+            "level1area": [
+                "azba"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Əhmədli"
+            },
+            "place_type": 86,
+            "population": 13400,
+            "latitude": 40.3851264,
+            "longitude": 49.9447063,
+            "geocell": 4693099,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11173455470,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

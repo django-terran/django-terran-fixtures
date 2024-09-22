@@ -1,0 +1,3371 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26396457,
+            "country": 192,
+            "level1area": [
+                "cu03"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Havana",
+                "ar": "هافانا",
+                "ast": "L'Habana",
+                "az": "Havana",
+                "be": "Гавана",
+                "bg": "Хавана",
+                "br": "La Habana",
+                "bs": "Havana",
+                "ca": "l'Havana",
+                "cs": "Havana",
+                "cy": "La Habana",
+                "da": "Havana",
+                "de": "Havanna",
+                "el": "Αβάνα",
+                "en": "Havana",
+                "eo": "Havano",
+                "es": "La Habana",
+                "et": "Havanna",
+                "eu": "Habana",
+                "fa": "هاوانا",
+                "fi": "Havanna",
+                "fr": "La Havane",
+                "fy": "Havana",
+                "gd": "Havana",
+                "gl": "A Habana",
+                "he": "הוואנה",
+                "hr": "Havana",
+                "hu": "Havanna",
+                "hy": "Հավանա",
+                "id": "Havana",
+                "io": "Havana",
+                "is": "Havana",
+                "it": "L'Avana",
+                "ja": "ハバナ",
+                "ka": "ჰავანა",
+                "kn": "ಲಾ ಹಬನ",
+                "ko": "아바나",
+                "lt": "Havana",
+                "lv": "Havana",
+                "mk": "Хавана",
+                "mr": "हवाना",
+                "ms": "Havana",
+                "nl": "Havana",
+                "os": "Гаванæ",
+                "pl": "Hawana",
+                "pt": "Havana",
+                "ro": "Havana",
+                "ru": "Гавана",
+                "sk": "Havana",
+                "sl": "Havana",
+                "sq": "Havana",
+                "sr": "Хавана",
+                "sv": "Havanna",
+                "sw": "Havana",
+                "ta": "அவானா",
+                "tg": "Ҳавана",
+                "th": "ฮาวานา",
+                "tr": "Havana",
+                "uk": "Гавана",
+                "ur": "ہوانا",
+                "vi": "La Habana"
+            },
+            "place_type": 67,
+            "population": 2141993,
+            "latitude": 23.135305,
+            "longitude": -82.3589631,
+            "geocell": 4072576,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26396457,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1563",
+                "wikipedia_pages": {
+                    "es": "La Habana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26527255,
+            "country": 192,
+            "level1area": [
+                "cu01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Pinar del Rio",
+                "es": "Pinar del Río",
+                "hu": "Pinar del Río",
+                "ru": "Пинар-дель-Рио"
+            },
+            "place_type": 67,
+            "population": 142967,
+            "latitude": 22.4167422,
+            "longitude": -83.7002582,
+            "geocell": 4047362,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26527255,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q244139",
+                "wikipedia_pages": {
+                    "es": "Pinar del Río"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26671739,
+            "country": 192,
+            "level1area": [
+                "cu05"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Santa Clara",
+                "hu": "Santa Clara",
+                "ru": "Санта-Клара"
+            },
+            "place_type": 67,
+            "population": 216056,
+            "latitude": 22.406628,
+            "longitude": -79.9651013,
+            "geocell": 4047400,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26671739,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "50100"
+                ],
+                "wikidata_page_name": "Q211590",
+                "wikipedia_pages": {
+                    "es": "Santa Clara (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846344,
+            "country": 192,
+            "level1area": [
+                "cu04"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Matanzas",
+                "hu": "Matanzas",
+                "ru": "Матансас",
+                "uk": "Матансас"
+            },
+            "place_type": 67,
+            "population": 140107,
+            "latitude": 23.0469236,
+            "longitude": -81.5783032,
+            "geocell": 4068984,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846344,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q272471",
+                "wikipedia_pages": {
+                    "en": "Matanzas"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846345,
+            "country": 192,
+            "level1area": [
+                "cu04"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Cárdenas",
+                "ru": "Карденас"
+            },
+            "place_type": 67,
+            "population": 88987,
+            "latitude": 23.03714,
+            "longitude": -81.2025816,
+            "geocell": 4068987,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846345,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q986387",
+                "wikipedia_pages": {
+                    "es": "Cárdenas (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846349,
+            "country": 192,
+            "level1area": [
+                "cu15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Artemisa",
+                "ru": "Артемиса",
+                "uk": "Артеміса"
+            },
+            "place_type": 67,
+            "population": 48897,
+            "latitude": 22.8127715,
+            "longitude": -82.7630555,
+            "geocell": 4061772,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846349,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q115006",
+                "wikipedia_pages": {
+                    "en": "Artemisa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846350,
+            "country": 192,
+            "level1area": [
+                "cu05"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Sagua La Grande",
+                "ru": "Сагуа-ла-Гранде",
+                "uk": "Сагуа-ла-Гранде"
+            },
+            "place_type": 67,
+            "population": 37713,
+            "latitude": 22.8059845,
+            "longitude": -80.0720021,
+            "geocell": 4061799,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846350,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5030",
+                "wikipedia_pages": {
+                    "en": "Sagua La Grande"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846351,
+            "country": 192,
+            "level1area": [
+                "cu15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Güira de Melena",
+                "ru": "Гуира-де-Мелена"
+            },
+            "place_type": 84,
+            "population": 25424,
+            "latitude": 22.7932961,
+            "longitude": -82.5072713,
+            "geocell": 4058174,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846351,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q603115",
+                "wikipedia_pages": {
+                    "es": "Güira de Melena"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846353,
+            "country": 192,
+            "level1area": [
+                "cu05"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Caibarién",
+                "hu": "Caibarién",
+                "ru": "Кайбарьен"
+            },
+            "place_type": 67,
+            "population": 33683,
+            "latitude": 22.5243036,
+            "longitude": -79.4719441,
+            "geocell": 4051005,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846353,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q289328",
+                "wikipedia_pages": {
+                    "es": "Caibarién"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846357,
+            "country": 192,
+            "level1area": [
+                "cu05"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Placetas",
+                "hu": "Placetas",
+                "ru": "Пласетас"
+            },
+            "place_type": 84,
+            "population": 39615,
+            "latitude": 22.3140717,
+            "longitude": -79.653392,
+            "geocell": 4043803,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846357,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q861701",
+                "wikipedia_pages": {
+                    "es": "Placetas"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846358,
+            "country": 192,
+            "level1area": [
+                "cu01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Guane",
+                "ru": "Гуане"
+            },
+            "place_type": 84,
+            "population": 12479,
+            "latitude": 22.2020234,
+            "longitude": -84.0829154,
+            "geocell": 4040159,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846358,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q535537",
+                "wikipedia_pages": {
+                    "es": "Guane (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846359,
+            "country": 192,
+            "level1area": [
+                "cu08"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Morón",
+                "ru": "Морон",
+                "uk": "Морон"
+            },
+            "place_type": 67,
+            "population": 59371,
+            "latitude": 22.1067153,
+            "longitude": -78.6269737,
+            "geocell": 4036613,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846359,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q959528",
+                "wikipedia_pages": {
+                    "en": "Morón, Cuba"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846360,
+            "country": 192,
+            "level1area": [
+                "cu06"
+            ],
+            "level2area": null,
+            "names": {
+                "da": "Cienfuegos",
+                "de": "Cienfuegos",
+                "es": "Cienfuegos",
+                "fr": "Cienfuegos",
+                "hu": "Cienfuegos",
+                "it": "Cienfuegos",
+                "nl": "Cienfuegos",
+                "pl": "Cienfuegos",
+                "pt": "Cienfuegos",
+                "ro": "Cienfuegos",
+                "ru": "Сьенфуэгос",
+                "sr": "Сјенфуегос",
+                "tr": "Cienfuegos",
+                "uk": "Сьєнфуегос"
+            },
+            "place_type": 67,
+            "population": 150404,
+            "latitude": 22.1459864,
+            "longitude": -80.4530775,
+            "geocell": 4036595,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846360,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q190005",
+                "wikipedia_pages": {
+                    "en": "Cienfuegos"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846361,
+            "country": 192,
+            "level1area": [
+                "cu07"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sancti Spiritus",
+                "es": "Sancti Spíritus",
+                "hu": "Sancti Spiritus",
+                "ru": "Санкти-Спиритус"
+            },
+            "place_type": 67,
+            "population": 108127,
+            "latitude": 21.9275667,
+            "longitude": -79.443211,
+            "geocell": 4029405,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846361,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q845720",
+                "wikipedia_pages": {
+                    "en": "Sancti Spíritus"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846363,
+            "country": 192,
+            "level1area": [
+                "cu07"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Cabaiguán",
+                "ru": "Кабайгуан"
+            },
+            "place_type": 84,
+            "population": 30326,
+            "latitude": 22.0795797,
+            "longitude": -79.4996157,
+            "geocell": 4033005,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846363,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q862728",
+                "wikipedia_pages": {
+                    "es": "Cabaiguán"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846365,
+            "country": 192,
+            "level1area": [
+                "cu99"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Nueva Gerona",
+                "hu": "Nueva Gerona",
+                "ru": "Нуэва-Херона",
+                "uk": "Нуева-Херона"
+            },
+            "place_type": 67,
+            "population": 46264,
+            "latitude": 21.884696,
+            "longitude": -82.8038411,
+            "geocell": 4025771,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846365,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q833946",
+                "wikipedia_pages": {
+                    "en": "Nueva Gerona"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846367,
+            "country": 192,
+            "level1area": [
+                "cu09"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Céspedes",
+                "ru": "Сеспедес"
+            },
+            "place_type": 84,
+            "population": 11840,
+            "latitude": 21.5765572,
+            "longitude": -78.2783657,
+            "geocell": 4015017,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846367,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q603146",
+                "wikipedia_pages": {
+                    "en": "Carlos Manuel de Céspedes, Cuba"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846368,
+            "country": 192,
+            "level1area": [
+                "cu09"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Camagüey",
+                "es": "Camagüey",
+                "hu": "Camagüey",
+                "ru": "Камагуэй",
+                "uk": "Камагуей"
+            },
+            "place_type": 67,
+            "population": 306186,
+            "latitude": 21.3791765,
+            "longitude": -77.9183681,
+            "geocell": 4007820,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846368,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q115329",
+                "wikipedia_pages": {
+                    "en": "Camagüey"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846372,
+            "country": 192,
+            "level1area": [
+                "cu09"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Vertientes",
+                "ru": "Вертьентес"
+            },
+            "place_type": 84,
+            "population": 31600,
+            "latitude": 21.2586316,
+            "longitude": -78.1499374,
+            "geocell": 4004218,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846372,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q643047",
+                "wikipedia_pages": {
+                    "es": "Vertientes"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846373,
+            "country": 192,
+            "level1area": [
+                "cu11"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Banes",
+                "ru": "Банес",
+                "uk": "Банес"
+            },
+            "place_type": 67,
+            "population": 35316,
+            "latitude": 20.9617915,
+            "longitude": -75.722894,
+            "geocell": 3993442,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846373,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q806424",
+                "wikipedia_pages": {
+                    "es": "Banes"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846374,
+            "country": 192,
+            "level1area": [
+                "cu10"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Las Tunas",
+                "hu": "Las Tunas",
+                "ru": "Лас-Тунас",
+                "uk": "Лас-Тунас"
+            },
+            "place_type": 67,
+            "population": 168645,
+            "latitude": 20.9568858,
+            "longitude": -76.9537242,
+            "geocell": 3993430,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846374,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q115527",
+                "wikipedia_pages": {
+                    "en": "Las Tunas (city)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846375,
+            "country": 192,
+            "level1area": [
+                "cu10"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Amancio",
+                "ru": "Амамсио"
+            },
+            "place_type": 84,
+            "population": 26141,
+            "latitude": 20.827605,
+            "longitude": -77.5787409,
+            "geocell": 3989824,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846375,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1936063",
+                "wikipedia_pages": {
+                    "es": "Amancio (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846376,
+            "country": 192,
+            "level1area": [
+                "cu11"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Holguín",
+                "es": "Holguín",
+                "hu": "Holguín",
+                "ru": "Ольгин",
+                "uk": "Ольгін"
+            },
+            "place_type": 67,
+            "population": 294002,
+            "latitude": 20.8869704,
+            "longitude": -76.2591995,
+            "geocell": 3989837,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846376,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q244154",
+                "wikipedia_pages": {
+                    "en": "Holguín"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846377,
+            "country": 192,
+            "level1area": [
+                "cu14"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Baracoa",
+                "hu": "Baracoa",
+                "ru": "Баракоа"
+            },
+            "place_type": 67,
+            "population": 43062,
+            "latitude": 20.3477869,
+            "longitude": -74.4968647,
+            "geocell": 3971855,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846377,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "http://www.baracoa.org/",
+                "wikidata_page_name": "Q94775",
+                "wikipedia_pages": {
+                    "es": "Baracoa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846378,
+            "country": 192,
+            "level1area": [
+                "cu12"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Manzanillo",
+                "hu": "Manzanillo",
+                "ru": "Мансанильо",
+                "uk": "Мансанільо"
+            },
+            "place_type": 67,
+            "population": 98904,
+            "latitude": 20.3452734,
+            "longitude": -77.1199723,
+            "geocell": 3971828,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846378,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q115403",
+                "wikipedia_pages": {
+                    "en": "Manzanillo, Cuba"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846380,
+            "country": 192,
+            "level1area": [
+                "cu11"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Germán",
+                "ru": "Сан-Херман"
+            },
+            "place_type": 84,
+            "population": 24084,
+            "latitude": 20.5983179,
+            "longitude": -76.1347364,
+            "geocell": 3979038,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846380,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q280929",
+                "wikipedia_pages": {
+                    "es": "Urbano Noris"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846381,
+            "country": 192,
+            "level1area": [
+                "cu12"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Bayamo",
+                "hu": "Bayamo",
+                "ru": "Баямо",
+                "uk": "Баямо"
+            },
+            "place_type": 67,
+            "population": 158978,
+            "latitude": 20.3734145,
+            "longitude": -76.6494244,
+            "geocell": 3971833,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846381,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q115382",
+                "wikipedia_pages": {
+                    "en": "Bayamo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259846383,
+            "country": 192,
+            "level1area": [
+                "cu13"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Santiago de Cuba",
+                "es": "Santiago de Cuba",
+                "hu": "Santiago de Cuba",
+                "ru": "Сантьяго-де-Куба",
+                "uk": "Сантьяго-де-Куба"
+            },
+            "place_type": 67,
+            "population": 433099,
+            "latitude": 20.0214263,
+            "longitude": -75.8294928,
+            "geocell": 3961041,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259846383,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q117040",
+                "wikipedia_pages": {
+                    "es": "Santiago de Cuba"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 278659714,
+            "country": 192,
+            "level1area": [
+                "cu04"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Los Arabos",
+                "ru": "Лос-Арабос"
+            },
+            "place_type": 84,
+            "population": 10128,
+            "latitude": 22.7300167,
+            "longitude": -80.7212792,
+            "geocell": 4058192,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 278659714,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2245914",
+                "wikipedia_pages": {
+                    "es": "Los Arabos"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 299133497,
+            "country": 192,
+            "level1area": [
+                "cu04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Varadero",
+                "es": "Varadero",
+                "ru": "Варадеро"
+            },
+            "place_type": 67,
+            "population": 27170,
+            "latitude": 23.149578,
+            "longitude": -81.260025,
+            "geocell": 4072587,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 299133497,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q726751",
+                "wikipedia_pages": {
+                    "es": "Varadero"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 441785450,
+            "country": 192,
+            "level1area": [
+                "cu99"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Fe",
+                "ru": "Ла-Фе"
+            },
+            "place_type": 84,
+            "population": 13609,
+            "latitude": 21.7437002,
+            "longitude": -82.7556754,
+            "geocell": 4022172,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 441785450,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7419477",
+                "wikipedia_pages": {
+                    "en": "Santa Fe, Isle of Youth"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 449590035,
+            "country": 192,
+            "level1area": [
+                "cu06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Lajas",
+                "ru": "Лахас"
+            },
+            "place_type": 84,
+            "population": 21999,
+            "latitude": 22.4157061,
+            "longitude": -80.2943145,
+            "geocell": 4047397,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 449590035,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5045",
+                "wikipedia_pages": {
+                    "es": "Lajas (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 454865962,
+            "country": 192,
+            "level1area": [
+                "cu16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Jaruco",
+                "ru": "Харуко"
+            },
+            "place_type": 84,
+            "population": 10243,
+            "latitude": 23.043231,
+            "longitude": -82.0084135,
+            "geocell": 4068979,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 454865962,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1683722",
+                "wikipedia_pages": {
+                    "es": "Jaruco"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 457352723,
+            "country": 192,
+            "level1area": [
+                "cu16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Bejucal",
+                "ru": "Бехукаль"
+            },
+            "place_type": 84,
+            "population": 16559,
+            "latitude": 22.928489,
+            "longitude": -82.3883364,
+            "geocell": 4065376,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 457352723,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q814979",
+                "wikipedia_pages": {
+                    "es": "Bejucal"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 457359804,
+            "country": 192,
+            "level1area": [
+                "cu15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Caimito",
+                "ru": "Каймито"
+            },
+            "place_type": 84,
+            "population": 12244,
+            "latitude": 22.9516398,
+            "longitude": -82.5937751,
+            "geocell": 4065374,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 457359804,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q559793",
+                "wikipedia_pages": {
+                    "es": "Caimito (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 457361954,
+            "country": 192,
+            "level1area": [
+                "cu15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Bauta",
+                "ru": "Баута"
+            },
+            "place_type": 84,
+            "population": 23557,
+            "latitude": 22.9802415,
+            "longitude": -82.549536,
+            "geocell": 4065374,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 457361954,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q114970",
+                "wikipedia_pages": {
+                    "es": "Bauta"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 459475697,
+            "country": 192,
+            "level1area": [
+                "cu15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Mariel",
+                "ru": "Мариель"
+            },
+            "place_type": 84,
+            "population": 17271,
+            "latitude": 22.9890956,
+            "longitude": -82.7543784,
+            "geocell": 4065372,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 459475697,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q116156",
+                "wikipedia_pages": {
+                    "es": "Mariel (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 459985828,
+            "country": 192,
+            "level1area": [
+                "cu15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Guanajay",
+                "ru": "Гуанахай"
+            },
+            "place_type": 84,
+            "population": 22839,
+            "latitude": 22.9266328,
+            "longitude": -82.6887471,
+            "geocell": 4065373,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 459985828,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q114977",
+                "wikipedia_pages": {
+                    "es": "Guanajay"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 459986972,
+            "country": 192,
+            "level1area": [
+                "cu15"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "San Antonio de los Baños",
+                "es": "San Antonio de los Baños",
+                "ru": "Сан-Антонио-де-лос-Баньос"
+            },
+            "place_type": 84,
+            "population": 33811,
+            "latitude": 22.8889379,
+            "longitude": -82.5045048,
+            "geocell": 4061774,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 459986972,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q114984",
+                "wikipedia_pages": {
+                    "es": "San Antonio de los Baños"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 459999079,
+            "country": 192,
+            "level1area": [
+                "cu15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Alquízar",
+                "ru": "Алькисар"
+            },
+            "place_type": 84,
+            "population": 14984,
+            "latitude": 22.8048092,
+            "longitude": -82.5836811,
+            "geocell": 4061774,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 459999079,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q603163",
+                "wikipedia_pages": {
+                    "es": "Alquízar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 460340848,
+            "country": 192,
+            "level1area": [
+                "cu15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Candelaria",
+                "ru": "Канделария"
+            },
+            "place_type": 84,
+            "population": 12519,
+            "latitude": 22.7410141,
+            "longitude": -82.9576129,
+            "geocell": 4058170,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 460340848,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q603136",
+                "wikipedia_pages": {
+                    "es": "Candelaria (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 460344502,
+            "country": 192,
+            "level1area": [
+                "cu15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Cristóbal",
+                "ru": "Сан-Кристобаль"
+            },
+            "place_type": 84,
+            "population": 29119,
+            "latitude": 22.7155121,
+            "longitude": -83.0453136,
+            "geocell": 4058169,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 460344502,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q559801",
+                "wikipedia_pages": {
+                    "es": "San Cristóbal (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 460369348,
+            "country": 192,
+            "level1area": [
+                "cu01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Consolación del Sur",
+                "ru": "Консоласьон-дель-Сур"
+            },
+            "place_type": 84,
+            "population": 28465,
+            "latitude": 22.5040475,
+            "longitude": -83.5154619,
+            "geocell": 4050964,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 460369348,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1127452",
+                "wikipedia_pages": {
+                    "es": "Consolación del Sur"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 460423103,
+            "country": 192,
+            "level1area": [
+                "cu01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Sandino",
+                "ru": "Сандино"
+            },
+            "place_type": 84,
+            "population": 11032,
+            "latitude": 22.0798073,
+            "longitude": -84.2035316,
+            "geocell": 4032957,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 460423103,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q567769",
+                "wikipedia_pages": {
+                    "es": "Sandino (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 460435628,
+            "country": 192,
+            "level1area": [
+                "cu16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Nicolás",
+                "ru": "Сан-Николас"
+            },
+            "place_type": 84,
+            "population": 12830,
+            "latitude": 22.7849084,
+            "longitude": -81.9170676,
+            "geocell": 4058180,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 460435628,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q270090",
+                "wikipedia_pages": {
+                    "es": "San Nicolás de Bari (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 461893881,
+            "country": 192,
+            "level1area": [
+                "cu10"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Manatí",
+                "ru": "Манати"
+            },
+            "place_type": 84,
+            "population": 14953,
+            "latitude": 21.3139409,
+            "longitude": -76.9371468,
+            "geocell": 4007830,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 461893881,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2234381",
+                "wikipedia_pages": {
+                    "es": "Manatí (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 469398603,
+            "country": 192,
+            "level1area": [
+                "cu12"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Guisa",
+                "ru": "Гиса"
+            },
+            "place_type": 84,
+            "population": 21849,
+            "latitude": 20.2555368,
+            "longitude": -76.5392196,
+            "geocell": 3968234,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 469398603,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1935474",
+                "wikipedia_pages": {
+                    "en": "Guisa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 469632058,
+            "country": 192,
+            "level1area": [
+                "cu09"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Guáimaro",
+                "ru": "Гуаймаро"
+            },
+            "place_type": 84,
+            "population": 20000,
+            "latitude": 21.0541962,
+            "longitude": -77.3490878,
+            "geocell": 3997026,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 469632058,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q643059",
+                "wikipedia_pages": {
+                    "en": "Guáimaro"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 469633734,
+            "country": 192,
+            "level1area": [
+                "cu10"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Jobabo",
+                "ru": "Хобабо"
+            },
+            "place_type": 84,
+            "population": 20309,
+            "latitude": 20.9065453,
+            "longitude": -77.2873991,
+            "geocell": 3993427,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 469633734,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q600105",
+                "wikipedia_pages": {
+                    "es": "Jobabo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 469658737,
+            "country": 192,
+            "level1area": [
+                "cu12"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Niquero",
+                "ru": "Никеро"
+            },
+            "place_type": 84,
+            "population": 25244,
+            "latitude": 20.0477343,
+            "longitude": -77.5843332,
+            "geocell": 3961024,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 469658737,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q972546",
+                "wikipedia_pages": {
+                    "es": "Niquero"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 469659066,
+            "country": 192,
+            "level1area": [
+                "cu12"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Campechuela",
+                "ru": "Кампечуела"
+            },
+            "place_type": 84,
+            "population": 45205,
+            "latitude": 20.2353676,
+            "longitude": -77.2821691,
+            "geocell": 3968227,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 469659066,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1332135",
+                "wikipedia_pages": {
+                    "en": "Campechuela"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 469905820,
+            "country": 192,
+            "level1area": [
+                "cu07"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Trinidad",
+                "hu": "Trinidad",
+                "ru": "Тринидад"
+            },
+            "place_type": 67,
+            "population": 45041,
+            "latitude": 21.8052055,
+            "longitude": -79.9845797,
+            "geocell": 4025800,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 469905820,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://trinidadbookingcenter.com/",
+                "wikidata_page_name": "Q319272",
+                "wikipedia_pages": {
+                    "es": "Trinidad (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482488265,
+            "country": 192,
+            "level1area": [
+                "cu06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Cumanayagua",
+                "ru": "Куманайягва"
+            },
+            "place_type": 84,
+            "population": 25031,
+            "latitude": 22.1493835,
+            "longitude": -80.2021172,
+            "geocell": 4036597,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482488265,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5044",
+                "wikipedia_pages": {
+                    "es": "Cumanayagua"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482493633,
+            "country": 192,
+            "level1area": [
+                "cu05"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Quemado de Güines",
+                "ru": "Кемадо-де-Гвинес"
+            },
+            "place_type": 84,
+            "population": 10408,
+            "latitude": 22.7874053,
+            "longitude": -80.2529926,
+            "geocell": 4058197,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482493633,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5006",
+                "wikipedia_pages": {
+                    "en": "Quemado de Güines"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482494474,
+            "country": 192,
+            "level1area": [
+                "cu05"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Manicaragua",
+                "ru": "Маникарагва"
+            },
+            "place_type": 84,
+            "population": 22266,
+            "latitude": 22.1502204,
+            "longitude": -79.9767109,
+            "geocell": 4036600,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482494474,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2573328",
+                "wikipedia_pages": {
+                    "es": "Manicaragua"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482496900,
+            "country": 192,
+            "level1area": [
+                "cu05"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Camajuaní",
+                "ru": "Камахуани"
+            },
+            "place_type": 84,
+            "population": 21924,
+            "latitude": 22.4681502,
+            "longitude": -79.723897,
+            "geocell": 4047402,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482496900,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q280628",
+                "wikipedia_pages": {
+                    "es": "Camajuaní"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482503366,
+            "country": 192,
+            "level1area": [
+                "cu07"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Fomento",
+                "ru": "Фоменто"
+            },
+            "place_type": 84,
+            "population": 19347,
+            "latitude": 22.1036305,
+            "longitude": -79.7194254,
+            "geocell": 4036602,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482503366,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q861489",
+                "wikipedia_pages": {
+                    "es": "Fomento (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482507603,
+            "country": 192,
+            "level1area": [
+                "cu08"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Ciro Redondo",
+                "ru": "Сиро-Редондо"
+            },
+            "place_type": 84,
+            "population": 29560,
+            "latitude": 22.0140937,
+            "longitude": -78.705045,
+            "geocell": 4033012,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482507603,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1020273",
+                "wikipedia_pages": {
+                    "es": "Ciro Redondo (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482509738,
+            "country": 192,
+            "level1area": [
+                "cu08"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Chambas",
+                "ru": "Чамбас"
+            },
+            "place_type": 84,
+            "population": 10808,
+            "latitude": 22.1939851,
+            "longitude": -78.9113042,
+            "geocell": 4036610,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482509738,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1060628",
+                "wikipedia_pages": {
+                    "es": "Chambas"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482510547,
+            "country": 192,
+            "level1area": [
+                "cu07"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Yaguajay",
+                "ru": "Ягуахай"
+            },
+            "place_type": 84,
+            "population": 13827,
+            "latitude": 22.3263188,
+            "longitude": -79.2355981,
+            "geocell": 4043807,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482510547,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q862092",
+                "wikipedia_pages": {
+                    "en": "Yaguajay, Cuba"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482513934,
+            "country": 192,
+            "level1area": [
+                "cu09"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Minas",
+                "ru": "Минас"
+            },
+            "place_type": 84,
+            "population": 15415,
+            "latitude": 21.4861318,
+            "longitude": -77.6109624,
+            "geocell": 4011423,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482513934,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q643025",
+                "wikipedia_pages": {
+                    "es": "Minas (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482514500,
+            "country": 192,
+            "level1area": [
+                "cu09"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Esmeralda",
+                "ru": "Эсмеральда"
+            },
+            "place_type": 84,
+            "population": 14046,
+            "latitude": 21.851343,
+            "longitude": -78.1154985,
+            "geocell": 4025818,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482514500,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q643074",
+                "wikipedia_pages": {
+                    "es": "Esmeralda (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482515455,
+            "country": 192,
+            "level1area": [
+                "cu08"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Venezuela",
+                "ru": "Венезуела"
+            },
+            "place_type": 84,
+            "population": 10762,
+            "latitude": 21.7394241,
+            "longitude": -78.7955599,
+            "geocell": 4022212,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482515455,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q593830",
+                "wikipedia_pages": {
+                    "es": "Venezuela (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482516081,
+            "country": 192,
+            "level1area": [
+                "cu08"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Primero de Enero",
+                "ru": "Примеро-де-Энеро"
+            },
+            "place_type": 84,
+            "population": 27813,
+            "latitude": 21.945378,
+            "longitude": -78.4293776,
+            "geocell": 4029415,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482516081,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1020104",
+                "wikipedia_pages": {
+                    "en": "Primero de Enero"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482537569,
+            "country": 192,
+            "level1area": [
+                "cu10"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Jesús Menéndez",
+                "ru": "Хесус-Менендез"
+            },
+            "place_type": 84,
+            "population": 16540,
+            "latitude": 21.1607481,
+            "longitude": -76.4778829,
+            "geocell": 4000635,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482537569,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1332144",
+                "wikipedia_pages": {
+                    "es": "Jesús Menéndez (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482541579,
+            "country": 192,
+            "level1area": [
+                "cu09"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Santa Cruz del Sur",
+                "ru": "Санта-Крус-дель-Сур"
+            },
+            "place_type": 84,
+            "population": 15000,
+            "latitude": 20.7160432,
+            "longitude": -77.9959965,
+            "geocell": 3986220,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482541579,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q643313",
+                "wikipedia_pages": {
+                    "en": "Santa Cruz del Sur"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482557202,
+            "country": 192,
+            "level1area": [
+                "cu10"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Puerto Padre",
+                "ru": "Пуерто Падре"
+            },
+            "place_type": 67,
+            "population": 34086,
+            "latitude": 21.197504,
+            "longitude": -76.6018039,
+            "geocell": 4000633,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482557202,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1938772",
+                "wikipedia_pages": {
+                    "es": "Puerto Padre"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482571999,
+            "country": 192,
+            "level1area": [
+                "cu12"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Yara",
+                "ru": "Яра"
+            },
+            "place_type": 84,
+            "population": 13142,
+            "latitude": 20.2718248,
+            "longitude": -76.9537098,
+            "geocell": 3968230,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482571999,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2061386",
+                "wikipedia_pages": {
+                    "es": "Yara"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482574867,
+            "country": 192,
+            "level1area": [
+                "cu12"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Pilón",
+                "ru": "Пилон"
+            },
+            "place_type": 84,
+            "population": 30431,
+            "latitude": 19.9058705,
+            "longitude": -77.3269251,
+            "geocell": 3957426,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482574867,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1935454",
+                "wikipedia_pages": {
+                    "es": "Pilón (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482578126,
+            "country": 192,
+            "level1area": [
+                "cu12"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Jiguaní",
+                "ru": "Хигуани"
+            },
+            "place_type": 84,
+            "population": 22333,
+            "latitude": 20.3700559,
+            "longitude": -76.4272225,
+            "geocell": 3971835,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482578126,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2234347",
+                "wikipedia_pages": {
+                    "es": "Jiguaní"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482595250,
+            "country": 192,
+            "level1area": [
+                "cu11"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Cacocum",
+                "ru": "Какокум"
+            },
+            "place_type": 84,
+            "population": 12432,
+            "latitude": 20.7399465,
+            "longitude": -76.3257148,
+            "geocell": 3986236,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482595250,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q281104",
+                "wikipedia_pages": {
+                    "es": "Cacocum"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482595821,
+            "country": 192,
+            "level1area": [
+                "cu11"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Buenaventura",
+                "ru": "Буенавентура"
+            },
+            "place_type": 84,
+            "population": 11196,
+            "latitude": 20.8630626,
+            "longitude": -76.6385005,
+            "geocell": 3989833,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482595821,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5735057",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482599104,
+            "country": 192,
+            "level1area": [
+                "cu11"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Mayarí",
+                "ru": "Маяри"
+            },
+            "place_type": 84,
+            "population": 29259,
+            "latitude": 20.65525,
+            "longitude": -75.6763378,
+            "geocell": 3982643,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482599104,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1020314",
+                "wikipedia_pages": {
+                    "es": "Mayarí"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482601378,
+            "country": 192,
+            "level1area": [
+                "cu11"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Rafael Freyre",
+                "ru": "Рафаэль Фрейре"
+            },
+            "place_type": 84,
+            "population": 12661,
+            "latitude": 21.0279772,
+            "longitude": -75.9971239,
+            "geocell": 3997040,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482601378,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q281057",
+                "wikipedia_pages": {
+                    "es": "Rafael Freyre (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482601844,
+            "country": 192,
+            "level1area": [
+                "cu11"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Sagua de Tánamo",
+                "ru": "Сагуа-де-Танамо"
+            },
+            "place_type": 84,
+            "population": 23979,
+            "latitude": 20.5837906,
+            "longitude": -75.2401796,
+            "geocell": 3979047,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482601844,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q281213",
+                "wikipedia_pages": {
+                    "es": "Sagua de Tánamo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482602195,
+            "country": 192,
+            "level1area": [
+                "cu13"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Contramaestre",
+                "ru": "Контрамаэстре"
+            },
+            "place_type": 67,
+            "population": 47132,
+            "latitude": 20.2996013,
+            "longitude": -76.2441035,
+            "geocell": 3968237,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482602195,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "92100"
+                ],
+                "wikidata_page_name": "Q1129122",
+                "wikipedia_pages": {
+                    "es": "Contramaestre (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482604917,
+            "country": 192,
+            "level1area": [
+                "cu13"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Palma Soriano",
+                "ru": "Пальма-Сорьяно"
+            },
+            "place_type": 67,
+            "population": 74930,
+            "latitude": 20.2126686,
+            "longitude": -75.9973941,
+            "geocell": 3968240,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482604917,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q742835",
+                "wikipedia_pages": {
+                    "es": "Palma Soriano"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482605523,
+            "country": 192,
+            "level1area": [
+                "cu13"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Luis",
+                "ru": "Сан-Луис"
+            },
+            "place_type": 84,
+            "population": 34997,
+            "latitude": 20.1867606,
+            "longitude": -75.8507389,
+            "geocell": 3964641,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482605523,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q555956",
+                "wikipedia_pages": {
+                    "es": "San Luis (Santiago de Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482609671,
+            "country": 192,
+            "level1area": [
+                "cu13"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Maya",
+                "ru": "Ла-Мая"
+            },
+            "place_type": 84,
+            "population": 23341,
+            "latitude": 20.1684214,
+            "longitude": -75.6475838,
+            "geocell": 3964643,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482609671,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482705582,
+            "country": 192,
+            "level1area": [
+                "cu16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Santa Cruz del Norte",
+                "ru": "Санта-Крус-дель-Норте"
+            },
+            "place_type": 84,
+            "population": 12336,
+            "latitude": 23.1534283,
+            "longitude": -81.9225504,
+            "geocell": 4072580,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482705582,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q270302",
+                "wikipedia_pages": {
+                    "es": "Santa Cruz del Norte"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 482709599,
+            "country": 192,
+            "level1area": [
+                "cu16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Madruga",
+                "ru": "Мадруга"
+            },
+            "place_type": 84,
+            "population": 11943,
+            "latitude": 22.9099082,
+            "longitude": -81.8563731,
+            "geocell": 4065381,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 482709599,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q270290",
+                "wikipedia_pages": {
+                    "es": "Madruga (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1252740872,
+            "country": 192,
+            "level1area": [
+                "cu09"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Nuevitas",
+                "ru": "Нуэвитас"
+            },
+            "place_type": 67,
+            "population": 38207,
+            "latitude": 21.5465376,
+            "longitude": -77.2635014,
+            "geocell": 4015027,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1252740872,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q643081",
+                "wikipedia_pages": {
+                    "es": "Nuevitas"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1308688897,
+            "country": 192,
+            "level1area": [
+                "cu06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Palmira",
+                "ru": "Пальмира"
+            },
+            "place_type": 84,
+            "population": 32968,
+            "latitude": 22.2414566,
+            "longitude": -80.3931021,
+            "geocell": 4040196,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1308688897,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5008",
+                "wikipedia_pages": {
+                    "es": "Palmira (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1394768865,
+            "country": 192,
+            "level1area": [
+                "cu05"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Juan de los Yeras"
+            },
+            "place_type": 84,
+            "population": 12000,
+            "latitude": 22.3329027,
+            "longitude": -80.1055704,
+            "geocell": 4043798,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1394768865,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.ecured.cu/index.php/San_Juan_de_los_Yeras_%28Ranchuelo%29",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1394785740,
+            "country": 192,
+            "level1area": [
+                "cu05"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Ranchuelo",
+                "ru": "Ранчуело"
+            },
+            "place_type": 84,
+            "population": 16043,
+            "latitude": 22.3751488,
+            "longitude": -80.1491249,
+            "geocell": 4043798,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1394785740,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5003",
+                "wikipedia_pages": {
+                    "es": "Ranchuelo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1535178080,
+            "country": 192,
+            "level1area": [
+                "cu10"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Colombia",
+                "ru": "Коломбия"
+            },
+            "place_type": 84,
+            "population": 22828,
+            "latitude": 20.9842172,
+            "longitude": -77.4252381,
+            "geocell": 3993425,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1535178080,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2733738",
+                "wikipedia_pages": {
+                    "es": "Colombia (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1546021571,
+            "country": 192,
+            "level1area": [
+                "cu05"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Esperanza",
+                "ru": "Ла-Эсперанса"
+            },
+            "place_type": 84,
+            "population": 11147,
+            "latitude": 22.4452261,
+            "longitude": -80.0968761,
+            "geocell": 4047399,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1546021571,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1712623004,
+            "country": 192,
+            "level1area": [
+                "cu10"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Vázquez"
+            },
+            "place_type": 84,
+            "population": 10726,
+            "latitude": 21.1399568,
+            "longitude": -76.7301471,
+            "geocell": 4000632,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1712623004,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1928895764,
+            "country": 192,
+            "level1area": [
+                "cu08"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Ciego de Ávila",
+                "ru": "Сьего-де-Авила"
+            },
+            "place_type": 67,
+            "population": 119394,
+            "latitude": 21.8420439,
+            "longitude": -78.7602038,
+            "geocell": 4025812,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1928895764,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q115465",
+                "wikipedia_pages": {
+                    "es": "Ciego de Ávila"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2015578509,
+            "country": 192,
+            "level1area": [
+                "cu15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Bahía Honda",
+                "ru": "Байя Онда"
+            },
+            "place_type": 84,
+            "population": 17689,
+            "latitude": 22.903451,
+            "longitude": -83.1618214,
+            "geocell": 4065368,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2015578509,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5411013",
+                "wikipedia_pages": {
+                    "es": "Bahía Honda (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2027470553,
+            "country": 192,
+            "level1area": [
+                "cu11"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Nicaro-Levisa",
+                "ru": "Никаро-Левиса"
+            },
+            "place_type": 84,
+            "population": 19594,
+            "latitude": 20.6648008,
+            "longitude": -75.5418358,
+            "geocell": 3982644,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2027470553,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2252643608,
+            "country": 192,
+            "level1area": [
+                "cu05"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Vueltas",
+                "ru": "Вуельтас"
+            },
+            "place_type": 84,
+            "population": 12110,
+            "latitude": 22.5162432,
+            "longitude": -79.7013103,
+            "geocell": 4051002,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2252643608,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3946808",
+                "wikipedia_pages": {
+                    "es": "Vueltas (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3128453622,
+            "country": 192,
+            "level1area": [
+                "cu03"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Guanabacoa",
+                "ru": "Гуанабакоа"
+            },
+            "place_type": 84,
+            "population": 113434,
+            "latitude": 23.1255172,
+            "longitude": -82.3048707,
+            "geocell": 4072576,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3128453622,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2723864",
+                "wikipedia_pages": {
+                    "es": "Guanabacoa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3225732789,
+            "country": 192,
+            "level1area": [
+                "cu07"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Jatibonico",
+                "ru": "Хатибонико"
+            },
+            "place_type": 84,
+            "population": 24514,
+            "latitude": 21.9421689,
+            "longitude": -79.17144,
+            "geocell": 4029408,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3225732789,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q861575",
+                "wikipedia_pages": {
+                    "es": "Jatibonico"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3268535679,
+            "country": 192,
+            "level1area": [
+                "cu16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Güines",
+                "ru": "Гвинес"
+            },
+            "place_type": 67,
+            "population": 40855,
+            "latitude": 22.8371132,
+            "longitude": -82.0284846,
+            "geocell": 4061779,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3268535679,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q270297",
+                "wikipedia_pages": {
+                    "es": "Güines"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3408169817,
+            "country": 192,
+            "level1area": [
+                "cu09"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Florida",
+                "en": "Florida",
+                "es": "Florida",
+                "fr": "Floride",
+                "hu": "Florida",
+                "it": "Florida",
+                "ru": "Флорида"
+            },
+            "place_type": 67,
+            "population": 53200,
+            "latitude": 21.5268861,
+            "longitude": -78.2258106,
+            "geocell": 4015017,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3408169817,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q643617",
+                "wikipedia_pages": {
+                    "en": "Florida, Cuba"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3477033728,
+            "country": 192,
+            "level1area": [
+                "cu04"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Jagüey Grande",
+                "ru": "Хагуэй-Гранде"
+            },
+            "place_type": 84,
+            "population": 28870,
+            "latitude": 22.5268519,
+            "longitude": -81.1287426,
+            "geocell": 4050988,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3477033728,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2573456",
+                "wikipedia_pages": {
+                    "en": "Jagüey Grande"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3576066435,
+            "country": 192,
+            "level1area": [
+                "cu12"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Julia-Mabay"
+            },
+            "place_type": 84,
+            "population": 12128,
+            "latitude": 20.342851,
+            "longitude": -76.7842561,
+            "geocell": 3971832,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3576066435,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3577464838,
+            "country": 192,
+            "level1area": [
+                "cu14"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Salvador",
+                "ru": "Эль-Сальвадор"
+            },
+            "place_type": 84,
+            "population": 45773,
+            "latitude": 20.219116,
+            "longitude": -75.2304209,
+            "geocell": 3968247,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3577464838,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1026982",
+                "wikipedia_pages": {
+                    "es": "El Salvador (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3581427400,
+            "country": 192,
+            "level1area": [
+                "cu04"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Jovellanos",
+                "ru": "Ховельянос"
+            },
+            "place_type": 84,
+            "population": 26319,
+            "latitude": 22.8051604,
+            "longitude": -81.196847,
+            "geocell": 4061788,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3581427400,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2573404",
+                "wikipedia_pages": {
+                    "es": "Jovellanos (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3647917681,
+            "country": 192,
+            "level1area": [
+                "cu16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San José de las Lajas",
+                "ru": "Сан-Хосе-де-Лас-Лахас"
+            },
+            "place_type": 67,
+            "population": 40524,
+            "latitude": 22.9613562,
+            "longitude": -82.1518012,
+            "geocell": 4065378,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3647917681,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1001941",
+                "wikipedia_pages": {
+                    "es": "San José de las Lajas"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3811125398,
+            "country": 192,
+            "level1area": [
+                "cu11"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Velasco",
+                "ru": "Веласко"
+            },
+            "place_type": 84,
+            "population": 12807,
+            "latitude": 21.08524,
+            "longitude": -76.3486759,
+            "geocell": 3997036,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3811125398,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6160058",
+                "wikipedia_pages": {
+                    "es": "Velasco (Gibara)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4855739101,
+            "country": 192,
+            "level1area": [
+                "cu04"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Perico",
+                "ru": "Перико"
+            },
+            "place_type": 84,
+            "population": 12607,
+            "latitude": 22.7702551,
+            "longitude": -81.0187689,
+            "geocell": 4058189,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4855739101,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.ecured.cu/Perico_(Perico)",
+                "wikidata_page_name": "Q5001",
+                "wikipedia_pages": {
+                    "en": "Perico, Cuba"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4855758731,
+            "country": 192,
+            "level1area": [
+                "cu04"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Colón",
+                "ru": "Колон",
+                "uk": "Колон"
+            },
+            "place_type": 67,
+            "population": 44520,
+            "latitude": 22.7162013,
+            "longitude": -80.9052014,
+            "geocell": 4058190,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4855758731,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5029",
+                "wikipedia_pages": {
+                    "es": "Colón (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5509763280,
+            "country": 192,
+            "level1area": [
+                "cu11"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Gibara",
+                "ru": "Хибара"
+            },
+            "place_type": 84,
+            "population": 16121,
+            "latitude": 21.110075,
+            "longitude": -76.1272646,
+            "geocell": 4000638,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5509763280,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q281016",
+                "wikipedia_pages": {
+                    "es": "Gibara"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5520636453,
+            "country": 192,
+            "level1area": [
+                "cu14"
+            ],
+            "level2area": null,
+            "names": {
+                "da": "Guantanamo",
+                "en": "Guantanamo",
+                "es": "Guantánamo",
+                "hu": "Guantánamo",
+                "ru": "Гуантанамо"
+            },
+            "place_type": 67,
+            "population": 216609,
+            "latitude": 20.1431797,
+            "longitude": -75.2034783,
+            "geocell": 3964647,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5520636453,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q185156",
+                "wikipedia_pages": {
+                    "es": "Guantánamo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5562082211,
+            "country": 192,
+            "level1area": [
+                "cu04"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Pedro Betancourt",
+                "ru": "Педро-Бетанкур"
+            },
+            "place_type": 84,
+            "population": 13949,
+            "latitude": 22.72636,
+            "longitude": -81.2926484,
+            "geocell": 4058187,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5562082211,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2245897",
+                "wikipedia_pages": {
+                    "es": "Pedro Betancourt (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6062070833,
+            "country": 192,
+            "level1area": [
+                "cu11"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Moa",
+                "ru": "Моа"
+            },
+            "place_type": 67,
+            "population": 60310,
+            "latitude": 20.6559593,
+            "longitude": -74.9430494,
+            "geocell": 3982650,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6062070833,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q168965",
+                "wikipedia_pages": {
+                    "es": "Moa (Cuba)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 10776982494,
+            "country": 192,
+            "level1area": [
+                "cu05"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Remedios",
+                "ru": "Ремедиос"
+            },
+            "place_type": 84,
+            "population": 46482,
+            "latitude": 22.4950028,
+            "longitude": -79.5448149,
+            "geocell": 4047404,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 10776982494,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q280795",
+                "wikipedia_pages": {
+                    "es": "San Juan de los Remedios"
+                }
+            }
+        }
+    }
+]

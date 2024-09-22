@@ -1,0 +1,1208 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27565045,
+            "country": 686,
+            "level1area": [
+                "sndk"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "داكار",
+                "be": "Дакар",
+                "bg": "Дакар",
+                "bn": "ডাকার",
+                "br": "Dakar",
+                "ckb": "داکار",
+                "cs": "Dakar",
+                "de": "Dakar",
+                "el": "Ντακάρ",
+                "en": "Dakar",
+                "eo": "Dakaro",
+                "es": "Dakar",
+                "fa": "داکار",
+                "fr": "Dakar",
+                "ga": "Dacár",
+                "gl": "Dacar - Dakar",
+                "he": "דקאר",
+                "hi": "डकार",
+                "hu": "Dakar",
+                "hy": "Դակար",
+                "is": "Dakar",
+                "it": "Dakar",
+                "ja": "ダカール",
+                "ka": "დაკარი",
+                "kk": "Дакар",
+                "kn": "ಡಕಾರ್",
+                "ko": "다카르",
+                "ky": "Дакар",
+                "lt": "Dakaras",
+                "lv": "Dakara",
+                "mk": "Дакар",
+                "ml": "ഡാക്കർ",
+                "mr": "डकार",
+                "nl": "Dakar",
+                "os": "Дакар",
+                "pl": "Dakar",
+                "pt": "Dacar",
+                "ru": "Дакар",
+                "sr": "Дакар",
+                "sv": "Dakar",
+                "ta": "டக்கார்",
+                "tg": "Дакар",
+                "th": "ดาการ์",
+                "tr": "Dakar",
+                "udm": "Дакар",
+                "uk": "Дакар",
+                "ur": "ڈاکار",
+                "wo": "Dakar"
+            },
+            "place_type": 67,
+            "population": 2396800,
+            "latitude": 14.693425,
+            "longitude": -17.447938,
+            "geocell": 3767225,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27565045,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3718",
+                "wikipedia_pages": {
+                    "en": "Dakar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249167293,
+            "country": 686,
+            "level1area": [
+                "snsl"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سانت لويس",
+                "en": "Saint-Louis",
+                "he": "סן-לואי",
+                "ko": "생루이",
+                "ru": "Сен-Луи",
+                "uk": "Сен-Луї",
+                "wo": "Saint-Louis"
+            },
+            "place_type": 67,
+            "population": 176000,
+            "latitude": 16.0280445,
+            "longitude": -16.5048686,
+            "geocell": 3817634,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249167293,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "32000"
+                ],
+                "wikidata_page_name": "Q273779",
+                "wikipedia_pages": {
+                    "fr": "Saint-Louis (Sénégal)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249742121,
+            "country": 686,
+            "level1area": [
+                "sndb"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ديوربل",
+                "ko": "디우르벨",
+                "ru": "Диурбель",
+                "ur": "دیوربیل",
+                "wo": "Diourbel"
+            },
+            "place_type": 67,
+            "population": 100445,
+            "latitude": 14.654562,
+            "longitude": -16.227822,
+            "geocell": 3767237,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249742121,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q910973",
+                "wikipedia_pages": {
+                    "fr": "Diourbel"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249743823,
+            "country": 686,
+            "level1area": [
+                "snlg"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "لوغا",
+                "fa": "لوگا",
+                "ko": "루가",
+                "lt": "Luga",
+                "ru": "Луга",
+                "ur": "لؤگا",
+                "wo": "Louga"
+            },
+            "place_type": 67,
+            "population": 82884,
+            "latitude": 15.6118551,
+            "longitude": -16.2233275,
+            "geocell": 3803237,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249743823,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q280243",
+                "wikipedia_pages": {
+                    "fr": "Louga"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249744836,
+            "country": 686,
+            "level1area": [
+                "sntc"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "تامباكوندا",
+                "en": "Tambacounda",
+                "ko": "탐바쿤다",
+                "ru": "Тамбакунда",
+                "wo": "Tambacounda"
+            },
+            "place_type": 67,
+            "population": 78800,
+            "latitude": 13.7692585,
+            "longitude": -13.6682901,
+            "geocell": 3734863,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249744836,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q977305",
+                "wikipedia_pages": {
+                    "fr": "Tambacounda"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 281170165,
+            "country": 686,
+            "level1area": [
+                "snth"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Kayar"
+            },
+            "place_type": 84,
+            "population": 18010,
+            "latitude": 14.9183011,
+            "longitude": -17.1193122,
+            "geocell": 3778028,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 281170165,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "20012"
+                ],
+                "wikidata_page_name": "Q3194399",
+                "wikipedia_pages": {
+                    "fr": "Kayar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 281182572,
+            "country": 686,
+            "level1area": [
+                "snlg"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Kébémer"
+            },
+            "place_type": 84,
+            "population": 15585,
+            "latitude": 15.374006,
+            "longitude": -16.4497224,
+            "geocell": 3792435,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 281182572,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3201090",
+                "wikipedia_pages": {
+                    "fr": "Kébémer"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 281184145,
+            "country": 686,
+            "level1area": [
+                "snth"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Meckhe"
+            },
+            "place_type": 84,
+            "population": 30000,
+            "latitude": 15.112955,
+            "longitude": -16.631121,
+            "geocell": 3785233,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 281184145,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2981190",
+                "wikipedia_pages": {
+                    "fr": "Meckhe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 292135098,
+            "country": 686,
+            "level1area": [
+                "snlg"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Linguère"
+            },
+            "place_type": 84,
+            "population": 15000,
+            "latitude": 15.3954248,
+            "longitude": -15.1153121,
+            "geocell": 3792448,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 292135098,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3233968",
+                "wikipedia_pages": {
+                    "fr": "Linguère (Sénégal)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 292939503,
+            "country": 686,
+            "level1area": [
+                "sndb"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Bambey"
+            },
+            "place_type": 84,
+            "population": 21250,
+            "latitude": 14.69548,
+            "longitude": -16.449262,
+            "geocell": 3767235,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 292939503,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2881786",
+                "wikipedia_pages": {
+                    "fr": "Bambey"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 292948744,
+            "country": 686,
+            "level1area": [
+                "snkl"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Guinguinéo"
+            },
+            "place_type": 84,
+            "population": 16000,
+            "latitude": 14.272179,
+            "longitude": -15.945573,
+            "geocell": 3752840,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 292948744,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3100518",
+                "wikipedia_pages": {
+                    "fr": "Guinguinéo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 293467839,
+            "country": 686,
+            "level1area": [
+                "snse"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sédhiou",
+                "fr": "Sédhiou",
+                "ru": "Седиу",
+                "wo": "Sédhiou"
+            },
+            "place_type": 84,
+            "population": 20141,
+            "latitude": 12.7099045,
+            "longitude": -15.557338,
+            "geocell": 3698844,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 293467839,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q671704",
+                "wikipedia_pages": {
+                    "fr": "Sédhiou"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 293773405,
+            "country": 686,
+            "level1area": [
+                "snfk"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Sokone"
+            },
+            "place_type": 84,
+            "population": 14500,
+            "latitude": 13.878452,
+            "longitude": -16.372533,
+            "geocell": 3738436,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 293773405,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "24016"
+                ],
+                "wikidata_page_name": "Q3489051",
+                "wikipedia_pages": {
+                    "fr": "Sokone"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 313410211,
+            "country": 686,
+            "level1area": [
+                "snsl"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "داغانا",
+                "wo": "Dagana"
+            },
+            "place_type": 84,
+            "population": 20916,
+            "latitude": 16.516508,
+            "longitude": -15.50684,
+            "geocell": 3835644,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 313410211,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "32800"
+                ],
+                "wikidata_page_name": "Q608073",
+                "wikipedia_pages": {
+                    "fr": "Dagana (Sénégal)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 351488962,
+            "country": 686,
+            "level1area": [
+                "snmt"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أوروسغي",
+                "en": "Ouro Sogui",
+                "fr": "Ourossogui",
+                "wo": "Ourossogui"
+            },
+            "place_type": 84,
+            "population": 15614,
+            "latitude": 15.606478,
+            "longitude": -13.3211029,
+            "geocell": 3803266,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 351488962,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2472697",
+                "wikipedia_pages": {
+                    "fr": "Ourossogui"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 351551931,
+            "country": 686,
+            "level1area": [
+                "snkd"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Vélingara"
+            },
+            "place_type": 84,
+            "population": 23775,
+            "latitude": 13.147235,
+            "longitude": -14.107583,
+            "geocell": 3713258,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 351551931,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1014390",
+                "wikipedia_pages": {
+                    "fr": "Vélingara"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 662915731,
+            "country": 686,
+            "level1area": [
+                "sndk"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Keur Massar"
+            },
+            "place_type": 84,
+            "population": 337611,
+            "latitude": 14.7822567,
+            "longitude": -17.311199,
+            "geocell": 3770826,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 662915731,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3195628",
+                "wikipedia_pages": {
+                    "fr": "Keur Massar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 671824694,
+            "country": 686,
+            "level1area": [
+                "snth"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "تييس",
+                "fr": "Thiès",
+                "ko": "티에스",
+                "lt": "Tiesas",
+                "ru": "Тиес",
+                "wo": "Thiès"
+            },
+            "place_type": 67,
+            "population": 320000,
+            "latitude": 14.791461,
+            "longitude": -16.925605,
+            "geocell": 3770830,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 671824694,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q600693",
+                "wikipedia_pages": {
+                    "fr": "Thiès"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1158142391,
+            "country": 686,
+            "level1area": [
+                "sndk"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "غيديوية",
+                "en": "Guédiawaye",
+                "fr": "Guédiawaye",
+                "wo": "Guédiawaye"
+            },
+            "place_type": 67,
+            "population": 286989,
+            "latitude": 14.7771207,
+            "longitude": -17.390071,
+            "geocell": 3770826,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1158142391,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1557691",
+                "wikipedia_pages": {
+                    "fr": "Guédiawaye"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1887598515,
+            "country": 686,
+            "level1area": [
+                "sndb"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Ndangalma"
+            },
+            "place_type": 84,
+            "population": 22350,
+            "latitude": 14.7233612,
+            "longitude": -16.568127,
+            "geocell": 3770834,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1887598515,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1980157966,
+            "country": 686,
+            "level1area": [
+                "snlg"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Thiolom Fall"
+            },
+            "place_type": 86,
+            "population": 24197,
+            "latitude": 15.3462684,
+            "longitude": -16.3212557,
+            "geocell": 3792436,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1980157966,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1986710103,
+            "country": 686,
+            "level1area": [
+                "snmt"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Kanel"
+            },
+            "place_type": 84,
+            "population": 15000,
+            "latitude": 15.491026,
+            "longitude": -13.1756847,
+            "geocell": 3796068,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1986710103,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3192625",
+                "wikipedia_pages": {
+                    "fr": "Kanel"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2281987760,
+            "country": 686,
+            "level1area": [
+                "snzg"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "زيغنشور",
+                "en": "Ziguinchor",
+                "fr": "Ziguinchor",
+                "ru": "Зигиншор",
+                "ur": "زیگینچور",
+                "wo": "Ziguinchor"
+            },
+            "place_type": 67,
+            "population": 230000,
+            "latitude": 12.5634929,
+            "longitude": -16.2724609,
+            "geocell": 3691637,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2281987760,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q202776",
+                "wikipedia_pages": {
+                    "fr": "Ziguinchor"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2282224468,
+            "country": 686,
+            "level1area": [
+                "snzg"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Cap Skirring"
+            },
+            "place_type": 86,
+            "population": 15000,
+            "latitude": 12.388451,
+            "longitude": -16.738502,
+            "geocell": 3684432,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2282224468,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q727560",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2288874677,
+            "country": 686,
+            "level1area": [
+                "snse"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Goudomp"
+            },
+            "place_type": 84,
+            "population": 12012,
+            "latitude": 12.5729357,
+            "longitude": -15.8763382,
+            "geocell": 3691641,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2288874677,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3111582",
+                "wikipedia_pages": {
+                    "fr": "Goudomp"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2364382665,
+            "country": 686,
+            "level1area": [
+                "snsl"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Ndioum"
+            },
+            "place_type": 84,
+            "population": 15546,
+            "latitude": 16.510014,
+            "longitude": -14.647498,
+            "geocell": 3835653,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2364382665,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3337485",
+                "wikipedia_pages": {
+                    "fr": "Ndioum"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2364382680,
+            "country": 686,
+            "level1area": [
+                "snsl"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Ross Béthio"
+            },
+            "place_type": 84,
+            "population": 11000,
+            "latitude": 16.278163,
+            "longitude": -16.140586,
+            "geocell": 3824838,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2364382680,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3442746",
+                "wikipedia_pages": {
+                    "fr": "Ross Béthio"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2410110786,
+            "country": 686,
+            "level1area": [
+                "snkd"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kolda",
+                "fr": "Kolda",
+                "ru": "Колда",
+                "wo": "Kolda"
+            },
+            "place_type": 67,
+            "population": 63000,
+            "latitude": 12.8921154,
+            "longitude": -14.9400971,
+            "geocell": 3702450,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2410110786,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1011890",
+                "wikipedia_pages": {
+                    "fr": "Kolda"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2517825265,
+            "country": 686,
+            "level1area": [
+                "snth"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Thiadiaye"
+            },
+            "place_type": 84,
+            "population": 12157,
+            "latitude": 14.4218684,
+            "longitude": -16.7028171,
+            "geocell": 3760032,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2517825265,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "23200"
+                ],
+                "wikidata_page_name": "Q3523969",
+                "wikipedia_pages": {
+                    "fr": "Thiadiaye"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3054802328,
+            "country": 686,
+            "level1area": [
+                "snkd"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Mampatim"
+            },
+            "place_type": 84,
+            "population": 16000,
+            "latitude": 12.8918114,
+            "longitude": -14.335231,
+            "geocell": 3702456,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3054802328,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3329032921,
+            "country": 686,
+            "level1area": [
+                "snfk"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Diofior"
+            },
+            "place_type": 84,
+            "population": 10985,
+            "latitude": 14.189256,
+            "longitude": -16.661218,
+            "geocell": 3749233,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3329032921,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "23400"
+                ],
+                "wikidata_page_name": "Q685330",
+                "wikipedia_pages": {
+                    "fr": "Diofior"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3329033430,
+            "country": 686,
+            "level1area": [
+                "snkl"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كاولاك",
+                "en": "Kaolack",
+                "ko": "카올라크",
+                "ru": "Каолак",
+                "uk": "Каолак",
+                "wo": "Kaolack"
+            },
+            "place_type": 67,
+            "population": 172305,
+            "latitude": 14.138815,
+            "longitude": -16.076391,
+            "geocell": 3749239,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3329033430,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "24000"
+                ],
+                "wikidata_page_name": "Q847677",
+                "wikipedia_pages": {
+                    "en": "Kaolack"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3655651551,
+            "country": 686,
+            "level1area": [
+                "snlg"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Dahra Djoloff"
+            },
+            "place_type": 84,
+            "population": 30896,
+            "latitude": 15.3494798,
+            "longitude": -15.4809736,
+            "geocell": 3792445,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3655651551,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3012013",
+                "wikipedia_pages": {
+                    "fr": "Dahra (Sénégal)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3659463017,
+            "country": 686,
+            "level1area": [
+                "snth"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Khombole"
+            },
+            "place_type": 84,
+            "population": 12823,
+            "latitude": 14.760535,
+            "longitude": -16.691803,
+            "geocell": 3770833,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3659463017,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "21200"
+                ],
+                "wikidata_page_name": "Q2277705",
+                "wikipedia_pages": {
+                    "fr": "Khombole"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8929600280,
+            "country": 686,
+            "level1area": [
+                "sndk"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Dalifort"
+            },
+            "place_type": 86,
+            "population": 19963,
+            "latitude": 14.7414859,
+            "longitude": -17.4093102,
+            "geocell": 3770825,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8929600280,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3012393",
+                "wikipedia_pages": {
+                    "fr": "Dalifort"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8929811535,
+            "country": 686,
+            "level1area": [
+                "sndk"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Mbao"
+            },
+            "place_type": 84,
+            "population": 29571,
+            "latitude": 14.7415421,
+            "longitude": -17.3261473,
+            "geocell": 3770826,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8929811535,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3303488",
+                "wikipedia_pages": {
+                    "fr": "Mbao"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8929811542,
+            "country": 686,
+            "level1area": [
+                "sndk"
+            ],
+            "level2area": null,
+            "names": {
+                "wo": "Diamaguène-Sicap Mbao"
+            },
+            "place_type": 84,
+            "population": 105782,
+            "latitude": 14.7560561,
+            "longitude": -17.3515872,
+            "geocell": 3770826,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8929811542,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3026043",
+                "wikipedia_pages": {
+                    "fr": "Diamaguène Sicap Mbao"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8929811543,
+            "country": 686,
+            "level1area": [
+                "sndk"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "تيارو",
+                "en": "Tiaroye",
+                "fa": "تیارو",
+                "fr": "Thiaroye",
+                "wo": "Thiaroye"
+            },
+            "place_type": 84,
+            "population": 179789,
+            "latitude": 14.7473433,
+            "longitude": -17.3687784,
+            "geocell": 3770826,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8929811543,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3523983",
+                "wikipedia_pages": {
+                    "fr": "Thiaroye"
+                }
+            }
+        }
+    }
+]

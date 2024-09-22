@@ -1,0 +1,4785 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 17550787,
+            "country": 348,
+            "level1area": [
+                "huba"
+            ],
+            "level2area": null,
+            "names": {
+                "cs": "Pětikostelí",
+                "de": "Fünfkirchen",
+                "hr": "Pečuh",
+                "hu": "Pécs",
+                "it": "Cinquechiese",
+                "lt": "Péčas",
+                "lv": "Pēča",
+                "pl": "Pecz",
+                "ru": "Печ",
+                "sk": "Päťkostolie",
+                "sr": "Печуј",
+                "uk": "Печ"
+            },
+            "place_type": 67,
+            "population": 141031,
+            "latitude": 46.0765092,
+            "longitude": 18.2280317,
+            "geocell": 4897982,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 17550787,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "7600"
+                ],
+                "wikidata_page_name": "Q45779",
+                "wikipedia_pages": {
+                    "hu": "Pécs"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 18331125,
+            "country": 348,
+            "level1area": [
+                "huba"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Kumlau",
+                "hu": "Komló",
+                "ru": "Комло",
+                "sr": "Комло"
+            },
+            "place_type": 84,
+            "population": 21854,
+            "latitude": 46.1911673,
+            "longitude": 18.2613778,
+            "geocell": 4901582,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 18331125,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "7300"
+                ],
+                "wikidata_page_name": "Q430207",
+                "wikipedia_pages": {
+                    "hu": "Komló (település)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25553427,
+            "country": 348,
+            "level1area": [
+                "huto"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Sechshard",
+                "hu": "Szekszárd",
+                "ru": "Сексард",
+                "sr": "Сексард"
+            },
+            "place_type": 67,
+            "population": 30057,
+            "latitude": 46.3484884,
+            "longitude": 18.701663,
+            "geocell": 4908787,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25553427,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "7100"
+                ],
+                "wikidata_page_name": "Q189761",
+                "wikipedia_pages": {
+                    "hu": "Szekszárd"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25913119,
+            "country": 348,
+            "level1area": [
+                "hugs"
+            ],
+            "level2area": null,
+            "names": {
+                "cs": "Šoproň",
+                "de": "Ödenburg",
+                "he": "שופרון",
+                "hr": "Šopron",
+                "hu": "Sopron",
+                "it": "Odenburgo",
+                "ja": "ショプロン",
+                "ka": "შოპრონი",
+                "ru": "Шопрон",
+                "sk": "Šopron",
+                "sr": "Шопрон"
+            },
+            "place_type": 84,
+            "population": 61784,
+            "latitude": 47.6803063,
+            "longitude": 16.5983457,
+            "geocell": 4955565,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25913119,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "9400"
+                ],
+                "wikidata_page_name": "Q168648",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25914519,
+            "country": 348,
+            "level1area": [
+                "huva"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Sárvár",
+                "hu": "Sárvár",
+                "ru": "Шарвар",
+                "sr": "Шарвар"
+            },
+            "place_type": 84,
+            "population": 15003,
+            "latitude": 47.2517426,
+            "longitude": 16.9342165,
+            "geocell": 4941169,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25914519,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "9600"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25915038,
+            "country": 348,
+            "level1area": [
+                "huve"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Toppoltz",
+                "hu": "Tapolca",
+                "ru": "Тапольца",
+                "sr": "Таполца"
+            },
+            "place_type": 84,
+            "population": 14206,
+            "latitude": 46.8820972,
+            "longitude": 17.4389619,
+            "geocell": 4926774,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25915038,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8300"
+                ],
+                "wikidata_page_name": "Q288413",
+                "wikipedia_pages": {
+                    "hu": "Tapolca"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25926749,
+            "country": 348,
+            "level1area": [
+                "huso"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Ruppertsburg",
+                "hr": "Kapošvar",
+                "hu": "Kaposvár",
+                "ru": "Капошвар",
+                "sk": "Kapošvár",
+                "sr": "Капошвар",
+                "uk": "Капошвар"
+            },
+            "place_type": 67,
+            "population": 59270,
+            "latitude": 46.3564692,
+            "longitude": 17.7886886,
+            "geocell": 4908777,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25926749,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "7400"
+                ],
+                "wikidata_page_name": "Q184998",
+                "wikipedia_pages": {
+                    "hu": "Kaposvár"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26734414,
+            "country": 348,
+            "level1area": [
+                "hujn"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Jaßbring",
+                "fa": "یاس‌برنی",
+                "hu": "Jászberény",
+                "os": "Ясберень",
+                "ru": "Ясберень",
+                "sr": "Јасберењ"
+            },
+            "place_type": 84,
+            "population": 26058,
+            "latitude": 47.5030505,
+            "longitude": 19.9117887,
+            "geocell": 4951999,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26734414,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5100"
+                ],
+                "wikidata_page_name": "Q281371",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26757722,
+            "country": 348,
+            "level1area": [
+                "huhe"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "إيغر",
+                "de": "Erlau",
+                "en": "Eger",
+                "fa": "اگر",
+                "fr": "Eger",
+                "hu": "Eger",
+                "lt": "Egeris",
+                "lv": "Egera",
+                "nl": "Eger",
+                "ru": "Эгер",
+                "sk": "Jáger",
+                "sr": "Егер",
+                "tr": "Eğri",
+                "ur": "ایگر"
+            },
+            "place_type": 67,
+            "population": 50018,
+            "latitude": 47.8989887,
+            "longitude": 20.3743665,
+            "geocell": 4962803,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26757722,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "3300"
+                ],
+                "wikidata_page_name": "Q167109",
+                "wikipedia_pages": {
+                    "hu": "Eger"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26757724,
+            "country": 348,
+            "level1area": [
+                "huhb"
+            ],
+            "level2area": null,
+            "names": {
+                "cs": "Debrecín",
+                "de": "Debrezin",
+                "hu": "Debrecen",
+                "pl": "Debreczyn",
+                "ro": "Debrețin",
+                "ru": "Дебрецен",
+                "sk": "Debrecín",
+                "sr": "Дебрецин",
+                "uk": "Дебречин"
+            },
+            "place_type": 67,
+            "population": 201582,
+            "latitude": 47.531399,
+            "longitude": 21.6259782,
+            "geocell": 4952016,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26757724,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "4000"
+                ],
+                "wikidata_page_name": "Q79880",
+                "wikipedia_pages": {
+                    "hu": "Debrecen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29637688,
+            "country": 348,
+            "level1area": [
+                "huke"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Komorn",
+                "hu": "Komárom",
+                "ru": "Комаром",
+                "sk": "Komárno",
+                "sr": "Комаром"
+            },
+            "place_type": 84,
+            "population": 19652,
+            "latitude": 47.7417349,
+            "longitude": 18.1218256,
+            "geocell": 4959181,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29637688,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2900"
+                ],
+                "wikidata_page_name": "Q625154",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30453579,
+            "country": 348,
+            "level1area": [
+                "hucs"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سيجد",
+                "az": "Seqed",
+                "be": "Сегед",
+                "bg": "Сегед",
+                "de": "Szegedin",
+                "el": "Σέγκεντ",
+                "fa": "سگد",
+                "he": "סגד",
+                "hr": "Segedin",
+                "hu": "Szeged",
+                "hy": "Սեգեդ",
+                "it": "Seghedino",
+                "ja": "セゲド",
+                "ka": "სეგედი",
+                "ko": "세게드",
+                "lt": "Segedas",
+                "lv": "Segeda",
+                "mk": "Сегедин",
+                "mr": "सेगेड",
+                "pl": "Segedyn",
+                "ro": "Seghedin",
+                "ru": "Сегед",
+                "sk": "Segedín",
+                "sr": "Сегедин",
+                "th": "แซแก็ด",
+                "tr": "Segedin",
+                "tt": "Сегед",
+                "uk": "Сегед"
+            },
+            "place_type": 67,
+            "population": 158829,
+            "latitude": 46.2546312,
+            "longitude": 20.1486016,
+            "geocell": 4905201,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30453579,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "6700"
+                ],
+                "website": "https://www.szegedvaros.hu/",
+                "wikidata_page_name": "Q81581",
+                "wikipedia_pages": {
+                    "hu": "Szeged"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30848692,
+            "country": 348,
+            "level1area": [
+                "hucs"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Makowa",
+                "hu": "Makó",
+                "ro": "Macǎu",
+                "ru": "Мако",
+                "sr": "Мако"
+            },
+            "place_type": 84,
+            "population": 21913,
+            "latitude": 46.2150438,
+            "longitude": 20.4751022,
+            "geocell": 4905204,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30848692,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6900"
+                ],
+                "wikidata_page_name": "Q240504",
+                "wikipedia_pages": {
+                    "hu": "Makó"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30848697,
+            "country": 348,
+            "level1area": [
+                "hucs"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Neumarkt an der Theiß",
+                "hu": "Hódmezővásárhely",
+                "ro": "Ionești",
+                "ru": "Ходмезёвашархей",
+                "sr": "Ходмезевашархељ"
+            },
+            "place_type": 84,
+            "population": 41944,
+            "latitude": 46.4171344,
+            "longitude": 20.3196068,
+            "geocell": 4912403,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30848697,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6800"
+                ],
+                "wikidata_page_name": "Q124375",
+                "wikipedia_pages": {
+                    "hu": "Hódmezővásárhely"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 31094677,
+            "country": 348,
+            "level1area": [
+                "hube"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Orosháza",
+                "ru": "Орошхаза",
+                "sr": "Орошхаза"
+            },
+            "place_type": 84,
+            "population": 25472,
+            "latitude": 46.5603339,
+            "longitude": 20.6693477,
+            "geocell": 4916006,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 31094677,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5900"
+                ],
+                "wikidata_page_name": "Q390796",
+                "wikipedia_pages": {
+                    "hu": "Orosháza"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 31377320,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Grosskirisch",
+                "hu": "Nagykőrös",
+                "ru": "Надькёрёш",
+                "sk": "Veľký Kereš",
+                "sr": "Нађкереш"
+            },
+            "place_type": 84,
+            "population": 23052,
+            "latitude": 47.0374257,
+            "longitude": 19.7863141,
+            "geocell": 4933997,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 31377320,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2750"
+                ],
+                "wikidata_page_name": "Q830394",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 32443002,
+            "country": 348,
+            "level1area": [
+                "hubk"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Ketschkemet",
+                "hu": "Kecskemét",
+                "ru": "Кечкемет",
+                "sk": "Kečkemít",
+                "sr": "Кечкемет",
+                "uk": "Кечкемет"
+            },
+            "place_type": 67,
+            "population": 109731,
+            "latitude": 46.9073883,
+            "longitude": 19.6917206,
+            "geocell": 4930396,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 32443002,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "6000"
+                ],
+                "wikidata_page_name": "Q171357",
+                "wikipedia_pages": {
+                    "hu": "Kecskemét"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 32444521,
+            "country": 348,
+            "level1area": [
+                "hube"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Tschabe",
+                "hu": "Békéscsaba",
+                "ro": "Bichișciaba",
+                "ru": "Бекешчаба",
+                "sk": "Békešská Čaba",
+                "sr": "Бекешчаба",
+                "uk": "Бекешчаба"
+            },
+            "place_type": 67,
+            "population": 55091,
+            "latitude": 46.6798003,
+            "longitude": 21.0985425,
+            "geocell": 4919610,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 32444521,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "5600"
+                ],
+                "wikidata_page_name": "Q178878",
+                "wikipedia_pages": {
+                    "hu": "Békéscsaba"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 32444954,
+            "country": 348,
+            "level1area": [
+                "hube"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Deutsch-Jula",
+                "hu": "Gyula",
+                "ro": "Jula",
+                "ru": "Дьюла",
+                "sr": "Ђула"
+            },
+            "place_type": 84,
+            "population": 28090,
+            "latitude": 46.6438656,
+            "longitude": 21.2747575,
+            "geocell": 4919612,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 32444954,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5700"
+                ],
+                "wikidata_page_name": "Q214938",
+                "wikipedia_pages": {
+                    "hu": "Gyula (település)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 59976001,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Paumasch",
+                "hu": "Pomáz",
+                "ru": "Помаз",
+                "sk": "Pomáz",
+                "sr": "Помаз"
+            },
+            "place_type": 84,
+            "population": 18419,
+            "latitude": 47.6468212,
+            "longitude": 19.0236304,
+            "geocell": 4955590,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 59976001,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2013"
+                ],
+                "wikidata_page_name": "Q842923",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64622559,
+            "country": 348,
+            "level1area": [
+                "hubz"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ميشكولتس",
+                "bg": "Мишколц",
+                "cs": "Miškovec",
+                "de": "Mischkolz",
+                "fa": "میشکولتس",
+                "he": "מישקולץ",
+                "hr": "Miškolc",
+                "hu": "Miskolc",
+                "ja": "ミシュコルツ",
+                "ka": "მიშკოლცი",
+                "ko": "미슈콜츠",
+                "lt": "Miškolcas",
+                "lv": "Miškolca",
+                "mk": "Мишколц",
+                "pl": "Miszkolc",
+                "ro": "Mișcolț",
+                "ru": "Мишкольц",
+                "sk": "Miškovec",
+                "sr": "Мишколц",
+                "uk": "Мішкольц"
+            },
+            "place_type": 67,
+            "population": 145248,
+            "latitude": 48.1030643,
+            "longitude": 20.7900429,
+            "geocell": 4973607,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64622559,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "3500"
+                ],
+                "wikidata_page_name": "Q102397",
+                "wikipedia_pages": {
+                    "hu": "Miskolc"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64624269,
+            "country": 348,
+            "level1area": [
+                "hugs"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Raab",
+                "en": "Gyor",
+                "hu": "Győr",
+                "ka": "დიორი",
+                "ru": "Дьёр",
+                "sk": "Ráb",
+                "sr": "Ђер",
+                "tr": "Yanıkkale",
+                "uk": "Дьйор"
+            },
+            "place_type": 67,
+            "population": 130020,
+            "latitude": 47.687609,
+            "longitude": 17.6346815,
+            "geocell": 4955576,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64624269,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "9000"
+                ],
+                "url": "http://mek.oszk.hu/02100/02185/html/1324.html",
+                "wikidata_page_name": "Q134494",
+                "wikipedia_pages": {
+                    "hu": "Győr"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64627511,
+            "country": 348,
+            "level1area": [
+                "husz"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Birkenkirchen",
+                "hu": "Nyíregyháza",
+                "ka": "ნიირეჯჰაზა",
+                "ru": "Ньиредьхаза",
+                "sk": "Níreďháza",
+                "sr": "Њиређхаза",
+                "uk": "Ньїредьгаза"
+            },
+            "place_type": 67,
+            "population": 115711,
+            "latitude": 47.9557802,
+            "longitude": 21.7167982,
+            "geocell": 4966417,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64627511,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "4400"
+                ],
+                "wikidata_page_name": "Q171223",
+                "wikipedia_pages": {
+                    "hu": "Nyíregyháza"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 73993229,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Sankt Andrä",
+                "hr": "Senandrija",
+                "hu": "Szentendre",
+                "ru": "Сентендре",
+                "sk": "Svätý Ondrej",
+                "sr": "Сентандреја"
+            },
+            "place_type": 84,
+            "population": 28494,
+            "latitude": 47.6677606,
+            "longitude": 19.0760467,
+            "geocell": 4955590,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 73993229,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2000"
+                ],
+                "wikidata_page_name": "Q390798",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 73993237,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Kalasch",
+                "hu": "Budakalász",
+                "ru": "Будакалас",
+                "sr": "Калаз"
+            },
+            "place_type": 84,
+            "population": 12013,
+            "latitude": 47.6192785,
+            "longitude": 19.0468565,
+            "geocell": 4955590,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 73993237,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2011"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 75716568,
+            "country": 348,
+            "level1area": [
+                "hube"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Hirschfeld",
+                "hu": "Szarvas",
+                "ru": "Сарваш",
+                "sk": "Sarvaš",
+                "sr": "Сарваш"
+            },
+            "place_type": 84,
+            "population": 14428,
+            "latitude": 46.8621434,
+            "longitude": 20.5521466,
+            "geocell": 4926805,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 75716568,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5540"
+                ],
+                "wikidata_page_name": "Q843014",
+                "wikipedia_pages": {
+                    "hu": "Szarvas (település)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 76464246,
+            "country": 348,
+            "level1area": [
+                "hufe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Stuhlweißenburg",
+                "hr": "Stolni Biograd",
+                "hu": "Székesfehérvár",
+                "ro": "Alba Regală",
+                "ru": "Секешфехервар",
+                "sk": "Stoličný Belehrad",
+                "sr": "Секешфехервар",
+                "tr": "İstolni Belgrad",
+                "uk": "Секешфегервар"
+            },
+            "place_type": 67,
+            "population": 95915,
+            "latitude": 47.1910169,
+            "longitude": 18.410811,
+            "geocell": 4937584,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 76464246,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "8000"
+                ],
+                "wikidata_page_name": "Q130212",
+                "wikipedia_pages": {
+                    "hu": "Székesfehérvár"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 84766688,
+            "country": 348,
+            "level1area": [
+                "hujn"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Tiszafüred",
+                "ru": "Тисафюред",
+                "sr": "Тисафиред"
+            },
+            "place_type": 84,
+            "population": 10752,
+            "latitude": 47.6130877,
+            "longitude": 20.7502258,
+            "geocell": 4955607,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 84766688,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5350"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 84775644,
+            "country": 348,
+            "level1area": [
+                "hujn"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Tiszaföldvár",
+                "ru": "Тисафёльдвар",
+                "sr": "Тисафелдвар"
+            },
+            "place_type": 84,
+            "population": 10039,
+            "latitude": 46.9803541,
+            "longitude": 20.2541166,
+            "geocell": 4930402,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 84775644,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5430"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 84782806,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Zieglet",
+                "hu": "Cegléd",
+                "ru": "Цеглед",
+                "sk": "Ceglíd",
+                "sr": "Цеглед"
+            },
+            "place_type": 84,
+            "population": 36344,
+            "latitude": 47.1716447,
+            "longitude": 19.7977516,
+            "geocell": 4937597,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 84782806,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2700"
+                ],
+                "wikidata_page_name": "Q214948",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 84783758,
+            "country": 348,
+            "level1area": [
+                "hujn"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Türkischsanktniklas",
+                "hu": "Törökszentmiklós",
+                "ru": "Тёрёксентмиклош",
+                "sr": "Терексентмиклош"
+            },
+            "place_type": 84,
+            "population": 19380,
+            "latitude": 47.1793568,
+            "longitude": 20.409153,
+            "geocell": 4937604,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 84783758,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5200"
+                ],
+                "wikidata_page_name": "Q840986",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 84786251,
+            "country": 348,
+            "level1area": [
+                "hujn"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Engelhausen",
+                "hu": "Karcag",
+                "ru": "Карцаг",
+                "sr": "Карцаг"
+            },
+            "place_type": 84,
+            "population": 18495,
+            "latitude": 47.314646,
+            "longitude": 20.9240941,
+            "geocell": 4944809,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 84786251,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5300"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 85788293,
+            "country": 348,
+            "level1area": [
+                "hubu"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Boedapest",
+                "ar": "بودابست",
+                "ast": "Budapest",
+                "az": "Budapeşt",
+                "be": "Будапешт",
+                "bg": "Будапеща",
+                "bn": "বুদাপেস্ট",
+                "br": "Budapest",
+                "bs": "Budimpešta",
+                "ca": "Budapest",
+                "ckb": "بوداپێست",
+                "cs": "Budapešť",
+                "de": "Budapest",
+                "el": "Βουδαπέστη",
+                "en": "Budapest",
+                "eo": "Budapeŝto",
+                "es": "Budapest",
+                "fa": "بوداپست",
+                "fr": "Budapest",
+                "fy": "Boedapest",
+                "ga": "Búdaipeist",
+                "he": "בודפשט",
+                "hi": "बुडापेस्ट",
+                "hr": "Budimpešta",
+                "hu": "Budapest",
+                "hy": "Բուդապեշտ",
+                "is": "Búdapest",
+                "it": "Budapest",
+                "ja": "ブダペスト",
+                "ka": "ბუდაპეშტი",
+                "kk": "Будапешт",
+                "kn": "ಬುಡಾಪೆಸ್ಟ್",
+                "ko": "부다페스트",
+                "lt": "Budapeštas",
+                "lv": "Budapešta",
+                "mk": "Будимпешта",
+                "ml": "ബുഡാപെസ്റ്റ്",
+                "mn": "Будапешт",
+                "mr": "बुडापेस्ट",
+                "my": "ဗူးဒပက်မြို့",
+                "nl": "Boedapest",
+                "os": "Будапешт",
+                "pl": "Budapeszt",
+                "pt": "Budapeste",
+                "ro": "Budapesta",
+                "ru": "Будапешт",
+                "sk": "Budapešť",
+                "sl": "Budimpešta",
+                "sq": "Budapesti",
+                "sr": "Будимпешта",
+                "sv": "Budapest",
+                "ta": "புடாபெஸ்ட்",
+                "tg": "Будапешт",
+                "th": "บูดาเปสต์",
+                "tr": "Budapeşte",
+                "tt": "Будапешт",
+                "udm": "Будапешт",
+                "ug": "Budapésht",
+                "uk": "Будапешт",
+                "ur": "بوداپست",
+                "uz": "Budapesht"
+            },
+            "place_type": 67,
+            "population": 1671004,
+            "latitude": 47.4978789,
+            "longitude": 19.0402383,
+            "geocell": 4948390,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 85788293,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "1000"
+                ],
+                "wikidata_page_name": "Q1781",
+                "wikipedia_pages": {
+                    "hu": "Budapest"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 88984459,
+            "country": 348,
+            "level1area": [
+                "huza"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Kesthell",
+                "hr": "Kestel",
+                "hu": "Keszthely",
+                "ru": "Кестхей",
+                "sl": "Blatenski Kostel",
+                "sr": "Кестхељ"
+            },
+            "place_type": 84,
+            "population": 18031,
+            "latitude": 46.7675081,
+            "longitude": 17.2462801,
+            "geocell": 4923172,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 88984459,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8360"
+                ],
+                "wikidata_page_name": "Q526335",
+                "wikipedia_pages": {
+                    "hu": "Keszthely"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 123770266,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Werischwar",
+                "hu": "Pilisvörösvár",
+                "ru": "Пилишвёрёшвар",
+                "sr": "Пилишверешвар"
+            },
+            "place_type": 84,
+            "population": 14428,
+            "latitude": 47.6210817,
+            "longitude": 18.9115754,
+            "geocell": 4955589,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 123770266,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2085"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130074165,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Rautzenmarkt",
+                "hu": "Ráckeve",
+                "ru": "Рацкеве",
+                "sr": "Српски Ковин"
+            },
+            "place_type": 84,
+            "population": 11043,
+            "latitude": 47.1609765,
+            "longitude": 18.9436266,
+            "geocell": 4937589,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130074165,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2300"
+                ],
+                "wikidata_page_name": "Q755701",
+                "wikipedia_pages": {
+                    "hu": "Ráckeve"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 139327118,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Teckel",
+                "hr": "Tukulja",
+                "hu": "Tököl",
+                "ru": "Тёкёль",
+                "sr": "Тукуља"
+            },
+            "place_type": 84,
+            "population": 11332,
+            "latitude": 47.3226787,
+            "longitude": 18.9632427,
+            "geocell": 4944789,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 139327118,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2316"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 140332206,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Tschemmern",
+                "hu": "Csömör",
+                "ru": "Чёмёр",
+                "sk": "Čemer",
+                "sr": "Чемер"
+            },
+            "place_type": 86,
+            "population": 10215,
+            "latitude": 47.5489158,
+            "longitude": 19.2242144,
+            "geocell": 4951992,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 140332206,
+                "open_street_map_place": "village",
+                "postal_codes": [
+                    "2141"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 140335407,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Getterle",
+                "hu": "Gödöllő",
+                "ru": "Гёдёллё",
+                "sk": "Jedľovo",
+                "sr": "Геделе"
+            },
+            "place_type": 84,
+            "population": 32688,
+            "latitude": 47.601529,
+            "longitude": 19.3476981,
+            "geocell": 4955593,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 140335407,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2100"
+                ],
+                "wikidata_page_name": "Q209988",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 141699600,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Wudersch",
+                "hr": "Jerša",
+                "hu": "Budaörs",
+                "ru": "Будаэрш",
+                "sr": "Будаерш"
+            },
+            "place_type": 84,
+            "population": 29397,
+            "latitude": 47.4600185,
+            "longitude": 18.9541818,
+            "geocell": 4948389,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 141699600,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2040"
+                ],
+                "wikidata_page_name": "Q755691",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 148195197,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Wudigeß",
+                "hu": "Budakeszi",
+                "ru": "Будакеси",
+                "sr": "Будакеси"
+            },
+            "place_type": 84,
+            "population": 15473,
+            "latitude": 47.5099444,
+            "longitude": 18.929382,
+            "geocell": 4951989,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 148195197,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2092"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 155311912,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Orasch",
+                "hu": "Diósd",
+                "sr": "Диошд"
+            },
+            "place_type": 84,
+            "population": 11484,
+            "latitude": 47.406256,
+            "longitude": 18.9448604,
+            "geocell": 4948389,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 155311912,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2049"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 156531665,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Hanselbeck",
+                "hr": "Andzabeg",
+                "hu": "Érd",
+                "ru": "Эрд",
+                "sr": "Ерд"
+            },
+            "place_type": 84,
+            "population": 70800,
+            "latitude": 47.3772495,
+            "longitude": 18.9213833,
+            "geocell": 4944789,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 156531665,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2030"
+                ],
+                "wikidata_page_name": "Q193050",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 157010589,
+            "country": 348,
+            "level1area": [
+                "hufe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Gardon",
+                "hu": "Gárdony",
+                "ru": "Гардонь",
+                "sr": "Гардоњ"
+            },
+            "place_type": 84,
+            "population": 13486,
+            "latitude": 47.2028062,
+            "longitude": 18.6261978,
+            "geocell": 4941186,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 157010589,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2483"
+                ],
+                "wikidata_page_name": "Q642031",
+                "wikipedia_pages": {
+                    "hu": "Gárdony"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 164965193,
+            "country": 348,
+            "level1area": [
+                "huto"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Paksch",
+                "hu": "Paks",
+                "ru": "Пакш",
+                "sr": "Пакш"
+            },
+            "place_type": 84,
+            "population": 17827,
+            "latitude": 46.6229468,
+            "longitude": 18.8589364,
+            "geocell": 4919588,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 164965193,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "7030"
+                ],
+                "wikidata_page_name": "Q740800",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 176436051,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Tárnok",
+                "ru": "Тарнок",
+                "sr": "Тарнок"
+            },
+            "place_type": 86,
+            "population": 10526,
+            "latitude": 47.3668787,
+            "longitude": 18.8660065,
+            "geocell": 4944788,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 176436051,
+                "open_street_map_place": "village",
+                "postal_codes": [
+                    "2461"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 177532814,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Waitzen",
+                "hu": "Vác",
+                "ru": "Вац",
+                "sk": "Vacov",
+                "sr": "Вац"
+            },
+            "place_type": 84,
+            "population": 34040,
+            "latitude": 47.7782873,
+            "longitude": 19.1278294,
+            "geocell": 4959191,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 177532814,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2600"
+                ],
+                "wikidata_page_name": "Q207408",
+                "wikipedia_pages": {
+                    "hu": "Vác"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 179713955,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Wiehall-Kleinturwall",
+                "hu": "Biatorbágy",
+                "ru": "Биаторбадь",
+                "sr": "Бијаторбађ"
+            },
+            "place_type": 84,
+            "population": 15151,
+            "latitude": 47.4739442,
+            "longitude": 18.8232855,
+            "geocell": 4948388,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 179713955,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2051"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 180730584,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Fót",
+                "ru": "Фот",
+                "sr": "Фот"
+            },
+            "place_type": 84,
+            "population": 20975,
+            "latitude": 47.6125871,
+            "longitude": 19.1980105,
+            "geocell": 4955591,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 180730584,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2151"
+                ],
+                "wikidata_page_name": "Q830652",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 180731026,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Dunakeszi",
+                "ru": "Дунакеси",
+                "sr": "Дунакеси"
+            },
+            "place_type": 84,
+            "population": 43061,
+            "latitude": 47.6316697,
+            "longitude": 19.1294055,
+            "geocell": 4955591,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 180731026,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2120"
+                ],
+                "wikidata_page_name": "Q547479",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 183813583,
+            "country": 348,
+            "level1area": [
+                "huza"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Egersee",
+                "hr": "Jegersek",
+                "hu": "Zalaegerszeg",
+                "ru": "Залаэгерсег",
+                "sr": "Залаегерсег",
+                "uk": "Залаеґерсеґ"
+            },
+            "place_type": 67,
+            "population": 55433,
+            "latitude": 46.8415803,
+            "longitude": 16.8456316,
+            "geocell": 4926768,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 183813583,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "8900"
+                ],
+                "wikidata_page_name": "Q60037",
+                "wikipedia_pages": {
+                    "hu": "Zalaegerszeg"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 196174247,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Százhalombatta",
+                "ru": "Саэхаломбатта",
+                "sr": "Сазхаломбата"
+            },
+            "place_type": 84,
+            "population": 17856,
+            "latitude": 47.3171992,
+            "longitude": 18.9120948,
+            "geocell": 4944789,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 196174247,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2440"
+                ],
+                "wikidata_page_name": "Q773203",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 201505357,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Kerepes",
+                "ru": "Керепеш",
+                "sk": "Kerepeš",
+                "sr": "Керепеш"
+            },
+            "place_type": 84,
+            "population": 11066,
+            "latitude": 47.5616135,
+            "longitude": 19.2869071,
+            "geocell": 4951992,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 201505357,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2144"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 204008081,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Dabotz",
+                "hu": "Dabas",
+                "ru": "Дабаш",
+                "sk": "Dabaš",
+                "sr": "Дабаш"
+            },
+            "place_type": 84,
+            "population": 17527,
+            "latitude": 47.1729302,
+            "longitude": 19.3229242,
+            "geocell": 4937593,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 204008081,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2370"
+                ],
+                "wikidata_page_name": "Q854940",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 206235481,
+            "country": 348,
+            "level1area": [
+                "huto"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Tolnau",
+                "hu": "Tolna",
+                "ru": "Тольна",
+                "sr": "Толна"
+            },
+            "place_type": 84,
+            "population": 10697,
+            "latitude": 46.4226584,
+            "longitude": 18.7887741,
+            "geocell": 4912387,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 206235481,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "7130"
+                ],
+                "wikidata_page_name": "Q843021",
+                "wikipedia_pages": {
+                    "hu": "Tolna (Magyarország)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 206283567,
+            "country": 348,
+            "level1area": [
+                "huke"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Drostdorf",
+                "hu": "Dorog",
+                "ru": "Дорог",
+                "sk": "Dorog",
+                "sr": "Дорог"
+            },
+            "place_type": 84,
+            "population": 11424,
+            "latitude": 47.7223782,
+            "longitude": 18.731435,
+            "geocell": 4959187,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 206283567,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2510"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 206292236,
+            "country": 348,
+            "level1area": [
+                "huke"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Эстэргам",
+                "br": "Esztergom",
+                "ca": "Esztergom",
+                "cs": "Ostřihom",
+                "da": "Esztergom",
+                "de": "Gran",
+                "dsb": "Esztergom",
+                "en": "Esztergom",
+                "eo": "Esztergom",
+                "es": "Esztergom",
+                "et": "Esztergom",
+                "eu": "Esztergom",
+                "fa": "استرگم",
+                "fi": "Esztergom",
+                "fr": "Esztergom",
+                "gl": "Esztergom",
+                "he": "אסטרגום",
+                "hr": "Ostrogon",
+                "hu": "Esztergom",
+                "id": "Esztergom",
+                "it": "Esztergom",
+                "ja": "エステルゴム",
+                "ka": "ესტერგომი",
+                "ko": "에스테르곰",
+                "lb": "Esztergom",
+                "lt": "Estergomas",
+                "ms": "Esztergom",
+                "nl": "Esztergom",
+                "nn": "Esztergom",
+                "pl": "Ostrzyhom",
+                "pt": "Esztergom",
+                "ro": "Esztergom",
+                "ru": "Эстергом",
+                "sk": "Ostrihom",
+                "sl": "Esztergom",
+                "sr": "Острогон",
+                "sv": "Esztergom",
+                "tr": "Estergon",
+                "uk": "Естерґом",
+                "vi": "Esztergom"
+            },
+            "place_type": 84,
+            "population": 28680,
+            "latitude": 47.7856939,
+            "longitude": 18.7403377,
+            "geocell": 4959187,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 206292236,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2500"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 206293368,
+            "country": 348,
+            "level1area": [
+                "huke"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Totis",
+                "hu": "Tata",
+                "ru": "Тата",
+                "sr": "Тата"
+            },
+            "place_type": 84,
+            "population": 23881,
+            "latitude": 47.6516214,
+            "longitude": 18.3282083,
+            "geocell": 4955583,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 206293368,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2890"
+                ],
+                "website": "https://tata.hu/",
+                "wikidata_page_name": "Q329768",
+                "wikipedia_pages": {
+                    "hu": "Tata"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 206345670,
+            "country": 348,
+            "level1area": [
+                "hufe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Witschke",
+                "hu": "Bicske",
+                "ru": "Бичке",
+                "sr": "Бичке"
+            },
+            "place_type": 84,
+            "population": 11266,
+            "latitude": 47.4907066,
+            "longitude": 18.6358046,
+            "geocell": 4948386,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 206345670,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2060"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 206359948,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Veresegyház",
+                "sr": "Верешеђхаз"
+            },
+            "place_type": 84,
+            "population": 20783,
+            "latitude": 47.655235,
+            "longitude": 19.2868815,
+            "geocell": 4955592,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 206359948,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2112"
+                ],
+                "wikidata_page_name": "Q843039",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 206360857,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Göd",
+                "ru": "Гёд",
+                "sr": "Гед"
+            },
+            "place_type": 84,
+            "population": 21992,
+            "latitude": 47.6834336,
+            "longitude": 19.1341568,
+            "geocell": 4955591,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 206360857,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2131"
+                ],
+                "wikidata_page_name": "Q604258",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 206362107,
+            "country": 348,
+            "level1area": [
+                "huhe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Hottwan",
+                "hu": "Hatvan",
+                "ru": "Хатван",
+                "sk": "Chotvan",
+                "sr": "Хатван"
+            },
+            "place_type": 84,
+            "population": 20480,
+            "latitude": 47.6683971,
+            "longitude": 19.6743874,
+            "geocell": 4955596,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 206362107,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3000"
+                ],
+                "wikidata_page_name": "Q629849",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 213383214,
+            "country": 348,
+            "level1area": [
+                "huto"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Bonnhard",
+                "hu": "Bonyhád",
+                "ru": "Боньхад",
+                "sr": "Боњхад"
+            },
+            "place_type": 84,
+            "population": 12163,
+            "latitude": 46.2984212,
+            "longitude": 18.532191,
+            "geocell": 4905185,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 213383214,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "7150"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 243687006,
+            "country": 348,
+            "level1area": [
+                "huno"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Jahrmarkt",
+                "hu": "Balassagyarmat",
+                "ru": "Балашшадьярмат",
+                "sk": "Balážske Ďarmoty",
+                "sr": "Балашађармат"
+            },
+            "place_type": 84,
+            "population": 14036,
+            "latitude": 48.0768832,
+            "longitude": 19.2926037,
+            "geocell": 4969992,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 243687006,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2660"
+                ],
+                "wikidata_page_name": "Q789233",
+                "wikipedia_pages": {
+                    "hu": "Balassagyarmat"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 243688523,
+            "country": 348,
+            "level1area": [
+                "huno"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Schalgotarjan",
+                "hu": "Salgótarján",
+                "ru": "Шальготарьян",
+                "sk": "Šalgov-Tarjany",
+                "sr": "Шалготарјан"
+            },
+            "place_type": 67,
+            "population": 31223,
+            "latitude": 48.0960676,
+            "longitude": 19.8005642,
+            "geocell": 4969998,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 243688523,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "3100"
+                ],
+                "wikidata_page_name": "Q189769",
+                "wikipedia_pages": {
+                    "hu": "Salgótarján"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 243689884,
+            "country": 348,
+            "level1area": [
+                "huhe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Gengeß",
+                "hu": "Gyöngyös",
+                "ru": "Дьёндьёш",
+                "sk": "Dindeš",
+                "sr": "Ђенђеш",
+                "uk": "Дьєндьєш"
+            },
+            "place_type": 84,
+            "population": 27887,
+            "latitude": 47.7799838,
+            "longitude": 19.9291176,
+            "geocell": 4959199,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 243689884,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3200"
+                ],
+                "wikidata_page_name": "Q209983",
+                "wikipedia_pages": {
+                    "hu": "Gyöngyös (település)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 244528591,
+            "country": 348,
+            "level1area": [
+                "huso"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Martzal",
+                "hr": "Marcalin",
+                "hu": "Marcali",
+                "ru": "Марцали",
+                "sr": "Марцали"
+            },
+            "place_type": 84,
+            "population": 10700,
+            "latitude": 46.5833484,
+            "longitude": 17.4123002,
+            "geocell": 4915974,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 244528591,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8700"
+                ],
+                "wikidata_page_name": "Q843009",
+                "wikipedia_pages": {
+                    "hu": "Marcali"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 245767926,
+            "country": 348,
+            "level1area": [
+                "hubz"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Sankt Peter",
+                "hu": "Sajószentpéter",
+                "ru": "Шайосентпетер",
+                "sk": "Svätý Peter nad Slanou",
+                "sr": "Шајосентпетер"
+            },
+            "place_type": 84,
+            "population": 11274,
+            "latitude": 48.2183544,
+            "longitude": 20.7087764,
+            "geocell": 4977207,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 245767926,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3770"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 245769604,
+            "country": 348,
+            "level1area": [
+                "hubz"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Kazincbarcika",
+                "ru": "Казинцбарцика",
+                "sk": "Kazinec",
+                "sr": "Казинцбарицка",
+                "uk": "Казінцбарцика"
+            },
+            "place_type": 84,
+            "population": 24373,
+            "latitude": 48.2544414,
+            "longitude": 20.6223251,
+            "geocell": 4977206,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 245769604,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3700"
+                ],
+                "wikidata_page_name": "Q214942",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 252013624,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Großturwall",
+                "hu": "Törökbálint",
+                "ru": "Тёрёкбалинт",
+                "sr": "Терекбалинт"
+            },
+            "place_type": 84,
+            "population": 14741,
+            "latitude": 47.4349579,
+            "longitude": 18.9130312,
+            "geocell": 4948389,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 252013624,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2045"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 257448661,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Isaszeg",
+                "ru": "Ишасег",
+                "sk": "Išaseg",
+                "sr": "Ишасег"
+            },
+            "place_type": 84,
+            "population": 11645,
+            "latitude": 47.5303335,
+            "longitude": 19.4017001,
+            "geocell": 4951994,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 257448661,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2117"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 268154501,
+            "country": 348,
+            "level1area": [
+                "hufe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Moor",
+                "hu": "Mór",
+                "ru": "Мор",
+                "sr": "Мор"
+            },
+            "place_type": 84,
+            "population": 13547,
+            "latitude": 47.3720267,
+            "longitude": 18.2090388,
+            "geocell": 4944782,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 268154501,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8060"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 268183245,
+            "country": 348,
+            "level1area": [
+                "huve"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Poppa",
+                "hu": "Pápa",
+                "ru": "Папа",
+                "sr": "Папа"
+            },
+            "place_type": 84,
+            "population": 28789,
+            "latitude": 47.3261087,
+            "longitude": 17.4705293,
+            "geocell": 4944774,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 268183245,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8500"
+                ],
+                "wikidata_page_name": "Q214945",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 268197049,
+            "country": 348,
+            "level1area": [
+                "huva"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Kirment",
+                "hr": "Kirmied",
+                "hu": "Körmend",
+                "ru": "Кёрменд",
+                "sl": "Kermendin",
+                "sr": "Керменд"
+            },
+            "place_type": 84,
+            "population": 10255,
+            "latitude": 47.0126655,
+            "longitude": 16.6010475,
+            "geocell": 4933966,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 268197049,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "9900"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 268204356,
+            "country": 348,
+            "level1area": [
+                "huhb"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Sobols",
+                "hu": "Hajdúszoboszló",
+                "ru": "Хайдусобосло",
+                "sr": "Хајдусобосло"
+            },
+            "place_type": 84,
+            "population": 23475,
+            "latitude": 47.4431291,
+            "longitude": 21.3902995,
+            "geocell": 4948413,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 268204356,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4200"
+                ],
+                "wikidata_page_name": "Q830404",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 268204467,
+            "country": 348,
+            "level1area": [
+                "huhb"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Püspökladány",
+                "ru": "Пюшпёкладань",
+                "sr": "Пишпекладањ"
+            },
+            "place_type": 84,
+            "population": 13180,
+            "latitude": 47.3196043,
+            "longitude": 21.1122524,
+            "geocell": 4944811,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 268204467,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4150"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 268205246,
+            "country": 348,
+            "level1area": [
+                "hujn"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Thur",
+                "hu": "Mezőtúr",
+                "ru": "Мезётур",
+                "sr": "Мезетур"
+            },
+            "place_type": 84,
+            "population": 15644,
+            "latitude": 47.0004724,
+            "longitude": 20.6299513,
+            "geocell": 4934006,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 268205246,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5400"
+                ],
+                "wikidata_page_name": "Q855052",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 268212667,
+            "country": 348,
+            "level1area": [
+                "husz"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Kleinwardein",
+                "hu": "Kisvárda",
+                "ru": "Кишварда",
+                "sr": "Кишварда",
+                "uk": "Кішварда"
+            },
+            "place_type": 84,
+            "population": 14990,
+            "latitude": 48.2257593,
+            "longitude": 22.0784247,
+            "geocell": 4977220,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 268212667,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4600"
+                ],
+                "wikidata_page_name": "Q674311",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 268215944,
+            "country": 348,
+            "level1area": [
+                "hubz"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Ózd",
+                "ru": "Озд",
+                "sr": "Озд"
+            },
+            "place_type": 84,
+            "population": 30865,
+            "latitude": 48.2239095,
+            "longitude": 20.2895983,
+            "geocell": 4977202,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 268215944,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3600"
+                ],
+                "wikidata_page_name": "Q293558",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 274666503,
+            "country": 348,
+            "level1area": [
+                "huto"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Dombowa",
+                "hu": "Dombóvár",
+                "ru": "Домбовар",
+                "sr": "Домбовар"
+            },
+            "place_type": 84,
+            "population": 17300,
+            "latitude": 46.3778989,
+            "longitude": 18.1332865,
+            "geocell": 4908781,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 274666503,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "7200"
+                ],
+                "wikidata_page_name": "Q633789",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 274960000,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Халастелек",
+                "hu": "Halásztelek",
+                "sr": "Халастелек"
+            },
+            "place_type": 84,
+            "population": 11896,
+            "latitude": 47.363105,
+            "longitude": 18.9811444,
+            "geocell": 4944789,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 274960000,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2314"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 274960662,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Szigethalom",
+                "sr": "Сигетхалом"
+            },
+            "place_type": 84,
+            "population": 18286,
+            "latitude": 47.3245067,
+            "longitude": 19.0001884,
+            "geocell": 4944790,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 274960662,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2315"
+                ],
+                "wikidata_page_name": "Q784229",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 274961265,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Nigglau",
+                "hu": "Szigetszentmiklós",
+                "ru": "Сигетсентмиклош",
+                "sr": "Сигетсентмиклош"
+            },
+            "place_type": 84,
+            "population": 39954,
+            "latitude": 47.345765,
+            "longitude": 19.0409037,
+            "geocell": 4944790,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 274961265,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2310"
+                ],
+                "wikidata_page_name": "Q740853",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 274961269,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Harast",
+                "hu": "Dunaharaszti",
+                "ru": "Дунахарасти",
+                "sr": "Дунахарасти"
+            },
+            "place_type": 84,
+            "population": 23637,
+            "latitude": 47.359976,
+            "longitude": 19.0953357,
+            "geocell": 4944790,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 274961269,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2330"
+                ],
+                "wikidata_page_name": "Q854933",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 274961837,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Gyál",
+                "ru": "Дьяль",
+                "sr": "Ђал"
+            },
+            "place_type": 84,
+            "population": 24463,
+            "latitude": 47.3845453,
+            "longitude": 19.2173066,
+            "geocell": 4944792,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 274961837,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2360"
+                ],
+                "wikidata_page_name": "Q842908",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 276163832,
+            "country": 348,
+            "level1area": [
+                "hufe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Bochart",
+                "hu": "Sárbogárd",
+                "ru": "Шарбогард",
+                "sr": "Шарбогард"
+            },
+            "place_type": 84,
+            "population": 11475,
+            "latitude": 46.8874371,
+            "longitude": 18.6196247,
+            "geocell": 4926786,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 276163832,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "7000"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 277515388,
+            "country": 348,
+            "level1area": [
+                "hugs"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Wieselburg-Ungarisch Altenburg",
+                "hr": "Stari Grad",
+                "hu": "Mosonmagyaróvár",
+                "ru": "Мошонмадьяровар",
+                "sk": "Mošon-Uhorský Starhrad",
+                "sr": "Мошонмађарорвар"
+            },
+            "place_type": 84,
+            "population": 34226,
+            "latitude": 47.8731793,
+            "longitude": 17.2722342,
+            "geocell": 4962772,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 277515388,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "9200"
+                ],
+                "wikidata_page_name": "Q207406",
+                "wikipedia_pages": {
+                    "hu": "Mosonmagyaróvár"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 282420922,
+            "country": 348,
+            "level1area": [
+                "huke"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Totiserkolonie",
+                "hu": "Tatabánya",
+                "ru": "Татабанья",
+                "sk": "Tatabaňa",
+                "sr": "Татабања",
+                "uk": "Татабанья"
+            },
+            "place_type": 67,
+            "population": 65874,
+            "latitude": 47.583845,
+            "longitude": 18.3979855,
+            "geocell": 4951983,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 282420922,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "2800"
+                ],
+                "wikidata_page_name": "Q187821",
+                "wikipedia_pages": {
+                    "hu": "Tatabánya"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 285886520,
+            "country": 348,
+            "level1area": [
+                "huve"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Eikau",
+                "hu": "Ajka",
+                "ru": "Айка",
+                "sr": "Ајка"
+            },
+            "place_type": 84,
+            "population": 26643,
+            "latitude": 47.1056579,
+            "longitude": 17.5587276,
+            "geocell": 4937575,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 285886520,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8400"
+                ],
+                "wikidata_page_name": "Q206872",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 285902043,
+            "country": 348,
+            "level1area": [
+                "huve"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Burgschloß",
+                "hu": "Várpalota",
+                "ru": "Варпалота",
+                "sr": "Варпалота"
+            },
+            "place_type": 84,
+            "population": 19624,
+            "latitude": 47.198695,
+            "longitude": 18.138157,
+            "geocell": 4937581,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 285902043,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8100"
+                ],
+                "wikidata_page_name": "Q755681",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286101602,
+            "country": 348,
+            "level1area": [
+                "huza"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Großkirchen",
+                "hr": "Velika Kaniža",
+                "hu": "Nagykanizsa",
+                "ru": "Надьканижа",
+                "sk": "Veľká Kaniža",
+                "sr": "Велика Кањижа",
+                "tr": "Kanije"
+            },
+            "place_type": 84,
+            "population": 43188,
+            "latitude": 46.4548261,
+            "longitude": 16.9923923,
+            "geocell": 4912369,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286101602,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8800"
+                ],
+                "website": "https://nagykanizsa.hu/",
+                "wikidata_page_name": "Q14424",
+                "wikipedia_pages": {
+                    "hu": "Nagykanizsa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286103368,
+            "country": 348,
+            "level1area": [
+                "huva"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Kőszeg",
+                "hr": "Kiseg",
+                "hu": "Kőszeg",
+                "ru": "Кёсег",
+                "sk": "Kysek",
+                "sr": "Кесег"
+            },
+            "place_type": 84,
+            "population": 11723,
+            "latitude": 47.3894949,
+            "longitude": 16.5406843,
+            "geocell": 4944765,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286103368,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "9730"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286129272,
+            "country": 348,
+            "level1area": [
+                "huno"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Bátonyterenye",
+                "sk": "Terany",
+                "sr": "Батоњтерење"
+            },
+            "place_type": 84,
+            "population": 11284,
+            "latitude": 47.9955532,
+            "longitude": 19.8272105,
+            "geocell": 4966398,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286129272,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3070"
+                ],
+                "wikidata_page_name": "Q853746",
+                "wikipedia_pages": {
+                    "hu": "Bátonyterenye"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286130475,
+            "country": 348,
+            "level1area": [
+                "huke"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Ohreslahn",
+                "hu": "Oroszlány",
+                "ru": "Орослань",
+                "sr": "Орослањ"
+            },
+            "place_type": 84,
+            "population": 18064,
+            "latitude": 47.4897011,
+            "longitude": 18.3148401,
+            "geocell": 4948383,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286130475,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2840"
+                ],
+                "wikidata_page_name": "Q843028",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286169938,
+            "country": 348,
+            "level1area": [
+                "husz"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Tiszavasvári",
+                "ru": "Тисавашвари",
+                "sr": "Тисавашвари"
+            },
+            "place_type": 84,
+            "population": 12338,
+            "latitude": 47.956619,
+            "longitude": 21.3680532,
+            "geocell": 4966413,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286169938,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4440"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286174034,
+            "country": 348,
+            "level1area": [
+                "huhb"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Hajdúhadház",
+                "ru": "Хайдухадхаз",
+                "sr": "Хајдухадхаз"
+            },
+            "place_type": 84,
+            "population": 13057,
+            "latitude": 47.6844833,
+            "longitude": 21.6691853,
+            "geocell": 4955616,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286174034,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4242"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286174484,
+            "country": 348,
+            "level1area": [
+                "husz"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Ratzfert",
+                "hu": "Újfehértó",
+                "ru": "Уйфехерто",
+                "sr": "Ујфехерто"
+            },
+            "place_type": 84,
+            "population": 12218,
+            "latitude": 47.8008977,
+            "longitude": 21.6829931,
+            "geocell": 4962816,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286174484,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4244"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286176618,
+            "country": 348,
+            "level1area": [
+                "husz"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Bathor",
+                "hu": "Nyírbátor",
+                "sr": "Њирбатор"
+            },
+            "place_type": 84,
+            "population": 11388,
+            "latitude": 47.839511,
+            "longitude": 22.1322309,
+            "geocell": 4962821,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286176618,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4300"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286178040,
+            "country": 348,
+            "level1area": [
+                "husz"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Salka",
+                "hu": "Mátészalka",
+                "ru": "Матесалька",
+                "sr": "Матесалка",
+                "uk": "Матесалька"
+            },
+            "place_type": 84,
+            "population": 15351,
+            "latitude": 47.9539113,
+            "longitude": 22.3208477,
+            "geocell": 4966423,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286178040,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4700"
+                ],
+                "wikidata_page_name": "Q842976",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286200051,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Wetschesch",
+                "hu": "Vecsés",
+                "ru": "Вечеш",
+                "sk": "Večeš",
+                "sr": "Вечеш"
+            },
+            "place_type": 84,
+            "population": 21352,
+            "latitude": 47.4095417,
+            "longitude": 19.2650378,
+            "geocell": 4948392,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286200051,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2220"
+                ],
+                "wikidata_page_name": "Q36063",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286200348,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Üllő",
+                "ru": "Илле",
+                "sk": "Ilov",
+                "sr": "Иле"
+            },
+            "place_type": 84,
+            "population": 12611,
+            "latitude": 47.3850605,
+            "longitude": 19.3453263,
+            "geocell": 4944793,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286200348,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2225"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286200470,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Monnor",
+                "hu": "Monor",
+                "ru": "Монор",
+                "sk": "Monor",
+                "sr": "Монор"
+            },
+            "place_type": 84,
+            "population": 19020,
+            "latitude": 47.3527433,
+            "longitude": 19.4468404,
+            "geocell": 4944794,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286200470,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2200"
+                ],
+                "wikidata_page_name": "Q749320",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286201239,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Pilis",
+                "ru": "Пилиш",
+                "sk": "Pilíš",
+                "sr": "Пилиш"
+            },
+            "place_type": 84,
+            "population": 11827,
+            "latitude": 47.2860696,
+            "longitude": 19.5467411,
+            "geocell": 4941195,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286201239,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2721"
+                ],
+                "wikidata_page_name": "Q845575",
+                "wikipedia_pages": {
+                    "hu": "Pilis (település)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286201536,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Irschingen",
+                "hu": "Albertirsa",
+                "ru": "Альбертиша",
+                "sk": "Irša",
+                "sr": "Албертирша"
+            },
+            "place_type": 84,
+            "population": 13533,
+            "latitude": 47.2457295,
+            "longitude": 19.6127835,
+            "geocell": 4941196,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286201536,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2730"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286202645,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Gyömrő",
+                "ru": "Дьёмрё",
+                "sk": "Demrov",
+                "sr": "Ђемре"
+            },
+            "place_type": 84,
+            "population": 20216,
+            "latitude": 47.4223375,
+            "longitude": 19.394503,
+            "geocell": 4948393,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286202645,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2230"
+                ],
+                "wikidata_page_name": "Q854906",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286202716,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Maglau",
+                "hu": "Maglód",
+                "sk": "Maglovec",
+                "sr": "Маглод"
+            },
+            "place_type": 84,
+            "population": 12412,
+            "latitude": 47.4449622,
+            "longitude": 19.3593136,
+            "geocell": 4948393,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286202716,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2234"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286203307,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Pécel",
+                "ru": "Пецель",
+                "sr": "Пецел"
+            },
+            "place_type": 84,
+            "population": 17331,
+            "latitude": 47.4911201,
+            "longitude": 19.3446801,
+            "geocell": 4948393,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286203307,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2119"
+                ],
+                "wikidata_page_name": "Q222964",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286933452,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Kistarcsa",
+                "ru": "Киштарча",
+                "sk": "Malá Tarča",
+                "sr": "Киштарча"
+            },
+            "place_type": 84,
+            "population": 13606,
+            "latitude": 47.5447322,
+            "longitude": 19.2636378,
+            "geocell": 4951992,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286933452,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2143"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286935167,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Nagykáta",
+                "ru": "Надьката",
+                "sr": "Нађката"
+            },
+            "place_type": 84,
+            "population": 11985,
+            "latitude": 47.4138187,
+            "longitude": 19.7503736,
+            "geocell": 4948397,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286935167,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2760"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286968025,
+            "country": 348,
+            "level1area": [
+                "huhb"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Betschermen",
+                "hu": "Hajdúböszörmény",
+                "ru": "Хайдубёсёрмень",
+                "sr": "Хајдубесермењ"
+            },
+            "place_type": 84,
+            "population": 29574,
+            "latitude": 47.6716617,
+            "longitude": 21.5078944,
+            "geocell": 4955615,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286968025,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4220"
+                ],
+                "wikidata_page_name": "Q679224",
+                "wikipedia_pages": {
+                    "hu": "Hajdúböszörmény"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286968184,
+            "country": 348,
+            "level1area": [
+                "huhb"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Hajdúsámson",
+                "ru": "Хайдушамшон",
+                "sr": "Хајдушамшон"
+            },
+            "place_type": 84,
+            "population": 13960,
+            "latitude": 47.5989514,
+            "longitude": 21.7537139,
+            "geocell": 4952017,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286968184,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4251"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286969354,
+            "country": 348,
+            "level1area": [
+                "huhb"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Hajdúnánás",
+                "ru": "Хайдунанаш",
+                "sr": "Хајдунанаш"
+            },
+            "place_type": 84,
+            "population": 16214,
+            "latitude": 47.8452241,
+            "longitude": 21.4279002,
+            "geocell": 4962814,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286969354,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4080"
+                ],
+                "website": "http://hajdunanas.hu/",
+                "wikidata_page_name": "Q739304",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286969829,
+            "country": 348,
+            "level1area": [
+                "huhb"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Brettenbach",
+                "hu": "Berettyóújfalu",
+                "ru": "Береттьоуйфалу",
+                "sr": "Беретћоујфалу"
+            },
+            "place_type": 84,
+            "population": 14040,
+            "latitude": 47.2247273,
+            "longitude": 21.5355206,
+            "geocell": 4941215,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286969829,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4100"
+                ],
+                "wikidata_page_name": "Q793405",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286971559,
+            "country": 348,
+            "level1area": [
+                "huhb"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Neustadt auf dem Heiduckenboden",
+                "hu": "Balmazújváros",
+                "ru": "Бальмазуйварош",
+                "sr": "Балмазујварош"
+            },
+            "place_type": 84,
+            "population": 16949,
+            "latitude": 47.6116279,
+            "longitude": 21.3437378,
+            "geocell": 4955613,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286971559,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4060"
+                ],
+                "wikidata_page_name": "Q789510",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286972968,
+            "country": 348,
+            "level1area": [
+                "hucs"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Tschongrad",
+                "hu": "Csongrád",
+                "ru": "Чонград",
+                "sr": "Чонград"
+            },
+            "place_type": 84,
+            "population": 15454,
+            "latitude": 46.7096643,
+            "longitude": 20.1531646,
+            "geocell": 4923201,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286972968,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6640"
+                ],
+                "wikidata_page_name": "Q649214",
+                "wikipedia_pages": {
+                    "hu": "Csongrád (település)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286974186,
+            "country": 348,
+            "level1area": [
+                "hucs"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Szentes",
+                "ru": "Сентеш",
+                "sr": "Сентеш"
+            },
+            "place_type": 84,
+            "population": 25417,
+            "latitude": 46.6524049,
+            "longitude": 20.2566408,
+            "geocell": 4919602,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286974186,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6600"
+                ],
+                "wikidata_page_name": "Q377834",
+                "wikipedia_pages": {
+                    "hu": "Szentes"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286975602,
+            "country": 348,
+            "level1area": [
+                "hubz"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Neustadt an der Theiß",
+                "hu": "Tiszaújváros",
+                "ru": "Тисауйварош",
+                "sr": "Тисаујварош",
+                "uk": "Тисауйварош"
+            },
+            "place_type": 84,
+            "population": 15479,
+            "latitude": 47.9280341,
+            "longitude": 21.0467056,
+            "geocell": 4966410,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286975602,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3580"
+                ],
+                "wikidata_page_name": "Q375097",
+                "wikipedia_pages": {
+                    "hu": "Tiszaújváros"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286983971,
+            "country": 348,
+            "level1area": [
+                "hubz"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Sárospatak",
+                "hu": "Sárospatak",
+                "ru": "Шарошпатак",
+                "sk": "Blatný Potok",
+                "sr": "Шарошпатак",
+                "uk": "Шарошпатак"
+            },
+            "place_type": 84,
+            "population": 10741,
+            "latitude": 48.3216823,
+            "longitude": 21.5655524,
+            "geocell": 4980815,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286983971,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3950"
+                ],
+                "website": "http://www.sarospatak.hu",
+                "wikidata_page_name": "Q668318",
+                "wikipedia_pages": {
+                    "hu": "Sárospatak"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286984247,
+            "country": 348,
+            "level1area": [
+                "hubz"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Sátoraljaújhely",
+                "hu": "Sátoraljaújhely",
+                "ru": "Шаторальяуйхей",
+                "sk": "Nové Mesto pod Šiatrom",
+                "sr": "Шатораљаујхељ",
+                "uk": "Шаторальяуйхей"
+            },
+            "place_type": 84,
+            "population": 13122,
+            "latitude": 48.3960978,
+            "longitude": 21.6561497,
+            "geocell": 4980816,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286984247,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3980"
+                ],
+                "wikidata_page_name": "Q116417",
+                "wikipedia_pages": {
+                    "de": "Sátoraljaújhely"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286986763,
+            "country": 348,
+            "level1area": [
+                "hubz"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Mezőkövesd",
+                "ru": "Мезёкёвешд",
+                "sr": "Мезекевешд"
+            },
+            "place_type": 84,
+            "population": 15588,
+            "latitude": 47.8097525,
+            "longitude": 20.5660889,
+            "geocell": 4962805,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286986763,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3400"
+                ],
+                "wikidata_page_name": "Q933638",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286990172,
+            "country": 348,
+            "level1area": [
+                "hube"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Gyomaendrőd",
+                "sr": "Ђомаендред"
+            },
+            "place_type": 84,
+            "population": 12144,
+            "latitude": 46.9358032,
+            "longitude": 20.8260916,
+            "geocell": 4930408,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286990172,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5500"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 286994834,
+            "country": 348,
+            "level1area": [
+                "hube"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Bekesch",
+                "hu": "Békés",
+                "ro": "Bichiș",
+                "ru": "Бекеш",
+                "sk": "Békéš",
+                "sr": "Бекеш"
+            },
+            "place_type": 84,
+            "population": 17726,
+            "latitude": 46.7717431,
+            "longitude": 21.1325877,
+            "geocell": 4923211,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 286994834,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5630"
+                ],
+                "wikidata_page_name": "Q740810",
+                "wikipedia_pages": {
+                    "hu": "Békés"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 287001052,
+            "country": 348,
+            "level1area": [
+                "hubk"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Körösch",
+                "hr": "Kireš",
+                "hu": "Kiskőrös",
+                "ru": "Кишкёрёш",
+                "sk": "Malý Kereš",
+                "sr": "Кишкереш"
+            },
+            "place_type": 84,
+            "population": 13320,
+            "latitude": 46.6205706,
+            "longitude": 19.2843551,
+            "geocell": 4919592,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 287001052,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6200"
+                ],
+                "website": "https://kiskoros.hu/",
+                "wikidata_page_name": "Q646850",
+                "wikipedia_pages": {
+                    "hu": "Kiskőrös"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 287001980,
+            "country": 348,
+            "level1area": [
+                "hubk"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Frankenstadt",
+                "hu": "Baja",
+                "ru": "Байя",
+                "sr": "Баја"
+            },
+            "place_type": 84,
+            "population": 33142,
+            "latitude": 46.1785471,
+            "longitude": 18.9517255,
+            "geocell": 4901589,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 287001980,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6500"
+                ],
+                "wikidata_page_name": "Q203344",
+                "wikipedia_pages": {
+                    "hu": "Baja"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 287004164,
+            "country": 348,
+            "level1area": [
+                "hubk"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Hallasch",
+                "hr": "Olaš",
+                "hu": "Kiskunhalas",
+                "ru": "Кишкунхалаш",
+                "sr": "Кишкунхалаш"
+            },
+            "place_type": 84,
+            "population": 26215,
+            "latitude": 46.4278497,
+            "longitude": 19.4833076,
+            "geocell": 4912394,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 287004164,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6400"
+                ],
+                "wikidata_page_name": "Q329775",
+                "wikipedia_pages": {
+                    "hu": "Kiskunhalas"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 287005373,
+            "country": 348,
+            "level1area": [
+                "hubk"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Kiskunmajsa",
+                "ru": "Кишкунмайша",
+                "sr": "Кишкунмајша"
+            },
+            "place_type": 84,
+            "population": 11675,
+            "latitude": 46.4906228,
+            "longitude": 19.7393121,
+            "geocell": 4912397,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 287005373,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6120"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 287005902,
+            "country": 348,
+            "level1area": [
+                "hubk"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Feulegaß",
+                "hu": "Kiskunfélegyháza",
+                "ru": "Кишкунфеледьхаза",
+                "sr": "Кишкунфелеђхаза"
+            },
+            "place_type": 84,
+            "population": 28803,
+            "latitude": 46.7114381,
+            "longitude": 19.8501648,
+            "geocell": 4923198,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 287005902,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6100"
+                ],
+                "website": "https://kiskunfelegyhaza.hu",
+                "wikidata_page_name": "Q478038",
+                "wikipedia_pages": {
+                    "hu": "Kiskunfélegyháza"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 287007417,
+            "country": 348,
+            "level1area": [
+                "hubk"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Lajosmizse",
+                "ru": "Лайошмиже",
+                "sr": "Лајошмиже"
+            },
+            "place_type": 84,
+            "population": 11653,
+            "latitude": 47.0264714,
+            "longitude": 19.5582644,
+            "geocell": 4933995,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 287007417,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6050"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 287008438,
+            "country": 348,
+            "level1area": [
+                "hubk"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Tiszakécske",
+                "ru": "Тисакечке",
+                "sr": "Тисакечке"
+            },
+            "place_type": 84,
+            "population": 11664,
+            "latitude": 46.9315289,
+            "longitude": 20.1045358,
+            "geocell": 4930401,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 287008438,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6060"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 296137465,
+            "country": 348,
+            "level1area": [
+                "huve"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Bad Plattensee",
+                "fa": "بالاتنفورد",
+                "hr": "Balatonfured",
+                "hu": "Balatonfüred",
+                "lt": "Balatonfiuredas",
+                "ru": "Балатонфюред",
+                "sr": "Балатонфиред"
+            },
+            "place_type": 84,
+            "population": 13053,
+            "latitude": 46.9567254,
+            "longitude": 17.888892,
+            "geocell": 4930378,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 296137465,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8230"
+                ],
+                "wikidata_page_name": "Q680743",
+                "wikipedia_pages": {
+                    "hu": "Balatonfüred"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 330880946,
+            "country": 348,
+            "level1area": [
+                "hubk"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Kollotschau",
+                "hr": "Kaloča",
+                "hu": "Kalocsa",
+                "ru": "Калоча",
+                "sr": "Калоча"
+            },
+            "place_type": 84,
+            "population": 14619,
+            "latitude": 46.5230265,
+            "longitude": 18.9825043,
+            "geocell": 4915989,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 330880946,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6300"
+                ],
+                "wikidata_page_name": "Q679249",
+                "wikipedia_pages": {
+                    "hu": "Kalocsa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 331844188,
+            "country": 348,
+            "level1area": [
+                "huso"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Schiofok",
+                "hu": "Siófok",
+                "lt": "Šiofokas",
+                "ru": "Шиофок",
+                "sr": "Шиофок"
+            },
+            "place_type": 84,
+            "population": 24390,
+            "latitude": 46.9071694,
+            "longitude": 18.0541598,
+            "geocell": 4930380,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 331844188,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8600"
+                ],
+                "wikidata_page_name": "Q245126",
+                "wikipedia_pages": {
+                    "hu": "Siófok"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 334943106,
+            "country": 348,
+            "level1area": [
+                "huve"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Wesprim",
+                "hu": "Veszprém",
+                "ru": "Веспрем",
+                "sk": "Vesprím",
+                "sr": "Веспрем",
+                "uk": "Веспрем"
+            },
+            "place_type": 67,
+            "population": 56777,
+            "latitude": 47.0933824,
+            "longitude": 17.9080406,
+            "geocell": 4933979,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 334943106,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "8200"
+                ],
+                "wikidata_page_name": "Q146317",
+                "wikipedia_pages": {
+                    "hu": "Veszprém"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 368447565,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Schaumar",
+                "hu": "Solymár",
+                "ru": "Шоймар",
+                "sr": "Сољмар"
+            },
+            "place_type": 86,
+            "population": 11005,
+            "latitude": 47.5913333,
+            "longitude": 18.9284943,
+            "geocell": 4951989,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 368447565,
+                "open_street_map_place": "village",
+                "postal_codes": [
+                    "2083"
+                ],
+                "wikidata_page_name": "Q1184326",
+                "wikipedia_pages": {
+                    "hu": "Solymár"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 416984891,
+            "country": 348,
+            "level1area": [
+                "huba"
+            ],
+            "level2area": null,
+            "names": {
+                "cs": "Moháč",
+                "de": "Mohatsch",
+                "hr": "Mohač",
+                "hu": "Mohács",
+                "ru": "Мохач",
+                "sk": "Moháč",
+                "sr": "Мохач",
+                "tr": "Mohaç"
+            },
+            "place_type": 84,
+            "population": 17315,
+            "latitude": 45.9933836,
+            "longitude": 18.6821079,
+            "geocell": 4894386,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 416984891,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "7700"
+                ],
+                "wikidata_page_name": "Q320798",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1037122686,
+            "country": 348,
+            "level1area": [
+                "hupe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Wabing",
+                "hu": "Abony",
+                "ru": "Абонь",
+                "sr": "Абоњ"
+            },
+            "place_type": 84,
+            "population": 14622,
+            "latitude": 47.1887402,
+            "longitude": 20.0047823,
+            "geocell": 4937600,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1037122686,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2740"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1376344644,
+            "country": 348,
+            "level1area": [
+                "hujn"
+            ],
+            "level2area": null,
+            "names": {
+                "hu": "Kisújszállás",
+                "ru": "Кишуйсаллаш",
+                "sr": "Кишујсалаш"
+            },
+            "place_type": 84,
+            "population": 10055,
+            "latitude": 47.2162053,
+            "longitude": 20.7546669,
+            "geocell": 4941207,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1376344644,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5310"
+                ],
+                "wikidata_page_name": "Q911634",
+                "wikipedia_pages": {
+                    "hu": "Kisújszállás"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1673787395,
+            "country": 348,
+            "level1area": [
+                "hufe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Neustadt an der Donau",
+                "hu": "Dunaújváros",
+                "ru": "Дунауйварош",
+                "sr": "Дунаујварош",
+                "uk": "Дунауйварош"
+            },
+            "place_type": 84,
+            "population": 41873,
+            "latitude": 46.9669545,
+            "longitude": 18.9393976,
+            "geocell": 4930389,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1673787395,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2400"
+                ],
+                "wikidata_page_name": "Q187812",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1704499260,
+            "country": 348,
+            "level1area": [
+                "huva"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Steinamanger",
+                "hr": "Sambotel",
+                "hu": "Szombathely",
+                "ru": "Сомбатхей",
+                "sk": "Kamenec",
+                "sr": "Сомбатхељ"
+            },
+            "place_type": 67,
+            "population": 78446,
+            "latitude": 47.2291184,
+            "longitude": 16.6187625,
+            "geocell": 4941166,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1704499260,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "9700"
+                ],
+                "wikidata_page_name": "Q42007",
+                "wikipedia_pages": {
+                    "hu": "Szombathely"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1801839190,
+            "country": 348,
+            "level1area": [
+                "hujn"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Sollnock",
+                "hu": "Szolnok",
+                "ka": "სოლნოკი",
+                "ru": "Сольнок",
+                "sk": "Solník",
+                "sr": "Солнок",
+                "uk": "Солнок"
+            },
+            "place_type": 67,
+            "population": 67126,
+            "latitude": 47.1753833,
+            "longitude": 20.1946279,
+            "geocell": 4937601,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1801839190,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "5000"
+                ],
+                "wikidata_page_name": "Q181276",
+                "wikipedia_pages": {
+                    "hu": "Szolnok"
+                }
+            }
+        }
+    }
+]

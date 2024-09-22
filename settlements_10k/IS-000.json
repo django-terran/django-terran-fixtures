@@ -1,0 +1,264 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 129958272,
+            "country": 352,
+            "level1area": [
+                "is2"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Reykjanesbær",
+                "ru": "Рейкьянесбайр"
+            },
+            "place_type": 84,
+            "population": 21957,
+            "latitude": 63.9832697,
+            "longitude": -22.5561494,
+            "geocell": 5541974,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 129958272,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q652130",
+                "wikipedia_pages": {
+                    "is": "Reykjanesbær"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 242107681,
+            "country": 352,
+            "level1area": [
+                "is6"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Akureyri",
+                "is": "Akureyri",
+                "lt": "Akureiris",
+                "ru": "Акюрейри"
+            },
+            "place_type": 84,
+            "population": 19542,
+            "latitude": 65.6826364,
+            "longitude": -18.0912993,
+            "geocell": 5603219,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 242107681,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q29042",
+                "wikipedia_pages": {
+                    "is": "Akureyri"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2107832620,
+            "country": 352,
+            "level1area": [
+                "is1"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ريكيافيك",
+                "be": "Рэйк'явік",
+                "ckb": "ڕێکیاڤیک",
+                "de": "Reykjavik",
+                "en": "Reykjavik",
+                "es": "Reikiavik",
+                "fr": "Reykjavik",
+                "ga": "Réicivíc",
+                "hu": "Reykjavík",
+                "is": "Reykjavík",
+                "it": "Reykjavík",
+                "ja": "レイキャヴィク",
+                "lt": "Reikjavikas",
+                "nl": "Reykjavik",
+                "pl": "Reykjavík",
+                "pt": "Reiquiavique",
+                "ro": "Reykjavík",
+                "ru": "Рейкьявик",
+                "sk": "Reykjavík",
+                "sv": "Reykjavik",
+                "ta": "ரெய்க்யவிக்",
+                "uk": "Рейк'явік",
+                "ur": "ریکجاوک",
+                "uz": "Reykyavik",
+                "vi": "Reykjavik"
+            },
+            "place_type": 67,
+            "population": 136894,
+            "latitude": 64.145981,
+            "longitude": -21.9422367,
+            "geocell": 5549180,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2107832620,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1764",
+                "wikipedia_pages": {
+                    "is": "Reykjavík"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2171340641,
+            "country": 352,
+            "level1area": [
+                "is1"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Garðabær",
+                "lt": "Gardabairas",
+                "ru": "Гардабайр"
+            },
+            "place_type": 84,
+            "population": 16544,
+            "latitude": 64.0880255,
+            "longitude": -21.9193961,
+            "geocell": 5545580,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2171340641,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2171340646,
+            "country": 352,
+            "level1area": [
+                "is1"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Kópavogur",
+                "lt": "Koupavoguras",
+                "ru": "Коупавогюр"
+            },
+            "place_type": 84,
+            "population": 39335,
+            "latitude": 64.1113504,
+            "longitude": -21.9048106,
+            "geocell": 5549180,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2171340646,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2171340649,
+            "country": 352,
+            "level1area": [
+                "is1"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Mosfellsbær",
+                "it": "Mosfellsbær",
+                "ru": "Мосфедльсбайр"
+            },
+            "place_type": 84,
+            "population": 13024,
+            "latitude": 64.1674922,
+            "longitude": -21.6971313,
+            "geocell": 5549183,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2171340649,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2171372991,
+            "country": 352,
+            "level1area": [
+                "is1"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hafnarfjordur",
+                "is": "Hafnarfjörður",
+                "lt": "Habnarfjorduras",
+                "ru": "Хабнарфьордюр"
+            },
+            "place_type": 84,
+            "population": 30616,
+            "latitude": 64.0695354,
+            "longitude": -21.9575664,
+            "geocell": 5545580,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2171372991,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q103725",
+                "wikipedia_pages": {
+                    "en": "Hafnarfjörður"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2876969801,
+            "country": 352,
+            "level1area": [
+                "is2"
+            ],
+            "level2area": null,
+            "names": {
+                "is": "Keflavík",
+                "ru": "Кеблавик",
+                "sv": "Keflavik"
+            },
+            "place_type": 84,
+            "population": 15000,
+            "latitude": 63.9997694,
+            "longitude": -22.5565373,
+            "geocell": 5541974,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2876969801,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q170693",
+                "wikipedia_pages": {
+                    "is": "Keflavík"
+                }
+            }
+        }
+    }
+]

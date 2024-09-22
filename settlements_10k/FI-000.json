@@ -1,0 +1,3107 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 21640149,
+            "country": 246,
+            "level1area": [
+                "fi17"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Поры",
+                "fi": "Pori",
+                "hu": "Pori",
+                "ru": "Пори",
+                "sr": "Пори",
+                "sv": "Björneborg",
+                "uk": "Порі"
+            },
+            "place_type": 67,
+            "population": 83117,
+            "latitude": 61.4866126,
+            "longitude": 21.7972071,
+            "geocell": 5452417,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 21640149,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "url": "https://www.pori.fi/",
+                "wikidata_page_name": "Q180233",
+                "wikipedia_pages": {
+                    "fi": "Pori"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 21847490,
+            "country": 246,
+            "level1area": [
+                "fi19"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "توركو",
+                "be": "Турку",
+                "et": "Turu",
+                "fa": "تورکو",
+                "fi": "Turku",
+                "hu": "Turku",
+                "lt": "Turku",
+                "mk": "Турку",
+                "ru": "Турку",
+                "sv": "Åbo",
+                "uk": "Турку"
+            },
+            "place_type": 67,
+            "population": 201889,
+            "latitude": 60.4517531,
+            "longitude": 22.2670522,
+            "geocell": 5416422,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 21847490,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "20100"
+                ],
+                "url": "https://www.turku.fi/",
+                "wikidata_page_name": "Q38511",
+                "wikipedia_pages": {
+                    "fi": "Turku"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 22980865,
+            "country": 246,
+            "level1area": [
+                "fi18"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Porvoo",
+                "ru": "Порвоо",
+                "sv": "Borgå"
+            },
+            "place_type": 67,
+            "population": 51293,
+            "latitude": 60.3953913,
+            "longitude": 25.6604862,
+            "geocell": 5412856,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 22980865,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "url": "http://www.porvoo.fi/",
+                "wikidata_page_name": "Q193367",
+                "wikipedia_pages": {
+                    "fi": "Porvoo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25963545,
+            "country": 246,
+            "level1area": [
+                "fi18"
+            ],
+            "level2area": null,
+            "names": {
+                "cs": "Espoo",
+                "en": "Espoo",
+                "fi": "Espoo",
+                "fr": "Espoo",
+                "hu": "Espoo",
+                "lt": "Espas",
+                "lv": "Espo",
+                "ru": "Эспоо",
+                "sv": "Esbo"
+            },
+            "place_type": 67,
+            "population": 314152,
+            "latitude": 60.2047672,
+            "longitude": 24.6568435,
+            "geocell": 5409246,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25963545,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q47034",
+                "wikipedia_pages": {
+                    "fi": "Espoo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27291057,
+            "country": 246,
+            "level1area": [
+                "fi17"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Kankaanpää",
+                "ru": "Канкаанпя"
+            },
+            "place_type": 84,
+            "population": 12760,
+            "latitude": 61.8027147,
+            "longitude": 22.3965338,
+            "geocell": 5466823,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27291057,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.kankaanpaa.fi/",
+                "wikidata_page_name": "Q990569",
+                "wikipedia_pages": {
+                    "fi": "Kankaanpää"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29064107,
+            "country": 246,
+            "level1area": [
+                "fi14"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Oulu",
+                "fr": "Oulu",
+                "lt": "Oulu",
+                "ru": "Оулу",
+                "sr": "Оулу",
+                "sv": "Uleåborg"
+            },
+            "place_type": 67,
+            "population": 214651,
+            "latitude": 65.0118734,
+            "longitude": 25.4716809,
+            "geocell": 5582054,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29064107,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.ouka.fi/",
+                "wikidata_page_name": "Q47048",
+                "wikipedia_pages": {
+                    "fi": "Oulu"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30729864,
+            "country": 246,
+            "level1area": [
+                "fi04"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Pieksämäki",
+                "ru": "Пиексямяки",
+                "sr": "Пијексемеки",
+                "uk": "Пієксямякі"
+            },
+            "place_type": 84,
+            "population": 17367,
+            "latitude": 62.300466,
+            "longitude": 27.1639512,
+            "geocell": 5484871,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30729864,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.pieksamaki.fi/",
+                "wikidata_page_name": "Q613701",
+                "wikipedia_pages": {
+                    "fi": "Pieksämäki"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30860534,
+            "country": 246,
+            "level1area": [
+                "fi18"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Kirkkonummi",
+                "ru": "Киркконумми",
+                "sv": "Kyrkslätt"
+            },
+            "place_type": 67,
+            "population": 41160,
+            "latitude": 60.1227857,
+            "longitude": 24.4406694,
+            "geocell": 5405644,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30860534,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.kirkkonummi.fi/",
+                "wikidata_page_name": "Q748092",
+                "wikipedia_pages": {
+                    "fi": "Kirkkonummi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30871749,
+            "country": 246,
+            "level1area": [
+                "fi18"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Vantaa",
+                "lt": "Vanta",
+                "ru": "Вантаа",
+                "sv": "Vanda"
+            },
+            "place_type": 67,
+            "population": 247447,
+            "latitude": 60.2933337,
+            "longitude": 25.0407809,
+            "geocell": 5409250,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30871749,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "url": "http://www.vantaa.fi/",
+                "wikidata_page_name": "Q127623",
+                "wikipedia_pages": {
+                    "fi": "Vantaa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969480,
+            "country": 246,
+            "level1area": [
+                "fi11"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "تامبيري",
+                "be": "Тамперэ",
+                "el": "Τάμπερε",
+                "fa": "تامپری",
+                "fi": "Tampere",
+                "fr": "Tampere",
+                "ja": "タンペレ",
+                "ko": "탐페레",
+                "lt": "Tamperė",
+                "ru": "Тампере",
+                "sv": "Tammerfors",
+                "uk": "Тампере"
+            },
+            "place_type": 67,
+            "population": 255066,
+            "latitude": 61.4980214,
+            "longitude": 23.7603118,
+            "geocell": 5452437,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969480,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.tampere.fi/",
+                "wikidata_page_name": "Q40840",
+                "wikipedia_pages": {
+                    "fi": "Tampere"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969492,
+            "country": 246,
+            "level1area": [
+                "fi15"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Kuopio",
+                "lt": "Kuopijas",
+                "ru": "Куопио",
+                "sr": "Куопио"
+            },
+            "place_type": 67,
+            "population": 124011,
+            "latitude": 62.8924601,
+            "longitude": 27.6781839,
+            "geocell": 5502876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969492,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.kuopio.fi/",
+                "wikidata_page_name": "Q162279",
+                "wikipedia_pages": {
+                    "fi": "Kuopio"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969494,
+            "country": 246,
+            "level1area": [
+                "fi16"
+            ],
+            "level2area": null,
+            "names": {
+                "da": "Lahtis",
+                "fi": "Lahti",
+                "is": "Lahtis",
+                "lt": "Lahtis",
+                "nn": "Lahtis",
+                "ru": "Лахти",
+                "sv": "Lahtis"
+            },
+            "place_type": 67,
+            "population": 120700,
+            "latitude": 60.9826014,
+            "longitude": 25.6613764,
+            "geocell": 5434456,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969494,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "url": "https://www.lahti.fi/",
+                "wikidata_page_name": "Q28911",
+                "wikipedia_pages": {
+                    "fi": "Lahti"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969502,
+            "country": 246,
+            "level1area": [
+                "fi18"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Hyvinkää",
+                "lt": "Hiuvinkė",
+                "ru": "Хювинкяа",
+                "sv": "Hyvinge"
+            },
+            "place_type": 84,
+            "population": 46903,
+            "latitude": 60.6335719,
+            "longitude": 24.8695328,
+            "geocell": 5423648,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969502,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "05800"
+                ],
+                "url": "https://www.hyvinkaa.fi/",
+                "website": "https://www.hyvinkaa.fi/",
+                "wikidata_page_name": "Q207753",
+                "wikipedia_pages": {
+                    "fi": "Hyvinkää"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969505,
+            "country": 246,
+            "level1area": [
+                "fi02"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Imatra",
+                "ru": "Иматра",
+                "uk": "Imatra"
+            },
+            "place_type": 84,
+            "population": 24919,
+            "latitude": 61.1923342,
+            "longitude": 28.7716996,
+            "geocell": 5441687,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969505,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.imatra.fi/",
+                "wikidata_page_name": "Q211020",
+                "wikipedia_pages": {
+                    "fi": "Imatra"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969517,
+            "country": 246,
+            "level1area": [
+                "fi12"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Pietarsaari",
+                "ru": "Якобстад",
+                "sv": "Jakobstad"
+            },
+            "place_type": 84,
+            "population": 19077,
+            "latitude": 63.6744703,
+            "longitude": 22.7055385,
+            "geocell": 5531627,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969517,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.pietarsaari.fi/",
+                "wikidata_page_name": "Q1679567",
+                "wikipedia_pages": {
+                    "sv": "Jakobstad"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969519,
+            "country": 246,
+            "level1area": [
+                "fi18"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Järvenpää",
+                "ru": "Ярвенпяа",
+                "sr": "Јервенпе",
+                "sv": "Träskända",
+                "uk": "Ярвенпяа"
+            },
+            "place_type": 84,
+            "population": 46475,
+            "latitude": 60.4743601,
+            "longitude": 25.0925118,
+            "geocell": 5416450,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969519,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.jarvenpaa.fi/",
+                "wikidata_page_name": "Q208293",
+                "wikipedia_pages": {
+                    "fi": "Järvenpää"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969521,
+            "country": 246,
+            "level1area": [
+                "fi13"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Joensuu",
+                "lt": "Joensū",
+                "ru": "Йоэнсуу",
+                "uk": "Йоенсуу"
+            },
+            "place_type": 67,
+            "population": 78060,
+            "latitude": 62.6005753,
+            "longitude": 29.7622128,
+            "geocell": 5495697,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969521,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "url": "http://www.jns.fi/",
+                "wikidata_page_name": "Q186237",
+                "wikipedia_pages": {
+                    "fi": "Joensuu"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969525,
+            "country": 246,
+            "level1area": [
+                "fi05"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Kajaani",
+                "ru": "Каяани",
+                "sv": "Kajana"
+            },
+            "place_type": 67,
+            "population": 36492,
+            "latitude": 64.2240872,
+            "longitude": 27.7334227,
+            "geocell": 5553277,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969525,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.kajaani.fi/",
+                "wikidata_page_name": "Q193180",
+                "wikipedia_pages": {
+                    "fi": "Kajaani"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969526,
+            "country": 246,
+            "level1area": [
+                "fi10"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Kemi",
+                "ru": "Кеми"
+            },
+            "place_type": 84,
+            "population": 20394,
+            "latitude": 65.7333404,
+            "longitude": 24.5666495,
+            "geocell": 5607245,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969526,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.kemi.fi/",
+                "wikidata_page_name": "Q203619",
+                "wikipedia_pages": {
+                    "fi": "Kemi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969527,
+            "country": 246,
+            "level1area": [
+                "fi18"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Kerava",
+                "ru": "Керава",
+                "sr": "Керава",
+                "sv": "Kervo"
+            },
+            "place_type": 84,
+            "population": 38227,
+            "latitude": 60.4034398,
+            "longitude": 25.1041013,
+            "geocell": 5416451,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969527,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "04200"
+                ],
+                "website": "https://kerava.fi/",
+                "wikidata_page_name": "Q216900",
+                "wikipedia_pages": {
+                    "fi": "Kerava"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969528,
+            "country": 246,
+            "level1area": [
+                "fi07"
+            ],
+            "level2area": null,
+            "names": {
+                "da": "Karleby",
+                "fi": "Kokkola",
+                "lt": "Kokola",
+                "ru": "Коккола",
+                "sv": "Karleby",
+                "uk": "Коккола"
+            },
+            "place_type": 67,
+            "population": 48299,
+            "latitude": 63.8391421,
+            "longitude": 23.1336845,
+            "geocell": 5538831,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969528,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.kokkola.fi/",
+                "wikidata_page_name": "Q207891",
+                "wikipedia_pages": {
+                    "en": "Kokkola"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969529,
+            "country": 246,
+            "level1area": [
+                "fi09"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Kotka",
+                "lt": "Kotka",
+                "ru": "Котка",
+                "sr": "Котка"
+            },
+            "place_type": 67,
+            "population": 50488,
+            "latitude": 60.4674228,
+            "longitude": 26.9450844,
+            "geocell": 5416469,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969529,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "url": "https://www.kotka.fi/",
+                "wikidata_page_name": "Q192155",
+                "wikipedia_pages": {
+                    "fi": "Kotka (kaupunki)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969530,
+            "country": 246,
+            "level1area": [
+                "fi09"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Kouvola",
+                "lt": "Kouvola",
+                "ru": "Коувола"
+            },
+            "place_type": 67,
+            "population": 78876,
+            "latitude": 60.8680928,
+            "longitude": 26.7038517,
+            "geocell": 5430867,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969530,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.kouvola.fi/",
+                "wikidata_page_name": "Q204382",
+                "wikipedia_pages": {
+                    "fi": "Kouvola"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969531,
+            "country": 246,
+            "level1area": [
+                "fi02"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "لابينرانتا",
+                "be": "Лапеэнранта",
+                "de": "Lappeenranta",
+                "en": "Lappeenranta",
+                "fi": "Lappeenranta",
+                "fr": "Lappeenranta",
+                "ja": "ラッペーンランタ",
+                "ko": "라펜란타",
+                "ru": "Лаппеэнранта",
+                "sv": "Villmanstrand",
+                "uk": "Лаппеенранта"
+            },
+            "place_type": 67,
+            "population": 73016,
+            "latitude": 61.0583713,
+            "longitude": 28.1862742,
+            "geocell": 5438081,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969531,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "url": "http://www.lappeenranta.fi/",
+                "wikidata_page_name": "Q181854",
+                "wikipedia_pages": {
+                    "fi": "Lappeenranta"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969532,
+            "country": 246,
+            "level1area": [
+                "fi11"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Nokia",
+                "lt": "Nokija",
+                "ru": "Нокиа"
+            },
+            "place_type": 84,
+            "population": 35652,
+            "latitude": 61.4781666,
+            "longitude": 23.5096158,
+            "geocell": 5452435,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969532,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.nokiankaupunki.fi/",
+                "wikidata_page_name": "Q192870",
+                "wikipedia_pages": {
+                    "fi": "Nokia (kaupunki)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969533,
+            "country": 246,
+            "level1area": [
+                "fi19"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Raisio",
+                "ru": "Райсио",
+                "sv": "Reso"
+            },
+            "place_type": 84,
+            "population": 25336,
+            "latitude": 60.485513,
+            "longitude": 22.1692664,
+            "geocell": 5416421,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969533,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://raisio.fi/",
+                "wikidata_page_name": "Q372075",
+                "wikipedia_pages": {
+                    "fi": "Raisio"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969534,
+            "country": 246,
+            "level1area": [
+                "fi17"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Rauma",
+                "ru": "Раума",
+                "sv": "Raumo"
+            },
+            "place_type": 67,
+            "population": 38837,
+            "latitude": 61.1289148,
+            "longitude": 21.5039401,
+            "geocell": 5441615,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969534,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "url": "http://www.rauma.fi/",
+                "wikidata_page_name": "Q37013",
+                "wikipedia_pages": {
+                    "fi": "Rauma"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969535,
+            "country": 246,
+            "level1area": [
+                "fi06"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Riihimäki",
+                "ru": "Рийхимяки"
+            },
+            "place_type": 84,
+            "population": 28482,
+            "latitude": 60.7390089,
+            "longitude": 24.7728148,
+            "geocell": 5427247,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969535,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "url": "http://www.riihimaki.fi/",
+                "wikidata_page_name": "Q429864",
+                "wikipedia_pages": {
+                    "fi": "Riihimäki"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969536,
+            "country": 246,
+            "level1area": [
+                "fi03"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Seinäjoki",
+                "ru": "Сейняйоки",
+                "sr": "Сејнејоки"
+            },
+            "place_type": 67,
+            "population": 66157,
+            "latitude": 62.7954104,
+            "longitude": 22.8442015,
+            "geocell": 5499228,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969536,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "url": "http://www.seinajoki.fi/",
+                "wikidata_page_name": "Q6157",
+                "wikipedia_pages": {
+                    "fi": "Seinäjoki"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969537,
+            "country": 246,
+            "level1area": [
+                "fi15"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Varkaus",
+                "ru": "Варкаус"
+            },
+            "place_type": 84,
+            "population": 20257,
+            "latitude": 62.3176377,
+            "longitude": 27.8681227,
+            "geocell": 5484878,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969537,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "url": "http://www.varkaus.fi/",
+                "wikidata_page_name": "Q683525",
+                "wikipedia_pages": {
+                    "fi": "Varkaus (kaupunki)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969538,
+            "country": 246,
+            "level1area": [
+                "fi06"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Hämeenlinna",
+                "ru": "Хямеэнлинна",
+                "sv": "Tavastehus"
+            },
+            "place_type": 67,
+            "population": 68303,
+            "latitude": 60.9948584,
+            "longitude": 24.46654,
+            "geocell": 5434444,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969538,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "url": "http://www.hameenlinna.fi/",
+                "wikidata_page_name": "Q202158",
+                "wikipedia_pages": {
+                    "fi": "Hämeenlinna"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969539,
+            "country": 246,
+            "level1area": [
+                "fi10"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Rovaniemi",
+                "fr": "Rovaniemi",
+                "lt": "Rovaniemis",
+                "ru": "Рованиеми",
+                "sr": "Рованијеми"
+            },
+            "place_type": 67,
+            "population": 65285,
+            "latitude": 66.5025657,
+            "longitude": 25.73122,
+            "geocell": 5636057,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969539,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.rovaniemi.fi/",
+                "wikidata_page_name": "Q103717",
+                "wikipedia_pages": {
+                    "fi": "Rovaniemi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969540,
+            "country": 246,
+            "level1area": [
+                "fi08"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Äänekoski",
+                "ru": "Ээнекоски"
+            },
+            "place_type": 84,
+            "population": 18551,
+            "latitude": 62.6032186,
+            "longitude": 25.7301361,
+            "geocell": 5495657,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969540,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.aanekoski.fi/",
+                "wikidata_page_name": "Q258447",
+                "wikipedia_pages": {
+                    "fi": "Äänekoski"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969553,
+            "country": 246,
+            "level1area": [
+                "fi17"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Eura",
+                "ru": "Эура"
+            },
+            "place_type": 84,
+            "population": 11479,
+            "latitude": 61.1304007,
+            "longitude": 22.1302126,
+            "geocell": 5441621,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969553,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.eura.fi",
+                "wikidata_page_name": "Q999868",
+                "wikipedia_pages": {
+                    "fi": "Eura"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969555,
+            "country": 246,
+            "level1area": [
+                "fi06"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Forssa",
+                "ru": "Форсса"
+            },
+            "place_type": 84,
+            "population": 16773,
+            "latitude": 60.8155736,
+            "longitude": 23.629833,
+            "geocell": 5430836,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969555,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "url": "http://www.forssa.fi/",
+                "wikidata_page_name": "Q829842",
+                "wikipedia_pages": {
+                    "fi": "Forssa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969559,
+            "country": 246,
+            "level1area": [
+                "fi11"
+            ],
+            "level2area": null,
+            "names": {
+                "da": "Tavastkyro",
+                "fi": "Hämeenkyrö",
+                "it": "Tavastkyro",
+                "nn": "Tavastkyro",
+                "ru": "Хямеэнкюрё",
+                "sv": "Tavastkyro"
+            },
+            "place_type": 84,
+            "population": 10348,
+            "latitude": 61.633333,
+            "longitude": 23.2,
+            "geocell": 5459632,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969559,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://hameenkyro.fi/",
+                "wikidata_page_name": "Q996656",
+                "wikipedia_pages": {
+                    "fi": "Hämeenkyrö"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969560,
+            "country": 246,
+            "level1area": [
+                "fi09"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Hamina",
+                "ru": "Хамина",
+                "sv": "Fredrikshamn"
+            },
+            "place_type": 84,
+            "population": 19867,
+            "latitude": 60.5688901,
+            "longitude": 27.1881877,
+            "geocell": 5420071,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969560,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.hamina.fi/",
+                "wikidata_page_name": "Q367780",
+                "wikipedia_pages": {
+                    "fi": "Hamina"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969564,
+            "country": 246,
+            "level1area": [
+                "fi14"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Haukipudas"
+            },
+            "place_type": 84,
+            "population": 19081,
+            "latitude": 65.1763737,
+            "longitude": 25.3532265,
+            "geocell": 5585653,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969564,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q18177755",
+                "wikipedia_pages": {
+                    "fi": "Haukipudas (kaupunginosa)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969572,
+            "country": 246,
+            "level1area": [
+                "fi15"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Iisalmi",
+                "ru": "Ийсалми",
+                "sv": "Idensalmi"
+            },
+            "place_type": 84,
+            "population": 21095,
+            "latitude": 63.5567679,
+            "longitude": 27.1892281,
+            "geocell": 5528071,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969572,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.iisalmi.fi/",
+                "wikidata_page_name": "Q748533",
+                "wikipedia_pages": {
+                    "fi": "Iisalmi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969578,
+            "country": 246,
+            "level1area": [
+                "fi03"
+            ],
+            "level2area": null,
+            "names": {
+                "da": "Ilmola",
+                "fi": "Ilmajoki",
+                "nn": "Ilmola",
+                "ru": "Ильмайоки",
+                "sv": "Ilmola"
+            },
+            "place_type": 84,
+            "population": 12299,
+            "latitude": 62.731342,
+            "longitude": 22.5797719,
+            "geocell": 5499225,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969578,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://ilmajoki.fi/",
+                "wikidata_page_name": "Q5985",
+                "wikipedia_pages": {
+                    "fi": "Ilmajoki"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969593,
+            "country": 246,
+            "level1area": [
+                "fi08"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "يامسا",
+                "da": "Jämsä",
+                "de": "Jämsä",
+                "fa": "یامسا",
+                "fi": "Jämsä",
+                "nl": "Jämsä",
+                "nn": "Jämsä",
+                "ru": "Ямся",
+                "sr": "Јемсе",
+                "sv": "Jämsä",
+                "uk": "Ямся",
+                "ur": "یامسا"
+            },
+            "place_type": 84,
+            "population": 19884,
+            "latitude": 61.8639814,
+            "longitude": 25.1845044,
+            "geocell": 5466851,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969593,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.jamsa.fi/",
+                "wikidata_page_name": "Q642696",
+                "wikipedia_pages": {
+                    "en": "Jämsä"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969597,
+            "country": 246,
+            "level1area": [
+                "fi06"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Janakkala",
+                "ru": "Янаккала"
+            },
+            "place_type": 86,
+            "population": 16819,
+            "latitude": 60.9063816,
+            "longitude": 24.6186447,
+            "geocell": 5434446,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969597,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q374324",
+                "wikipedia_pages": {
+                    "fi": "Janakkala"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969605,
+            "country": 246,
+            "level1area": [
+                "fi02"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Joutseno",
+                "ru": "Йоутсено"
+            },
+            "place_type": 84,
+            "population": 10849,
+            "latitude": 61.1159763,
+            "longitude": 28.4835375,
+            "geocell": 5441684,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969605,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q829851",
+                "wikipedia_pages": {
+                    "fi": "Joutseno"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969623,
+            "country": 246,
+            "level1area": [
+                "fi11"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Kangasala",
+                "ru": "Кангасала"
+            },
+            "place_type": 84,
+            "population": 33478,
+            "latitude": 61.462581,
+            "longitude": 24.0730841,
+            "geocell": 5452440,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969623,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.kangasala.fi/",
+                "wikidata_page_name": "Q986322",
+                "wikipedia_pages": {
+                    "fi": "Kangasala"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969639,
+            "country": 246,
+            "level1area": [
+                "fi03"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Kauhajoki",
+                "ru": "Каухайоки"
+            },
+            "place_type": 84,
+            "population": 12991,
+            "latitude": 62.431748,
+            "longitude": 22.1841988,
+            "geocell": 5488421,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969639,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5992",
+                "wikipedia_pages": {
+                    "fi": "Kauhajoki"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969641,
+            "country": 246,
+            "level1area": [
+                "fi03"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Kauhava",
+                "ru": "Каухава"
+            },
+            "place_type": 84,
+            "population": 15504,
+            "latitude": 63.0993728,
+            "longitude": 23.0569547,
+            "geocell": 5510030,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969641,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.kauhava.fi/",
+                "wikidata_page_name": "Q6009",
+                "wikipedia_pages": {
+                    "fi": "Kauhava"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969653,
+            "country": 246,
+            "level1area": [
+                "fi14"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Kempele",
+                "ru": "Кемпеле",
+                "sv": "Kempele"
+            },
+            "place_type": 84,
+            "population": 18829,
+            "latitude": 64.91245,
+            "longitude": 25.5108223,
+            "geocell": 5578455,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969653,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.kempele.fi/",
+                "wikidata_page_name": "Q985451",
+                "wikipedia_pages": {
+                    "fi": "Kempele"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969657,
+            "country": 246,
+            "level1area": [
+                "fi14"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Kiiminki",
+                "ru": "Кийминки",
+                "sv": "Kiminge"
+            },
+            "place_type": 84,
+            "population": 13293,
+            "latitude": 65.1299324,
+            "longitude": 25.7773028,
+            "geocell": 5585657,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969657,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q18180785",
+                "wikipedia_pages": {
+                    "fi": "Kiiminki (kaupunginosa)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969665,
+            "country": 246,
+            "level1area": [
+                "fi18"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Klaukkala",
+                "ru": "Клауккала",
+                "sv": "Klövskog"
+            },
+            "place_type": 84,
+            "population": 17500,
+            "latitude": 60.383333,
+            "longitude": 24.75,
+            "geocell": 5412847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969665,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969669,
+            "country": 246,
+            "level1area": [
+                "fi13"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Kontiolahti",
+                "ru": "Контиолахти",
+                "sv": "Kontiolax"
+            },
+            "place_type": 84,
+            "population": 14867,
+            "latitude": 62.766667,
+            "longitude": 29.85,
+            "geocell": 5499298,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969669,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.kontiolahti.fi/",
+                "wikidata_page_name": "Q737534",
+                "wikipedia_pages": {
+                    "fi": "Kontiolahti"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969682,
+            "country": 246,
+            "level1area": [
+                "fi03"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Kurikka",
+                "ru": "Курикка"
+            },
+            "place_type": 84,
+            "population": 20434,
+            "latitude": 62.6171778,
+            "longitude": 22.3992088,
+            "geocell": 5495623,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969682,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://kurikka.fi/",
+                "wikidata_page_name": "Q6016",
+                "wikipedia_pages": {
+                    "fi": "Kurikka"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969683,
+            "country": 246,
+            "level1area": [
+                "fi14"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Kuusamo",
+                "ru": "Куусамо"
+            },
+            "place_type": 84,
+            "population": 15213,
+            "latitude": 65.9645637,
+            "longitude": 29.1883283,
+            "geocell": 5614491,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969683,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.kuusamo.fi/",
+                "wikidata_page_name": "Q207999",
+                "wikipedia_pages": {
+                    "fi": "Kuusamo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969694,
+            "country": 246,
+            "level1area": [
+                "fi03"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Lapua",
+                "ru": "Лапуа",
+                "sv": "Lappo"
+            },
+            "place_type": 84,
+            "population": 14202,
+            "latitude": 62.9702783,
+            "longitude": 23.0068628,
+            "geocell": 5506430,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969694,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "62100"
+                ],
+                "website": "https://lapua.fi/",
+                "wikidata_page_name": "Q6023",
+                "wikipedia_pages": {
+                    "fi": "Lapua"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969695,
+            "country": 246,
+            "level1area": [
+                "fi08"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Laukaa",
+                "ru": "Лаукаа",
+                "sv": "Laukas"
+            },
+            "place_type": 84,
+            "population": 18835,
+            "latitude": 62.416667,
+            "longitude": 25.95,
+            "geocell": 5488459,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969695,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.laukaa.fi/",
+                "wikidata_page_name": "Q990553",
+                "wikipedia_pages": {
+                    "fi": "Laukaa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969697,
+            "country": 246,
+            "level1area": [
+                "fi11"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Lempäälä",
+                "ru": "Лемпяаля",
+                "sv": "Lembois"
+            },
+            "place_type": 84,
+            "population": 23837,
+            "latitude": 61.316667,
+            "longitude": 23.7499999,
+            "geocell": 5448837,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969697,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.lempaala.fi/",
+                "wikidata_page_name": "Q838821",
+                "wikipedia_pages": {
+                    "fi": "Lempäälä"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969700,
+            "country": 246,
+            "level1area": [
+                "fi13"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Lieksa",
+                "ru": "Лиекса"
+            },
+            "place_type": 84,
+            "population": 10706,
+            "latitude": 63.3178213,
+            "longitude": 30.0191312,
+            "geocell": 5520900,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969700,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.lieksa.fi/",
+                "wikidata_page_name": "Q608752",
+                "wikipedia_pages": {
+                    "fi": "Lieksa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969702,
+            "country": 246,
+            "level1area": [
+                "fi19"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Lieto",
+                "ru": "Лието",
+                "sv": "Lundo"
+            },
+            "place_type": 84,
+            "population": 20166,
+            "latitude": 60.5054982,
+            "longitude": 22.4584171,
+            "geocell": 5420024,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969702,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://lieto.fi/",
+                "wikidata_page_name": "Q1017108",
+                "wikipedia_pages": {
+                    "fi": "Lieto"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969706,
+            "country": 246,
+            "level1area": [
+                "fi13"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Liperi",
+                "ru": "Липери"
+            },
+            "place_type": 84,
+            "population": 12004,
+            "latitude": 62.5314503,
+            "longitude": 29.3872024,
+            "geocell": 5492093,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969706,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q608803",
+                "wikipedia_pages": {
+                    "fi": "Liperi (kunta)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969707,
+            "country": 246,
+            "level1area": [
+                "fi18"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Lohja",
+                "ru": "Лохья",
+                "sv": "Lojo"
+            },
+            "place_type": 67,
+            "population": 45654,
+            "latitude": 60.2526036,
+            "longitude": 24.0684575,
+            "geocell": 5409240,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969707,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q214777",
+                "wikipedia_pages": {
+                    "fi": "Lohja"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969708,
+            "country": 246,
+            "level1area": [
+                "fi19"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Loimaa",
+                "ru": "Лоймаа"
+            },
+            "place_type": 84,
+            "population": 15780,
+            "latitude": 60.8472453,
+            "longitude": 23.0513931,
+            "geocell": 5430830,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969708,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.loimaa.fi/",
+                "wikidata_page_name": "Q915420",
+                "wikipedia_pages": {
+                    "fi": "Loimaa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969710,
+            "country": 246,
+            "level1area": [
+                "fi18"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Loviisa",
+                "ru": "Ловийса",
+                "sv": "Lovisa"
+            },
+            "place_type": 84,
+            "population": 14739,
+            "latitude": 60.4564226,
+            "longitude": 26.2271433,
+            "geocell": 5416462,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969710,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.loviisa.fi/",
+                "wikidata_page_name": "Q748513",
+                "wikipedia_pages": {
+                    "fi": "Loviisa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969714,
+            "country": 246,
+            "level1area": [
+                "fi18"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Mäntsälä",
+                "ru": "Мянтсяля"
+            },
+            "place_type": 84,
+            "population": 20789,
+            "latitude": 60.6339269,
+            "longitude": 25.3188193,
+            "geocell": 5423653,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969714,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q986318",
+                "wikipedia_pages": {
+                    "fi": "Mäntsälä"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969720,
+            "country": 246,
+            "level1area": [
+                "fi08"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Muurame",
+                "ru": "Муураме"
+            },
+            "place_type": 84,
+            "population": 10263,
+            "latitude": 62.1289925,
+            "longitude": 25.6749474,
+            "geocell": 5477656,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969720,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.muurame.fi/",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969723,
+            "country": 246,
+            "level1area": [
+                "fi19"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Naantali",
+                "mk": "Нантали",
+                "ru": "Наантали",
+                "sv": "Nådendal"
+            },
+            "place_type": 84,
+            "population": 19426,
+            "latitude": 60.4688687,
+            "longitude": 22.0291149,
+            "geocell": 5416420,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969723,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.naantali.fi/",
+                "wikidata_page_name": "Q503862",
+                "wikipedia_pages": {
+                    "fi": "Naantali"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969726,
+            "country": 246,
+            "level1area": [
+                "fi16"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Nastola",
+                "ru": "Настола"
+            },
+            "place_type": 84,
+            "population": 11943,
+            "latitude": 60.9482796,
+            "longitude": 25.9335713,
+            "geocell": 5434459,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969726,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q369576",
+                "wikipedia_pages": {
+                    "fi": "Nastola"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969728,
+            "country": 246,
+            "level1area": [
+                "fi14"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Nivala",
+                "ru": "Нивала"
+            },
+            "place_type": 84,
+            "population": 10478,
+            "latitude": 63.9289531,
+            "longitude": 24.9612586,
+            "geocell": 5542449,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969728,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "85500"
+                ],
+                "website": "https://www.nivala.fi/",
+                "wikidata_page_name": "Q985458",
+                "wikipedia_pages": {
+                    "fi": "Nivala"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969732,
+            "country": 246,
+            "level1area": [
+                "fi18"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Nurmijärvi",
+                "ru": "Нурмиярви"
+            },
+            "place_type": 84,
+            "population": 44773,
+            "latitude": 60.4628627,
+            "longitude": 24.8051725,
+            "geocell": 5416448,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969732,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.nurmijarvi.fi/",
+                "wikidata_page_name": "Q597156",
+                "wikipedia_pages": {
+                    "fi": "Nurmijärvi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969735,
+            "country": 246,
+            "level1area": [
+                "fi16"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Orimattila",
+                "ru": "Ориматтила"
+            },
+            "place_type": 84,
+            "population": 15892,
+            "latitude": 60.805137,
+            "longitude": 25.7333558,
+            "geocell": 5430857,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969735,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://orimattila.fi/",
+                "wikidata_page_name": "Q939701",
+                "wikipedia_pages": {
+                    "fi": "Orimattila"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969741,
+            "country": 246,
+            "level1area": [
+                "fi19"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Paimio",
+                "ru": "Паймио",
+                "sv": "Pemar"
+            },
+            "place_type": 84,
+            "population": 10950,
+            "latitude": 60.4570244,
+            "longitude": 22.6883278,
+            "geocell": 5416426,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969741,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.paimio.fi/",
+                "wikidata_page_name": "Q1017129",
+                "wikipedia_pages": {
+                    "fi": "Paimio"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969745,
+            "country": 246,
+            "level1area": [
+                "fi19"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Parainen",
+                "ru": "Паргас",
+                "sv": "Pargas"
+            },
+            "place_type": 84,
+            "population": 15095,
+            "latitude": 60.3009089,
+            "longitude": 22.302078,
+            "geocell": 5412823,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969745,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.pargas.fi/",
+                "wikidata_page_name": "Q1010550",
+                "wikipedia_pages": {
+                    "fi": "Parainen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969757,
+            "country": 246,
+            "level1area": [
+                "fi11"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Pirkkala",
+                "ru": "Пирккала",
+                "sv": "Birkala"
+            },
+            "place_type": 84,
+            "population": 19832,
+            "latitude": 61.4655292,
+            "longitude": 23.645289,
+            "geocell": 5452436,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969757,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.pirkkala.fi/",
+                "wikidata_page_name": "Q853628",
+                "wikipedia_pages": {
+                    "fi": "Pirkkala"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969777,
+            "country": 246,
+            "level1area": [
+                "fi19"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Salo",
+                "ru": "Сало",
+                "sr": "Сало"
+            },
+            "place_type": 67,
+            "population": 51097,
+            "latitude": 60.3846716,
+            "longitude": 23.1286377,
+            "geocell": 5412831,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969777,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://salo.fi/",
+                "wikidata_page_name": "Q210987",
+                "wikipedia_pages": {
+                    "fi": "Salo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969780,
+            "country": 246,
+            "level1area": [
+                "fi18"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Σίπο",
+                "fi": "Sipoo (Nikkilä)",
+                "ru": "Сипоо",
+                "sv": "Sibbo (Nickby)"
+            },
+            "place_type": 84,
+            "population": 22313,
+            "latitude": 60.376199,
+            "longitude": 25.2651428,
+            "geocell": 5412852,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969780,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.sipoo.fi/",
+                "wikidata_page_name": "Q986320",
+                "wikipedia_pages": {
+                    "fi": "Sipoo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969781,
+            "country": 246,
+            "level1area": [
+                "fi15"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Siilinjärvi",
+                "ru": "Сийлинъярви"
+            },
+            "place_type": 84,
+            "population": 21289,
+            "latitude": 63.0743109,
+            "longitude": 27.6623456,
+            "geocell": 5510076,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969781,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.siilinjarvi.fi/",
+                "wikidata_page_name": "Q999210",
+                "wikipedia_pages": {
+                    "fi": "Siilinjärvi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969786,
+            "country": 246,
+            "level1area": [
+                "fi05"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Sotkamo",
+                "ru": "Соткамо"
+            },
+            "place_type": 84,
+            "population": 10300,
+            "latitude": 64.1318262,
+            "longitude": 28.3878316,
+            "geocell": 5549683,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969786,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "88600"
+                ],
+                "website": "https://www.sotkamo.fi/",
+                "wikidata_page_name": "Q738472",
+                "wikipedia_pages": {
+                    "fi": "Sotkamo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969802,
+            "country": 246,
+            "level1area": [
+                "fi10"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Tornio",
+                "lt": "Tornijas",
+                "ru": "Торнио",
+                "sv": "Torneå"
+            },
+            "place_type": 84,
+            "population": 21465,
+            "latitude": 65.8457589,
+            "longitude": 24.1464,
+            "geocell": 5610841,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969802,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.tornio.fi/",
+                "wikidata_page_name": "Q214021",
+                "wikipedia_pages": {
+                    "en": "Tornio"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969803,
+            "country": 246,
+            "level1area": [
+                "fi18"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Tuusula",
+                "ru": "Туусула",
+                "sv": "Tusby"
+            },
+            "place_type": 84,
+            "population": 41334,
+            "latitude": 60.4017496,
+            "longitude": 25.0280695,
+            "geocell": 5416450,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969803,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "04300"
+                ],
+                "website": "https://www.tuusula.fi/",
+                "wikidata_page_name": "Q214773",
+                "wikipedia_pages": {
+                    "fi": "Tuusula"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969808,
+            "country": 246,
+            "level1area": [
+                "fi19"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Uusikaupunki",
+                "ru": "Уусикаупунки",
+                "sv": "Nystad"
+            },
+            "place_type": 84,
+            "population": 15416,
+            "latitude": 60.8016507,
+            "longitude": 21.4086143,
+            "geocell": 5430814,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969808,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://uusikaupunki.fi/",
+                "wikidata_page_name": "Q207295",
+                "wikipedia_pages": {
+                    "fi": "Uusikaupunki"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969828,
+            "country": 246,
+            "level1area": [
+                "fi18"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Vihti",
+                "ru": "Вихти",
+                "sv": "Vichtis"
+            },
+            "place_type": 84,
+            "population": 29193,
+            "latitude": 60.4168803,
+            "longitude": 24.320558,
+            "geocell": 5416443,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969828,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q935858",
+                "wikipedia_pages": {
+                    "fi": "Vihti"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969854,
+            "country": 246,
+            "level1area": [
+                "fi04"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Mikkeli",
+                "ru": "Миккели",
+                "sv": "S:t Michel"
+            },
+            "place_type": 67,
+            "population": 51916,
+            "latitude": 61.6877956,
+            "longitude": 27.2726569,
+            "geocell": 5459672,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969854,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q190583",
+                "wikipedia_pages": {
+                    "fi": "Mikkeli"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969876,
+            "country": 246,
+            "level1area": [
+                "fi14"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Ylivieska",
+                "ru": "Юливиеска"
+            },
+            "place_type": 84,
+            "population": 15311,
+            "latitude": 64.0728903,
+            "longitude": 24.5327326,
+            "geocell": 5546045,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969876,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.ylivieska.fi/",
+                "wikidata_page_name": "Q735583",
+                "wikipedia_pages": {
+                    "fi": "Ylivieska"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30969878,
+            "country": 246,
+            "level1area": [
+                "fi11"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Ylöjärvi",
+                "ru": "Юлёярви"
+            },
+            "place_type": 84,
+            "population": 33680,
+            "latitude": 61.5499614,
+            "longitude": 23.5969495,
+            "geocell": 5456035,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30969878,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.ylojarvi.fi/",
+                "wikidata_page_name": "Q543800",
+                "wikipedia_pages": {
+                    "fi": "Ylöjärvi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 53211431,
+            "country": 246,
+            "level1area": [
+                "fi04"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Savonlinna",
+                "ru": "Савонлинна",
+                "sv": "Nyslott"
+            },
+            "place_type": 84,
+            "population": 31842,
+            "latitude": 61.8689933,
+            "longitude": 28.8797178,
+            "geocell": 5466888,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 53211431,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.savonlinna.fi/",
+                "wikidata_page_name": "Q683512",
+                "wikipedia_pages": {
+                    "fi": "Savonlinna"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 82989938,
+            "country": 246,
+            "level1area": [
+                "fi08"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Jyväskylä",
+                "lt": "Juveskiulė",
+                "lv": "Jiveskile",
+                "ru": "Ювяскюля",
+                "uk": "Ювяскюля"
+            },
+            "place_type": 67,
+            "population": 147821,
+            "latitude": 62.2417066,
+            "longitude": 25.7495727,
+            "geocell": 5481257,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 82989938,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.jyvaskyla.fi/",
+                "wikidata_page_name": "Q134620",
+                "wikipedia_pages": {
+                    "en": "Jyväskylä"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 162388750,
+            "country": 246,
+            "level1area": [
+                "fi11"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Valkeakoski",
+                "ru": "Валкеакоски"
+            },
+            "place_type": 84,
+            "population": 20808,
+            "latitude": 61.2637921,
+            "longitude": 24.0301278,
+            "geocell": 5445240,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 162388750,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.valkeakoski.fi/",
+                "wikidata_page_name": "Q322126",
+                "wikipedia_pages": {
+                    "fi": "Valkeakoski"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 244374623,
+            "country": 246,
+            "level1area": [
+                "fi14"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Raahe",
+                "ru": "Раахе",
+                "sv": "Brahestad"
+            },
+            "place_type": 84,
+            "population": 24356,
+            "latitude": 64.6795905,
+            "longitude": 24.4709593,
+            "geocell": 5567644,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 244374623,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.raahe.fi/",
+                "wikidata_page_name": "Q622592",
+                "wikipedia_pages": {
+                    "fi": "Raahe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259229962,
+            "country": 246,
+            "level1area": [
+                "fi16"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Hollola",
+                "ru": "Холлола"
+            },
+            "place_type": 84,
+            "population": 22940,
+            "latitude": 60.9882542,
+            "longitude": 25.5152983,
+            "geocell": 5434455,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259229962,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.hollola.fi/",
+                "wikidata_page_name": "Q990578",
+                "wikipedia_pages": {
+                    "fi": "Hollola"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 385708066,
+            "country": 246,
+            "level1area": [
+                "fi14"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Kalajoki",
+                "ru": "Калайоки"
+            },
+            "place_type": 84,
+            "population": 12406,
+            "latitude": 64.260017,
+            "longitude": 23.950545,
+            "geocell": 5553239,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 385708066,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.kalajoki.fi/",
+                "wikidata_page_name": "Q939758",
+                "wikipedia_pages": {
+                    "en": "Kalajoki"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 469138560,
+            "country": 246,
+            "level1area": [
+                "fi19"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Kaarina",
+                "ru": "Каарина",
+                "sv": "S:t Karins"
+            },
+            "place_type": 84,
+            "population": 36335,
+            "latitude": 60.407169,
+            "longitude": 22.3678223,
+            "geocell": 5416423,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 469138560,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://kaarina.fi/",
+                "wikidata_page_name": "Q735563",
+                "wikipedia_pages": {
+                    "fi": "Kaarina"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1372477580,
+            "country": 246,
+            "level1area": [
+                "fi18"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Helsinki",
+                "ar": "هلسنكي",
+                "ast": "Ḥelsinki",
+                "be": "Хельсінкі",
+                "bg": "Хелзинки",
+                "bn": "হেলসিঙ্কি",
+                "br": "Helsinki",
+                "ca": "Hèlsinki",
+                "ckb": "ھێلسینکی",
+                "cs": "Helsinky",
+                "de": "Helsinki",
+                "el": "Ελσίνκι",
+                "en": "Helsinki",
+                "eo": "Helsinko",
+                "es": "Helsinki",
+                "et": "Helsingi",
+                "eu": "Helsinki",
+                "fa": "هلسینکی",
+                "fi": "Helsinki",
+                "fr": "Helsinki",
+                "fy": "Helsinky",
+                "ga": "Heilsincí",
+                "gl": "Helsinqui",
+                "he": "הלסינקי",
+                "hi": "हेलसिंकी",
+                "hu": "Helsinki",
+                "hy": "Հելսինկի",
+                "is": "Helsinki",
+                "it": "Helsinki",
+                "ja": "ヘルシンキ",
+                "ka": "ჰელსინკი",
+                "kk": "Хельсинки",
+                "kn": "ಹೆಲ್ಸಿಂಕಿ",
+                "ko": "헬싱키",
+                "lt": "Helsinkis",
+                "mk": "Хелсинки",
+                "ml": "ഹെൽസിങ്കി",
+                "mr": "हेलसिंकी",
+                "my": "ဟယ်လ်ဆင်ကီမြို့",
+                "ne": "हेल्सिन्कि",
+                "nn": "Helsingfors",
+                "os": "Хельсинки",
+                "pa": "ਹੈਲਸਿੰਕੀ",
+                "pl": "Helsinki",
+                "pt": "Helsínquia",
+                "ro": "Helsinki",
+                "ru": "Хельсинки",
+                "sk": "Helsinki",
+                "sr": "Хелсинки",
+                "sv": "Helsingfors",
+                "ta": "எல்சிங்கி",
+                "te": "హెల్సింకి",
+                "tg": "Ҳелсинкӣ",
+                "th": "เฮลซิงกิ",
+                "tr": "Helsinki",
+                "tt": "Һелсинки",
+                "udm": "Хельсинки",
+                "ug": "Xélsinki",
+                "uk": "Гельсінкі",
+                "ur": "ہلسنکی"
+            },
+            "place_type": 67,
+            "population": 674963,
+            "latitude": 60.1674881,
+            "longitude": 24.9427473,
+            "geocell": 5405649,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1372477580,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "url": "http://www.hel.fi",
+                "wikidata_page_name": "Q1757",
+                "wikipedia_pages": {
+                    "fi": "Helsinki"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1637607582,
+            "country": 246,
+            "level1area": [
+                "fi12"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Ва́са",
+                "fi": "Vaasa",
+                "fr": "Vaasa",
+                "lt": "Vasa",
+                "ru": "Вааса",
+                "sr": "Васа",
+                "sv": "Vasa",
+                "uk": "Вааса"
+            },
+            "place_type": 67,
+            "population": 68969,
+            "latitude": 63.0957722,
+            "longitude": 21.6159187,
+            "geocell": 5510016,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1637607582,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "65100"
+                ],
+                "url": "www.vaasa.fi",
+                "wikidata_page_name": "Q125080",
+                "wikipedia_pages": {
+                    "fi": "Vaasa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1668137014,
+            "country": 246,
+            "level1area": [
+                "fi12"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Корсгольм",
+                "fi": "Mustasaari",
+                "ru": "Корсгольм",
+                "sv": "Korsholm"
+            },
+            "place_type": 84,
+            "population": 19477,
+            "latitude": 63.1247621,
+            "longitude": 21.6941345,
+            "geocell": 5513616,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1668137014,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1784789",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4966130398,
+            "country": 246,
+            "level1area": [
+                "fi11"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Vammala"
+            },
+            "place_type": 84,
+            "population": 23514,
+            "latitude": 61.3441735,
+            "longitude": 22.9094429,
+            "geocell": 5448829,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4966130398,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q996067",
+                "wikipedia_pages": {
+                    "fi": "Vammala"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7161230008,
+            "country": 246,
+            "level1area": [
+                "fi17"
+            ],
+            "level2area": null,
+            "names": {
+                "fi": "Ulvila",
+                "ru": "Улвила",
+                "sv": "Ulfsby"
+            },
+            "place_type": 84,
+            "population": 12733,
+            "latitude": 61.4333298,
+            "longitude": 21.8833199,
+            "geocell": 5452418,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7161230008,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q247128",
+                "wikipedia_pages": {
+                    "fi": "Ulvila"
+                }
+            }
+        }
+    }
+]

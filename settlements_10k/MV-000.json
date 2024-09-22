@@ -1,0 +1,106 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3385374395,
+            "country": 462,
+            "level1area": [
+                "mvmle"
+            ],
+            "level2area": null,
+            "names": {
+                "cs": "Male",
+                "de": "Malé",
+                "dv": "މާލެ",
+                "en": "Malé",
+                "et": "Male",
+                "fr": "Malé",
+                "hi": "माले",
+                "hr": "Malé",
+                "hu": "Malé",
+                "ml": "മാലി",
+                "mr": "मले",
+                "nl": "Malé",
+                "pl": "Male",
+                "sv": "Malé",
+                "ta": "மாலே"
+            },
+            "place_type": 67,
+            "population": 103693,
+            "latitude": 4.1779879,
+            "longitude": 73.5107387,
+            "geocell": 3390135,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3385374395,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q9347",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4016221909,
+            "country": 462,
+            "level1area": [
+                "mv01"
+            ],
+            "level2area": null,
+            "names": {
+                "dv": "ހިތަދޫ",
+                "en": "Hithadhoo",
+                "fr": "Hithadhoo",
+                "ja": "ヒサッドホー"
+            },
+            "place_type": 84,
+            "population": 10398,
+            "latitude": -0.6061889,
+            "longitude": 73.0879612,
+            "geocell": 3217330,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4016221909,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2023266",
+                "wikipedia_pages": {
+                    "en": "Hithadhoo (Addu)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4411478480,
+            "country": 462,
+            "level1area": [
+                "mv23"
+            ],
+            "level2area": null,
+            "names": {
+                "dv": "ކުޅުދުއްފުށި",
+                "en": "Kulhudhuffushi",
+                "fr": "Kulhudhuffushi"
+            },
+            "place_type": 84,
+            "population": 15875,
+            "latitude": 6.6229329,
+            "longitude": 73.0709428,
+            "geocell": 3480130,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4411478480,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3185775",
+                "wikipedia_pages": {
+                    "de": "Kulhudhuffushi"
+                }
+            }
+        }
+    }
+]

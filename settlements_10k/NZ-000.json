@@ -1,0 +1,1512 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 204648,
+            "country": 554,
+            "level1area": [
+                "nzwgn"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Wellington",
+                "ar": "ويلينغتون",
+                "az": "Vellinqton",
+                "be": "Велінгтан",
+                "bg": "Уелингтън",
+                "bn": "ওয়েলিংটন",
+                "bs": "Wellington",
+                "ckb": "وێڵینگتۆن",
+                "cs": "Wellington",
+                "da": "Wellington",
+                "de": "Wellington",
+                "el": "Ουέλλινγκτον",
+                "en": "Wellington",
+                "eo": "Velingtono",
+                "es": "Wellington",
+                "et": "Wellington",
+                "fa": "ولینگتون",
+                "fi": "Wellington",
+                "fr": "Wellington",
+                "he": "ולינגטון",
+                "hi": "वेलिंग्टन",
+                "hr": "Wellington",
+                "hu": "Wellington",
+                "hy": "Վելինգտոն",
+                "is": "Wellington",
+                "it": "Wellington",
+                "ja": "ウェリントン",
+                "ka": "ველინგტონი",
+                "kn": "ವೆಲ್ಲಿಂಗ್ಟನ್",
+                "ko": "웰링턴",
+                "lt": "Velingtonas",
+                "lv": "Velingtona",
+                "mk": "Велингтон",
+                "mn": "Веллингтон",
+                "mr": "वेलिंग्टन",
+                "my": "ဝယ်လင်တန်မြို့",
+                "nl": "Wellington",
+                "os": "Веллингтон",
+                "pl": "Wellington",
+                "pt": "Wellington",
+                "ro": "Wellington",
+                "ru": "Веллингтон",
+                "sk": "Wellington",
+                "sl": "Wellington",
+                "sr": "Велингтон",
+                "sv": "Wellington",
+                "ta": "வெலிங்டன், நியூசிலாந்து",
+                "th": "เวลลิงตัน",
+                "tr": "Wellington",
+                "ug": "ۋېللىنگتون",
+                "uk": "Веллінгтон",
+                "ur": "ویلنگٹن",
+                "vi": "Wellington"
+            },
+            "place_type": 67,
+            "population": 215900,
+            "latitude": -41.2887953,
+            "longitude": 174.7772114,
+            "geocell": 1756747,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 204648,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q23661",
+                "wikipedia_pages": {
+                    "en": "Wellington"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 53190047,
+            "country": 554,
+            "level1area": [
+                "nznsn"
+            ],
+            "level2area": null,
+            "names": {
+                "ckb": "نیڵسۆن",
+                "en": "Nelson",
+                "fa": "نلسون",
+                "ja": "ネルソン",
+                "mk": "Нелсон",
+                "ru": "Нельсон",
+                "uk": "Нельсон"
+            },
+            "place_type": 67,
+            "population": 51100,
+            "latitude": -41.2710849,
+            "longitude": 173.2836756,
+            "geocell": 1756732,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 53190047,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q206687",
+                "wikipedia_pages": {
+                    "en": "Nelson, New Zealand"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 53433945,
+            "country": 554,
+            "level1area": [
+                "nzwko"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Taupō",
+                "mk": "Таупо",
+                "ru": "Таупо",
+                "uk": "Таупо"
+            },
+            "place_type": 84,
+            "population": 26000,
+            "latitude": -38.6866197,
+            "longitude": 176.0694773,
+            "geocell": 1850360,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 53433945,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2397257",
+                "wikipedia_pages": {
+                    "en": "Taupō"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 53445867,
+            "country": 554,
+            "level1area": [
+                "nzbop"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Rotorua",
+                "ja": "ロトルア",
+                "mk": "Роторуа",
+                "ru": "Роторуа",
+                "uk": "Роторуа"
+            },
+            "place_type": 67,
+            "population": 58400,
+            "latitude": -38.1381493,
+            "longitude": 176.252922,
+            "geocell": 1868362,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 53445867,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q208948",
+                "wikipedia_pages": {
+                    "en": "Rotorua"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 56041485,
+            "country": 554,
+            "level1area": [
+                "nzmbh"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Blenheim",
+                "ja": "ブレナム",
+                "mk": "Бленем",
+                "ru": "Бленем",
+                "uk": "Бленем"
+            },
+            "place_type": 84,
+            "population": 28800,
+            "latitude": -41.5118691,
+            "longitude": 173.9545856,
+            "geocell": 1745939,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 56041485,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q883831",
+                "wikipedia_pages": {
+                    "en": "Blenheim, New Zealand"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 56095285,
+            "country": 554,
+            "level1area": [
+                "nzmwt"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Palmerston North",
+                "ja": "パーマストンノース",
+                "mk": "Палмерстон Норт",
+                "ru": "Палмерстон-Норт",
+                "uk": "Палмерстон-Норт"
+            },
+            "place_type": 67,
+            "population": 81500,
+            "latitude": -40.356317,
+            "longitude": 175.6112388,
+            "geocell": 1789156,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 56095285,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q212289",
+                "wikipedia_pages": {
+                    "en": "Palmerston North"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 56097668,
+            "country": 554,
+            "level1area": [
+                "nzhkb"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Napier",
+                "ja": "ネーピア",
+                "mk": "Нејпиер",
+                "ru": "Нейпир",
+                "uk": "Нейпір"
+            },
+            "place_type": 67,
+            "population": 66700,
+            "latitude": -39.4902099,
+            "longitude": 176.917839,
+            "geocell": 1821569,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 56097668,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q203380",
+                "wikipedia_pages": {
+                    "en": "Napier, New Zealand"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 56097888,
+            "country": 554,
+            "level1area": [
+                "nzhkb"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hastings",
+                "ja": "ヘイスティングズ",
+                "mk": "Хејстингс",
+                "ru": "Хейстингс",
+                "uk": "Хейстінгс"
+            },
+            "place_type": 67,
+            "population": 50100,
+            "latitude": -39.6417678,
+            "longitude": 176.8430781,
+            "geocell": 1814368,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 56097888,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1015690",
+                "wikipedia_pages": {
+                    "en": "Hastings, New Zealand"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 57805233,
+            "country": 554,
+            "level1area": [
+                "nzwgn"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Porirua",
+                "de": "Porirua",
+                "en": "Porirua",
+                "es": "Porirua",
+                "fi": "Porirua",
+                "fr": "Porirua",
+                "gd": "Porirua",
+                "hi": "पोरिरुआ",
+                "id": "Porirua",
+                "it": "Porirua",
+                "ja": "ポリルア",
+                "ka": "პორირუა",
+                "ko": "포리루아",
+                "mk": "Порируа",
+                "ms": "Porirua",
+                "nn": "Porirua",
+                "pl": "Porirua",
+                "pt": "Porirua",
+                "ru": "Порируа",
+                "sw": "Porirua",
+                "uk": "Поріруа"
+            },
+            "place_type": 67,
+            "population": 61900,
+            "latitude": -41.1354217,
+            "longitude": 174.8397824,
+            "geocell": 1760348,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 57805233,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1015773",
+                "wikipedia_pages": {
+                    "en": "Porirua"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 57843878,
+            "country": 554,
+            "level1area": [
+                "nzmwt"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Levin",
+                "mk": "Левин"
+            },
+            "place_type": 84,
+            "population": 18800,
+            "latitude": -40.6218161,
+            "longitude": 175.2865854,
+            "geocell": 1778352,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 57843878,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1821910",
+                "wikipedia_pages": {
+                    "en": "Levin, New Zealand"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 57871098,
+            "country": 554,
+            "level1area": [
+                "nzwgn"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Lower Hutt",
+                "ja": "ロワーハット",
+                "mk": "Долен Хат"
+            },
+            "place_type": 67,
+            "population": 111800,
+            "latitude": -41.2125751,
+            "longitude": 174.9057626,
+            "geocell": 1756749,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 57871098,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1015681",
+                "wikipedia_pages": {
+                    "en": "Lower Hutt"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60023047,
+            "country": 554,
+            "level1area": [
+                "nzmwt"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Whanganui",
+                "ja": "ワンガヌイ",
+                "mk": "Фангануи",
+                "ru": "Уонгануи"
+            },
+            "place_type": 67,
+            "population": 42300,
+            "latitude": -39.9324904,
+            "longitude": 175.0519306,
+            "geocell": 1803550,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60023047,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1015672",
+                "wikipedia_pages": {
+                    "en": "Whanganui"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60024508,
+            "country": 554,
+            "level1area": [
+                "nztki"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "New Plymouth",
+                "ja": "ニュープリマス",
+                "mk": "Њу Плимут",
+                "ru": "Нью-Плимут",
+                "uk": "Нью-Плімут"
+            },
+            "place_type": 67,
+            "population": 58400,
+            "latitude": -39.0579941,
+            "longitude": 174.0806474,
+            "geocell": 1835940,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60024508,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q212984",
+                "wikipedia_pages": {
+                    "en": "New Plymouth"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60130164,
+            "country": 554,
+            "level1area": [
+                "nzbop"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tauranga",
+                "ja": "タウランガ",
+                "mk": "Тауранга",
+                "ru": "Тауранга",
+                "uk": "Тауранга"
+            },
+            "place_type": 67,
+            "population": 155200,
+            "latitude": -37.6859006,
+            "longitude": 176.167505,
+            "geocell": 1886361,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60130164,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q207756",
+                "wikipedia_pages": {
+                    "en": "Tauranga"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60269696,
+            "country": 554,
+            "level1area": [
+                "nzgis"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Gisborne",
+                "ja": "ギズボーン",
+                "mk": "Гизборн",
+                "ru": "Гисборн",
+                "uk": "Гізбурн"
+            },
+            "place_type": 67,
+            "population": 37300,
+            "latitude": -38.661326,
+            "longitude": 178.0206487,
+            "geocell": 1850380,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60269696,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q233467",
+                "wikipedia_pages": {
+                    "en": "Gisborne, New Zealand"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60729033,
+            "country": 554,
+            "level1area": [
+                "nzwko"
+            ],
+            "level2area": null,
+            "names": {
+                "ckb": "هامیڵتۆن",
+                "en": "Hamilton",
+                "ja": "ハミルトン",
+                "mk": "Хамилтон",
+                "ru": "Гамильтон",
+                "uk": "Гамільтон"
+            },
+            "place_type": 67,
+            "population": 178500,
+            "latitude": -37.7878809,
+            "longitude": 175.281788,
+            "geocell": 1882752,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60729033,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q200028",
+                "wikipedia_pages": {
+                    "en": "Hamilton, New Zealand"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60729035,
+            "country": 554,
+            "level1area": [
+                "nzwko"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Cambridge",
+                "ja": "ケンブリッジ",
+                "mk": "Кембриџ"
+            },
+            "place_type": 84,
+            "population": 21400,
+            "latitude": -37.8917889,
+            "longitude": 175.4691069,
+            "geocell": 1879154,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60729035,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1028261",
+                "wikipedia_pages": {
+                    "en": "Cambridge, New Zealand"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 71282622,
+            "country": 554,
+            "level1area": [
+                "nzwgn"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Masterton",
+                "mk": "Мастертон"
+            },
+            "place_type": 84,
+            "population": 20900,
+            "latitude": -40.9495524,
+            "longitude": 175.6594413,
+            "geocell": 1767556,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 71282622,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1223916",
+                "wikipedia_pages": {
+                    "en": "Masterton"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 71293386,
+            "country": 554,
+            "level1area": [
+                "nztki"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hāwera",
+                "mk": "Хавера"
+            },
+            "place_type": 84,
+            "population": 10150,
+            "latitude": -39.5893462,
+            "longitude": 174.2837207,
+            "geocell": 1817942,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 71293386,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q998452",
+                "wikipedia_pages": {
+                    "en": "Hāwera"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 71342860,
+            "country": 554,
+            "level1area": [
+                "nzwko"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Te Awamutu",
+                "ja": "テ・アワムトゥ",
+                "mk": "Те Авамуту"
+            },
+            "place_type": 84,
+            "population": 13350,
+            "latitude": -38.0101564,
+            "longitude": 175.3257827,
+            "geocell": 1871953,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 71342860,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q992759",
+                "wikipedia_pages": {
+                    "en": "Te Awamutu"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 71364807,
+            "country": 554,
+            "level1area": [
+                "nzauk"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Pukekohe",
+                "ja": "プケコへ",
+                "mk": "Пукекохе",
+                "ru": "Пукекохе",
+                "uk": "Пукекохе"
+            },
+            "place_type": 84,
+            "population": 26900,
+            "latitude": -37.2006384,
+            "longitude": 174.9036875,
+            "geocell": 1900749,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 71364807,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q733057",
+                "wikipedia_pages": {
+                    "en": "Pukekohe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 71374851,
+            "country": 554,
+            "level1area": [
+                "nzntl"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Whangārei",
+                "ja": "ファンガレイ",
+                "mk": "Фангареи",
+                "ru": "Фангареи"
+            },
+            "place_type": 67,
+            "population": 54300,
+            "latitude": -35.7275268,
+            "longitude": 174.3194202,
+            "geocell": 1954743,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 71374851,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q744239",
+                "wikipedia_pages": {
+                    "en": "Whangārei"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 130022199,
+            "country": 554,
+            "level1area": [
+                "nzcan"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Rangiora",
+                "ja": "ランギオラ",
+                "mk": "Рангиора"
+            },
+            "place_type": 84,
+            "population": 19250,
+            "latitude": -43.303171,
+            "longitude": 172.5961483,
+            "geocell": 1681125,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 130022199,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2034575",
+                "wikipedia_pages": {
+                    "en": "Rangiora"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 175734291,
+            "country": 554,
+            "level1area": [
+                "nzota"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Queenstown",
+                "ja": "クイーンズタウン",
+                "mk": "Квинстаун",
+                "ru": "Куинстаун",
+                "uk": "Куінстаун"
+            },
+            "place_type": 84,
+            "population": 15450,
+            "latitude": -45.0321923,
+            "longitude": 168.661,
+            "geocell": 1619886,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 175734291,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q613602",
+                "wikipedia_pages": {
+                    "en": "Queenstown, New Zealand"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 175803613,
+            "country": 554,
+            "level1area": [
+                "nzota"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Wānaka",
+                "ja": "ワナカ",
+                "mk": "Ванака",
+                "ru": "Ванака"
+            },
+            "place_type": 84,
+            "population": 11600,
+            "latitude": -44.6941691,
+            "longitude": 169.1364637,
+            "geocell": 1634291,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 175803613,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q930344",
+                "wikipedia_pages": {
+                    "en": "Wānaka"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 176015564,
+            "country": 554,
+            "level1area": [
+                "nzcan"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kaiapoi",
+                "ja": "カイアポイ",
+                "mk": "Кајапои"
+            },
+            "place_type": 84,
+            "population": 13050,
+            "latitude": -43.3831623,
+            "longitude": 172.6521689,
+            "geocell": 1681126,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 176015564,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1013339",
+                "wikipedia_pages": {
+                    "en": "Kaiapoi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 178326720,
+            "country": 554,
+            "level1area": [
+                "nzwgn"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Upper Hutt",
+                "ja": "アッパーハット",
+                "mk": "Горен Хат",
+                "ru": "Аппер-Хатт",
+                "uk": "Апер-Хат"
+            },
+            "place_type": 67,
+            "population": 44600,
+            "latitude": -41.1240674,
+            "longitude": 175.0699589,
+            "geocell": 1760350,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 178326720,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q166002",
+                "wikipedia_pages": {
+                    "en": "Upper Hutt"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 178430759,
+            "country": 554,
+            "level1area": [
+                "nzwgn"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Paraparaumu",
+                "mk": "Парапарауму"
+            },
+            "place_type": 84,
+            "population": 30600,
+            "latitude": -40.9144636,
+            "longitude": 175.0061963,
+            "geocell": 1767550,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 178430759,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1115332",
+                "wikipedia_pages": {
+                    "en": "Paraparaumu"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 178448275,
+            "country": 554,
+            "level1area": [
+                "nzmwt"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Feilding",
+                "mk": "Филдинг"
+            },
+            "place_type": 84,
+            "population": 17350,
+            "latitude": -40.2262765,
+            "longitude": 175.5644409,
+            "geocell": 1792755,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 178448275,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q992577",
+                "wikipedia_pages": {
+                    "en": "Feilding"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 178456122,
+            "country": 554,
+            "level1area": [
+                "nzhkb"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Havelock North",
+                "mk": "Хевлок Норт"
+            },
+            "place_type": 84,
+            "population": 15150,
+            "latitude": -39.6702108,
+            "longitude": 176.8771367,
+            "geocell": 1814368,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 178456122,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q847452",
+                "wikipedia_pages": {
+                    "en": "Havelock North"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 204499880,
+            "country": 554,
+            "level1area": [
+                "nztas"
+            ],
+            "level2area": null,
+            "names": {
+                "ckb": "ڕیچمۆند",
+                "en": "Richmond",
+                "mk": "Ричмонд"
+            },
+            "place_type": 84,
+            "population": 18000,
+            "latitude": -41.3380953,
+            "longitude": 173.1872264,
+            "geocell": 1753131,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 204499880,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1208462",
+                "wikipedia_pages": {
+                    "en": "Richmond, New Zealand"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 206015894,
+            "country": 554,
+            "level1area": [
+                "nzota"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Oamaru",
+                "ja": "オマルー",
+                "mk": "Оамару"
+            },
+            "place_type": 84,
+            "population": 13850,
+            "latitude": -45.0997681,
+            "longitude": 170.9684232,
+            "geocell": 1619909,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 206015894,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4782",
+                "wikipedia_pages": {
+                    "en": "Oamaru"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 206233503,
+            "country": 554,
+            "level1area": [
+                "nzota"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mosgiel",
+                "mk": "Мозгил"
+            },
+            "place_type": 84,
+            "population": 14700,
+            "latitude": -45.8749828,
+            "longitude": 170.347348,
+            "geocell": 1591103,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 206233503,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1949244",
+                "wikipedia_pages": {
+                    "en": "Mosgiel"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 248764278,
+            "country": 554,
+            "level1area": [
+                "nzbop"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Whakatāne",
+                "ja": "ファカタネ",
+                "mk": "Факатане"
+            },
+            "place_type": 84,
+            "population": 16700,
+            "latitude": -37.9519223,
+            "longitude": 176.9945977,
+            "geocell": 1875569,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 248764278,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.whakatane.com/",
+                "wikidata_page_name": "Q974074",
+                "wikipedia_pages": {
+                    "en": "Whakatāne"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259582542,
+            "country": 554,
+            "level1area": [
+                "nzcan"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ashburton",
+                "ja": "アシュバートン",
+                "mk": "Ешбертон",
+                "ru": "Ашбертон",
+                "uk": "Ашбертон"
+            },
+            "place_type": 84,
+            "population": 20500,
+            "latitude": -43.9024396,
+            "longitude": 171.7503327,
+            "geocell": 1659517,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259582542,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q724923",
+                "wikipedia_pages": {
+                    "en": "Ashburton, New Zealand"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 289347541,
+            "country": 554,
+            "level1area": [
+                "nzcan"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Rolleston",
+                "ja": "ロルストン",
+                "mk": "Ролестон"
+            },
+            "place_type": 84,
+            "population": 28000,
+            "latitude": -43.5966504,
+            "longitude": 172.3850047,
+            "geocell": 1673923,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 289347541,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1099966",
+                "wikipedia_pages": {
+                    "en": "Rolleston, New Zealand"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 292806332,
+            "country": 554,
+            "level1area": [
+                "nzauk"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Auckland",
+                "ar": "أوكلاند",
+                "ast": "Auckland",
+                "az": "Oklənd",
+                "be": "Окленд",
+                "bg": "Окланд",
+                "bn": "অকল্যান্ড",
+                "br": "Auckland",
+                "ca": "Auckland",
+                "ckb": "ئۆکلاند",
+                "cs": "Auckland",
+                "cy": "Auckland",
+                "da": "Auckland",
+                "de": "Auckland",
+                "el": "Όκλαντ",
+                "en": "Auckland",
+                "eo": "Aŭklando",
+                "es": "Auckland",
+                "et": "Auckland",
+                "eu": "Auckland",
+                "fi": "Auckland",
+                "fr": "Auckland",
+                "fy": "Auckland",
+                "ga": "Auckland",
+                "gd": "Auckland",
+                "gl": "Auckland",
+                "he": "זילנד)",
+                "hi": "ऑक्लैण्ड",
+                "hr": "Auckland",
+                "hu": "Auckland",
+                "hy": "Օքլենդ",
+                "id": "Auckland",
+                "io": "Auckland",
+                "is": "Auckland",
+                "it": "Auckland",
+                "ja": "オークランド",
+                "ka": "ოკლენდი",
+                "kab": "Auckland",
+                "kn": "ಆಕ್ಲೆಂಡ್‌",
+                "ko": "오클랜드",
+                "ky": "Окленд",
+                "lv": "Oklenda",
+                "mk": "Окленд",
+                "ml": "ഓക്‌ലൻഡ്",
+                "mn": "Окленд",
+                "mr": "ऑकलंड",
+                "ms": "Auckland",
+                "my": "အော့ကလန်မြို့",
+                "nl": "Auckland",
+                "nn": "Auckland",
+                "os": "Окленд",
+                "pa": "ਆਕਲੈਂਡ",
+                "pl": "Auckland",
+                "pt": "Auckland",
+                "ro": "Auckland",
+                "ru": "Окленд",
+                "sk": "Auckland",
+                "sr": "Окланд",
+                "sv": "Auckland",
+                "sw": "Auckland",
+                "ta": "ஓக்லாந்து",
+                "te": "ఆక్లాండ్",
+                "th": "ออกแลนด์",
+                "tr": "Auckland",
+                "tt": "Окленд",
+                "ug": "ئاۋكلاند",
+                "uk": "Окленд",
+                "ur": "آکلینڈ",
+                "uz": "Oklend",
+                "vi": "Auckland"
+            },
+            "place_type": 67,
+            "population": 1463000,
+            "latitude": -36.852095,
+            "longitude": 174.7631803,
+            "geocell": 1915147,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 292806332,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q37100",
+                "wikipedia_pages": {
+                    "en": "Auckland"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 295522286,
+            "country": 554,
+            "level1area": [
+                "nzwko"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tokoroa",
+                "mk": "Токороа"
+            },
+            "place_type": 84,
+            "population": 14300,
+            "latitude": -38.2168677,
+            "longitude": 175.8705389,
+            "geocell": 1864758,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 295522286,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q112685",
+                "wikipedia_pages": {
+                    "en": "Tokoroa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 339057887,
+            "country": 554,
+            "level1area": [
+                "nzwgn"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Waikanae",
+                "mk": "Ваиканае"
+            },
+            "place_type": 84,
+            "population": 13850,
+            "latitude": -40.8758432,
+            "longitude": 175.0643045,
+            "geocell": 1771150,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 339057887,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2540624",
+                "wikipedia_pages": {
+                    "en": "Waikanae"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 410464091,
+            "country": 554,
+            "level1area": [
+                "nzcan"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Timaru",
+                "ja": "ティマルー",
+                "mk": "Тимару",
+                "ru": "Тимару"
+            },
+            "place_type": 84,
+            "population": 28600,
+            "latitude": -44.3930254,
+            "longitude": 171.2509786,
+            "geocell": 1645112,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 410464091,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1016574",
+                "wikipedia_pages": {
+                    "en": "Timaru"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 599776877,
+            "country": 554,
+            "level1area": [
+                "nzcan"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كرايستشرش",
+                "bn": "ক্রাইস্টচার্চ",
+                "en": "Christchurch",
+                "fa": "کرایست‌چرچ",
+                "hi": "क्राइस्टचर्च",
+                "ja": "クライストチャーチ",
+                "ko": "크라이스트처치",
+                "mk": "Крајстчерч",
+                "ru": "Крайстчерч",
+                "sr": "Крајстчерч",
+                "uk": "Крайстчерч",
+                "ur": "کرائسٹ چرچ"
+            },
+            "place_type": 67,
+            "population": 380600,
+            "latitude": -43.530955,
+            "longitude": 172.6364343,
+            "geocell": 1673926,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 599776877,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q79990",
+                "wikipedia_pages": {
+                    "en": "Christchurch"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 966608500,
+            "country": 554,
+            "level1area": [
+                "nzstl"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Invercargill",
+                "gd": "Inbhir Chargaill",
+                "ja": "インバーカーギル",
+                "mk": "Инверкаргил",
+                "ru": "Инверкаргилл"
+            },
+            "place_type": 67,
+            "population": 49900,
+            "latitude": -46.4118465,
+            "longitude": 168.3470632,
+            "geocell": 1569483,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 966608500,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q31805",
+                "wikipedia_pages": {
+                    "en": "Invercargill"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1037917163,
+            "country": 554,
+            "level1area": [
+                "nzota"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Dunedin",
+                "ja": "ダニーデン",
+                "ko": "더니든",
+                "mk": "Данидн",
+                "ru": "Данидин",
+                "uk": "Данідін"
+            },
+            "place_type": 67,
+            "population": 105000,
+            "latitude": -45.8740984,
+            "longitude": 170.5035755,
+            "geocell": 1591105,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1037917163,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q133073",
+                "wikipedia_pages": {
+                    "en": "Dunedin"
+                }
+            }
+        }
+    }
+]

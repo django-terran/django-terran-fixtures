@@ -1,0 +1,5120 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 18477010,
+            "country": 756,
+            "level1area": [
+                "chbe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Burgdorf",
+                "fr": "Berthoud",
+                "lt": "Burgdorfas",
+                "ru": "Бургдорф (Берн)"
+            },
+            "place_type": 84,
+            "population": 16228,
+            "latitude": 47.0571316,
+            "longitude": 7.6237466,
+            "geocell": 4933876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 18477010,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3402",
+                    "3401",
+                    "3400"
+                ],
+                "website": "https://www.burgdorf.ch/",
+                "wikidata_page_name": "Q68311",
+                "wikipedia_pages": {
+                    "de": "Burgdorf BE"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 18477455,
+            "country": 756,
+            "level1area": [
+                "chbe"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "برن",
+                "ast": "Berna",
+                "be": "Берн",
+                "bg": "Берн",
+                "bn": "বের্ন",
+                "br": "Bern",
+                "ca": "Berna",
+                "ckb": "بێرن",
+                "cs": "Bern",
+                "de": "Bern",
+                "el": "Βέρνη",
+                "en": "Bern",
+                "eo": "Berno",
+                "es": "Berna",
+                "eu": "Berna",
+                "fa": "برن",
+                "fi": "Bern",
+                "fr": "Berne",
+                "ga": "Beirn",
+                "gd": "Berne",
+                "gl": "Berna - Bern",
+                "he": "ברן",
+                "hi": "बर्न",
+                "hu": "Bern",
+                "hy": "Բեռն",
+                "is": "Bern",
+                "it": "Berna",
+                "ja": "ベルン",
+                "ka": "ბერნი",
+                "kk": "Берн",
+                "kn": "ಬೇರ್ನ್",
+                "ko": "베른",
+                "lt": "Bernas",
+                "lv": "Berne",
+                "mk": "Берн",
+                "ml": "ബേൺ",
+                "mr": "बर्न",
+                "nl": "Bern",
+                "os": "Берн",
+                "pl": "Berno",
+                "pt": "Berna",
+                "ro": "Berna",
+                "ru": "Берн",
+                "sk": "Bern",
+                "sl": "Berna",
+                "sq": "Berna",
+                "sr": "Берн",
+                "sv": "Bern",
+                "ta": "பேர்ன்",
+                "tg": "Берн",
+                "th": "เบิร์น",
+                "tr": "Bern",
+                "tt": "Берн",
+                "udm": "Берн",
+                "ug": "بېرن",
+                "uk": "Берн",
+                "ur": "برن"
+            },
+            "place_type": 67,
+            "population": 128848,
+            "latitude": 46.9484742,
+            "longitude": 7.4521749,
+            "geocell": 4930274,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 18477455,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "3040",
+                    "3030",
+                    "3024",
+                    "3027",
+                    "3020",
+                    "3019",
+                    "3018",
+                    "3015",
+                    "3014",
+                    "3013",
+                    "3012",
+                    "3011",
+                    "3010",
+                    "3008",
+                    "3007",
+                    "3006",
+                    "3005",
+                    "3004",
+                    "3003",
+                    "3001",
+                    "3000"
+                ],
+                "website": "https://www.bern.ch/",
+                "wikidata_page_name": "Q70",
+                "wikipedia_pages": {
+                    "de": "Bern"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 18477599,
+            "country": 756,
+            "level1area": [
+                "chbe"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Шпіц",
+                "de": "Spiez",
+                "ru": "Шпиц"
+            },
+            "place_type": 84,
+            "population": 12027,
+            "latitude": 46.6919473,
+            "longitude": 7.6774655,
+            "geocell": 4919476,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 18477599,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3700"
+                ],
+                "wikidata_page_name": "Q69484",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25844325,
+            "country": 756,
+            "level1area": [
+                "chsz"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Schwyz",
+                "fr": "Schwytz",
+                "it": "Svitto",
+                "lt": "Švicas",
+                "ru": "Швиц"
+            },
+            "place_type": 84,
+            "population": 14750,
+            "latitude": 47.0211848,
+            "longitude": 8.6535598,
+            "geocell": 4933886,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25844325,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6430"
+                ],
+                "website": "https://www.gemeindeschwyz.ch/",
+                "wikidata_page_name": "Q68155",
+                "wikipedia_pages": {
+                    "de": "Schwyz (Gemeinde)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26032384,
+            "country": 756,
+            "level1area": [
+                "chgr"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "دافوس",
+                "be": "Давос",
+                "de": "Davos",
+                "lt": "Davosas",
+                "ru": "Давос",
+                "uk": "Давос"
+            },
+            "place_type": 84,
+            "population": 11211,
+            "latitude": 46.796198,
+            "longitude": 9.8236892,
+            "geocell": 4923098,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26032384,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "7270"
+                ],
+                "website": "https://www.gemeindedavos.ch/",
+                "wikidata_page_name": "Q68097",
+                "wikipedia_pages": {
+                    "de": "Davos"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26659685,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Dübendorf"
+            },
+            "place_type": 84,
+            "population": 26759,
+            "latitude": 47.3969942,
+            "longitude": 8.6185666,
+            "geocell": 4944686,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26659685,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8600"
+                ],
+                "wikidata_page_name": "Q64082",
+                "wikipedia_pages": {
+                    "de": "Dübendorf"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27284711,
+            "country": 756,
+            "level1area": [
+                "chbs"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بازل",
+                "be": "Базэль",
+                "ca": "Basilea",
+                "cs": "Basilej",
+                "de": "Basel",
+                "en": "Basel",
+                "es": "Basilea",
+                "fr": "Bâle",
+                "hu": "Bázel",
+                "it": "Basilea",
+                "ml": "ബാസൽ",
+                "nl": "Bazel",
+                "pl": "Bazylea",
+                "ru": "Базель",
+                "sk": "Bazilej",
+                "sr": "Базел",
+                "uk": "Базель"
+            },
+            "place_type": 67,
+            "population": 174491,
+            "latitude": 47.5581077,
+            "longitude": 7.5878261,
+            "geocell": 4951875,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27284711,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "4075",
+                    "4088",
+                    "4087",
+                    "4086",
+                    "4085",
+                    "4084",
+                    "4083",
+                    "4080",
+                    "4039",
+                    "4070",
+                    "4091",
+                    "4059",
+                    "4058",
+                    "4057",
+                    "4056",
+                    "4055",
+                    "4054",
+                    "4053",
+                    "4052",
+                    "4051",
+                    "4032",
+                    "4031",
+                    "4030",
+                    "4025",
+                    "4024",
+                    "4020",
+                    "4019",
+                    "4018",
+                    "4017",
+                    "4016",
+                    "4015",
+                    "4013",
+                    "4012",
+                    "4011",
+                    "4010",
+                    "4009",
+                    "4008",
+                    "4007",
+                    "4005",
+                    "4004",
+                    "4003",
+                    "4002",
+                    "4001",
+                    "4000",
+                    "4006",
+                    "4028",
+                    "4040",
+                    "4023",
+                    "4027"
+                ],
+                "website": "https://www.bs.ch/",
+                "wikidata_page_name": "Q78",
+                "wikipedia_pages": {
+                    "de": "Basel"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27386700,
+            "country": 756,
+            "level1area": [
+                "chbl"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Liestal",
+                "lt": "Listalis",
+                "ru": "Листаль",
+                "uk": "Лісталь"
+            },
+            "place_type": 84,
+            "population": 13807,
+            "latitude": 47.4839723,
+            "longitude": 7.7347783,
+            "geocell": 4948277,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27386700,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4410"
+                ],
+                "website": "https://www.liestal.ch/",
+                "wikidata_page_name": "Q68972",
+                "wikipedia_pages": {
+                    "de": "Liestal"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27583985,
+            "country": 756,
+            "level1area": [
+                "chtg"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Weinfelden"
+            },
+            "place_type": 84,
+            "population": 10066,
+            "latitude": 47.5669187,
+            "longitude": 9.1097539,
+            "geocell": 4951891,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27583985,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.weinfelden.ch/",
+                "wikidata_page_name": "Q68258",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 28902503,
+            "country": 756,
+            "level1area": [
+                "chsh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Neuhausen",
+                "ru": "Нойхаузен-ам-Райнфалль"
+            },
+            "place_type": 84,
+            "population": 10220,
+            "latitude": 47.6811644,
+            "longitude": 8.6197347,
+            "geocell": 4955486,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 28902503,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8212"
+                ],
+                "website": "https://www.neuhausen.ch/",
+                "wikidata_page_name": "Q69372",
+                "wikipedia_pages": {
+                    "de": "Neuhausen am Rheinfall"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29011774,
+            "country": 756,
+            "level1area": [
+                "chsh"
+            ],
+            "level2area": null,
+            "names": {
+                "da": "Schaffhausen",
+                "de": "Schaffhausen",
+                "eo": "Ŝafhaŭzo",
+                "es": "Escafusa",
+                "fr": "Schaffhouse",
+                "he": "שפהאוזן",
+                "it": "Sciaffusa",
+                "ja": "シャフハウゼン",
+                "lt": "Šafhauzenas",
+                "lv": "Šafhauzene",
+                "pl": "Szafuza",
+                "ru": "Шаффхаузен",
+                "sr": "Шафхаузен",
+                "uk": "Шаффгаузен"
+            },
+            "place_type": 84,
+            "population": 35927,
+            "latitude": 47.6960491,
+            "longitude": 8.634513,
+            "geocell": 4955486,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29011774,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8200"
+                ],
+                "website": "https://www.stadt-schaffhausen.ch/",
+                "wikidata_page_name": "Q9009",
+                "wikipedia_pages": {
+                    "de": "Schaffhausen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29055165,
+            "country": 756,
+            "level1area": [
+                "chtg"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Amriswil",
+                "ru": "Амрисвиль",
+                "uk": "Амрісвіль"
+            },
+            "place_type": 84,
+            "population": 11357,
+            "latitude": 47.5500227,
+            "longitude": 9.2981219,
+            "geocell": 4951892,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29055165,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8580"
+                ],
+                "wikidata_page_name": "Q69768",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29886774,
+            "country": 756,
+            "level1area": [
+                "chag"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Aarau",
+                "lt": "Arau",
+                "ru": "Арау"
+            },
+            "place_type": 84,
+            "population": 21191,
+            "latitude": 47.3927146,
+            "longitude": 8.0444448,
+            "geocell": 4944680,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29886774,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5000",
+                    "5001",
+                    "5004",
+                    "5032",
+                    "5000",
+                    "5001",
+                    "5004",
+                    "5032"
+                ],
+                "website": "https://www.aarau.ch/",
+                "wikidata_page_name": "Q14274",
+                "wikipedia_pages": {
+                    "de": "Aarau"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29973046,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Adliswil"
+            },
+            "place_type": 84,
+            "population": 15822,
+            "latitude": 47.3117624,
+            "longitude": 8.52491,
+            "geocell": 4944685,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29973046,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8134"
+                ],
+                "wikidata_page_name": "Q68210",
+                "wikipedia_pages": {
+                    "en": "Adliswil"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30000143,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Schlieren"
+            },
+            "place_type": 84,
+            "population": 18414,
+            "latitude": 47.3965147,
+            "longitude": 8.4444861,
+            "geocell": 4944684,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30000143,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8952"
+                ],
+                "website": "https://www.schlieren.ch/",
+                "wikidata_page_name": "Q69148",
+                "wikipedia_pages": {
+                    "de": "Schlieren"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30350165,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Thalwil"
+            },
+            "place_type": 84,
+            "population": 17729,
+            "latitude": 47.2944325,
+            "longitude": 8.5635762,
+            "geocell": 4941085,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30350165,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8800"
+                ],
+                "website": "https://www.thalwil.ch/",
+                "wikidata_page_name": "Q68959",
+                "wikipedia_pages": {
+                    "de": "Thalwil"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30351172,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Wädenswil"
+            },
+            "place_type": 84,
+            "population": 24341,
+            "latitude": 47.2278988,
+            "longitude": 8.6701365,
+            "geocell": 4941086,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30351172,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8820"
+                ],
+                "wikidata_page_name": "Q69718",
+                "wikipedia_pages": {
+                    "de": "Wädenswil"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30606296,
+            "country": 756,
+            "level1area": [
+                "chtg"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Kreuzlingen",
+                "ru": "Кройцлинген"
+            },
+            "place_type": 84,
+            "population": 20846,
+            "latitude": 47.6464362,
+            "longitude": 9.1725621,
+            "geocell": 4955491,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30606296,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8280"
+                ],
+                "website": "https://www.kreuzlingen.ch/",
+                "wikidata_page_name": "Q63905",
+                "wikipedia_pages": {
+                    "de": "Kreuzlingen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30757707,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Stäfa"
+            },
+            "place_type": 84,
+            "population": 11567,
+            "latitude": 47.2413349,
+            "longitude": 8.7348747,
+            "geocell": 4941087,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30757707,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8712",
+                    "8712"
+                ],
+                "wikidata_page_name": "Q69774",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30757708,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Männedorf"
+            },
+            "place_type": 84,
+            "population": 10588,
+            "latitude": 47.253174,
+            "longitude": 8.6918153,
+            "geocell": 4941086,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30757708,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8708",
+                    "8708"
+                ],
+                "website": "https://www.maennedorf.ch/",
+                "wikidata_page_name": "Q64627",
+                "wikipedia_pages": {
+                    "de": "Männedorf"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30757709,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Meilen"
+            },
+            "place_type": 84,
+            "population": 13515,
+            "latitude": 47.270428,
+            "longitude": 8.6412249,
+            "geocell": 4941086,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30757709,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8706"
+                ],
+                "website": "https://www.meilen.ch/",
+                "wikidata_page_name": "Q68261",
+                "wikipedia_pages": {
+                    "de": "Meilen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30757710,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Küsnacht"
+            },
+            "place_type": 84,
+            "population": 13796,
+            "latitude": 47.3176276,
+            "longitude": 8.5830859,
+            "geocell": 4944685,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30757710,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8700",
+                    "8700"
+                ],
+                "website": "https://www.kuesnacht.ch/",
+                "wikidata_page_name": "Q69216",
+                "wikipedia_pages": {
+                    "de": "Küsnacht"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30884242,
+            "country": 756,
+            "level1area": [
+                "chbe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Muri",
+                "ru": "Мури-Берн"
+            },
+            "place_type": 84,
+            "population": 12901,
+            "latitude": 46.9290477,
+            "longitude": 7.4870909,
+            "geocell": 4930274,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30884242,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3074",
+                    "3074"
+                ],
+                "website": "https://muri-guemligen.ch/",
+                "wikidata_page_name": "Q69765",
+                "wikipedia_pages": {
+                    "de": "Muri bei Bern"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 31491329,
+            "country": 756,
+            "level1area": [
+                "chbe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Ittigen",
+                "ru": "Иттиген"
+            },
+            "place_type": 84,
+            "population": 11067,
+            "latitude": 46.9790726,
+            "longitude": 7.4815213,
+            "geocell": 4930274,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 31491329,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.ittigen.ch/",
+                "wikidata_page_name": "Q69690",
+                "wikipedia_pages": {
+                    "de": "Ittigen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 31506848,
+            "country": 756,
+            "level1area": [
+                "chbe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Münsingen"
+            },
+            "place_type": 84,
+            "population": 12533,
+            "latitude": 46.8739775,
+            "longitude": 7.5631943,
+            "geocell": 4926675,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 31506848,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3083",
+                    "3110",
+                    "3111"
+                ],
+                "website": "https://www.muensingen.ch/",
+                "wikidata_page_name": "Q69783",
+                "wikipedia_pages": {
+                    "de": "Münsingen BE"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 31517557,
+            "country": 756,
+            "level1area": [
+                "chbe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Ostermundigen",
+                "ru": "Остермундиген"
+            },
+            "place_type": 84,
+            "population": 16185,
+            "latitude": 46.9582779,
+            "longitude": 7.4911242,
+            "geocell": 4930274,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 31517557,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3072"
+                ],
+                "website": "https://www.ostermundigen.ch/",
+                "wikidata_page_name": "Q69682",
+                "wikipedia_pages": {
+                    "de": "Ostermundigen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 31518823,
+            "country": 756,
+            "level1area": [
+                "chbe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Zollikofen"
+            },
+            "place_type": 84,
+            "population": 10041,
+            "latitude": 46.9959463,
+            "longitude": 7.4576417,
+            "geocell": 4930274,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 31518823,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3052"
+                ],
+                "website": "https://www.zollikofen.ch/",
+                "wikidata_page_name": "Q69675",
+                "wikipedia_pages": {
+                    "de": "Zollikofen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 31822276,
+            "country": 756,
+            "level1area": [
+                "chbe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Lyss",
+                "ru": "Лис"
+            },
+            "place_type": 84,
+            "population": 14080,
+            "latitude": 47.0721368,
+            "longitude": 7.305262,
+            "geocell": 4933873,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 31822276,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3250"
+                ],
+                "website": "https://www.lyss.ch/",
+                "wikidata_page_name": "Q69512",
+                "wikipedia_pages": {
+                    "de": "Lyss"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 33078276,
+            "country": 756,
+            "level1area": [
+                "chbe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Worb"
+            },
+            "place_type": 84,
+            "population": 11449,
+            "latitude": 46.9308618,
+            "longitude": 7.5645522,
+            "geocell": 4930275,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 33078276,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3076",
+                    "3076"
+                ],
+                "website": "https://www.worb.ch/",
+                "wikidata_page_name": "Q69732",
+                "wikipedia_pages": {
+                    "de": "Worb"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 33622904,
+            "country": 756,
+            "level1area": [
+                "chge"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Genève",
+                "ar": "جنيف",
+                "az": "Cenevrə",
+                "be": "Жэнева",
+                "bg": "Женева",
+                "bn": "জেনেভা",
+                "br": "Geneva",
+                "bs": "Ženeva",
+                "ca": "Ginebra",
+                "cs": "Ženeva",
+                "cy": "Genefa",
+                "da": "Geneve",
+                "de": "Genf",
+                "el": "Γενεύη",
+                "en": "Geneva",
+                "eo": "Ĝenevo",
+                "es": "Ginebra",
+                "et": "Genf",
+                "eu": "Geneva",
+                "fa": "ژنو",
+                "fi": "Geneve",
+                "fr": "Genève",
+                "fy": "Genève",
+                "ga": "An Ghinéiv",
+                "gd": "Sineubha",
+                "gl": "Xenebra",
+                "he": "ז'נבה",
+                "hr": "Ženeva",
+                "hu": "Genf",
+                "id": "Jenewa",
+                "it": "Ginevra",
+                "ja": "ジュネーヴ",
+                "kn": "ಜೆನೇವ",
+                "ko": "제네바",
+                "lt": "Ženeva",
+                "lv": "Ženēva",
+                "ml": "ജനീവ",
+                "nl": "Genève",
+                "pl": "Genewa",
+                "pt": "Genebra",
+                "ru": "Женева",
+                "sk": "Ženeva",
+                "sl": "Ženeva",
+                "sr": "Женева",
+                "th": "เจนีวา",
+                "tr": "Cenevre",
+                "tt": "Женева",
+                "uk": "Женева",
+                "ur": "جنیوا",
+                "vi": "Genève"
+            },
+            "place_type": 67,
+            "population": 191557,
+            "latitude": 46.2017559,
+            "longitude": 6.1466014,
+            "geocell": 4905061,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 33622904,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "1240",
+                    "1209",
+                    "1208",
+                    "1207",
+                    "1206",
+                    "1205",
+                    "1204",
+                    "1203",
+                    "1202",
+                    "1201",
+                    "1200"
+                ],
+                "website": "https://www.ville-geneve.ch/",
+                "wikidata_page_name": "Q71",
+                "wikipedia_pages": {
+                    "fr": "Genève"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 35295150,
+            "country": 756,
+            "level1area": [
+                "chvd"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "لوزان",
+                "be": "Лазана",
+                "ca": "Lausana",
+                "de": "Lausanne",
+                "el": "Λωζάνη",
+                "es": "Lausana",
+                "fr": "Lausanne",
+                "it": "Losanna",
+                "lt": "Lozana",
+                "ml": "ലോസാൻ",
+                "pl": "Lozanna",
+                "ru": "Лозанна",
+                "sl": "Lozana",
+                "sr": "Лозана",
+                "tr": "Lozan",
+                "uk": "Лозанна"
+            },
+            "place_type": 67,
+            "population": 133521,
+            "latitude": 46.5218269,
+            "longitude": 6.6327025,
+            "geocell": 4915866,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 35295150,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "1018",
+                    "1012",
+                    "1011",
+                    "1010",
+                    "1007",
+                    "1006",
+                    "1005",
+                    "1004",
+                    "1003",
+                    "1002",
+                    "1001",
+                    "1000",
+                    "1015"
+                ],
+                "website": "https://www.lausanne.ch/",
+                "wikidata_page_name": "Q807",
+                "wikipedia_pages": {
+                    "fr": "Lausanne"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 36650971,
+            "country": 756,
+            "level1area": [
+                "chge"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Мерэн",
+                "de": "Meyrin",
+                "ru": "Мерен"
+            },
+            "place_type": 84,
+            "population": 21866,
+            "latitude": 46.2283226,
+            "longitude": 6.0712016,
+            "geocell": 4905060,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 36650971,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1217"
+                ],
+                "website": "https://www.meyrin.ch/",
+                "wikidata_page_name": "Q68230",
+                "wikipedia_pages": {
+                    "fr": "Meyrin"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 36650974,
+            "country": 756,
+            "level1area": [
+                "chge"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Лансі",
+                "de": "Lancy",
+                "ru": "Ланси"
+            },
+            "place_type": 84,
+            "population": 10919,
+            "latitude": 46.1839156,
+            "longitude": 6.1224047,
+            "geocell": 4901461,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 36650974,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1212"
+                ],
+                "website": "https://www.lancy.ch/",
+                "wikidata_page_name": "Q64065",
+                "wikipedia_pages": {
+                    "fr": "Lancy"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 36650975,
+            "country": 756,
+            "level1area": [
+                "chge"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Танэ",
+                "de": "Thônex",
+                "lt": "Toneksas",
+                "ru": "Тоне"
+            },
+            "place_type": 84,
+            "population": 13756,
+            "latitude": 46.1884304,
+            "longitude": 6.1983858,
+            "geocell": 4901461,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 36650975,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1226"
+                ],
+                "website": "https://www.thonex.ch/",
+                "wikidata_page_name": "Q68201",
+                "wikipedia_pages": {
+                    "fr": "Thônex"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 36650976,
+            "country": 756,
+            "level1area": [
+                "chge"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Верн'е",
+                "de": "Vernier",
+                "ru": "Вернье"
+            },
+            "place_type": 84,
+            "population": 34477,
+            "latitude": 46.2131843,
+            "longitude": 6.0815756,
+            "geocell": 4905060,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 36650976,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1214"
+                ],
+                "website": "https://www.vernier.ch/",
+                "wikidata_page_name": "Q63922",
+                "wikipedia_pages": {
+                    "fr": "Vernier (Genève)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 36650978,
+            "country": 756,
+            "level1area": [
+                "chge"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Ле Гран-Саканэ",
+                "de": "Le Grand-Saconnex",
+                "ru": "Ле Гран-Саконне"
+            },
+            "place_type": 84,
+            "population": 11911,
+            "latitude": 46.2363321,
+            "longitude": 6.126532,
+            "geocell": 4905061,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 36650978,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1218"
+                ],
+                "website": "https://www.grand-saconnex.ch/",
+                "wikidata_page_name": "Q69714",
+                "wikipedia_pages": {
+                    "fr": "Le Grand-Saconnex"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 36651959,
+            "country": 756,
+            "level1area": [
+                "chge"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Вер'е",
+                "de": "Veyrier",
+                "ru": "Верье"
+            },
+            "place_type": 86,
+            "population": 10799,
+            "latitude": 46.1668163,
+            "longitude": 6.185681,
+            "geocell": 4901461,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 36651959,
+                "open_street_map_place": "village",
+                "postal_codes": [
+                    "1255"
+                ],
+                "website": "https://www.veyrier.ch/",
+                "wikidata_page_name": "Q69587",
+                "wikipedia_pages": {
+                    "fr": "Veyrier"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 57722283,
+            "country": 756,
+            "level1area": [
+                "chvs"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Брыг",
+                "de": "Brig",
+                "fr": "Brigue",
+                "it": "Briga",
+                "ru": "Бриг"
+            },
+            "place_type": 84,
+            "population": 12823,
+            "latitude": 46.3163457,
+            "longitude": 7.9879473,
+            "geocell": 4908679,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 57722283,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3900"
+                ],
+                "website": "https://www.brig-glis.ch/",
+                "wikidata_page_name": "Q15582",
+                "wikipedia_pages": {
+                    "de": "Brig"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 59955692,
+            "country": 756,
+            "level1area": [
+                "chge"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "План-лез-Уат",
+                "de": "Plan-les-Ouates",
+                "ru": "План-лез-Уат"
+            },
+            "place_type": 84,
+            "population": 10657,
+            "latitude": 46.1683113,
+            "longitude": 6.117887,
+            "geocell": 4901461,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 59955692,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1228"
+                ],
+                "website": "https://www.plan-les-ouates.ch/",
+                "wikidata_page_name": "Q65273",
+                "wikipedia_pages": {
+                    "fr": "Plan-les-Ouates"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60031299,
+            "country": 756,
+            "level1area": [
+                "chvs"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Сьер",
+                "de": "Siders",
+                "fr": "Sierre",
+                "ru": "Сьер"
+            },
+            "place_type": 84,
+            "population": 16711,
+            "latitude": 46.2922522,
+            "longitude": 7.5323195,
+            "geocell": 4905075,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60031299,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3960"
+                ],
+                "website": "https://www.sierre.ch/",
+                "wikidata_page_name": "Q68297",
+                "wikipedia_pages": {
+                    "fr": "Sierre"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60404417,
+            "country": 756,
+            "level1area": [
+                "chzg"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Цуг",
+                "de": "Zug",
+                "fr": "Zoug",
+                "it": "Zugo",
+                "lt": "Cugas",
+                "ml": "സുഗ്",
+                "ru": "Цуг",
+                "uk": "Цуг"
+            },
+            "place_type": 84,
+            "population": 29251,
+            "latitude": 47.1679898,
+            "longitude": 8.5173652,
+            "geocell": 4937485,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60404417,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6300–6305",
+                    "6310",
+                    "6317"
+                ],
+                "website": "https://www.stadtzug.ch/",
+                "wikidata_page_name": "Q68144",
+                "wikipedia_pages": {
+                    "de": "Zug (Stadt)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 61158271,
+            "country": 756,
+            "level1area": [
+                "chag"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Baden",
+                "lt": "Badenas",
+                "ru": "Баден"
+            },
+            "place_type": 84,
+            "population": 19168,
+            "latitude": 47.4736827,
+            "longitude": 8.3086822,
+            "geocell": 4948283,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 61158271,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5400-5406",
+                    "5400-5406"
+                ],
+                "website": "https://www.baden.ch/",
+                "wikidata_page_name": "Q63939",
+                "wikipedia_pages": {
+                    "de": "Baden AG"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 61168838,
+            "country": 756,
+            "level1area": [
+                "chag"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Wettingen"
+            },
+            "place_type": 84,
+            "population": 21000,
+            "latitude": 47.465839,
+            "longitude": 8.3266114,
+            "geocell": 4948283,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 61168838,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5430"
+                ],
+                "phone": "+41 56 437 71 11",
+                "website": "https://www.wettingen.ch",
+                "wikidata_page_name": "Q27576",
+                "wikipedia_pages": {
+                    "de": "Wettingen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 63742716,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Hinwil"
+            },
+            "place_type": 86,
+            "population": 10364,
+            "latitude": 47.3015316,
+            "longitude": 8.8419423,
+            "geocell": 4944688,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 63742716,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q69383",
+                "wikipedia_pages": {
+                    "de": "Hinwil"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 100193272,
+            "country": 756,
+            "level1area": [
+                "chtg"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Romanshorn"
+            },
+            "place_type": 84,
+            "population": 11487,
+            "latitude": 47.5654452,
+            "longitude": 9.3776036,
+            "geocell": 4951893,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 100193272,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8590"
+                ],
+                "website": "https://www.romanshorn.ch/",
+                "wikidata_page_name": "Q65125",
+                "wikipedia_pages": {
+                    "de": "Romanshorn"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 100967525,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Volketswil"
+            },
+            "place_type": 84,
+            "population": 18437,
+            "latitude": 47.3898617,
+            "longitude": 8.690503,
+            "geocell": 4944686,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 100967525,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8604",
+                    "8604"
+                ],
+                "website": "https://www.volketswil.ch/",
+                "wikidata_page_name": "Q69754",
+                "wikipedia_pages": {
+                    "de": "Volketswil"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 101790038,
+            "country": 756,
+            "level1area": [
+                "chag"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Spreitenbach"
+            },
+            "place_type": 84,
+            "population": 11795,
+            "latitude": 47.4182444,
+            "longitude": 8.3640342,
+            "geocell": 4948283,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 101790038,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8957"
+                ],
+                "website": "https://www.spreitenbach.ch/",
+                "wikidata_page_name": "Q64210",
+                "wikipedia_pages": {
+                    "de": "Spreitenbach"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 107200959,
+            "country": 756,
+            "level1area": [
+                "chbl"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Pratteln"
+            },
+            "place_type": 84,
+            "population": 15323,
+            "latitude": 47.5192013,
+            "longitude": 7.6944741,
+            "geocell": 4951876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 107200959,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4133",
+                    "4133"
+                ],
+                "website": "https://www.pratteln.ch/",
+                "wikidata_page_name": "Q64679",
+                "wikipedia_pages": {
+                    "de": "Pratteln"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 158220182,
+            "country": 756,
+            "level1area": [
+                "chvs"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Марцін'і",
+                "de": "Martigny"
+            },
+            "place_type": 84,
+            "population": 14361,
+            "latitude": 46.103115,
+            "longitude": 7.0727354,
+            "geocell": 4901470,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 158220182,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1920"
+                ],
+                "wikidata_page_name": "Q68956",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 178582316,
+            "country": 756,
+            "level1area": [
+                "chbe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Thun",
+                "fr": "Thoune",
+                "lt": "Tunas",
+                "ru": "Тун",
+                "uk": "Тун"
+            },
+            "place_type": 84,
+            "population": 44430,
+            "latitude": 46.7582827,
+            "longitude": 7.628086,
+            "geocell": 4923076,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 178582316,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3600–3609",
+                    "3624",
+                    "3645"
+                ],
+                "website": "https://www.thun.ch/",
+                "wikidata_page_name": "Q68978",
+                "wikipedia_pages": {
+                    "de": "Thun"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 197266469,
+            "country": 756,
+            "level1area": [
+                "chbe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Steffisburg",
+                "en": "Steffisburg",
+                "fr": "Steffisburg",
+                "it": "Steffisburg",
+                "ru": "Штеффисбург"
+            },
+            "place_type": 84,
+            "population": 15816,
+            "latitude": 46.7774738,
+            "longitude": 7.6354195,
+            "geocell": 4923076,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 197266469,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3612",
+                    "3613"
+                ],
+                "website": "https://www.steffisburg.ch/",
+                "wikidata_page_name": "Q69668",
+                "wikipedia_pages": {
+                    "de": "Steffisburg"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 197501928,
+            "country": 756,
+            "level1area": [
+                "chvs"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Сьён",
+                "de": "Sitten",
+                "fr": "Sion",
+                "lt": "Sionas",
+                "ru": "Сьон"
+            },
+            "place_type": 84,
+            "population": 34599,
+            "latitude": 46.2311749,
+            "longitude": 7.3588795,
+            "geocell": 4905073,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 197501928,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1950",
+                    "1951",
+                    "1992",
+                    "1950",
+                    "1951",
+                    "1992"
+                ],
+                "website": "https://www.sion.ch/",
+                "wikidata_page_name": "Q68136",
+                "wikipedia_pages": {
+                    "fr": "Sion (Valais)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 197504797,
+            "country": 756,
+            "level1area": [
+                "chvs"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Monthey"
+            },
+            "place_type": 84,
+            "population": 18178,
+            "latitude": 46.252844,
+            "longitude": 6.9478263,
+            "geocell": 4905069,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 197504797,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1870"
+                ],
+                "website": "https://www.monthey.ch/",
+                "wikidata_page_name": "Q64051",
+                "wikipedia_pages": {
+                    "fr": "Monthey"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 197507412,
+            "country": 756,
+            "level1area": [
+                "chvd"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Мантрэ",
+                "de": "Montreux",
+                "el": "Μοντρέ",
+                "lt": "Montrė",
+                "ru": "Монтрё",
+                "tr": "Montrö"
+            },
+            "place_type": 84,
+            "population": 26208,
+            "latitude": 46.4310831,
+            "longitude": 6.9129921,
+            "geocell": 4912269,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 197507412,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1820"
+                ],
+                "website": "https://www.montreux.ch/",
+                "wikidata_page_name": "Q69354",
+                "wikipedia_pages": {
+                    "fr": "Montreux"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 201642856,
+            "country": 756,
+            "level1area": [
+                "chbe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Langenthal"
+            },
+            "place_type": 84,
+            "population": 14000,
+            "latitude": 47.2116019,
+            "longitude": 7.788786,
+            "geocell": 4941077,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 201642856,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4900"
+                ],
+                "wikidata_page_name": "Q69726",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 220376756,
+            "country": 756,
+            "level1area": [
+                "chvd"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Pully",
+                "ru": "Пюлли"
+            },
+            "place_type": 84,
+            "population": 17624,
+            "latitude": 46.5098019,
+            "longitude": 6.6617476,
+            "geocell": 4915866,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 220376756,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1009"
+                ],
+                "website": "https://www.pully.ch/",
+                "wikidata_page_name": "Q69738",
+                "wikipedia_pages": {
+                    "fr": "Pully"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240023861,
+            "country": 756,
+            "level1area": [
+                "chbl"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Reinach",
+                "ru": "Райнах"
+            },
+            "place_type": 84,
+            "population": 18839,
+            "latitude": 47.4935369,
+            "longitude": 7.5910891,
+            "geocell": 4948275,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240023861,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4153",
+                    "4153"
+                ],
+                "website": "https://www.reinach-bl.ch/",
+                "wikidata_page_name": "Q69747",
+                "wikipedia_pages": {
+                    "de": "Reinach BL"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240025182,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Zürich",
+                "ar": "زيورخ",
+                "az": "Sürix",
+                "be": "Цюрых",
+                "bg": "Цюрих",
+                "bn": "জুরিখ",
+                "br": "Zürich",
+                "bs": "Zürich",
+                "ca": "Zuric",
+                "cs": "Curych",
+                "cy": "Zürich",
+                "da": "Zürich",
+                "de": "Zürich",
+                "el": "Ζυρίχη",
+                "en": "Zurich",
+                "eo": "Zuriko",
+                "es": "Zúrich",
+                "et": "Zürich",
+                "eu": "Zürich",
+                "fa": "زوریخ",
+                "fi": "Zürich",
+                "fr": "Zurich",
+                "ga": "Zürich",
+                "gd": "Zürich",
+                "gl": "Zúric",
+                "he": "ציריך",
+                "hi": "ज़्यूरिख़",
+                "hr": "Zürich",
+                "hsb": "Zürich",
+                "hu": "Zürich",
+                "id": "Zürich",
+                "io": "Zürich",
+                "is": "Zürich",
+                "it": "Zurigo",
+                "ja": "チューリッヒ",
+                "ka": "ციურიხი",
+                "kn": "ಝ್ಯೂರಿಖ್",
+                "ko": "취리히",
+                "lb": "Zürech",
+                "lt": "Ciurichas",
+                "lv": "Cīrihe",
+                "mk": "Цирих",
+                "ml": "സൂറിച്ച്",
+                "mr": "झ्युरिक",
+                "ms": "Zürich",
+                "my": "ဇူးရစ်ချ်မြို့",
+                "nl": "Zürich",
+                "nn": "Zürich",
+                "os": "Цюрих",
+                "pl": "Zurych",
+                "pt": "Zurique",
+                "ro": "Zürich",
+                "ru": "Цюрих",
+                "sk": "Zürich",
+                "sl": "Zürich",
+                "sq": "Cyrihu",
+                "sr": "Цирих",
+                "sv": "Zürich",
+                "sw": "Zürich",
+                "ta": "சூரிக்",
+                "th": "ซูริก",
+                "tr": "Zürih",
+                "ug": "سيۇرىخ",
+                "uk": "Цюрих",
+                "ur": "زیورخ",
+                "vi": "Zürich"
+            },
+            "place_type": 67,
+            "population": 443037,
+            "latitude": 47.3744489,
+            "longitude": 8.5410422,
+            "geocell": 4944685,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240025182,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "8000–8099"
+                ],
+                "website": "https://www.stadt-zuerich.ch/",
+                "wikidata_page_name": "Q72",
+                "wikipedia_pages": {
+                    "de": "Zürich"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240028752,
+            "country": 756,
+            "level1area": [
+                "chag"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Brugg"
+            },
+            "place_type": 84,
+            "population": 11092,
+            "latitude": 47.4824633,
+            "longitude": 8.2085662,
+            "geocell": 4948282,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240028752,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5200",
+                    "5201",
+                    "5222",
+                    "5200",
+                    "5201",
+                    "5222"
+                ],
+                "website": "https://www.stadt-brugg.ch",
+                "wikidata_page_name": "Q64099",
+                "wikipedia_pages": {
+                    "de": "Brugg"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240029982,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Bassersdorf"
+            },
+            "place_type": 84,
+            "population": 11561,
+            "latitude": 47.4435706,
+            "longitude": 8.6299131,
+            "geocell": 4948286,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240029982,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8303"
+                ],
+                "website": "https://www.bassersdorf.ch/",
+                "wikidata_page_name": "Q69734",
+                "wikipedia_pages": {
+                    "de": "Bassersdorf"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240037485,
+            "country": 756,
+            "level1area": [
+                "chlu"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Horw"
+            },
+            "place_type": 84,
+            "population": 12648,
+            "latitude": 47.0185008,
+            "longitude": 8.3107797,
+            "geocell": 4933883,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240037485,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q14570",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240039598,
+            "country": 756,
+            "level1area": [
+                "chvd"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Nyon",
+                "lt": "Nionas"
+            },
+            "place_type": 84,
+            "population": 19738,
+            "latitude": 46.3820585,
+            "longitude": 6.2402791,
+            "geocell": 4908662,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240039598,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1260"
+                ],
+                "website": "https://www.nyon.ch/",
+                "wikidata_page_name": "Q64027",
+                "wikipedia_pages": {
+                    "fr": "Nyon"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240041404,
+            "country": 756,
+            "level1area": [
+                "chne"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Ля-Шо-дэ-Фон",
+                "de": "La Chaux-de-Fonds",
+                "lt": "Šo de Fonas"
+            },
+            "place_type": 84,
+            "population": 39027,
+            "latitude": 47.1031321,
+            "longitude": 6.8325778,
+            "geocell": 4937468,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240041404,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2300",
+                    "2304",
+                    "2301",
+                    "2306",
+                    "2303",
+                    "2302",
+                    "2300",
+                    "2305"
+                ],
+                "website": "https://www.chaux-de-fonds.ch/",
+                "wikidata_page_name": "Q68124",
+                "wikipedia_pages": {
+                    "fr": "La Chaux-de-Fonds"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240042568,
+            "country": 756,
+            "level1area": [
+                "chsz"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Küssnacht"
+            },
+            "place_type": 86,
+            "population": 10704,
+            "latitude": 47.08385,
+            "longitude": 8.4386308,
+            "geocell": 4933884,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240042568,
+                "open_street_map_place": "village",
+                "postal_codes": [
+                    "6403"
+                ],
+                "wikidata_page_name": "Q64183",
+                "wikipedia_pages": {
+                    "de": "Küssnacht SZ"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240043171,
+            "country": 756,
+            "level1area": [
+                "chbl"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Muttenz"
+            },
+            "place_type": 84,
+            "population": 17370,
+            "latitude": 47.525113,
+            "longitude": 7.6477401,
+            "geocell": 4951876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240043171,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4132",
+                    "4132"
+                ],
+                "website": "https://www.muttenz.ch/",
+                "wikidata_page_name": "Q66191",
+                "wikipedia_pages": {
+                    "de": "Muttenz"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240046111,
+            "country": 756,
+            "level1area": [
+                "chsg"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Altstätten",
+                "ru": "Альтштеттен"
+            },
+            "place_type": 84,
+            "population": 11891,
+            "latitude": 47.3782189,
+            "longitude": 9.5413964,
+            "geocell": 4944695,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240046111,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.altstaetten.ch/",
+                "wikidata_page_name": "Q68281",
+                "wikipedia_pages": {
+                    "de": "Altstätten"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240046137,
+            "country": 756,
+            "level1area": [
+                "chge"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Каруж",
+                "de": "Carouge",
+                "lt": "Karužas",
+                "ru": "Каруж"
+            },
+            "place_type": 84,
+            "population": 20910,
+            "latitude": 46.1846691,
+            "longitude": 6.1396839,
+            "geocell": 4901461,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240046137,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1227"
+                ],
+                "website": "http://www.carouge.ch",
+                "wikidata_page_name": "Q69364",
+                "wikipedia_pages": {
+                    "fr": "Carouge"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240047825,
+            "country": 756,
+            "level1area": [
+                "chag"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Möhlin"
+            },
+            "place_type": 84,
+            "population": 11006,
+            "latitude": 47.560991,
+            "longitude": 7.8431299,
+            "geocell": 4951878,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240047825,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4313"
+                ],
+                "website": "https://www.moehlin.ch/",
+                "wikidata_page_name": "Q69126",
+                "wikipedia_pages": {
+                    "de": "Möhlin"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240050967,
+            "country": 756,
+            "level1area": [
+                "chvd"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Renens",
+                "ru": "Ренан"
+            },
+            "place_type": 84,
+            "population": 20131,
+            "latitude": 46.5349093,
+            "longitude": 6.5928442,
+            "geocell": 4915865,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240050967,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1020"
+                ],
+                "website": "https://www.renens.ch/",
+                "wikidata_page_name": "Q69745",
+                "wikipedia_pages": {
+                    "fr": "Renens"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240052003,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Kloten"
+            },
+            "place_type": 84,
+            "population": 18412,
+            "latitude": 47.4525133,
+            "longitude": 8.5861477,
+            "geocell": 4948285,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240052003,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8302"
+                ],
+                "website": "https://www.kloten.ch/",
+                "wikidata_page_name": "Q68165",
+                "wikipedia_pages": {
+                    "de": "Kloten"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240052258,
+            "country": 756,
+            "level1area": [
+                "chbl"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Binningen",
+                "lt": "Biningenas",
+                "ru": "Биннинген"
+            },
+            "place_type": 84,
+            "population": 14905,
+            "latitude": 47.53656,
+            "longitude": 7.570077,
+            "geocell": 4951875,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240052258,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4102",
+                    "4102"
+                ],
+                "website": "https://www.binningen.ch/",
+                "wikidata_page_name": "Q69621",
+                "wikipedia_pages": {
+                    "de": "Binningen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240053350,
+            "country": 756,
+            "level1area": [
+                "chag"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Suhr"
+            },
+            "place_type": 84,
+            "population": 10130,
+            "latitude": 47.373166,
+            "longitude": 8.079534,
+            "geocell": 4944680,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240053350,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5034"
+                ],
+                "website": "https://www.suhr.ch/",
+                "wikidata_page_name": "Q65195",
+                "wikipedia_pages": {
+                    "de": "Suhr"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240053363,
+            "country": 756,
+            "level1area": [
+                "chag"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Oftringen"
+            },
+            "place_type": 84,
+            "population": 13599,
+            "latitude": 47.3126595,
+            "longitude": 7.92099,
+            "geocell": 4944679,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240053363,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4665"
+                ],
+                "website": "https://www.oftringen.ch/",
+                "wikidata_page_name": "Q68220",
+                "wikipedia_pages": {
+                    "de": "Oftringen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240055984,
+            "country": 756,
+            "level1area": [
+                "chvd"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Prilly"
+            },
+            "place_type": 84,
+            "population": 11609,
+            "latitude": 46.534566,
+            "longitude": 6.6055827,
+            "geocell": 4915866,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240055984,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1008"
+                ],
+                "website": "https://www.prilly.ch/",
+                "wikidata_page_name": "Q69757",
+                "wikipedia_pages": {
+                    "fr": "Prilly"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240062727,
+            "country": 756,
+            "level1area": [
+                "chsg"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Rapperswil"
+            },
+            "place_type": 84,
+            "population": 26354,
+            "latitude": 47.2266532,
+            "longitude": 8.8164042,
+            "geocell": 4941088,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240062727,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.rapperswil-jona.ch/",
+                "wikidata_page_name": "Q688539",
+                "wikipedia_pages": {
+                    "de": "Rapperswil SG"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240062840,
+            "country": 756,
+            "level1area": [
+                "chsg"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Sankt Gallen",
+                "fr": "Saint-Gall",
+                "hu": "Szentgallen",
+                "it": "San Gallo",
+                "lt": "Sankt Galenas",
+                "ru": "Санкт-Галлен"
+            },
+            "place_type": 84,
+            "population": 74581,
+            "latitude": 47.425618,
+            "longitude": 9.3762397,
+            "geocell": 4948293,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240062840,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "9022",
+                    "9020",
+                    "9016",
+                    "9015",
+                    "9014",
+                    "9013",
+                    "9012",
+                    "9011",
+                    "9010",
+                    "9009",
+                    "9008",
+                    "9007",
+                    "9006",
+                    "9004",
+                    "9001",
+                    "9000"
+                ],
+                "website": "https://www.stadt.sg.ch/",
+                "wikidata_page_name": "Q25607",
+                "wikipedia_pages": {
+                    "de": "St. Gallen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240068610,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Effretikon"
+            },
+            "place_type": 84,
+            "population": 16693,
+            "latitude": 47.4283137,
+            "longitude": 8.6869714,
+            "geocell": 4948286,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240068610,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8307"
+                ],
+                "website": "https://www.ilef.ch/",
+                "wikidata_page_name": "Q22698735",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240069687,
+            "country": 756,
+            "level1area": [
+                "chag"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Rheinfelden"
+            },
+            "place_type": 84,
+            "population": 13360,
+            "latitude": 47.5543859,
+            "longitude": 7.7922905,
+            "geocell": 4951877,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240069687,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4310",
+                    "4310"
+                ],
+                "website": "https://www.rheinfelden.ch/",
+                "wikidata_page_name": "Q269667",
+                "wikipedia_pages": {
+                    "de": "Rheinfelden AG"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240070146,
+            "country": 756,
+            "level1area": [
+                "chsz"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Einsiedeln"
+            },
+            "place_type": 84,
+            "population": 12622,
+            "latitude": 47.1286095,
+            "longitude": 8.7500299,
+            "geocell": 4937487,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240070146,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8840"
+                ],
+                "wikidata_page_name": "Q68950",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240076861,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Wetzikon"
+            },
+            "place_type": 84,
+            "population": 24373,
+            "latitude": 47.3226925,
+            "longitude": 8.7980939,
+            "geocell": 4944687,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240076861,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8620"
+                ],
+                "website": "https://www.wetzikon.ch/",
+                "wikidata_page_name": "Q68305",
+                "wikipedia_pages": {
+                    "de": "Wetzikon"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240077296,
+            "country": 756,
+            "level1area": [
+                "chag"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Zofingen"
+            },
+            "place_type": 84,
+            "population": 11543,
+            "latitude": 47.288491,
+            "longitude": 7.9458259,
+            "geocell": 4941079,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240077296,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4800"
+                ],
+                "website": "https://www.zofingen.ch/",
+                "wikidata_page_name": "Q63986",
+                "wikipedia_pages": {
+                    "de": "Zofingen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240077963,
+            "country": 756,
+            "level1area": [
+                "chsg"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Buchs SG",
+                "mk": "Бухс"
+            },
+            "place_type": 84,
+            "population": 12187,
+            "latitude": 47.1627634,
+            "longitude": 9.4764086,
+            "geocell": 4937494,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240077963,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "9470"
+                ],
+                "website": "https://www.buchs-sg.ch/",
+                "wikidata_page_name": "Q68277",
+                "wikipedia_pages": {
+                    "de": "Buchs SG"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240079241,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Rüti ZH"
+            },
+            "place_type": 84,
+            "population": 10804,
+            "latitude": 47.2579312,
+            "longitude": 8.852696,
+            "geocell": 4941088,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240079241,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q69752",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240082939,
+            "country": 756,
+            "level1area": [
+                "chne"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Le Locle"
+            },
+            "place_type": 84,
+            "population": 10529,
+            "latitude": 47.0555907,
+            "longitude": 6.745454,
+            "geocell": 4933867,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240082939,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2400"
+                ],
+                "wikidata_page_name": "Q64093",
+                "wikipedia_pages": {
+                    "fr": "Le Locle"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240089992,
+            "country": 756,
+            "level1area": [
+                "chbl"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Aesch"
+            },
+            "place_type": 84,
+            "population": 10211,
+            "latitude": 47.4682447,
+            "longitude": 7.5980395,
+            "geocell": 4948275,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240089992,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4147",
+                    "4147"
+                ],
+                "website": "https://www.aesch.bl.ch/",
+                "wikidata_page_name": "Q68367",
+                "wikipedia_pages": {
+                    "de": "Aesch BL"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240094341,
+            "country": 756,
+            "level1area": [
+                "chvd"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "La Tour-de-Peilz",
+                "ru": "Ла Тур-де-Пей"
+            },
+            "place_type": 84,
+            "population": 10974,
+            "latitude": 46.4537524,
+            "longitude": 6.8569063,
+            "geocell": 4912268,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240094341,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1814"
+                ],
+                "website": "https://www.la-tour-de-peilz.ch/",
+                "wikidata_page_name": "Q69721",
+                "wikipedia_pages": {
+                    "fr": "La Tour-de-Peilz"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240095825,
+            "country": 756,
+            "level1area": [
+                "chbl"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Birsfelden",
+                "ru": "Бирсфельден"
+            },
+            "place_type": 84,
+            "population": 10277,
+            "latitude": 47.5542152,
+            "longitude": 7.6304739,
+            "geocell": 4951876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240095825,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4127"
+                ],
+                "website": "https://www.birsfelden.ch/",
+                "wikidata_page_name": "Q64665",
+                "wikipedia_pages": {
+                    "de": "Birsfelden"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240097197,
+            "country": 756,
+            "level1area": [
+                "chbe"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Біль",
+                "de": "Biel",
+                "en": "Biel/Bienne",
+                "fr": "Bienne",
+                "lt": "Bylis",
+                "ml": "ബീൽ",
+                "ru": "Биль"
+            },
+            "place_type": 84,
+            "population": 56378,
+            "latitude": 47.1402077,
+            "longitude": 7.2439029,
+            "geocell": 4937472,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240097197,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2505",
+                    "2504",
+                    "2503",
+                    "2502",
+                    "2501",
+                    "2500"
+                ],
+                "website": "https://www.biel-bienne.ch/",
+                "wikidata_page_name": "Q1034",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240098122,
+            "country": 756,
+            "level1area": [
+                "chvd"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Івердон-ле-Бэн",
+                "de": "Yverdon-les-Bains",
+                "lt": "Iverdonas"
+            },
+            "place_type": 84,
+            "population": 29406,
+            "latitude": 46.7785711,
+            "longitude": 6.6409158,
+            "geocell": 4923066,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240098122,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1400",
+                    "1401",
+                    "1400"
+                ],
+                "website": "https://www.yverdon-les-bains.ch/",
+                "wikidata_page_name": "Q63946",
+                "wikipedia_pages": {
+                    "fr": "Yverdon-les-Bains"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240101062,
+            "country": 756,
+            "level1area": [
+                "chag"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Wohlen"
+            },
+            "place_type": 84,
+            "population": 16407,
+            "latitude": 47.3504945,
+            "longitude": 8.2786906,
+            "geocell": 4944682,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240101062,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5610"
+                ],
+                "wikidata_page_name": "Q68244",
+                "wikipedia_pages": {
+                    "de": "Wohlen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240101901,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Zollikon"
+            },
+            "place_type": 84,
+            "population": 12744,
+            "latitude": 47.3379535,
+            "longitude": 8.5755735,
+            "geocell": 4944685,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240101901,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8702",
+                    "8702"
+                ],
+                "website": "https://www.zollikon.ch/",
+                "wikidata_page_name": "Q218691",
+                "wikipedia_pages": {
+                    "de": "Zollikon"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240103719,
+            "country": 756,
+            "level1area": [
+                "chbe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Belp",
+                "ru": "Бельп"
+            },
+            "place_type": 84,
+            "population": 11548,
+            "latitude": 46.88978,
+            "longitude": 7.498388,
+            "geocell": 4926674,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240103719,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3123"
+                ],
+                "website": "https://www.belp.ch/",
+                "wikidata_page_name": "Q69678",
+                "wikipedia_pages": {
+                    "de": "Belp"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240104288,
+            "country": 756,
+            "level1area": [
+                "chlu"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Kriens"
+            },
+            "place_type": 84,
+            "population": 25932,
+            "latitude": 47.034146,
+            "longitude": 8.2807994,
+            "geocell": 4933882,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240104288,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q14571",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240105036,
+            "country": 756,
+            "level1area": [
+                "chbl"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Münchenstein",
+                "lt": "Miunchenštainas"
+            },
+            "place_type": 84,
+            "population": 11688,
+            "latitude": 47.5187909,
+            "longitude": 7.6174515,
+            "geocell": 4951876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240105036,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4142"
+                ],
+                "website": "https://www.muenchenstein.ch/",
+                "wikidata_page_name": "Q69030",
+                "wikipedia_pages": {
+                    "de": "Münchenstein"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240109752,
+            "country": 756,
+            "level1area": [
+                "chsg"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Wil"
+            },
+            "place_type": 84,
+            "population": 18988,
+            "latitude": 47.465266,
+            "longitude": 9.0415478,
+            "geocell": 4948290,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240109752,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q64077",
+                "wikipedia_pages": {
+                    "de": "Wil SG"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240110029,
+            "country": 756,
+            "level1area": [
+                "chow"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Sarnen",
+                "lt": "Zarnenas",
+                "ru": "Зарнен"
+            },
+            "place_type": 84,
+            "population": 10192,
+            "latitude": 46.8956729,
+            "longitude": 8.2461492,
+            "geocell": 4926682,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240110029,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6056",
+                    "6060–6063"
+                ],
+                "website": "https://www.sarnen.ch/",
+                "wikidata_page_name": "Q63964",
+                "wikipedia_pages": {
+                    "de": "Sarnen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240110170,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Pfäffikon ZH"
+            },
+            "place_type": 86,
+            "population": 10602,
+            "latitude": 47.365582,
+            "longitude": 8.7819841,
+            "geocell": 4944687,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240110170,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q68269",
+                "wikipedia_pages": {
+                    "de": "Pfäffikon ZH"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240111401,
+            "country": 756,
+            "level1area": [
+                "chbl"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Therwil"
+            },
+            "place_type": 84,
+            "population": 10007,
+            "latitude": 47.4992969,
+            "longitude": 7.5574673,
+            "geocell": 4948275,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240111401,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4106",
+                    "4106"
+                ],
+                "website": "https://www.therwil.ch/",
+                "wikidata_page_name": "Q66595",
+                "wikipedia_pages": {
+                    "de": "Therwil"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240112180,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Opfikon",
+                "ru": "Опфикон"
+            },
+            "place_type": 84,
+            "population": 18482,
+            "latitude": 47.4322671,
+            "longitude": 8.5779983,
+            "geocell": 4948285,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240112180,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8152"
+                ],
+                "website": "https://www.opfikon.ch/",
+                "wikidata_page_name": "Q64224",
+                "wikipedia_pages": {
+                    "de": "Opfikon"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240112605,
+            "country": 756,
+            "level1area": [
+                "chbl"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Allschwil"
+            },
+            "place_type": 84,
+            "population": 20249,
+            "latitude": 47.5510799,
+            "longitude": 7.5365611,
+            "geocell": 4951875,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240112605,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4123"
+                ],
+                "website": "https://www.allschwil.ch/",
+                "wikidata_page_name": "Q64727",
+                "wikipedia_pages": {
+                    "de": "Allschwil"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240114149,
+            "country": 756,
+            "level1area": [
+                "chbl"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Oberwil BL"
+            },
+            "place_type": 84,
+            "population": 11105,
+            "latitude": 47.5136942,
+            "longitude": 7.5527853,
+            "geocell": 4951875,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240114149,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4104",
+                    "4104"
+                ],
+                "website": "https://www.oberwil.ch/",
+                "wikidata_page_name": "Q69724",
+                "wikipedia_pages": {
+                    "de": "Oberwil BL"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240119296,
+            "country": 756,
+            "level1area": [
+                "chvd"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Ecublens VD",
+                "lt": "Ekublensas",
+                "ru": "Экюблено"
+            },
+            "place_type": 84,
+            "population": 13214,
+            "latitude": 46.5258,
+            "longitude": 6.5621137,
+            "geocell": 4915865,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240119296,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1024"
+                ],
+                "website": "https://www.ecublens.ch/",
+                "wikidata_page_name": "Q69716",
+                "wikipedia_pages": {
+                    "fr": "Écublens (Vaud)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240120089,
+            "country": 756,
+            "level1area": [
+                "chge"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Шэн-Бужры",
+                "de": "Chêne-Bougeries",
+                "ru": "Шен-Бужри"
+            },
+            "place_type": 84,
+            "population": 10642,
+            "latitude": 46.1963639,
+            "longitude": 6.1854072,
+            "geocell": 4901461,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240120089,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1224",
+                    "1224"
+                ],
+                "website": "https://www.chene-bougeries.ch/",
+                "wikidata_page_name": "Q69530",
+                "wikipedia_pages": {
+                    "fr": "Chêne-Bougeries"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 246629666,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Regensdorf"
+            },
+            "place_type": 84,
+            "population": 18010,
+            "latitude": 47.4317645,
+            "longitude": 8.4680435,
+            "geocell": 4948284,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 246629666,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8105"
+                ],
+                "website": "https://www.regensdorf.ch/",
+                "wikidata_page_name": "Q64205",
+                "wikipedia_pages": {
+                    "de": "Regensdorf"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 279773023,
+            "country": 756,
+            "level1area": [
+                "chti"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Mendrisio",
+                "ru": "Мендризио",
+                "sr": "Мендризио",
+                "uk": "Мендрізіо"
+            },
+            "place_type": 84,
+            "population": 15562,
+            "latitude": 45.8709661,
+            "longitude": 8.9875293,
+            "geocell": 4890689,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 279773023,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.mendrisio.ch/",
+                "wikidata_page_name": "Q69041",
+                "wikipedia_pages": {
+                    "it": "Mendrisio"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 281893667,
+            "country": 756,
+            "level1area": [
+                "chvd"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Morges",
+                "ru": "Морж"
+            },
+            "place_type": 84,
+            "population": 15228,
+            "latitude": 46.5093268,
+            "longitude": 6.498317,
+            "geocell": 4915864,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 281893667,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1110"
+                ],
+                "website": "https://www.morges.ch/",
+                "wikidata_page_name": "Q69401",
+                "wikipedia_pages": {
+                    "fr": "Morges"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 294171945,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Richterswil"
+            },
+            "place_type": 84,
+            "population": 13022,
+            "latitude": 47.2091079,
+            "longitude": 8.7017051,
+            "geocell": 4941087,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 294171945,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8805"
+                ],
+                "wikidata_page_name": "Q68227",
+                "wikipedia_pages": {
+                    "de": "Richterswil"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 296480705,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Dietikon"
+            },
+            "place_type": 84,
+            "population": 26633,
+            "latitude": 47.4068827,
+            "longitude": 8.4020894,
+            "geocell": 4948284,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 296480705,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8953"
+                ],
+                "website": "https://www.dietikon.ch/",
+                "wikidata_page_name": "Q64070",
+                "wikipedia_pages": {
+                    "de": "Dietikon"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 330910113,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Illnau"
+            },
+            "place_type": 84,
+            "population": 16117,
+            "latitude": 47.4088363,
+            "longitude": 8.7255432,
+            "geocell": 4948287,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 330910113,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8308"
+                ],
+                "website": "https://www.ilef.ch/",
+                "wikipedia_pages": {
+                    "de": "Illnau"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 560719199,
+            "country": 756,
+            "level1area": [
+                "chlu"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Люцэрн",
+                "ca": "Lucerna",
+                "cs": "Lucern",
+                "de": "Luzern",
+                "el": "Λουκέρνη",
+                "en": "Lucerne",
+                "eo": "Lucerno",
+                "es": "Lucerna",
+                "eu": "Luzerna",
+                "fr": "Lucerne",
+                "he": "לוצרן",
+                "it": "Lucerna",
+                "ja": "ルツェルン",
+                "ko": "루체른",
+                "lt": "Liucerna",
+                "ml": "ലൂസേൺ",
+                "pl": "Lucerna",
+                "pt": "Lucerna",
+                "ro": "Lucerna",
+                "ru": "Люцерн",
+                "sr": "Луцерн"
+            },
+            "place_type": 84,
+            "population": 81284,
+            "latitude": 47.0505452,
+            "longitude": 8.3054682,
+            "geocell": 4933883,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 560719199,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6000–6009",
+                    "6014–6015"
+                ],
+                "website": "https://www.stadtluzern.ch/",
+                "wikidata_page_name": "Q4191",
+                "wikipedia_pages": {
+                    "de": "Luzern"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1188970764,
+            "country": 756,
+            "level1area": [
+                "chsg"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Jona"
+            },
+            "place_type": 84,
+            "population": 17799,
+            "latitude": 47.2299661,
+            "longitude": 8.837658,
+            "geocell": 4941088,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1188970764,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8645"
+                ],
+                "wikidata_page_name": "Q669350",
+                "wikipedia_pages": {
+                    "de": "Jona SG"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1376423353,
+            "country": 756,
+            "level1area": [
+                "char"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Herisau",
+                "hu": "b"
+            },
+            "place_type": 84,
+            "population": 15342,
+            "latitude": 47.38555,
+            "longitude": 9.2787571,
+            "geocell": 4944692,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1376423353,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "9100"
+                ],
+                "website": "https://www.herisau.ch/",
+                "wikidata_page_name": "Q63970",
+                "wikipedia_pages": {
+                    "de": "Herisau"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1376769424,
+            "country": 756,
+            "level1area": [
+                "chti"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Bellinzona",
+                "fr": "Bellinzone",
+                "lt": "Belincona",
+                "ru": "Беллинцона",
+                "uk": "Беллінцона"
+            },
+            "place_type": 84,
+            "population": 43785,
+            "latitude": 46.1920538,
+            "longitude": 9.0205888,
+            "geocell": 4901490,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1376769424,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6500",
+                    "6503",
+                    "6512",
+                    "6513",
+                    "6514",
+                    "6515",
+                    "6518",
+                    "6523",
+                    "6524",
+                    "6525",
+                    "6528",
+                    "6582",
+                    "6583",
+                    "6702"
+                ],
+                "website": "https://www.bellinzona.ch/",
+                "wikidata_page_name": "Q64044",
+                "wikipedia_pages": {
+                    "it": "Bellinzona"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1376769426,
+            "country": 756,
+            "level1area": [
+                "chti"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Lugano",
+                "lt": "Luganas",
+                "ru": "Лугано"
+            },
+            "place_type": 84,
+            "population": 67000,
+            "latitude": 46.0050102,
+            "longitude": 8.9520281,
+            "geocell": 4897889,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1376769426,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.lugano.ch/",
+                "wikidata_page_name": "Q7024",
+                "wikipedia_pages": {
+                    "it": "Lugano"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1378770776,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Affoltern am Albis"
+            },
+            "place_type": 84,
+            "population": 11363,
+            "latitude": 47.2782467,
+            "longitude": 8.4521518,
+            "geocell": 4941084,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1378770776,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8910"
+                ],
+                "website": "https://www.affoltern-am-albis.ch/",
+                "wikidata_page_name": "Q68290",
+                "wikipedia_pages": {
+                    "de": "Affoltern am Albis"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1378788472,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Horgen"
+            },
+            "place_type": 84,
+            "population": 22514,
+            "latitude": 47.260692,
+            "longitude": 8.5976831,
+            "geocell": 4941085,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1378788472,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8810",
+                    "8812",
+                    "8813",
+                    "8815",
+                    "8816",
+                    "8135"
+                ],
+                "website": "https://www.horgen.ch/",
+                "wikidata_page_name": "Q68286",
+                "wikipedia_pages": {
+                    "de": "Horgen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1378906317,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Uster"
+            },
+            "place_type": 84,
+            "population": 33097,
+            "latitude": 47.3512065,
+            "longitude": 8.7179221,
+            "geocell": 4944687,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1378906317,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8610"
+                ],
+                "website": "https://www.uster.ch/",
+                "wikidata_page_name": "Q64032",
+                "wikipedia_pages": {
+                    "de": "Uster"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1378949424,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "فينترتور",
+                "be": "Вінтэртур",
+                "de": "Winterthur",
+                "eo": "Vinterturo",
+                "fr": "Winterthour",
+                "lt": "Vintertūras",
+                "ru": "Винтертур",
+                "sr": "Винтертур"
+            },
+            "place_type": 67,
+            "population": 108044,
+            "latitude": 47.4991723,
+            "longitude": 8.7291498,
+            "geocell": 4948287,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1378949424,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "8400–8411",
+                    "8310",
+                    "8352",
+                    "8482"
+                ],
+                "website": "https://stadt.winterthur.ch/",
+                "wikidata_page_name": "Q9125",
+                "wikipedia_pages": {
+                    "de": "Winterthur"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1378978126,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Bülach",
+                "lt": "Biulachas"
+            },
+            "place_type": 84,
+            "population": 19342,
+            "latitude": 47.5172321,
+            "longitude": 8.5407118,
+            "geocell": 4951885,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1378978126,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8180"
+                ],
+                "website": "https://www.buelach.ch/",
+                "wikidata_page_name": "Q9093",
+                "wikipedia_pages": {
+                    "de": "Bülach"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1384879294,
+            "country": 756,
+            "level1area": [
+                "chju"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Delsberg",
+                "fr": "Delémont",
+                "lt": "Delemonas",
+                "ru": "Делемон"
+            },
+            "place_type": 84,
+            "population": 11809,
+            "latitude": 47.3615882,
+            "longitude": 7.354445,
+            "geocell": 4944673,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1384879294,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2800"
+                ],
+                "website": "https://www.delemont.ch/",
+                "wikidata_page_name": "Q63896",
+                "wikipedia_pages": {
+                    "fr": "Delémont"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1388360819,
+            "country": 756,
+            "level1area": [
+                "chso"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Золатурн",
+                "de": "Solothurn",
+                "es": "Soleura",
+                "fr": "Soleure",
+                "it": "Soletta",
+                "lt": "Zoloturnas",
+                "ru": "Золотурн"
+            },
+            "place_type": 84,
+            "population": 16599,
+            "latitude": 47.2081355,
+            "longitude": 7.5384045,
+            "geocell": 4941075,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1388360819,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4500"
+                ],
+                "website": "https://www.stadt-solothurn.ch/",
+                "wikidata_page_name": "Q68965",
+                "wikipedia_pages": {
+                    "de": "Solothurn"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1388472307,
+            "country": 756,
+            "level1area": [
+                "chso"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Grenchen",
+                "en": "Grenchen",
+                "fr": "Granges",
+                "it": "Grenchen",
+                "lt": "Grenchenas",
+                "ru": "Гренхен"
+            },
+            "place_type": 84,
+            "population": 16401,
+            "latitude": 47.1911495,
+            "longitude": 7.3967199,
+            "geocell": 4937473,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1388472307,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2540"
+                ],
+                "website": "https://www.grenchen.ch/",
+                "wikidata_page_name": "Q68248",
+                "wikipedia_pages": {
+                    "it": "Grenchen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1388479447,
+            "country": 756,
+            "level1area": [
+                "chso"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Olten",
+                "ru": "Ольтен"
+            },
+            "place_type": 84,
+            "population": 17280,
+            "latitude": 47.3496571,
+            "longitude": 7.903787,
+            "geocell": 4944679,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1388479447,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4600"
+                ],
+                "website": "https://www.olten.ch/",
+                "wikidata_page_name": "Q68129",
+                "wikipedia_pages": {
+                    "de": "Olten"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1419297744,
+            "country": 756,
+            "level1area": [
+                "chfr"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Glanewiler",
+                "fr": "Villars-sur-Glâne",
+                "ru": "Вилар-Сюр-Глан"
+            },
+            "place_type": 84,
+            "population": 12057,
+            "latitude": 46.791321,
+            "longitude": 7.1161892,
+            "geocell": 4923071,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1419297744,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1752",
+                    "1752"
+                ],
+                "website": "https://www.villars-sur-glane.ch/",
+                "wikidata_page_name": "Q69760",
+                "wikipedia_pages": {
+                    "fr": "Villars-sur-Glâne"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1425042341,
+            "country": 756,
+            "level1area": [
+                "chfr"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Бюль",
+                "de": "Bulle",
+                "fr": "Bulle",
+                "lt": "Bulė",
+                "ru": "Бюль"
+            },
+            "place_type": 84,
+            "population": 21991,
+            "latitude": 46.6190969,
+            "longitude": 7.0581152,
+            "geocell": 4919470,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1425042341,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1630",
+                    "1630",
+                    "1631"
+                ],
+                "website": "https://www.bulle.ch/",
+                "wikidata_page_name": "Q68308",
+                "wikipedia_pages": {
+                    "fr": "Bulle (Fribourg)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1492836146,
+            "country": 756,
+            "level1area": [
+                "chtg"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Arbon",
+                "ru": "Арбон"
+            },
+            "place_type": 84,
+            "population": 14100,
+            "latitude": 47.5149257,
+            "longitude": 9.4304026,
+            "geocell": 4951894,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1492836146,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "9320"
+                ],
+                "website": "https://www.arbon.ch/",
+                "wikidata_page_name": "Q64156",
+                "wikipedia_pages": {
+                    "de": "Arbon"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1528887196,
+            "country": 756,
+            "level1area": [
+                "chlu"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Ebikon",
+                "ru": "Эбикон"
+            },
+            "place_type": 84,
+            "population": 11322,
+            "latitude": 47.0812067,
+            "longitude": 8.338521,
+            "geocell": 4933883,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1528887196,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q14566",
+                "wikipedia_pages": {
+                    "en": "Ebikon"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1533696164,
+            "country": 756,
+            "level1area": [
+                "chsz"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Arth"
+            },
+            "place_type": 84,
+            "population": 10794,
+            "latitude": 47.0644551,
+            "longitude": 8.5238673,
+            "geocell": 4933885,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1533696164,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q69742",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1567061446,
+            "country": 756,
+            "level1area": [
+                "chbe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Köniz",
+                "ru": "Кёниц"
+            },
+            "place_type": 84,
+            "population": 39794,
+            "latitude": 46.9222385,
+            "longitude": 7.4130582,
+            "geocell": 4930274,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1567061446,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.koeniz.ch/",
+                "wikidata_page_name": "Q64058",
+                "wikipedia_pages": {
+                    "de": "Köniz"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1577255384,
+            "country": 756,
+            "level1area": [
+                "chgr"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "خور",
+                "be": "Кур",
+                "ca": "Coira",
+                "de": "Chur",
+                "eo": "Koiro",
+                "es": "Coira",
+                "fr": "Coire",
+                "it": "Coira",
+                "ja": "クール",
+                "lt": "Kūras",
+                "pt": "Coira",
+                "ro": "Cuira",
+                "ru": "Кур",
+                "sq": "Kuri",
+                "uk": "Кур"
+            },
+            "place_type": 84,
+            "population": 37082,
+            "latitude": 46.854747,
+            "longitude": 9.5264904,
+            "geocell": 4926695,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1577255384,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "7000–7007"
+                ],
+                "website": "https://www.chur.ch/",
+                "wikidata_page_name": "Q69007",
+                "wikipedia_pages": {
+                    "de": "Chur"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599381299,
+            "country": 756,
+            "level1area": [
+                "chtg"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Фраўэнфельд",
+                "de": "Frauenfeld",
+                "ru": "Фрауэнфельд"
+            },
+            "place_type": 84,
+            "population": 24864,
+            "latitude": 47.5561915,
+            "longitude": 8.8963347,
+            "geocell": 4951888,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599381299,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.frauenfeld.ch/",
+                "wikidata_page_name": "Q68120",
+                "wikipedia_pages": {
+                    "de": "Frauenfeld"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1638836825,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Wallisellen"
+            },
+            "place_type": 84,
+            "population": 15603,
+            "latitude": 47.4166195,
+            "longitude": 8.5919985,
+            "geocell": 4948285,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1638836825,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8304"
+                ],
+                "website": "https://www.wallisellen.ch/",
+                "wikidata_page_name": "Q69374",
+                "wikipedia_pages": {
+                    "de": "Wallisellen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1668873366,
+            "country": 756,
+            "level1area": [
+                "chbs"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Riehen",
+                "ru": "Риэн"
+            },
+            "place_type": 84,
+            "population": 20970,
+            "latitude": 47.5816927,
+            "longitude": 7.6479737,
+            "geocell": 4951876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1668873366,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4125"
+                ],
+                "website": "https://www.riehen.ch/",
+                "wikidata_page_name": "Q5262",
+                "wikipedia_pages": {
+                    "de": "Riehen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1685926271,
+            "country": 756,
+            "level1area": [
+                "chfr"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Фрыбур",
+                "ca": "Friburg",
+                "de": "Freiburg",
+                "es": "Friburgo",
+                "fr": "Fribourg",
+                "hr": "Fribourg",
+                "it": "Friburgo",
+                "lt": "Fribūras",
+                "ml": "ഫ്രിബൂർ",
+                "pl": "Fryburg",
+                "ru": "Фрибур"
+            },
+            "place_type": 84,
+            "population": 37485,
+            "latitude": 46.8055656,
+            "longitude": 7.1612669,
+            "geocell": 4926671,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1685926271,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1700",
+                    "1701",
+                    "1702",
+                    "1703",
+                    "1704",
+                    "1705",
+                    "1706",
+                    "1707",
+                    "1708",
+                    "1709"
+                ],
+                "website": "https://www.ville-fribourg.ch/",
+                "wikidata_page_name": "Q36378",
+                "wikipedia_pages": {
+                    "fr": "Fribourg (ville suisse)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1839613064,
+            "country": 756,
+            "level1area": [
+                "chti"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Locarno",
+                "ru": "Лока́рно",
+                "uk": "Локарно"
+            },
+            "place_type": 84,
+            "population": 16000,
+            "latitude": 46.1695739,
+            "longitude": 8.7954859,
+            "geocell": 4901487,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1839613064,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6600"
+                ],
+                "website": "https://www.locarno.ch/",
+                "wikidata_page_name": "Q11935",
+                "wikipedia_pages": {
+                    "it": "Locarno"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1932397580,
+            "country": 756,
+            "level1area": [
+                "chvd"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Gland"
+            },
+            "place_type": 84,
+            "population": 11947,
+            "latitude": 46.4239425,
+            "longitude": 6.2655115,
+            "geocell": 4912262,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1932397580,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1196"
+                ],
+                "website": "https://www.gland.ch/",
+                "wikidata_page_name": "Q69300",
+                "wikipedia_pages": {
+                    "fr": "Gland (Vaud)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1934228457,
+            "country": 756,
+            "level1area": [
+                "chag"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Lenzburg"
+            },
+            "place_type": 84,
+            "population": 10179,
+            "latitude": 47.3873136,
+            "longitude": 8.1821873,
+            "geocell": 4944681,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1934228457,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5600"
+                ],
+                "website": "https://www.lenzburg.ch",
+                "wikidata_page_name": "Q69433",
+                "wikipedia_pages": {
+                    "de": "Lenzburg"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2071173900,
+            "country": 756,
+            "level1area": [
+                "chlu"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Emmen"
+            },
+            "place_type": 84,
+            "population": 29721,
+            "latitude": 47.0752429,
+            "longitude": 8.2839456,
+            "geocell": 4933882,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2071173900,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6032"
+                ],
+                "website": "https://www.emmen.ch/",
+                "wikidata_page_name": "Q4225",
+                "wikipedia_pages": {
+                    "de": "Emmen LU"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2580473143,
+            "country": 756,
+            "level1area": [
+                "chsg"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Gossau SG",
+                "ru": "Госсау"
+            },
+            "place_type": 84,
+            "population": 17827,
+            "latitude": 47.4155906,
+            "longitude": 9.249359,
+            "geocell": 4948292,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2580473143,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.stadtgossau.ch/de/",
+                "wikidata_page_name": "Q69777",
+                "wikipedia_pages": {
+                    "de": "Gossau SG"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2992186060,
+            "country": 756,
+            "level1area": [
+                "chzh"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Gossau ZH"
+            },
+            "place_type": 84,
+            "population": 10228,
+            "latitude": 47.3058847,
+            "longitude": 8.7602403,
+            "geocell": 4944687,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2992186060,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8625"
+                ],
+                "website": "https://www.gossau-zh.ch/",
+                "wikidata_page_name": "Q67525",
+                "wikipedia_pages": {
+                    "de": "Gossau ZH"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3019197852,
+            "country": 756,
+            "level1area": [
+                "chne"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Neuenburg",
+                "fr": "Neuchâtel",
+                "lt": "Nešatelis",
+                "ru": "Невшатель"
+            },
+            "place_type": 84,
+            "population": 33641,
+            "latitude": 46.9895828,
+            "longitude": 6.9292641,
+            "geocell": 4930269,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3019197852,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2000"
+                ],
+                "website": "https://www.neuchatelville.ch/",
+                "wikidata_page_name": "Q69345",
+                "wikipedia_pages": {
+                    "fr": "Neuchâtel"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3738814254,
+            "country": 756,
+            "level1area": [
+                "chvd"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Вевэ",
+                "de": "Vevey",
+                "lt": "Vevė",
+                "ru": "Веве"
+            },
+            "place_type": 84,
+            "population": 19220,
+            "latitude": 46.4602978,
+            "longitude": 6.8418655,
+            "geocell": 4912268,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3738814254,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "1800"
+                ],
+                "website": "https://www.vevey.ch/",
+                "wikidata_page_name": "Q68160",
+                "wikipedia_pages": {
+                    "fr": "Vevey"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3861018553,
+            "country": 756,
+            "level1area": [
+                "chzg"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Бар",
+                "de": "Baar"
+            },
+            "place_type": 84,
+            "population": 23557,
+            "latitude": 47.1951976,
+            "longitude": 8.5253985,
+            "geocell": 4937485,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3861018553,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6340-6342"
+                ],
+                "website": "https://www.baar.ch/",
+                "wikidata_page_name": "Q64087",
+                "wikipedia_pages": {
+                    "de": "Baar ZG"
+                }
+            }
+        }
+    }
+]

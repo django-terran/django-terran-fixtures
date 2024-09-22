@@ -1,0 +1,4010 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 50016356,
+            "country": 152,
+            "level1area": [
+                "clrm"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سانتياغو",
+                "ast": "Santiago de Chile",
+                "az": "Santyaqo",
+                "be": "Сант'яга",
+                "bg": "Сантяго",
+                "bn": "সান্তিয়াগো, চিলি",
+                "ckb": "سانتیاگۆ",
+                "da": "Santiago de Chile",
+                "de": "Santiago",
+                "el": "Σαντιάγο",
+                "en": "Santiago",
+                "es": "Santiago",
+                "fa": "سانتیاگو",
+                "fr": "Santiago",
+                "he": "סנטיאגו דה צ'ילה",
+                "hi": "सेण्टियागो",
+                "hu": "Santiago de Chile",
+                "hy": "Սանտյագո",
+                "is": "Santíagó",
+                "ja": "サンティアゴ",
+                "ka": "სანტიაგო",
+                "kn": "ಸ್ಯಾಂಟಿಯಾಗೊ",
+                "ko": "산티아고",
+                "lt": "Santjagas",
+                "lv": "Santjago",
+                "mk": "Сантјаго",
+                "ml": "സാന്റിയാഗൊ",
+                "mn": "Сантъяго",
+                "mr": "सान्तियागो, चिली",
+                "my": "ဆန်တီယာဂိုမြို့",
+                "os": "Сантьяго",
+                "pl": "Santiago",
+                "ru": "Сантьяго",
+                "sk": "Santiago",
+                "sr": "Сантијаго де Чиле",
+                "sv": "Santiago",
+                "ta": "சான் டியேகோ",
+                "th": "ซานเตียโก",
+                "ug": "Santiyago",
+                "uk": "Сантьяго",
+                "ur": "سینٹیاگو",
+                "uz": "Santiyago"
+            },
+            "place_type": 67,
+            "population": 6139087,
+            "latitude": -33.4377756,
+            "longitude": -70.6504502,
+            "geocell": 2035093,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 50016356,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "8320000"
+                ],
+                "wikidata_page_name": "Q2887",
+                "wikipedia_pages": {
+                    "es": "Santiago de Chile"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 50020503,
+            "country": 152,
+            "level1area": [
+                "clco"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "La Serena",
+                "es": "La Serena",
+                "ru": "Ла-Серена",
+                "uk": "Ла-Серена"
+            },
+            "place_type": 67,
+            "population": 195382,
+            "latitude": -29.902631,
+            "longitude": -71.2520253,
+            "geocell": 2161087,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 50020503,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q14467",
+                "wikipedia_pages": {
+                    "en": "La Serena, Chile"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 50022255,
+            "country": 152,
+            "level1area": [
+                "clco"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Coquimbo",
+                "ru": "Кокимбо"
+            },
+            "place_type": 67,
+            "population": 204068,
+            "latitude": -29.9531851,
+            "longitude": -71.3379503,
+            "geocell": 2161086,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 50022255,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3871",
+                "wikipedia_pages": {
+                    "en": "Coquimbo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 50026147,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "فينيا ديل مار",
+                "es": "Viña del Mar",
+                "ru": "Винья-дель-Мар"
+            },
+            "place_type": 67,
+            "population": 332875,
+            "latitude": -33.0244535,
+            "longitude": -71.5517636,
+            "geocell": 2049484,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 50026147,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q184345",
+                "wikipedia_pages": {
+                    "en": "Viña del Mar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 50028181,
+            "country": 152,
+            "level1area": [
+                "clml"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Talca",
+                "es": "Talca",
+                "ru": "Талька",
+                "uk": "Талька"
+            },
+            "place_type": 67,
+            "population": 206069,
+            "latitude": -35.4265343,
+            "longitude": -71.6660322,
+            "geocell": 1963083,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 50028181,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4469",
+                "wikipedia_pages": {
+                    "en": "Talca"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 84466877,
+            "country": 152,
+            "level1area": [
+                "clll"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Puerto Montt",
+                "es": "Puerto Montt",
+                "ru": "Пуэрто-Монт",
+                "uk": "Пуерто-Монтт"
+            },
+            "place_type": 67,
+            "population": 169736,
+            "latitude": -41.471798,
+            "longitude": -72.9395915,
+            "geocell": 1747070,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 84466877,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q36214",
+                "wikipedia_pages": {
+                    "es": "Puerto Montt"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 181299499,
+            "country": 152,
+            "level1area": [
+                "clll"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ancud",
+                "es": "Ancud",
+                "ru": "Анкуд",
+                "uk": "Анкуд"
+            },
+            "place_type": 84,
+            "population": 28162,
+            "latitude": -41.8682162,
+            "longitude": -73.8287225,
+            "geocell": 1732661,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 181299499,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3597",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 181356942,
+            "country": 152,
+            "level1area": [
+                "clma"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Punta Arenas",
+                "es": "Punta Arenas",
+                "ru": "Пунта-Аренас",
+                "uk": "Пунта-Аренас"
+            },
+            "place_type": 67,
+            "population": 123403,
+            "latitude": -53.1625688,
+            "longitude": -70.907822,
+            "geocell": 1325890,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 181356942,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q51599",
+                "wikipedia_pages": {
+                    "en": "Punta Arenas"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214179836,
+            "country": 152,
+            "level1area": [
+                "clbi"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Hualqui"
+            },
+            "place_type": 84,
+            "population": 19643,
+            "latitude": -36.9759363,
+            "longitude": -72.9383874,
+            "geocell": 1909070,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214179836,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13079",
+                "wikipedia_pages": {
+                    "es": "Hualqui"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214180326,
+            "country": 152,
+            "level1area": [
+                "clnb"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Chillán Viejo"
+            },
+            "place_type": 84,
+            "population": 27359,
+            "latitude": -36.6230032,
+            "longitude": -72.1317093,
+            "geocell": 1919878,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214180326,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214180385,
+            "country": 152,
+            "level1area": [
+                "clrm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Isla de Maipo"
+            },
+            "place_type": 84,
+            "population": 14176,
+            "latitude": -33.7537387,
+            "longitude": -70.9039325,
+            "geocell": 2024290,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214180385,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214180445,
+            "country": 152,
+            "level1area": [
+                "clml"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Curicó",
+                "ru": "Курико",
+                "uk": "Куріко"
+            },
+            "place_type": 67,
+            "population": 125275,
+            "latitude": -34.985368,
+            "longitude": -71.2393705,
+            "geocell": 1981087,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214180445,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13030",
+                "wikipedia_pages": {
+                    "en": "Curicó"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214182120,
+            "country": 152,
+            "level1area": [
+                "clli"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Vicente de Tagua Tagua"
+            },
+            "place_type": 84,
+            "population": 20827,
+            "latitude": -34.4392675,
+            "longitude": -71.07679,
+            "geocell": 1999089,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214182120,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.municipalidadsanvicente.cl/",
+                "wikidata_page_name": "Q187936",
+                "wikipedia_pages": {
+                    "es": "San Vicente de Tagua Tagua"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214183590,
+            "country": 152,
+            "level1area": [
+                "clbi"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Curanilahue",
+                "ru": "Куранилауэ"
+            },
+            "place_type": 84,
+            "population": 30139,
+            "latitude": -37.4758037,
+            "longitude": -73.3457069,
+            "geocell": 1891066,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214183590,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3892",
+                "wikipedia_pages": {
+                    "en": "Curanilahue"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214185007,
+            "country": 152,
+            "level1area": [
+                "clar"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Carahue",
+                "ru": "Карауэ"
+            },
+            "place_type": 84,
+            "population": 11325,
+            "latitude": -38.7115844,
+            "longitude": -73.1651699,
+            "geocell": 1844268,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214185007,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3736",
+                "wikipedia_pages": {
+                    "en": "Carahue"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214185722,
+            "country": 152,
+            "level1area": [
+                "cllr"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Río Bueno",
+                "ru": "Рио-Буэно"
+            },
+            "place_type": 84,
+            "population": 16909,
+            "latitude": -40.3336678,
+            "longitude": -72.9567617,
+            "geocell": 1786670,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214185722,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q56126",
+                "wikipedia_pages": {
+                    "en": "Río Bueno, Chile"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214186122,
+            "country": 152,
+            "level1area": [
+                "clli"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Machalí"
+            },
+            "place_type": 84,
+            "population": 48667,
+            "latitude": -34.182453,
+            "longitude": -70.6511584,
+            "geocell": 2009893,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214186122,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q16915",
+                "wikipedia_pages": {
+                    "es": "Machalí"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214186333,
+            "country": 152,
+            "level1area": [
+                "clrm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Peñaflor"
+            },
+            "place_type": 84,
+            "population": 82959,
+            "latitude": -33.6058638,
+            "longitude": -70.8785306,
+            "geocell": 2027891,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214186333,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214188529,
+            "country": 152,
+            "level1area": [
+                "clnb"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Coelemu"
+            },
+            "place_type": 84,
+            "population": 10297,
+            "latitude": -36.4876004,
+            "longitude": -72.7023316,
+            "geocell": 1927072,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214188529,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214189440,
+            "country": 152,
+            "level1area": [
+                "clat"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Chañaral"
+            },
+            "place_type": 84,
+            "population": 11073,
+            "latitude": -26.347934,
+            "longitude": -70.6223617,
+            "geocell": 2290693,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214189440,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214189449,
+            "country": 152,
+            "level1area": [
+                "clnb"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Chillán",
+                "ru": "Чильян"
+            },
+            "place_type": 67,
+            "population": 164270,
+            "latitude": -36.6066616,
+            "longitude": -72.1033194,
+            "geocell": 1919878,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214189449,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3774",
+                "wikipedia_pages": {
+                    "es": "Chillán"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214189481,
+            "country": 152,
+            "level1area": [
+                "clli"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Chimbarongo"
+            },
+            "place_type": 84,
+            "population": 16813,
+            "latitude": -34.708953,
+            "longitude": -71.0403642,
+            "geocell": 1988289,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214189481,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3782",
+                "wikipedia_pages": {
+                    "es": "Chimbarongo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214189966,
+            "country": 152,
+            "level1area": [
+                "clrm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Batuco"
+            },
+            "place_type": 84,
+            "population": 11406,
+            "latitude": -33.2300466,
+            "longitude": -70.8085254,
+            "geocell": 2042291,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214189966,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4873337",
+                "wikipedia_pages": {
+                    "en": "Batuco, Santiago"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214190079,
+            "country": 152,
+            "level1area": [
+                "clml"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Clemente"
+            },
+            "place_type": 84,
+            "population": 20350,
+            "latitude": -35.5375459,
+            "longitude": -71.4858841,
+            "geocell": 1959485,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214190079,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214190118,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Felipe",
+                "ru": "Сан-Филипе"
+            },
+            "place_type": 67,
+            "population": 64120,
+            "latitude": -32.750687,
+            "longitude": -70.7252688,
+            "geocell": 2060292,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214190118,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q187802",
+                "wikipedia_pages": {
+                    "en": "San Felipe, Chile"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214191088,
+            "country": 152,
+            "level1area": [
+                "clll"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Calbuco"
+            },
+            "place_type": 84,
+            "population": 15903,
+            "latitude": -41.7712143,
+            "longitude": -73.1275379,
+            "geocell": 1736268,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214191088,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214191417,
+            "country": 152,
+            "level1area": [
+                "cllr"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Panguipulli"
+            },
+            "place_type": 84,
+            "population": 11091,
+            "latitude": -39.6419909,
+            "longitude": -72.3333801,
+            "geocell": 1811876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214191417,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q51076",
+                "wikipedia_pages": {
+                    "en": "Panguipulli"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214191652,
+            "country": 152,
+            "level1area": [
+                "clar"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Collipulli",
+                "ru": "Кольипульи"
+            },
+            "place_type": 84,
+            "population": 16175,
+            "latitude": -37.9566312,
+            "longitude": -72.4374375,
+            "geocell": 1873075,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214191652,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3843",
+                "wikipedia_pages": {
+                    "es": "Collipulli"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214192380,
+            "country": 152,
+            "level1area": [
+                "clrm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Lampa"
+            },
+            "place_type": 84,
+            "population": 37599,
+            "latitude": -33.2864213,
+            "longitude": -70.8729771,
+            "geocell": 2042291,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214192380,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214192556,
+            "country": 152,
+            "level1area": [
+                "clli"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Graneros"
+            },
+            "place_type": 84,
+            "population": 28679,
+            "latitude": -34.0644743,
+            "longitude": -70.7262983,
+            "geocell": 2013492,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214192556,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13068",
+                "wikipedia_pages": {
+                    "es": "Graneros"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214192695,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Calera"
+            },
+            "place_type": 84,
+            "population": 47072,
+            "latitude": -32.788981,
+            "longitude": -71.203546,
+            "geocell": 2060287,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214192695,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214193432,
+            "country": 152,
+            "level1area": [
+                "clll"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Quellón"
+            },
+            "place_type": 84,
+            "population": 17552,
+            "latitude": -43.1200305,
+            "longitude": -73.6203025,
+            "geocell": 1685863,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214193432,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q51608",
+                "wikipedia_pages": {
+                    "en": "Quellón"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214194150,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Ligua",
+                "ru": "Ла-Лигуа"
+            },
+            "place_type": 67,
+            "population": 19127,
+            "latitude": -32.4496375,
+            "longitude": -71.2316695,
+            "geocell": 2071087,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214194150,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q14463",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214194166,
+            "country": 152,
+            "level1area": [
+                "clbi"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Lota",
+                "he": "לוטה",
+                "ru": "Лота"
+            },
+            "place_type": 84,
+            "population": 43272,
+            "latitude": -37.0944533,
+            "longitude": -73.1564024,
+            "geocell": 1905468,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214194166,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q16911",
+                "wikipedia_pages": {
+                    "es": "Lota"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214194244,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Quintero"
+            },
+            "place_type": 84,
+            "population": 26247,
+            "latitude": -32.7840217,
+            "longitude": -71.5283361,
+            "geocell": 2060284,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214194244,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q56114",
+                "wikipedia_pages": {
+                    "en": "Quintero"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214194368,
+            "country": 152,
+            "level1area": [
+                "clli"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Rengo"
+            },
+            "place_type": 67,
+            "population": 37721,
+            "latitude": -34.4088744,
+            "longitude": -70.8616583,
+            "geocell": 1999091,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214194368,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q56120",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214195492,
+            "country": 152,
+            "level1area": [
+                "clan"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Mejillones"
+            },
+            "place_type": 84,
+            "population": 12784,
+            "latitude": -23.1002342,
+            "longitude": -70.4483076,
+            "geocell": 2405895,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214195492,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214195569,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Los Andes"
+            },
+            "place_type": 67,
+            "population": 59388,
+            "latitude": -32.8336867,
+            "longitude": -70.5981609,
+            "geocell": 2056694,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214195569,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q16903",
+                "wikipedia_pages": {
+                    "en": "Los Andes, Chile"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214195857,
+            "country": 152,
+            "level1area": [
+                "clar"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Angol"
+            },
+            "place_type": 67,
+            "population": 48608,
+            "latitude": -37.798787,
+            "longitude": -72.7086097,
+            "geocell": 1880272,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214195857,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3608",
+                "wikipedia_pages": {
+                    "en": "Angol"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214196277,
+            "country": 152,
+            "level1area": [
+                "clbi"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Chiguayante"
+            },
+            "place_type": 84,
+            "population": 85633,
+            "latitude": -36.9292478,
+            "longitude": -73.0237115,
+            "geocell": 1909069,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214196277,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214196767,
+            "country": 152,
+            "level1area": [
+                "clll"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Puerto Varas",
+                "ru": "Пуэрто-Варас"
+            },
+            "place_type": 84,
+            "population": 26172,
+            "latitude": -41.317802,
+            "longitude": -72.9829073,
+            "geocell": 1750670,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214196767,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q51596",
+                "wikipedia_pages": {
+                    "en": "Puerto Varas"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214198387,
+            "country": 152,
+            "level1area": [
+                "clli"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Francisco de Mostazal"
+            },
+            "place_type": 84,
+            "population": 12719,
+            "latitude": -33.9799035,
+            "longitude": -70.7121737,
+            "geocell": 2017092,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214198387,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6118793",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214198613,
+            "country": 152,
+            "level1area": [
+                "clrm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Paine"
+            },
+            "place_type": 84,
+            "population": 31317,
+            "latitude": -33.8101102,
+            "longitude": -70.7390236,
+            "geocell": 2020692,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214198613,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214199769,
+            "country": 152,
+            "level1area": [
+                "clbi"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Cañete"
+            },
+            "place_type": 84,
+            "population": 19398,
+            "latitude": -37.8004074,
+            "longitude": -73.3990802,
+            "geocell": 1876666,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214199769,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3753",
+                "wikipedia_pages": {
+                    "es": "Cañete (Chile)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214200024,
+            "country": 152,
+            "level1area": [
+                "clar"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Lautaro"
+            },
+            "place_type": 84,
+            "population": 24280,
+            "latitude": -38.534312,
+            "longitude": -72.4350504,
+            "geocell": 1851475,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214200024,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214200129,
+            "country": 152,
+            "level1area": [
+                "clll"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Osorno",
+                "es": "Osorno",
+                "ru": "Осорно",
+                "uk": "Осорно"
+            },
+            "place_type": 67,
+            "population": 147666,
+            "latitude": -40.5736955,
+            "longitude": -73.1358091,
+            "geocell": 1779468,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214200129,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q51059",
+                "wikipedia_pages": {
+                    "es": "Osorno"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214202817,
+            "country": 152,
+            "level1area": [
+                "clbi"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Los Ángeles",
+                "eo": "Los Anĝeleso",
+                "es": "Los Ángeles",
+                "ru": "Лос-Анджелес",
+                "uk": "Лос-Анджелес"
+            },
+            "place_type": 67,
+            "population": 143023,
+            "latitude": -37.4707455,
+            "longitude": -72.351686,
+            "geocell": 1891076,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214202817,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q16910",
+                "wikipedia_pages": {
+                    "es": "Los Ángeles (Chile)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214202843,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Esteban"
+            },
+            "place_type": 84,
+            "population": 10293,
+            "latitude": -32.7990544,
+            "longitude": -70.5795811,
+            "geocell": 2060294,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214202843,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214203217,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Quillota",
+                "ru": "Кильота"
+            },
+            "place_type": 67,
+            "population": 73261,
+            "latitude": -32.879997,
+            "longitude": -71.2473555,
+            "geocell": 2056687,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214203217,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q56108",
+                "wikipedia_pages": {
+                    "en": "Quillota"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214203542,
+            "country": 152,
+            "level1area": [
+                "clrm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Monte"
+            },
+            "place_type": 84,
+            "population": 29998,
+            "latitude": -33.6783192,
+            "longitude": -70.9782465,
+            "geocell": 2027890,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214203542,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q23645886",
+                "wikipedia_pages": {
+                    "sv": "El Monte (ort i Chile, Región Metropolitana de Santiago, Provincia de Talagante, lat -33,68, long -70,98)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214203676,
+            "country": 152,
+            "level1area": [
+                "clrm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Melipilla"
+            },
+            "place_type": 67,
+            "population": 72212,
+            "latitude": -33.6855134,
+            "longitude": -71.2145796,
+            "geocell": 2027887,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214203676,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q51032",
+                "wikipedia_pages": {
+                    "en": "Melipilla"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214203803,
+            "country": 152,
+            "level1area": [
+                "clta"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Iquique",
+                "es": "Iquique",
+                "ru": "Икике",
+                "uk": "Ікіке"
+            },
+            "place_type": 67,
+            "population": 188003,
+            "latitude": -20.2140657,
+            "longitude": -70.1524646,
+            "geocell": 2510298,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214203803,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q14440",
+                "wikipedia_pages": {
+                    "en": "Iquique"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214204160,
+            "country": 152,
+            "level1area": [
+                "clar"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Labranza"
+            },
+            "place_type": 84,
+            "population": 24008,
+            "latitude": -38.7665376,
+            "longitude": -72.7534177,
+            "geocell": 1844272,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214204160,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214204312,
+            "country": 152,
+            "level1area": [
+                "clnb"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Bulnes"
+            },
+            "place_type": 84,
+            "population": 11072,
+            "latitude": -36.7422507,
+            "longitude": -72.2987216,
+            "geocell": 1916277,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214204312,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214204398,
+            "country": 152,
+            "level1area": [
+                "clli"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Fernando"
+            },
+            "place_type": 67,
+            "population": 58367,
+            "latitude": -34.583791,
+            "longitude": -70.989122,
+            "geocell": 1995490,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214204398,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q187807",
+                "wikipedia_pages": {
+                    "en": "San Fernando, Chile"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214204531,
+            "country": 152,
+            "level1area": [
+                "clbi"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Nacimiento",
+                "fa": "ناثیمینتو",
+                "ko": "나시미엔토",
+                "ru": "Насимьенто",
+                "sr": "Насимијенто"
+            },
+            "place_type": 84,
+            "population": 22857,
+            "latitude": -37.5018293,
+            "longitude": -72.67311,
+            "geocell": 1887473,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214204531,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q51039",
+                "wikipedia_pages": {
+                    "es": "Nacimiento (Chile)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214204892,
+            "country": 152,
+            "level1area": [
+                "clli"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Rancagua",
+                "ru": "Ранкагуа"
+            },
+            "place_type": 67,
+            "population": 231370,
+            "latitude": -34.1702433,
+            "longitude": -70.740718,
+            "geocell": 2009892,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214204892,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4582",
+                "wikipedia_pages": {
+                    "es": "Rancagua"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214206410,
+            "country": 152,
+            "level1area": [
+                "clml"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Cauquenes"
+            },
+            "place_type": 67,
+            "population": 32135,
+            "latitude": -35.9671286,
+            "longitude": -72.315427,
+            "geocell": 1945076,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214206410,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3749",
+                "wikipedia_pages": {
+                    "en": "Cauquenes"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214207175,
+            "country": 152,
+            "level1area": [
+                "clan"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Tocopilla",
+                "ru": "Токопилья"
+            },
+            "place_type": 67,
+            "population": 24521,
+            "latitude": -22.0887189,
+            "longitude": -70.1960657,
+            "geocell": 2445498,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214207175,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q188192",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214208288,
+            "country": 152,
+            "level1area": [
+                "clnb"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Quillón"
+            },
+            "place_type": 84,
+            "population": 10279,
+            "latitude": -36.7443758,
+            "longitude": -72.4764427,
+            "geocell": 1916275,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214208288,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214208312,
+            "country": 152,
+            "level1area": [
+                "clar"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Pucón"
+            },
+            "place_type": 84,
+            "population": 17538,
+            "latitude": -39.2731173,
+            "longitude": -71.9777605,
+            "geocell": 1826280,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214208312,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214208595,
+            "country": 152,
+            "level1area": [
+                "clat"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Caldera"
+            },
+            "place_type": 84,
+            "population": 15547,
+            "latitude": -27.0675545,
+            "longitude": -70.8222047,
+            "geocell": 2265491,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214208595,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3708",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214209024,
+            "country": 152,
+            "level1area": [
+                "clrm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Colina"
+            },
+            "place_type": 67,
+            "population": 88858,
+            "latitude": -33.202472,
+            "longitude": -70.6749147,
+            "geocell": 2042293,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214209024,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3841",
+                "wikipedia_pages": {
+                    "en": "Colina, Chile"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214210109,
+            "country": 152,
+            "level1area": [
+                "clbi"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Tomé",
+                "ru": "Томе"
+            },
+            "place_type": 84,
+            "population": 42312,
+            "latitude": -36.6170801,
+            "longitude": -72.9575043,
+            "geocell": 1919870,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214210109,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214210451,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Concón"
+            },
+            "place_type": 84,
+            "population": 39345,
+            "latitude": -32.9220036,
+            "longitude": -71.5159565,
+            "geocell": 2053084,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214210451,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214210491,
+            "country": 152,
+            "level1area": [
+                "clai"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Coyhaique",
+                "es": "Coyhaique",
+                "ru": "Койайке"
+            },
+            "place_type": 67,
+            "population": 44850,
+            "latitude": -45.5711804,
+            "longitude": -72.0684863,
+            "geocell": 1599479,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214210491,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3810",
+                "wikipedia_pages": {
+                    "en": "Coyhaique"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214210611,
+            "country": 152,
+            "level1area": [
+                "clar"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Pitrufquén"
+            },
+            "place_type": 84,
+            "population": 16516,
+            "latitude": -38.9862884,
+            "longitude": -72.63725,
+            "geocell": 1837073,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214210611,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214211178,
+            "country": 152,
+            "level1area": [
+                "clml"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Linares",
+                "ru": "Линарес"
+            },
+            "place_type": 67,
+            "population": 73602,
+            "latitude": -35.8452905,
+            "longitude": -71.5977173,
+            "geocell": 1948684,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214211178,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q14494",
+                "wikipedia_pages": {
+                    "en": "Linares, Chile"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214213065,
+            "country": 152,
+            "level1area": [
+                "clar"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Traiguén"
+            },
+            "place_type": 84,
+            "population": 14257,
+            "latitude": -38.250816,
+            "longitude": -72.6668798,
+            "geocell": 1862273,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214213065,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214213958,
+            "country": 152,
+            "level1area": [
+                "clan"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Calama",
+                "es": "Calama",
+                "ru": "Калама",
+                "uk": "Калама"
+            },
+            "place_type": 67,
+            "population": 157575,
+            "latitude": -22.4623917,
+            "longitude": -68.9272181,
+            "geocell": 2431110,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214213958,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3685",
+                "wikipedia_pages": {
+                    "en": "Calama, Chile"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214215141,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Villa Alemana"
+            },
+            "place_type": 67,
+            "population": 125140,
+            "latitude": -33.0441903,
+            "longitude": -71.3725464,
+            "geocell": 2049486,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214215141,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q174744",
+                "wikipedia_pages": {
+                    "en": "Villa Alemana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214215644,
+            "country": 152,
+            "level1area": [
+                "clar"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Villarrica",
+                "ru": "Вильяррика"
+            },
+            "place_type": 84,
+            "population": 31780,
+            "latitude": -39.2780911,
+            "longitude": -72.2274364,
+            "geocell": 1826277,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214215644,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q201019",
+                "wikipedia_pages": {
+                    "en": "Villarrica, Chile"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214215722,
+            "country": 152,
+            "level1area": [
+                "clrm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Curacaví"
+            },
+            "place_type": 84,
+            "population": 32579,
+            "latitude": -33.4022289,
+            "longitude": -71.1293733,
+            "geocell": 2035088,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214215722,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3885",
+                "wikipedia_pages": {
+                    "es": "Curacaví"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214215842,
+            "country": 152,
+            "level1area": [
+                "clai"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Puerto Aysén",
+                "ru": "Пуэрто-Айсен"
+            },
+            "place_type": 67,
+            "population": 17441,
+            "latitude": -45.4068167,
+            "longitude": -72.6976787,
+            "geocell": 1603073,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214215842,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1909281",
+                "wikipedia_pages": {
+                    "en": "Puerto Aysén"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214215898,
+            "country": 152,
+            "level1area": [
+                "clbi"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Coronel"
+            },
+            "place_type": 67,
+            "population": 112057,
+            "latitude": -37.0164712,
+            "longitude": -73.1561953,
+            "geocell": 1905468,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214215898,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3873",
+                "wikipedia_pages": {
+                    "en": "Coronel, Chile"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214217708,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Quilpué"
+            },
+            "place_type": 67,
+            "population": 147991,
+            "latitude": -33.0498135,
+            "longitude": -71.4415282,
+            "geocell": 2049485,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214217708,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q56110",
+                "wikipedia_pages": {
+                    "en": "Quilpué"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214218594,
+            "country": 152,
+            "level1area": [
+                "clll"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Purranque"
+            },
+            "place_type": 84,
+            "population": 20968,
+            "latitude": -40.9128096,
+            "longitude": -73.1581888,
+            "geocell": 1765068,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214218594,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214219892,
+            "country": 152,
+            "level1area": [
+                "clrm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Islita"
+            },
+            "place_type": 86,
+            "population": 11431,
+            "latitude": -33.7413212,
+            "longitude": -70.8625645,
+            "geocell": 2024291,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214219892,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214220074,
+            "country": 152,
+            "level1area": [
+                "cllr"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Unión",
+                "ru": "Ла-Уньон"
+            },
+            "place_type": 84,
+            "population": 26517,
+            "latitude": -40.2952392,
+            "longitude": -73.0820366,
+            "geocell": 1790269,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214220074,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q14469",
+                "wikipedia_pages": {
+                    "en": "La Unión, Chile"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214220794,
+            "country": 152,
+            "level1area": [
+                "clan"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Antofagasta",
+                "es": "Antofagasta",
+                "ru": "Антофагаста",
+                "uk": "Антофагаста"
+            },
+            "place_type": 67,
+            "population": 348517,
+            "latitude": -23.6463741,
+            "longitude": -70.3980033,
+            "geocell": 2387896,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214220794,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3612",
+                "wikipedia_pages": {
+                    "en": "Antofagasta"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214221007,
+            "country": 152,
+            "level1area": [
+                "clbi"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Mulchén"
+            },
+            "place_type": 84,
+            "population": 24113,
+            "latitude": -37.7200873,
+            "longitude": -72.2441318,
+            "geocell": 1880277,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214221007,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q51036",
+                "wikipedia_pages": {
+                    "es": "Mulchén"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214223155,
+            "country": 152,
+            "level1area": [
+                "clrm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Buin"
+            },
+            "place_type": 84,
+            "population": 65607,
+            "latitude": -33.7319741,
+            "longitude": -70.7419619,
+            "geocell": 2024292,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214223155,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214223277,
+            "country": 152,
+            "level1area": [
+                "clbi"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Los Álamos"
+            },
+            "place_type": 84,
+            "population": 15244,
+            "latitude": -37.6271305,
+            "longitude": -73.4618419,
+            "geocell": 1883865,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214223277,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214223361,
+            "country": 152,
+            "level1area": [
+                "clar"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Loncoche",
+                "ru": "Лонкоче"
+            },
+            "place_type": 84,
+            "population": 15303,
+            "latitude": -39.370616,
+            "longitude": -72.6300704,
+            "geocell": 1822673,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214223361,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q16900",
+                "wikipedia_pages": {
+                    "en": "Loncoche"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214224795,
+            "country": 152,
+            "level1area": [
+                "clat"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Vallenar",
+                "ru": "Вальенар"
+            },
+            "place_type": 67,
+            "population": 45298,
+            "latitude": -28.5750438,
+            "longitude": -70.7616398,
+            "geocell": 2211492,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214224795,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q200978",
+                "wikipedia_pages": {
+                    "es": "Vallenar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214225186,
+            "country": 152,
+            "level1area": [
+                "clli"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Santa Cruz"
+            },
+            "place_type": 84,
+            "population": 22681,
+            "latitude": -34.6403243,
+            "longitude": -71.3661297,
+            "geocell": 1991886,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214225186,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214225563,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Casablanca"
+            },
+            "place_type": 84,
+            "population": 17948,
+            "latitude": -33.3205864,
+            "longitude": -71.4100762,
+            "geocell": 2038685,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214225563,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214225768,
+            "country": 152,
+            "level1area": [
+                "clli"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Pichilemu",
+                "lt": "Pičilemas",
+                "ru": "Пичилему",
+                "uk": "Пічилему"
+            },
+            "place_type": 84,
+            "population": 12776,
+            "latitude": -34.3851693,
+            "longitude": -72.0046606,
+            "geocell": 2002679,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214225768,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q25304",
+                "wikipedia_pages": {
+                    "es": "Pichilemu"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214226161,
+            "country": 152,
+            "level1area": [
+                "clml"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Parral"
+            },
+            "place_type": 84,
+            "population": 30767,
+            "latitude": -36.1414293,
+            "longitude": -71.8222221,
+            "geocell": 1937881,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214226161,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214226485,
+            "country": 152,
+            "level1area": [
+                "clco"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Ovalle",
+                "ru": "Овалье"
+            },
+            "place_type": 67,
+            "population": 75864,
+            "latitude": -30.6030819,
+            "longitude": -71.2029894,
+            "geocell": 2135887,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214226485,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q51060",
+                "wikipedia_pages": {
+                    "en": "Ovalle"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214226998,
+            "country": 152,
+            "level1area": [
+                "clar"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Victoria",
+                "ru": "Виктория"
+            },
+            "place_type": 84,
+            "population": 24773,
+            "latitude": -38.2339494,
+            "longitude": -72.3316568,
+            "geocell": 1862276,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214226998,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q200999",
+                "wikipedia_pages": {
+                    "en": "Victoria, Chile"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214228524,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Llaillay"
+            },
+            "place_type": 84,
+            "population": 17934,
+            "latitude": -32.8429976,
+            "longitude": -70.9524687,
+            "geocell": 2056690,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214228524,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q14498",
+                "wikipedia_pages": {
+                    "en": "Llay-Llay"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214229792,
+            "country": 152,
+            "level1area": [
+                "clat"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Copiapó",
+                "es": "Copiapó",
+                "ru": "Копьяпо",
+                "uk": "Копіапо"
+            },
+            "place_type": 67,
+            "population": 150804,
+            "latitude": -27.3664685,
+            "longitude": -70.3322753,
+            "geocell": 2254696,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214229792,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "1530000"
+                ],
+                "wikidata_page_name": "Q3868",
+                "wikipedia_pages": {
+                    "en": "Copiapó"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214230421,
+            "country": 152,
+            "level1area": [
+                "clnb"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Carlos"
+            },
+            "place_type": 84,
+            "population": 32529,
+            "latitude": -36.4248192,
+            "longitude": -71.9581208,
+            "geocell": 1927080,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214230421,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6118518",
+                "wikipedia_pages": {
+                    "es": "San Carlos (Chile)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214231207,
+            "country": 152,
+            "level1area": [
+                "clan"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Taltal"
+            },
+            "place_type": 84,
+            "population": 10933,
+            "latitude": -25.4078293,
+            "longitude": -70.4858424,
+            "geocell": 2323095,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214231207,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q188049",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214231617,
+            "country": 152,
+            "level1area": [
+                "clco"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Los Vilos",
+                "ru": "Лос-Вилос"
+            },
+            "place_type": 84,
+            "population": 13816,
+            "latitude": -31.9121611,
+            "longitude": -71.5138887,
+            "geocell": 2089084,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214231617,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214232423,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Placilla de Peñuelas"
+            },
+            "place_type": 84,
+            "population": 39344,
+            "latitude": -33.1148867,
+            "longitude": -71.5679796,
+            "geocell": 2045884,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214232423,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5548758",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214233060,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Tabo"
+            },
+            "place_type": 84,
+            "population": 13286,
+            "latitude": -33.4545847,
+            "longitude": -71.669107,
+            "geocell": 2035083,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214233060,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13041",
+                "wikipedia_pages": {
+                    "es": "El Tabo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214233604,
+            "country": 152,
+            "level1area": [
+                "clbi"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Lebu",
+                "ru": "Лебу"
+            },
+            "place_type": 67,
+            "population": 20961,
+            "latitude": -37.6102279,
+            "longitude": -73.656055,
+            "geocell": 1883863,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214233604,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q14488",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214233979,
+            "country": 152,
+            "level1area": [
+                "clll"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Llanquihue"
+            },
+            "place_type": 84,
+            "population": 12945,
+            "latitude": -41.2575704,
+            "longitude": -73.0047428,
+            "geocell": 1754269,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214233979,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214234250,
+            "country": 152,
+            "level1area": [
+                "clar"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Nueva Imperial",
+                "ru": "Нуэва-Имперьяль"
+            },
+            "place_type": 84,
+            "population": 18751,
+            "latitude": -38.7453101,
+            "longitude": -72.9519984,
+            "geocell": 1844270,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214234250,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q51050",
+                "wikipedia_pages": {
+                    "en": "Nueva Imperial"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214234287,
+            "country": 152,
+            "level1area": [
+                "cllr"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Paillaco"
+            },
+            "place_type": 84,
+            "population": 11296,
+            "latitude": -40.0706633,
+            "longitude": -72.8726695,
+            "geocell": 1797471,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214234287,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214234430,
+            "country": 152,
+            "level1area": [
+                "clta"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Alto Hospicio"
+            },
+            "place_type": 84,
+            "population": 105065,
+            "latitude": -20.2700478,
+            "longitude": -70.1009162,
+            "geocell": 2510298,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214234430,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2217",
+                "wikipedia_pages": {
+                    "en": "Alto Hospicio"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 214235247,
+            "country": 152,
+            "level1area": [
+                "clbi"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Cabrero"
+            },
+            "place_type": 84,
+            "population": 14978,
+            "latitude": -37.0358293,
+            "longitude": -72.4026797,
+            "geocell": 1905475,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214235247,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 243631340,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Cartagena"
+            },
+            "place_type": 84,
+            "population": 22738,
+            "latitude": -33.5468491,
+            "longitude": -71.6031708,
+            "geocell": 2031483,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 243631340,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3738",
+                "wikipedia_pages": {
+                    "es": "Cartagena (Chile)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 300482000,
+            "country": 152,
+            "level1area": [
+                "clbi"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Penco"
+            },
+            "place_type": 84,
+            "population": 46718,
+            "latitude": -36.7385838,
+            "longitude": -72.9937749,
+            "geocell": 1916270,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 300482000,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 330756068,
+            "country": 152,
+            "level1area": [
+                "clbi"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كونثبثيون",
+                "az": "Konsepsion",
+                "be": "Кансепсьён",
+                "bg": "Консепсион",
+                "el": "Κονσεπσιόν",
+                "eo": "Koncepciono",
+                "es": "Concepción",
+                "fa": "کنسپسیون، شیلی",
+                "he": "קונספסיון",
+                "hi": "कॉन्सेप्सिओन",
+                "hy": "Կոնսեպսիոն",
+                "ja": "コンセプシオン",
+                "ka": "კონსეფსიონი",
+                "ko": "콘셉시온",
+                "ky": "Консепсьон",
+                "lt": "Konsepsjonas",
+                "mn": "Консепшон",
+                "mr": "कन्सेप्सियान",
+                "pa": "ਕਾਂਸੇਪਸਿਉਂ",
+                "ru": "Консепсьон",
+                "sr": "Консепсион",
+                "ta": "கன்செப்சியான்",
+                "th": "กอนเซปซิออน",
+                "tk": "Konsepsion",
+                "tt": "Консепсьон",
+                "uk": "Консепсьйон",
+                "ur": "کونسیپشیون"
+            },
+            "place_type": 67,
+            "population": 217537,
+            "latitude": -36.8270698,
+            "longitude": -73.0502064,
+            "geocell": 1912669,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 330756068,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1880",
+                "wikipedia_pages": {
+                    "es": "Concepción (Chile)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 544365254,
+            "country": 152,
+            "level1area": [
+                "clar"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Curacautín"
+            },
+            "place_type": 84,
+            "population": 12679,
+            "latitude": -38.4372985,
+            "longitude": -71.8883419,
+            "geocell": 1855081,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 544365254,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 656582484,
+            "country": 152,
+            "level1area": [
+                "clml"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Constitución",
+                "ru": "Конститусьон"
+            },
+            "place_type": 67,
+            "population": 34022,
+            "latitude": -35.3318306,
+            "longitude": -72.4118998,
+            "geocell": 1966675,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 656582484,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3862",
+                "wikipedia_pages": {
+                    "es": "Constitución (Chile)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 703306899,
+            "country": 152,
+            "level1area": [
+                "clco"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Illapel"
+            },
+            "place_type": 67,
+            "population": 20751,
+            "latitude": -31.6326932,
+            "longitude": -71.1683039,
+            "geocell": 2099888,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 703306899,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q14434",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 842295469,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Quisco"
+            },
+            "place_type": 84,
+            "population": 15955,
+            "latitude": -33.400311,
+            "longitude": -71.693998,
+            "geocell": 2035083,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 842295469,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13040",
+                "wikipedia_pages": {
+                    "es": "El Quisco"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 959911120,
+            "country": 152,
+            "level1area": [
+                "clco"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Salamanca",
+                "ru": "Саламанка"
+            },
+            "place_type": 84,
+            "population": 13520,
+            "latitude": -31.7804674,
+            "longitude": -70.9649896,
+            "geocell": 2096290,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 959911120,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q56134",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1235426142,
+            "country": 152,
+            "level1area": [
+                "clbi"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Hualpén"
+            },
+            "place_type": 84,
+            "population": 90704,
+            "latitude": -36.7927608,
+            "longitude": -73.0943414,
+            "geocell": 1916269,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1235426142,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13077",
+                "wikipedia_pages": {
+                    "es": "Hualpén"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1367415968,
+            "country": 152,
+            "level1area": [
+                "clll"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Frutillar",
+                "ru": "Фрутильяр"
+            },
+            "place_type": 84,
+            "population": 12876,
+            "latitude": -41.1258462,
+            "longitude": -73.0604738,
+            "geocell": 1757869,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1367415968,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13058",
+                "wikipedia_pages": {
+                    "en": "Frutillar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1369449846,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Algarrobo"
+            },
+            "place_type": 84,
+            "population": 13817,
+            "latitude": -33.369172,
+            "longitude": -71.6680533,
+            "geocell": 2038683,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1369449846,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.municipalidadalgarrobo.cl/",
+                "wikidata_page_name": "Q2206",
+                "wikipedia_pages": {
+                    "es": "Algarrobo (Chile)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1373227375,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Cruz"
+            },
+            "place_type": 84,
+            "population": 19408,
+            "latitude": -32.8279116,
+            "longitude": -71.2271534,
+            "geocell": 2056687,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1373227375,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1381792184,
+            "country": 152,
+            "level1area": [
+                "clli"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Requínoa"
+            },
+            "place_type": 84,
+            "population": 10539,
+            "latitude": -34.2848586,
+            "longitude": -70.8175128,
+            "geocell": 2006291,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1381792184,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1383053825,
+            "country": 152,
+            "level1area": [
+                "clbi"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Laja"
+            },
+            "place_type": 84,
+            "population": 16089,
+            "latitude": -37.2795106,
+            "longitude": -72.7149212,
+            "geocell": 1898272,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1383053825,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1515015048,
+            "country": 152,
+            "level1area": [
+                "clar"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "تيموكو",
+                "en": "Temuco",
+                "es": "Temuco",
+                "ru": "Темуко",
+                "uk": "Темуко"
+            },
+            "place_type": 67,
+            "population": 235509,
+            "latitude": -38.7358908,
+            "longitude": -72.590538,
+            "geocell": 1844274,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1515015048,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q82128",
+                "wikipedia_pages": {
+                    "en": "Temuco"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1825646130,
+            "country": 152,
+            "level1area": [
+                "clbi"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Pedro de la Paz"
+            },
+            "place_type": 67,
+            "population": 131521,
+            "latitude": -36.8414183,
+            "longitude": -73.1039909,
+            "geocell": 1912668,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1825646130,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q19344",
+                "wikipedia_pages": {
+                    "en": "San Pedro de la Paz"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1825695778,
+            "country": 152,
+            "level1area": [
+                "clml"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Javier"
+            },
+            "place_type": 84,
+            "population": 29017,
+            "latitude": -35.5923933,
+            "longitude": -71.735308,
+            "geocell": 1959482,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1825695778,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1888417070,
+            "country": 152,
+            "level1area": [
+                "clbi"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Talcahuano",
+                "lt": "Talkahuanas",
+                "ru": "Талькауано",
+                "uk": "Талькауано"
+            },
+            "place_type": 67,
+            "population": 147831,
+            "latitude": -36.7144863,
+            "longitude": -73.1141087,
+            "geocell": 1916268,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1888417070,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q41997",
+                "wikipedia_pages": {
+                    "es": "Talcahuano"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2430625428,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Antonio",
+                "ru": "Сан-Антонио"
+            },
+            "place_type": 67,
+            "population": 86239,
+            "latitude": -33.5808615,
+            "longitude": -71.6132377,
+            "geocell": 2031483,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2430625428,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q56135",
+                "wikipedia_pages": {
+                    "es": "San Antonio (Chile)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2626164691,
+            "country": 152,
+            "level1area": [
+                "clco"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Vicuña"
+            },
+            "place_type": 84,
+            "population": 15872,
+            "latitude": -30.0340482,
+            "longitude": -70.7126702,
+            "geocell": 2157492,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2626164691,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q201007",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2809403613,
+            "country": 152,
+            "level1area": [
+                "clbi"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Arauco",
+                "ru": "Арауко"
+            },
+            "place_type": 84,
+            "population": 17597,
+            "latitude": -37.246248,
+            "longitude": -73.3176399,
+            "geocell": 1898266,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2809403613,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2972356933,
+            "country": 152,
+            "level1area": [
+                "clll"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Castro",
+                "ru": "Кастру"
+            },
+            "place_type": 67,
+            "population": 33417,
+            "latitude": -42.482375,
+            "longitude": -73.7642918,
+            "geocell": 1711062,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2972356933,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3744",
+                "wikipedia_pages": {
+                    "es": "Castro (Chile)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3115367654,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Cabildo"
+            },
+            "place_type": 84,
+            "population": 10909,
+            "latitude": -32.4265909,
+            "longitude": -71.0663299,
+            "geocell": 2071089,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3115367654,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3298545361,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Valparaíso",
+                "ru": "Вальпараисо"
+            },
+            "place_type": 67,
+            "population": 251177,
+            "latitude": -33.0458456,
+            "longitude": -71.6196749,
+            "geocell": 2049483,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3298545361,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q33986",
+                "wikipedia_pages": {
+                    "es": "Valparaíso"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3444930202,
+            "country": 152,
+            "level1area": [
+                "clap"
+            ],
+            "level2area": null,
+            "names": {
+                "ckb": "ئاریکا",
+                "es": "Arica"
+            },
+            "place_type": 67,
+            "population": 202131,
+            "latitude": -18.4785288,
+            "longitude": -70.3211394,
+            "geocell": 2575096,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3444930202,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2203",
+                "wikipedia_pages": {
+                    "es": "Arica"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3510684994,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Olmué"
+            },
+            "place_type": 84,
+            "population": 11996,
+            "latitude": -32.9956184,
+            "longitude": -71.186211,
+            "geocell": 2053088,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3510684994,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3637267452,
+            "country": 152,
+            "level1area": [
+                "clnb"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Yungay"
+            },
+            "place_type": 84,
+            "population": 10884,
+            "latitude": -37.1193665,
+            "longitude": -72.0188531,
+            "geocell": 1901879,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3637267452,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3736621516,
+            "country": 152,
+            "level1area": [
+                "clma"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Puerto Natales",
+                "es": "Puerto Natales",
+                "ko": "푸에르토나탈레스",
+                "ru": "Пуэрто-Наталес"
+            },
+            "place_type": 67,
+            "population": 19023,
+            "latitude": -51.7262003,
+            "longitude": -72.5059982,
+            "geocell": 1376274,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3736621516,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1001339",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3887001450,
+            "country": 152,
+            "level1area": [
+                "clrm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Talagante"
+            },
+            "place_type": 84,
+            "population": 56878,
+            "latitude": -33.6644388,
+            "longitude": -70.9302778,
+            "geocell": 2027890,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3887001450,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q188038",
+                "wikipedia_pages": {
+                    "es": "Talagante"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3956170554,
+            "country": 152,
+            "level1area": [
+                "cllr"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Valdivia",
+                "es": "Valdivia",
+                "ru": "Вальдивия",
+                "uk": "Вальдівія"
+            },
+            "place_type": 67,
+            "population": 150048,
+            "latitude": -39.8141262,
+            "longitude": -73.2459859,
+            "geocell": 1804667,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3956170554,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q160687",
+                "wikipedia_pages": {
+                    "en": "Valdivia"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4041076394,
+            "country": 152,
+            "level1area": [
+                "clar"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Padre Las Casas"
+            },
+            "place_type": 67,
+            "population": 42020,
+            "latitude": -38.7674245,
+            "longitude": -72.5956312,
+            "geocell": 1844274,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4041076394,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q51063",
+                "wikipedia_pages": {
+                    "es": "Padre Las Casas"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4400356468,
+            "country": 152,
+            "level1area": [
+                "clvs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Limache"
+            },
+            "place_type": 84,
+            "population": 39002,
+            "latitude": -33.0018741,
+            "longitude": -71.2657315,
+            "geocell": 2049487,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4400356468,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4664721311,
+            "country": 152,
+            "level1area": [
+                "clml"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Maule Norte"
+            },
+            "place_type": 86,
+            "population": 30278,
+            "latitude": -35.4530346,
+            "longitude": -71.686108,
+            "geocell": 1963083,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4664721311,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4984049134,
+            "country": 152,
+            "level1area": [
+                "clrm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Ciudad de los Valles"
+            },
+            "place_type": 86,
+            "population": 11512,
+            "latitude": -33.4538417,
+            "longitude": -70.8476466,
+            "geocell": 2035091,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4984049134,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q109423344",
+                "wikipedia_pages": {
+                    "es": "Ciudad de Los Valles"
+                }
+            }
+        }
+    }
+]

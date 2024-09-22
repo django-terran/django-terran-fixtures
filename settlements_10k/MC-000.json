@@ -1,0 +1,37 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1790048269,
+            "country": 492,
+            "level1area": [
+                "mcmo"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Mònaco",
+                "es": "Mónaco",
+                "fr": "Monaco",
+                "it": "Monaco",
+                "ko": "모나코",
+                "pt": "Mónaco"
+            },
+            "place_type": 67,
+            "population": 39050,
+            "latitude": 43.7311424,
+            "longitude": 7.4197576,
+            "geocell": 4815074,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1790048269,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.gouv.mc/",
+                "wikidata_page_name": "Q235",
+                "wikipedia_pages": {
+                    "fr": "Monaco"
+                }
+            }
+        }
+    }
+]

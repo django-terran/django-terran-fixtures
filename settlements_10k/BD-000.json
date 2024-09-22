@@ -1,0 +1,2402 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 141466273,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": [
+                "bd13"
+            ],
+            "names": {
+                "bn": "সাভার",
+                "de": "Sabhar",
+                "en": "Savar",
+                "es": "Savar",
+                "fr": "Sabhar",
+                "ja": "シャバール",
+                "kn": "ಸಾಭಾರ್",
+                "ru": "Савар"
+            },
+            "place_type": 84,
+            "population": 296851,
+            "latitude": 23.8477,
+            "longitude": 90.2587,
+            "geocell": 4099502,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 141466273,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q23958347",
+                "wikipedia_pages": {
+                    "bn": "সাভার"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 262297782,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "টঙ্গী",
+                "en": "Tongi",
+                "hi": "टोंगी",
+                "ja": "トゥンギ",
+                "ru": "Тонги"
+            },
+            "place_type": 84,
+            "population": 406420,
+            "latitude": 23.9084932,
+            "longitude": 90.3980037,
+            "geocell": 4103103,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 262297782,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 264490438,
+            "country": 50,
+            "level1area": [
+                "bdg"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "সিলেট",
+                "en": "Sylhet",
+                "et": "Sylhet",
+                "eu": "Sylhet",
+                "fa": "سیلهت",
+                "fr": "Sylhet",
+                "hi": "सिलहट",
+                "ja": "シレット",
+                "kn": "ಸಿಲಹಟ್",
+                "ne": "सिलेट",
+                "ru": "Силхет",
+                "ta": "சில்ஹெட்",
+                "ur": "سلہٹ"
+            },
+            "place_type": 67,
+            "population": 526412,
+            "latitude": 24.89922,
+            "longitude": 91.8685271,
+            "geocell": 4135518,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 264490438,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q466221",
+                "wikipedia_pages": {
+                    "bn": "সিলেট"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 268417180,
+            "country": 50,
+            "level1area": [
+                "bdb"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كوميلا",
+                "bn": "কুমিল্লা",
+                "de": "Kumilla",
+                "en": "Cumilla",
+                "es": "Comilla",
+                "et": "Comilla",
+                "eu": "Cumilla",
+                "fr": "Comilla",
+                "hi": "कोमिला",
+                "ja": "クミッラ",
+                "kn": "ಕೊಮಿಲ್ಲ",
+                "ne": "कुमिल्ला",
+                "ru": "Комилла",
+                "uk": "Комілла",
+                "ur": "کومیلا"
+            },
+            "place_type": 67,
+            "population": 407901,
+            "latitude": 23.4610615,
+            "longitude": 91.1808748,
+            "geocell": 4085111,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 268417180,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1006296",
+                "wikipedia_pages": {
+                    "bn": "কুমিল্লা"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 317729066,
+            "country": 50,
+            "level1area": [
+                "bdd"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "যশোর",
+                "en": "Jashore",
+                "fr": "Jessore",
+                "hi": "यशोर",
+                "ja": "ジェッソール",
+                "ne": "जेसोर",
+                "ru": "Джессор"
+            },
+            "place_type": 67,
+            "population": 237478,
+            "latitude": 23.1665256,
+            "longitude": 89.2094419,
+            "geocell": 4074292,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 317729066,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1688300",
+                "wikipedia_pages": {
+                    "bn": "যশোর"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 321521438,
+            "country": 50,
+            "level1area": [
+                "bdd"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كولنا",
+                "bn": "খুলনা",
+                "de": "Khulna",
+                "en": "Khulna",
+                "es": "Khulna",
+                "et": "Khulna",
+                "eu": "Khulna",
+                "fa": "خولنا",
+                "fr": "Khulnâ",
+                "hi": "खुलना",
+                "ja": "クルナ",
+                "kn": "ಖುಲ್ನಾ",
+                "ne": "खुलना",
+                "pt": "Khulna",
+                "ru": "Кхулна",
+                "uk": "Кхулна",
+                "ur": "کھلنا"
+            },
+            "place_type": 67,
+            "population": 664728,
+            "latitude": 22.8171664,
+            "longitude": 89.563759,
+            "geocell": 4063495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 321521438,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "http://www.khulna.gov.bd",
+                "wikidata_page_name": "Q243325",
+                "wikipedia_pages": {
+                    "bn": "খুলনা"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 339167585,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "নারায়ণগঞ্জ",
+                "en": "Narayanganj",
+                "fr": "Narayanganj",
+                "kn": "ನಾರಾಯಣಗಂಜ್",
+                "ne": "नारायणगन्ज"
+            },
+            "place_type": 67,
+            "population": 286330,
+            "latitude": 23.6236732,
+            "longitude": 90.4988075,
+            "geocell": 4092304,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 339167585,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1990163",
+                "wikipedia_pages": {
+                    "bn": "নারায়ণগঞ্জ"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 372428067,
+            "country": 50,
+            "level1area": [
+                "bde"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بوغرا",
+                "bn": "বগুড়া",
+                "de": "Bogra",
+                "en": "Bogura",
+                "es": "Bogra",
+                "et": "Bogra",
+                "eu": "Bogra",
+                "fr": "Bogra",
+                "ja": "ボーグラ",
+                "kn": "ಬೊಗ್ರ",
+                "ur": "بوگرا"
+            },
+            "place_type": 67,
+            "population": 400983,
+            "latitude": 24.8500662,
+            "longitude": 89.3728431,
+            "geocell": 4135493,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 372428067,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "http://www.bogra.gov.bd/",
+                "wikidata_page_name": "Q1918837",
+                "wikipedia_pages": {
+                    "bn": "বগুড়া"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 372612223,
+            "country": 50,
+            "level1area": [
+                "bde"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "راجشاهي",
+                "bn": "রাজশাহী",
+                "de": "Rajshahi",
+                "en": "Rajshahi",
+                "es": "Rajshahi",
+                "et": "Rājshāhi",
+                "eu": "Rajshahi",
+                "fa": "راج‌شاهی",
+                "fr": "Râjshâhî",
+                "hi": "राजशाही",
+                "ja": "ラジシャヒ",
+                "kn": "ರಾಜಶಾಹೀ",
+                "ne": "राजशाही",
+                "ru": "Раджшахи",
+                "uk": "Раджшахі",
+                "ur": "راجشاہی"
+            },
+            "place_type": 67,
+            "population": 451425,
+            "latitude": 24.3715513,
+            "longitude": 88.5921038,
+            "geocell": 4117485,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 372612223,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q322155",
+                "wikipedia_pages": {
+                    "bn": "রাজশাহী"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 614900904,
+            "country": 50,
+            "level1area": [
+                "bdf"
+            ],
+            "level2area": [
+                "bd55"
+            ],
+            "names": {
+                "ar": "رنكبور",
+                "bn": "রংপুর",
+                "de": "Rangpur",
+                "en": "Rangpur",
+                "es": "Rangpur",
+                "et": "Rangpur",
+                "eu": "Rangpur",
+                "fa": "رنگ‌پور",
+                "fr": "Rangpur",
+                "hi": "रंगपुर",
+                "ja": "ランプル",
+                "kn": "ರಂಗಪುರ್",
+                "ne": "रङ्गपुर",
+                "ru": "Рангпур",
+                "uk": "Рангпур",
+                "ur": "رنگپور"
+            },
+            "place_type": 67,
+            "population": 307053,
+            "latitude": 25.7569808,
+            "longitude": 89.241459,
+            "geocell": 4167892,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 614900904,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q994514",
+                "wikipedia_pages": {
+                    "it": "Rangpur"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 616139829,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": [
+                "bd13"
+            ],
+            "names": {
+                "ar": "دامراي",
+                "bn": "ধামরাই",
+                "de": "Dhamrai",
+                "en": "Dhamrai",
+                "es": "Dhamrai",
+                "fr": "Dhamrai",
+                "ja": "ダムライ",
+                "kn": "ಧಮ್ರೈ"
+            },
+            "place_type": 84,
+            "population": 56777,
+            "latitude": 23.9183476,
+            "longitude": 90.2142069,
+            "geocell": 4103102,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 616139829,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3345155",
+                "wikipedia_pages": {
+                    "en": "Dhamrai Upazila"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1210691046,
+            "country": 50,
+            "level1area": [
+                "bde"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "সিরাজগঞ্জ",
+                "en": "Sirajganj",
+                "fr": "Sirajganj",
+                "ja": "シラージガンジ"
+            },
+            "place_type": 67,
+            "population": 167200,
+            "latitude": 24.4566253,
+            "longitude": 89.7081281,
+            "geocell": 4121097,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1210691046,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2579193",
+                "wikipedia_pages": {
+                    "bn": "সিরাজগঞ্জ"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1412090848,
+            "country": 50,
+            "level1area": [
+                "bdb"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "কক্সবাজার",
+                "de": "Cox’s Bazar",
+                "en": "Cox's Bazar",
+                "fr": "Cox's Bazar",
+                "hi": "कॉक्स बाजार",
+                "ja": "コックスバザール",
+                "kn": "ಕಕ್ಸ್ ಬಾಜಾರ್",
+                "uk": "Кокс-Базар"
+            },
+            "place_type": 67,
+            "population": 223522,
+            "latitude": 21.4399108,
+            "longitude": 91.9887995,
+            "geocell": 4013119,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1412090848,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "4700"
+                ],
+                "wikidata_page_name": "Q949746",
+                "wikipedia_pages": {
+                    "bn": "কক্সবাজার"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1429898284,
+            "country": 50,
+            "level1area": [
+                "bde"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "চাঁপাইনবাবগঞ্জ",
+                "en": "Chapainawabganj",
+                "fr": "Nawabganj",
+                "ko": "차파이나와브간지"
+            },
+            "place_type": 67,
+            "population": 180731,
+            "latitude": 24.5954428,
+            "longitude": 88.2707613,
+            "geocell": 4124682,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1429898284,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7223092",
+                "wikipedia_pages": {
+                    "bn": "চাঁপাইনবাবগঞ্জ"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1472130095,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "ফরিদপুর",
+                "en": "Faridpur",
+                "fr": "Faridpur",
+                "ja": "ファリドプル"
+            },
+            "place_type": 67,
+            "population": 122425,
+            "latitude": 23.6040182,
+            "longitude": 89.8415542,
+            "geocell": 4092298,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1472130095,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2561181",
+                "wikipedia_pages": {
+                    "bn": "ফরিদপুর"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1472130097,
+            "country": 50,
+            "level1area": [
+                "bdd"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "কুষ্টিয়া",
+                "en": "Kushtia",
+                "fr": "Kushtia",
+                "ja": "クスティア",
+                "ne": "कुष्टिया",
+                "uk": "Куштія"
+            },
+            "place_type": 67,
+            "population": 108423,
+            "latitude": 23.8987955,
+            "longitude": 89.1295536,
+            "geocell": 4099491,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1472130097,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1897952",
+                "wikipedia_pages": {
+                    "bn": "কুষ্টিয়া"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1472157679,
+            "country": 50,
+            "level1area": [
+                "bdh"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "جمال بور",
+                "bn": "জামালপুর",
+                "de": "Dschamalpur",
+                "en": "Jamalpur",
+                "fa": "جمال‌پور",
+                "fr": "Jamalpur",
+                "ja": "ジャマルプル",
+                "ru": "Джамалпур",
+                "ur": "جمال پور"
+            },
+            "place_type": 67,
+            "population": 150172,
+            "latitude": 24.9255866,
+            "longitude": 89.9436684,
+            "geocell": 4139099,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1472157679,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4159797",
+                "wikipedia_pages": {
+                    "bn": "জামালপুর"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1561555013,
+            "country": 50,
+            "level1area": [
+                "bdb"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "চাঁদপুর",
+                "en": "Chandpur",
+                "fr": "Chandpur",
+                "ja": "チャンドプル"
+            },
+            "place_type": 67,
+            "population": 171065,
+            "latitude": 23.2241763,
+            "longitude": 90.6531005,
+            "geocell": 4077906,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1561555013,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q16257679",
+                "wikipedia_pages": {
+                    "bn": "চাঁদপুর"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599654460,
+            "country": 50,
+            "level1area": [
+                "bdb"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "ফেনী",
+                "en": "Feni",
+                "fr": "Feni",
+                "ja": "フェニ"
+            },
+            "place_type": 67,
+            "population": 156971,
+            "latitude": 23.0068161,
+            "longitude": 91.3965276,
+            "geocell": 4070713,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599654460,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://zpfeni.gov.bd/",
+                "wikidata_page_name": "Q1404724",
+                "wikipedia_pages": {
+                    "bn": "ফেনী"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1623159389,
+            "country": 50,
+            "level1area": [
+                "bda"
+            ],
+            "level2area": [
+                "bd25"
+            ],
+            "names": {
+                "bn": "ঝালকাঠী",
+                "en": "Jhalokathi",
+                "fr": "Jhalokati"
+            },
+            "place_type": 67,
+            "population": 54029,
+            "latitude": 22.6426168,
+            "longitude": 90.1990344,
+            "geocell": 4056301,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1623159389,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://sadar.jhalakathi.gov.bd/",
+                "wikidata_page_name": "Q55232766",
+                "wikipedia_pages": {
+                    "bn": "ঝালকাঠি"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1623159411,
+            "country": 50,
+            "level1area": [
+                "bdb"
+            ],
+            "level2area": [
+                "bd47"
+            ],
+            "names": {
+                "bn": "নোয়াখালী",
+                "en": "Noakhali",
+                "fr": "Maijdee"
+            },
+            "place_type": 67,
+            "population": 130842,
+            "latitude": 22.8741068,
+            "longitude": 91.0967316,
+            "geocell": 4063510,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1623159411,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q18351710",
+                "wikipedia_pages": {
+                    "bn": "মাইজদী"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1623159429,
+            "country": 50,
+            "level1area": [
+                "bdb"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "রাঙ্গামাটি",
+                "en": "Rangamati",
+                "fr": "Rangamati"
+            },
+            "place_type": 67,
+            "population": 66836,
+            "latitude": 22.6509208,
+            "longitude": 92.1814332,
+            "geocell": 4056321,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1623159429,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1248027",
+                "wikipedia_pages": {
+                    "bn": "রাঙ্গামাটি"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1627757202,
+            "country": 50,
+            "level1area": [
+                "bdd"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "ঝিনাইদহ",
+                "en": "Jhenaidah",
+                "fr": "Jhenaidah",
+                "ja": "ジェナイダ"
+            },
+            "place_type": 67,
+            "population": 110541,
+            "latitude": 23.5446964,
+            "longitude": 89.1731943,
+            "geocell": 4088691,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1627757202,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "www.jhenaidah.gov.bd",
+                "wikidata_page_name": "Q2167452",
+                "wikipedia_pages": {
+                    "bn": "ঝিনাইদহ"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1627757208,
+            "country": 50,
+            "level1area": [
+                "bde"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "পাবনা",
+                "en": "Pabna",
+                "fr": "Pabna",
+                "ja": "パブナ",
+                "ko": "파브나",
+                "ru": "Пабна"
+            },
+            "place_type": 67,
+            "population": 144442,
+            "latitude": 24.0068082,
+            "longitude": 89.2448341,
+            "geocell": 4106692,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1627757208,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1004048",
+                "wikipedia_pages": {
+                    "bn": "পাবনা"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1627757209,
+            "country": 50,
+            "level1area": [
+                "bdd"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "সাতক্ষীরা",
+                "en": "Satkhira",
+                "fr": "Satkhira",
+                "ja": "サトキラ",
+                "uk": "Саткгіра"
+            },
+            "place_type": 67,
+            "population": 110500,
+            "latitude": 22.7166509,
+            "longitude": 89.0749857,
+            "geocell": 4059890,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1627757209,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q478066",
+                "wikipedia_pages": {
+                    "bn": "সাতক্ষীরা"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1749595668,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Munshiganj",
+                "ar": "مونشيجاني",
+                "bn": "মুন্সিগঞ্জ",
+                "de": "Munsiganj",
+                "en": "Munshiganj",
+                "es": "Munsiganj",
+                "et": "Munshiganj",
+                "fr": "Munsiganj",
+                "hi": "मुंशीगंज",
+                "kn": "ಮುಂಶಿಗಂಜ್",
+                "ko": "문시 간지",
+                "uk": "Муншіґандж"
+            },
+            "place_type": 67,
+            "population": 53202,
+            "latitude": 23.5483797,
+            "longitude": 90.5349722,
+            "geocell": 4088705,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1749595668,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q256060",
+                "wikipedia_pages": {
+                    "bn": "মুন্সীগঞ্জ"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1753725269,
+            "country": 50,
+            "level1area": [
+                "bdf"
+            ],
+            "level2area": [
+                "bd46"
+            ],
+            "names": {
+                "bn": "সৈয়দপুর",
+                "en": "Saidpur",
+                "fr": "Saidpur",
+                "ja": "サイドプル",
+                "ru": "Саидпур",
+                "ur": "سیدپور"
+            },
+            "place_type": 67,
+            "population": 127104,
+            "latitude": 25.7798456,
+            "longitude": 88.8952379,
+            "geocell": 4167888,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1753725269,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3347049",
+                "wikipedia_pages": {
+                    "bn": "সৈয়দপুর"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2277893262,
+            "country": 50,
+            "level1area": [
+                "bdh"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "সরিষাবাড়ী",
+                "en": "Sarishabari"
+            },
+            "place_type": 84,
+            "population": 316007,
+            "latitude": 24.7499467,
+            "longitude": 89.8331666,
+            "geocell": 4131898,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2277893262,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2408433883,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "হোসেনপুর",
+                "en": "Hossainpur"
+            },
+            "place_type": 84,
+            "population": 15573,
+            "latitude": 24.4168657,
+            "longitude": 90.6553734,
+            "geocell": 4121106,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2408433883,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2320"
+                ],
+                "website": "https://hossainpur.kishoreganj.gov.bd/",
+                "wikidata_page_name": "Q3423880",
+                "wikipedia_pages": {
+                    "en": "Hossainpur Upazila"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2444384914,
+            "country": 50,
+            "level1area": [
+                "bdf"
+            ],
+            "level2area": [
+                "bd14"
+            ],
+            "names": {
+                "bn": "বিরামপুর",
+                "en": "Birampur"
+            },
+            "place_type": 84,
+            "population": 34718,
+            "latitude": 25.3905537,
+            "longitude": 88.991278,
+            "geocell": 4153489,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2444384914,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13637105",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2444384916,
+            "country": 50,
+            "level1area": [
+                "bdf"
+            ],
+            "level2area": [
+                "bd14"
+            ],
+            "names": {
+                "bn": "দিনাজপুর",
+                "en": "Dinajpur",
+                "fr": "Dinajpur",
+                "ja": "ディナジプル",
+                "ur": "دیناجپور"
+            },
+            "place_type": 67,
+            "population": 191329,
+            "latitude": 25.6260712,
+            "longitude": 88.6346228,
+            "geocell": 4164286,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2444384916,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4161769",
+                "wikipedia_pages": {
+                    "bn": "দিনাজপুর"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2452835174,
+            "country": 50,
+            "level1area": [
+                "bdh"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "কেন্দুয়া",
+                "en": "Kendua"
+            },
+            "place_type": 84,
+            "population": 19060,
+            "latitude": 24.6617233,
+            "longitude": 90.8454168,
+            "geocell": 4128308,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2452835174,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2480"
+                ],
+                "website": "https://kendua.netrokona.gov.bd/",
+                "wikidata_page_name": "Q3345680",
+                "wikipedia_pages": {
+                    "bn": "কেন্দুয়া উপজেলা"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2460345114,
+            "country": 50,
+            "level1area": [
+                "bdb"
+            ],
+            "level2area": [
+                "bd47"
+            ],
+            "names": {
+                "bn": "চৌমুহনী",
+                "en": "Chowmuhani"
+            },
+            "place_type": 84,
+            "population": 132948,
+            "latitude": 22.9463868,
+            "longitude": 91.121731,
+            "geocell": 4067111,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2460345114,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2481947624,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "গাজীপুর",
+                "de": "Gazipur",
+                "en": "Gazipur",
+                "fr": "Gazipur",
+                "hr": "Gazipur",
+                "ne": "गाजीपुर"
+            },
+            "place_type": 67,
+            "population": 213061,
+            "latitude": 23.9997558,
+            "longitude": 90.4173629,
+            "geocell": 4103104,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2481947624,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2460416",
+                "wikipedia_pages": {
+                    "bn": "গাজীপুর"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2481947625,
+            "country": 50,
+            "level1area": [
+                "bdb"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "হোমনা",
+                "en": "Homna"
+            },
+            "place_type": 84,
+            "population": 24193,
+            "latitude": 23.6824661,
+            "longitude": 90.7801036,
+            "geocell": 4092307,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2481947625,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2481947627,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "নরসিংদী",
+                "en": "Narsingdi",
+                "fr": "Narsingdi"
+            },
+            "place_type": 67,
+            "population": 185128,
+            "latitude": 23.9197152,
+            "longitude": 90.7152981,
+            "geocell": 4103107,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2481947627,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2799572",
+                "wikipedia_pages": {
+                    "bn": "নরসিংদী"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2481947628,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "পলাশ",
+                "en": "Palash",
+                "hi": "पलाश"
+            },
+            "place_type": 84,
+            "population": 42124,
+            "latitude": 23.9785726,
+            "longitude": 90.6506885,
+            "geocell": 4103106,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2481947628,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://palash.narsingdi.gov.bd/",
+                "wikipedia_pages": {
+                    "bn": "পলাশ উপজেলা"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2481948418,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "ভৈরব",
+                "en": "Bhairab",
+                "ja": "バイラブ"
+            },
+            "place_type": 84,
+            "population": 118992,
+            "latitude": 24.056768,
+            "longitude": 90.9800203,
+            "geocell": 4106709,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2481948418,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2481950538,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "বাসাইল",
+                "en": "Basail"
+            },
+            "place_type": 84,
+            "population": 159870,
+            "latitude": 24.2297459,
+            "longitude": 90.0517494,
+            "geocell": 4113900,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2481950538,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2481974435,
+            "country": 50,
+            "level1area": [
+                "bdg"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "বড়লেখা",
+                "en": "Barlekha"
+            },
+            "place_type": 84,
+            "population": 200674,
+            "latitude": 24.7048967,
+            "longitude": 92.1930505,
+            "geocell": 4131921,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2481974435,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q22348048",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2481975006,
+            "country": 50,
+            "level1area": [
+                "bdg"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "শ্রীমঙ্গল",
+                "en": "Sreemangal"
+            },
+            "place_type": 84,
+            "population": 230889,
+            "latitude": 24.3098643,
+            "longitude": 91.7308729,
+            "geocell": 4117517,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2481975006,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2551998759,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "করটিয়া",
+                "en": "Karatia"
+            },
+            "place_type": 86,
+            "population": 75000,
+            "latitude": 24.2222679,
+            "longitude": 89.9781439,
+            "geocell": 4113899,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2551998759,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "website": "https://karatiaup.tangail.gov.bd/",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2677260533,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "কিশোরগঞ্জ",
+                "en": "Kishoreganj",
+                "fr": "Kishorganj"
+            },
+            "place_type": 67,
+            "population": 103798,
+            "latitude": 24.4339822,
+            "longitude": 90.7857232,
+            "geocell": 4121107,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2677260533,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2875992",
+                "wikipedia_pages": {
+                    "bn": "কিশোরগঞ্জ"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3250983586,
+            "country": 50,
+            "level1area": [
+                "bdb"
+            ],
+            "level2area": [
+                "bd04"
+            ],
+            "names": {
+                "ar": "براهمنباريا",
+                "bn": "ব্রাহ্মণবাড়িয়া",
+                "en": "Brahmanbaria",
+                "et": "Brāhmanbāria",
+                "fr": "Brahmanbaria",
+                "hi": "ब्राह्मनबरिआ",
+                "ja": "ブラーマンバーリア",
+                "kn": "ಬ್ರಹ್ಮನ್ಬರಿಯ",
+                "ur": "برہمنباریا"
+            },
+            "place_type": 67,
+            "population": 268279,
+            "latitude": 23.9691452,
+            "longitude": 91.1104549,
+            "geocell": 4103111,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3250983586,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://brahmanbaria-district.weebly.com/",
+                "wikidata_page_name": "Q897320",
+                "wikipedia_pages": {
+                    "bn": "ব্রাহ্মণবাড়িয়া"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3372978481,
+            "country": 50,
+            "level1area": [
+                "bda"
+            ],
+            "level2area": [
+                "bd50"
+            ],
+            "names": {
+                "bn": "জিয়ানগর",
+                "en": "Zianagar"
+            },
+            "place_type": 84,
+            "population": 77674,
+            "latitude": 22.4839617,
+            "longitude": 89.9643591,
+            "geocell": 4049099,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3372978481,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "en": "Zianagar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3377854448,
+            "country": 50,
+            "level1area": [
+                "bda"
+            ],
+            "level2area": [
+                "bd50"
+            ],
+            "names": {
+                "bn": "নাজিরপুর",
+                "en": "Nazirpur"
+            },
+            "place_type": 84,
+            "population": 23588,
+            "latitude": 22.729367,
+            "longitude": 89.9608795,
+            "geocell": 4059899,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3377854448,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://nazirpursadarup.pirojpur.gov.bd/",
+                "wikipedia_pages": {
+                    "bn": "নাজিরপুর উপজেলা"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3396281149,
+            "country": 50,
+            "level1area": [
+                "bdg"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "জকিগঞ্জ",
+                "en": "Zakiganj"
+            },
+            "place_type": 84,
+            "population": 85935,
+            "latitude": 24.8774566,
+            "longitude": 92.3698833,
+            "geocell": 4135523,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3396281149,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q8065098",
+                "wikipedia_pages": {
+                    "en": "Zakiganj"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3396286397,
+            "country": 50,
+            "level1area": [
+                "bdg"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "জৈন্তাপুর",
+                "en": "Jaintiapur"
+            },
+            "place_type": 84,
+            "population": 98270,
+            "latitude": 25.1355762,
+            "longitude": 92.1233925,
+            "geocell": 4146321,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3396286397,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6124105",
+                "wikipedia_pages": {
+                    "bn": "জৈন্তাপুর উপজেলা"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3442474911,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": [
+                "bd13"
+            ],
+            "names": {
+                "ar": "دكا",
+                "az": "Dəkkə",
+                "be": "Дака",
+                "bg": "Дака",
+                "bn": "ঢাকা",
+                "ckb": "داکا",
+                "cs": "Dháka",
+                "de": "Dhaka",
+                "el": "Ντάκα",
+                "en": "Dhaka",
+                "eo": "Dako",
+                "es": "Daca",
+                "et": "Dhaka",
+                "eu": "Dhaka",
+                "fa": "داکا",
+                "fr": "Dacca",
+                "fy": "Daka",
+                "gl": "Dacca - ঢাকা",
+                "he": "דאקה",
+                "hi": "ढाका",
+                "hr": "Dhaka",
+                "hu": "Dakka",
+                "hy": "Դաքքա",
+                "ia": "Dhaka",
+                "io": "Dhaka",
+                "is": "Daka",
+                "it": "Dacca",
+                "ja": "ダッカ",
+                "ka": "დაკა",
+                "kk": "Дакка",
+                "kn": "ಢಾಕಾ",
+                "ko": "다카",
+                "lt": "Daka",
+                "lv": "Daka",
+                "mk": "Дака",
+                "ml": "ഢാക്ക",
+                "mn": "Дака",
+                "mr": "ढाका",
+                "my": "ဒါကာမြို့",
+                "ne": "ढाका",
+                "os": "Даккæ",
+                "pl": "Dhaka",
+                "pt": "Daca",
+                "ro": "Dacca",
+                "ru": "Дакка",
+                "sk": "Dháka",
+                "sl": "Daka",
+                "sr": "Дака",
+                "sv": "Dhaka",
+                "ta": "டாக்கா",
+                "te": "ఢాకా",
+                "tg": "Дакка",
+                "th": "ธากา",
+                "tk": "Dakka",
+                "tr": "Dakka",
+                "udm": "Дакка",
+                "ug": "داككا",
+                "uk": "Дакка",
+                "ur": "ڈھاکہ"
+            },
+            "place_type": 67,
+            "population": 21741000,
+            "latitude": 23.7644025,
+            "longitude": 90.389015,
+            "geocell": 4095903,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3442474911,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1354",
+                "wikipedia_pages": {
+                    "en": "Dhaka"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3500071381,
+            "country": 50,
+            "level1area": [
+                "bda"
+            ],
+            "level2area": [
+                "bd51"
+            ],
+            "names": {
+                "bn": "দশমিনা",
+                "en": "Dashmina"
+            },
+            "place_type": 84,
+            "population": 25500,
+            "latitude": 22.2832457,
+            "longitude": 90.5622027,
+            "geocell": 4041905,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3500071381,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://dashminaup.patuakhali.gov.bd/",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3578098748,
+            "country": 50,
+            "level1area": [
+                "bdd"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "চুয়াডাঙ্গা",
+                "en": "Chuadanga",
+                "fr": "Chuadanga"
+            },
+            "place_type": 67,
+            "population": 128865,
+            "latitude": 23.6436608,
+            "longitude": 88.846448,
+            "geocell": 4092288,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3578098748,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "www.chuadanga.gov.bd",
+                "wikidata_page_name": "Q2061316",
+                "wikipedia_pages": {
+                    "bn": "চুয়াডাঙ্গা"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3963878555,
+            "country": 50,
+            "level1area": [
+                "bde"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "নওগাঁ",
+                "en": "Naogaon",
+                "fr": "Naogaon",
+                "ja": "ナオガウン"
+            },
+            "place_type": 67,
+            "population": 150549,
+            "latitude": 24.8073229,
+            "longitude": 88.9445447,
+            "geocell": 4135489,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3963878555,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4312927",
+                "wikipedia_pages": {
+                    "bn": "নওগাঁ"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4605194765,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "ঘাটাইল",
+                "en": "Ghatail"
+            },
+            "place_type": 84,
+            "population": 35245,
+            "latitude": 24.4781769,
+            "longitude": 89.9735137,
+            "geocell": 4121099,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4605194765,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4737748822,
+            "country": 50,
+            "level1area": [
+                "bdh"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ميمينسينغ",
+                "bn": "ময়মনসিংহ",
+                "de": "Maimansingh",
+                "en": "Mymensingh",
+                "es": "Mymensingh",
+                "eu": "Mymensingh",
+                "fa": "میمن‌سینگ",
+                "fr": "Mymensingh",
+                "hi": "मय़मनसिंह",
+                "kn": "ಮೈಮೆನ್ಸಿಂಗ್",
+                "ne": "मयमनसिंह",
+                "ur": "میمن سنگھ"
+            },
+            "place_type": 67,
+            "population": 389918,
+            "latitude": 24.7482129,
+            "longitude": 90.4099158,
+            "geocell": 4131904,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4737748822,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1006303",
+                "wikipedia_pages": {
+                    "bn": "ময়মনসিংহ"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5168404597,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "টাঙ্গাইল",
+                "en": "Tangail",
+                "fr": "Tangail"
+            },
+            "place_type": 67,
+            "population": 167412,
+            "latitude": 24.2507461,
+            "longitude": 89.9151479,
+            "geocell": 4113899,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5168404597,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2306321",
+                "wikipedia_pages": {
+                    "bn": "টাঙ্গাইল"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5513599593,
+            "country": 50,
+            "level1area": [
+                "bda"
+            ],
+            "level2area": [
+                "bd06"
+            ],
+            "names": {
+                "ar": "باريسال",
+                "bn": "বরিশাল",
+                "en": "Barishal",
+                "et": "Barisāl",
+                "fa": "باریسال",
+                "fr": "Barisal",
+                "hi": "बरिशाल",
+                "kn": "ಬರಿಶಾಲ",
+                "ne": "बारिसाल",
+                "ur": "باریسال"
+            },
+            "place_type": 67,
+            "population": 339308,
+            "latitude": 22.7047521,
+            "longitude": 90.370729,
+            "geocell": 4059903,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5513599593,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q747840",
+                "wikipedia_pages": {
+                    "bn": "বরিশাল"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6051472868,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "টঙ্গীবাড়ী",
+                "en": "Tongibari"
+            },
+            "place_type": 84,
+            "population": 176881,
+            "latitude": 23.5102866,
+            "longitude": 90.4659685,
+            "geocell": 4088704,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6051472868,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://tongibari.munshiganj.gov.bd/",
+                "wikidata_page_name": "Q4460478",
+                "wikipedia_pages": {
+                    "en": "Tongibari Upazila"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6137147539,
+            "country": 50,
+            "level1area": [
+                "bdd"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "Arpara"
+            },
+            "place_type": 86,
+            "population": 19055,
+            "latitude": 23.3611285,
+            "longitude": 89.388113,
+            "geocell": 4081493,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6137147539,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6139817577,
+            "country": 50,
+            "level1area": [
+                "bdd"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ديلوتي",
+                "bn": "দেলুটি",
+                "en": "Deluti",
+                "hi": "देलूती",
+                "ko": "드루피"
+            },
+            "place_type": 86,
+            "population": 23000,
+            "latitude": 22.6165926,
+            "longitude": 89.4154129,
+            "geocell": 4056294,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6139817577,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "website": "http://delutiup.khulna.gov.bd",
+                "wikidata_page_name": "Q22347041",
+                "wikipedia_pages": {
+                    "bn": "দেলুটি ইউনিয়ন"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6187278452,
+            "country": 50,
+            "level1area": [
+                "bdb"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "মনোহরগঞ্জ",
+                "en": "Monohorganj"
+            },
+            "place_type": 84,
+            "population": 244943,
+            "latitude": 23.1620811,
+            "longitude": 91.0572637,
+            "geocell": 4074310,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6187278452,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://monohargonj.comilla.gov.bd/",
+                "wikidata_page_name": "Q115633231",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7415299907,
+            "country": 50,
+            "level1area": [
+                "bdf"
+            ],
+            "level2area": [
+                "bd28"
+            ],
+            "names": {
+                "bn": "কুড়িগ্রাম",
+                "en": "Kurigram",
+                "fa": "کوریگرام",
+                "fr": "Kurigram",
+                "hi": "कुरीग्राम",
+                "uk": "Куріґрам"
+            },
+            "place_type": 67,
+            "population": 77252,
+            "latitude": 25.8130134,
+            "longitude": 89.6430518,
+            "geocell": 4171496,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7415299907,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4248310",
+                "wikipedia_pages": {
+                    "bn": "কুড়িগ্রাম"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8541366252,
+            "country": 50,
+            "level1area": [
+                "bdb"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "شيتاغونغ",
+                "be": "Чытагонг",
+                "bg": "Читагонг",
+                "bn": "চট্টগ্রাম",
+                "de": "Chittagong",
+                "el": "Τσιταγκόνγκ",
+                "en": "Chattogram",
+                "es": "Chittagong",
+                "et": "Chittagong",
+                "eu": "Chattogram",
+                "fa": "چیتاگونگ",
+                "fr": "Chittagong",
+                "he": "צ'יטגונג",
+                "hi": "चटगाँव",
+                "hr": "Chittagong",
+                "ja": "チッタゴン",
+                "kk": "Читтагонг",
+                "kn": "ಚಟ್ಟಗ್ರಾಮ",
+                "ko": "치타공",
+                "ky": "Читтагонг",
+                "ml": "ചിറ്റഗോങ്",
+                "ne": "चट्टोग्राम",
+                "ru": "Читтагонг",
+                "sr": "Читагонг",
+                "ta": "சிட்டகொங்",
+                "uk": "Читтагонг",
+                "ur": "چٹاگانگ"
+            },
+            "place_type": 67,
+            "population": 2592439,
+            "latitude": 22.333778,
+            "longitude": 91.8344348,
+            "geocell": 4045518,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8541366252,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "http://www.ccc.org.bd/",
+                "wikidata_page_name": "Q376749",
+                "wikipedia_pages": {
+                    "bn": "চট্টগ্রাম"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9018730922,
+            "country": 50,
+            "level1area": [
+                "bdd"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "Ashrafpur"
+            },
+            "place_type": 86,
+            "population": 15000,
+            "latitude": 23.708756,
+            "longitude": 88.6428732,
+            "geocell": 4095886,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9018730922,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "website": "https://sejutibd.blogspot.com/",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9103112304,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "তারাবো",
+                "en": "Tarabo"
+            },
+            "place_type": 84,
+            "population": 150709,
+            "latitude": 23.725525,
+            "longitude": 90.5154069,
+            "geocell": 4095905,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9103112304,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9137640327,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "শ্রীপুর",
+                "en": "Sreepur"
+            },
+            "place_type": 84,
+            "population": 126249,
+            "latitude": 24.1988756,
+            "longitude": 90.478198,
+            "geocell": 4110304,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9137640327,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9137760438,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "কালিয়াকৈর",
+                "en": "Kaliakair"
+            },
+            "place_type": 84,
+            "population": 163498,
+            "latitude": 24.0775779,
+            "longitude": 90.2097272,
+            "geocell": 4106702,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9137760438,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9147246317,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "বন্দর",
+                "en": "Bandar"
+            },
+            "place_type": 84,
+            "population": 166291,
+            "latitude": 23.6169828,
+            "longitude": 90.5127954,
+            "geocell": 4092305,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9147246317,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9149034026,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "ঘোড়াশাল",
+                "en": "Ghorashal"
+            },
+            "place_type": 84,
+            "population": 58319,
+            "latitude": 23.9395851,
+            "longitude": 90.6199765,
+            "geocell": 4103106,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9149034026,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9347946774,
+            "country": 50,
+            "level1area": [
+                "bdb"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "নারায়ণপুর",
+                "en": "Narayanpur"
+            },
+            "place_type": 84,
+            "population": 49068,
+            "latitude": 23.3713027,
+            "longitude": 90.771299,
+            "geocell": 4081507,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9347946774,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9838795678,
+            "country": 50,
+            "level1area": [
+                "bdc"
+            ],
+            "level2area": [
+                "bd13"
+            ],
+            "names": {
+                "bn": "শিলাকোঠা",
+                "en": "Shilakotha"
+            },
+            "place_type": 86,
+            "population": 10000,
+            "latitude": 23.6403759,
+            "longitude": 90.0602546,
+            "geocell": 4092300,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9838795678,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11364230427,
+            "country": 50,
+            "level1area": [
+                "bdb"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "মাদার্শা ইউনিয়ন"
+            },
+            "place_type": 86,
+            "population": 34268,
+            "latitude": 22.0722822,
+            "longitude": 92.0186938,
+            "geocell": 4034720,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11364230427,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13059267",
+                "wikipedia_pages": {
+                    "en": "Madarsha Union"
+                }
+            }
+        }
+    }
+]

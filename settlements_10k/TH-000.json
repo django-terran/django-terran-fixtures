@@ -1,0 +1,4406 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 31040694,
+            "country": 764,
+            "level1area": [
+                "th83"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Chalong",
+                "ru": "Чалонг",
+                "th": "ฉลอง"
+            },
+            "place_type": 84,
+            "population": 24733,
+            "latitude": 7.8465199,
+            "longitude": 98.3344152,
+            "geocell": 3523583,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 31040694,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q15629559",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 114123520,
+            "country": 764,
+            "level1area": [
+                "th16"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Lop Buri",
+                "fr": "Lopburi",
+                "ja": "ロッブリー",
+                "ru": "Лопбури",
+                "th": "ลพบุรี"
+            },
+            "place_type": 84,
+            "population": 26500,
+            "latitude": 14.8023289,
+            "longitude": 100.6146858,
+            "geocell": 3775606,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 114123520,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1363891",
+                "wikipedia_pages": {
+                    "en": "Lopburi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 114123525,
+            "country": 764,
+            "level1area": [
+                "th17"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sing Buri",
+                "fr": "Singburi",
+                "ja": "シンブリー",
+                "ru": "Сингбури",
+                "th": "สิงห์บุรี"
+            },
+            "place_type": 84,
+            "population": 14772,
+            "latitude": 14.8935284,
+            "longitude": 100.3984227,
+            "geocell": 3775603,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 114123525,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1210752",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 114123782,
+            "country": 764,
+            "level1area": [
+                "th60"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nong Bua",
+                "th": "หนองบัว"
+            },
+            "place_type": 84,
+            "population": 21072,
+            "latitude": 15.8660082,
+            "longitude": 100.58269,
+            "geocell": 3811605,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 114123782,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q476241",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 114123787,
+            "country": 764,
+            "level1area": [
+                "th60"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Nakhon Sawan",
+                "en": "Nakhon Sawan",
+                "es": "Nakhon Sawan",
+                "fr": "Nakhon Sawan",
+                "ja": "ナコン サワン",
+                "ru": "Накхонсаван",
+                "th": "นครสวรรค์",
+                "uk": "Накхонсаван"
+            },
+            "place_type": 67,
+            "population": 82305,
+            "latitude": 15.705783,
+            "longitude": 100.1330046,
+            "geocell": 3808001,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 114123787,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1012434",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 114123970,
+            "country": 764,
+            "level1area": [
+                "th53"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Uttaradit",
+                "fr": "Uttaradit",
+                "ja": "ウッタラディット",
+                "ru": "Уттарадит",
+                "th": "อุตรดิตถ์"
+            },
+            "place_type": 84,
+            "population": 36313,
+            "latitude": 17.6217255,
+            "longitude": 100.0981816,
+            "geocell": 3876400,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 114123970,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1359241",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 119012474,
+            "country": 764,
+            "level1area": [
+                "th26"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nakhon Nayok",
+                "fr": "Nakhon Nayok",
+                "ja": "ナコーンナーヨック",
+                "ru": "Накхоннайок",
+                "th": "นครนายก"
+            },
+            "place_type": 84,
+            "population": 17385,
+            "latitude": 14.203647,
+            "longitude": 101.2147087,
+            "geocell": 3754012,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 119012474,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q595853",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 119012479,
+            "country": 764,
+            "level1area": [
+                "th25"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Prachin Buri",
+                "fr": "Prachinburi",
+                "ja": "プラーチーンブリー",
+                "ru": "Прачинбури",
+                "th": "ปราจีนบุรี"
+            },
+            "place_type": 84,
+            "population": 19910,
+            "latitude": 14.0541467,
+            "longitude": 101.3724276,
+            "geocell": 3746813,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 119012479,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1365804",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 144100015,
+            "country": 764,
+            "level1area": [
+                "th50"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Chiang Dao",
+                "th": "เชียงดาว"
+            },
+            "place_type": 84,
+            "population": 15188,
+            "latitude": 19.3695656,
+            "longitude": 98.9657112,
+            "geocell": 3937589,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 144100015,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q475381",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 178056220,
+            "country": 764,
+            "level1area": [
+                "th50"
+            ],
+            "level2area": null,
+            "names": {
+                "cs": "Čiang Mai",
+                "de": "Chiang Mai",
+                "en": "Chiang Mai",
+                "et": "Si Chiang Mai",
+                "fr": "Chiang Mai",
+                "hi": "चिआंग माई",
+                "ja": "チェンマイ",
+                "kn": "ಚಿಅಂಗ್ ಮೈ",
+                "ko": "치앙마이",
+                "ru": "Чиангмай",
+                "sr": "Чијанг Мај",
+                "th": "เชียงใหม่",
+                "uk": "Чіанґмай",
+                "vi": "Chiêng Mài"
+            },
+            "place_type": 67,
+            "population": 127240,
+            "latitude": 18.7882778,
+            "longitude": 98.9858802,
+            "geocell": 3915989,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 178056220,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q52028",
+                "wikipedia_pages": {
+                    "th": "เทศบาลนครเชียงใหม่"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 206600521,
+            "country": 764,
+            "level1area": [
+                "th52"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Lampang",
+                "en": "Lampang",
+                "es": "Lampang",
+                "fr": "Lampang",
+                "ja": "ラムパーン",
+                "ru": "Лампанг",
+                "th": "ลำปาง",
+                "uk": "Лампанґ"
+            },
+            "place_type": 67,
+            "population": 52124,
+            "latitude": 18.2899489,
+            "longitude": 99.4958526,
+            "geocell": 3897994,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 206600521,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1012610",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 206609271,
+            "country": 764,
+            "level1area": [
+                "th52"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Thoen",
+                "th": "เถิน"
+            },
+            "place_type": 84,
+            "population": 16335,
+            "latitude": 17.6052497,
+            "longitude": 99.2094712,
+            "geocell": 3876392,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 206609271,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13025263",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249060591,
+            "country": 764,
+            "level1area": [
+                "th64"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sukhothai",
+                "fr": "Sukhothai",
+                "ja": "スコータイ",
+                "ru": "Сукхотхай",
+                "th": "สุโขทัย"
+            },
+            "place_type": 84,
+            "population": 17823,
+            "latitude": 17.010918,
+            "longitude": 99.8203682,
+            "geocell": 3854798,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249060591,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5368613",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249060596,
+            "country": 764,
+            "level1area": [
+                "th63"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tak",
+                "fr": "Tak",
+                "ja": "ターク県",
+                "th": "ตาก"
+            },
+            "place_type": 84,
+            "population": 19900,
+            "latitude": 16.8722576,
+            "longitude": 99.1248355,
+            "geocell": 3847591,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249060596,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q118901",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249246784,
+            "country": 764,
+            "level1area": [
+                "th57"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Chiang Rai",
+                "en": "Chiang Rai",
+                "es": "Chiang Rai",
+                "fr": "Chiang Rai",
+                "hi": "चिआंग राय",
+                "it": "Chiang Rai",
+                "ja": "チエンラーイ",
+                "ru": "Чианграй",
+                "th": "เชียงราย",
+                "uk": "Чіанграй",
+                "vi": "Chiêng Hai"
+            },
+            "place_type": 67,
+            "population": 77672,
+            "latitude": 19.9068867,
+            "longitude": 99.8332739,
+            "geocell": 3959198,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249246784,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q856772",
+                "wikipedia_pages": {
+                    "en": "Chiang Rai"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249644470,
+            "country": 764,
+            "level1area": [
+                "th77"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Hua Hin",
+                "en": "Hua Hin",
+                "ru": "Хуахин",
+                "th": "หัวหิน"
+            },
+            "place_type": 84,
+            "population": 50169,
+            "latitude": 12.5699326,
+            "longitude": 99.9573437,
+            "geocell": 3692799,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249644470,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q667576",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 252057835,
+            "country": 764,
+            "level1area": [
+                "th83"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "ফুকেট",
+                "de": "Phuket",
+                "en": "Phuket",
+                "fr": "Phuket",
+                "he": "פוקט",
+                "hi": "फूकेत",
+                "ja": "プーケット",
+                "ko": "푸껫시",
+                "ru": "Пхукет",
+                "th": "ภูเก็ต",
+                "vi": "Phu Kẹt"
+            },
+            "place_type": 67,
+            "population": 79308,
+            "latitude": 7.8847901,
+            "longitude": 98.3891503,
+            "geocell": 3523583,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 252057835,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.phuketcity.go.th/",
+                "wikidata_page_name": "Q844430",
+                "wikipedia_pages": {
+                    "th": "เทศบาลนครภูเก็ต"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 252195890,
+            "country": 764,
+            "level1area": [
+                "th64"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sawankhalok",
+                "th": "สวรรคโลก"
+            },
+            "place_type": 84,
+            "population": 17823,
+            "latitude": 17.3156621,
+            "longitude": 99.8320369,
+            "geocell": 3865598,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 252195890,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1013447",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 254072822,
+            "country": 764,
+            "level1area": [
+                "th90"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Padang Besar",
+                "ms": "Padang Besar",
+                "th": "ปาดังเบซาร์"
+            },
+            "place_type": 84,
+            "population": 13748,
+            "latitude": 6.666866,
+            "longitude": 100.319418,
+            "geocell": 3480403,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 254072822,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2624333",
+                "wikipedia_pages": {
+                    "en": "Padang Besar, Thailand"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 257903167,
+            "country": 764,
+            "level1area": [
+                "th41"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Udon Thani",
+                "et": "Udon Thani",
+                "fr": "Udon Thani",
+                "ja": "ウドーンターニー",
+                "ru": "Удонтхани",
+                "th": "อุดรธานี"
+            },
+            "place_type": 67,
+            "population": 130531,
+            "latitude": 17.4082448,
+            "longitude": 102.7868105,
+            "geocell": 3869227,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 257903167,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q816331",
+                "wikipedia_pages": {
+                    "pl": "Udon Thani (miasto)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 257903226,
+            "country": 764,
+            "level1area": [
+                "th43"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nong Khai",
+                "fr": "Nong Khai",
+                "ja": "ノーンカーイ",
+                "ru": "Нонгкхай",
+                "th": "หนองคาย",
+                "uk": "Нонг Хай"
+            },
+            "place_type": 84,
+            "population": 35000,
+            "latitude": 17.8825057,
+            "longitude": 102.7482277,
+            "geocell": 3883627,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 257903226,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q327737",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 257904596,
+            "country": 764,
+            "level1area": [
+                "th31"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Buri Ram",
+                "fr": "Buriram",
+                "ja": "ブリーラム",
+                "ru": "Бурирам",
+                "th": "บุรีรัมย์",
+                "uk": "Бурі Рам"
+            },
+            "place_type": 84,
+            "population": 28333,
+            "latitude": 14.9955693,
+            "longitude": 103.1079187,
+            "geocell": 3779231,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 257904596,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q327510",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 257904863,
+            "country": 764,
+            "level1area": [
+                "th32"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Surin",
+                "fr": "Surin",
+                "ja": "スリン",
+                "ru": "Сурин",
+                "th": "สุรินทร์",
+                "uk": "Сурін"
+            },
+            "place_type": 84,
+            "population": 40104,
+            "latitude": 14.8841804,
+            "longitude": 103.4906232,
+            "geocell": 3775634,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 257904863,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q380757",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 257905019,
+            "country": 764,
+            "level1area": [
+                "th33"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kantharalak",
+                "th": "กันทรลักษ์"
+            },
+            "place_type": 84,
+            "population": 19729,
+            "latitude": 14.6449974,
+            "longitude": 104.6479952,
+            "geocell": 3768446,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 257905019,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q475588",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 257905362,
+            "country": 764,
+            "level1area": [
+                "th34"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ubon Ratchathani",
+                "et": "Ubon Ratchathani",
+                "fr": "Ubon Ratchathani",
+                "ja": "ウボンラーチャターニー",
+                "ru": "Убонратчатхани",
+                "th": "อุบลราชธานี",
+                "uk": "Убонратчатхані"
+            },
+            "place_type": 67,
+            "population": 74977,
+            "latitude": 15.2274235,
+            "longitude": 104.8589462,
+            "geocell": 3790048,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 257905362,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q132179",
+                "wikipedia_pages": {
+                    "en": "Ubon Ratchathani"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 257905685,
+            "country": 764,
+            "level1area": [
+                "th48"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nakhon Phanom",
+                "fr": "Nakhon Phanom",
+                "ja": "ナコーンパノム",
+                "ru": "Накхон Пханом",
+                "th": "นครพนม",
+                "uk": "Накхон Пханом"
+            },
+            "place_type": 84,
+            "population": 27591,
+            "latitude": 17.4032326,
+            "longitude": 104.7853098,
+            "geocell": 3869247,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 257905685,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q468547",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 257905923,
+            "country": 764,
+            "level1area": [
+                "th47"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sakon Nakhon",
+                "fr": "Sakon Nakhon",
+                "ja": "サコンナコーン",
+                "ru": "Сакон Накхон",
+                "th": "สกลนคร",
+                "uk": "Сакон Накхон"
+            },
+            "place_type": 67,
+            "population": 53100,
+            "latitude": 17.1651224,
+            "longitude": 104.1500731,
+            "geocell": 3858441,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 257905923,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1012639",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 257906398,
+            "country": 764,
+            "level1area": [
+                "th46"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kalasin",
+                "fr": "Kalasin",
+                "ja": "カーラシン",
+                "th": "กาฬสินธุ์"
+            },
+            "place_type": 84,
+            "population": 37653,
+            "latitude": 16.434034,
+            "longitude": 103.5059403,
+            "geocell": 3833235,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 257906398,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q382144",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 278056967,
+            "country": 764,
+            "level1area": [
+                "th20"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Pattaya",
+                "en": "Pattaya",
+                "et": "Pattaya",
+                "fa": "پاتایا",
+                "fr": "Pattaya",
+                "hi": "पटाया",
+                "ja": "パッタヤー",
+                "kn": "ಪಟ್ಟಾಯ",
+                "ml": "പട്ടയ",
+                "ne": "पटाया",
+                "ru": "Паттайя",
+                "sr": "Патаја",
+                "th": "พัทยา"
+            },
+            "place_type": 67,
+            "population": 119532,
+            "latitude": 12.9366924,
+            "longitude": 100.8865002,
+            "geocell": 3707208,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 278056967,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q170919",
+                "wikipedia_pages": {
+                    "en": "Pattaya"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 278056967,
+            "country": 764,
+            "level1area": [
+                "ths"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Pattaya",
+                "en": "Pattaya",
+                "et": "Pattaya",
+                "fa": "پاتایا",
+                "fr": "Pattaya",
+                "hi": "पटाया",
+                "ja": "パッタヤー",
+                "kn": "ಪಟ್ಟಾಯ",
+                "ml": "പട്ടയ",
+                "ne": "पटाया",
+                "ru": "Паттайя",
+                "sr": "Патаја",
+                "th": "พัทยา"
+            },
+            "place_type": 67,
+            "population": 119532,
+            "latitude": 12.9366924,
+            "longitude": 100.8865002,
+            "geocell": 3707208,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 278056967,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q170919",
+                "wikipedia_pages": {
+                    "en": "Pattaya"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 290439298,
+            "country": 764,
+            "level1area": [
+                "th30"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sikhio",
+                "th": "สีคิ้ว"
+            },
+            "place_type": 84,
+            "population": 17750,
+            "latitude": 14.892691,
+            "longitude": 101.7241481,
+            "geocell": 3775617,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 290439298,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13025400",
+                "wikipedia_pages": {
+                    "en": "Amphoe Sikhio"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 297328621,
+            "country": 764,
+            "level1area": [
+                "th90"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Hat Yai",
+                "en": "Hat Yai",
+                "et": "Hat Yai",
+                "ja": "ハートヤイ",
+                "ru": "Хатъяй",
+                "th": "หาดใหญ่",
+                "uk": "Хатяй"
+            },
+            "place_type": 67,
+            "population": 156802,
+            "latitude": 7.0074644,
+            "longitude": 100.4689889,
+            "geocell": 3494804,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 297328621,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q651286",
+                "wikipedia_pages": {
+                    "en": "Hat Yai"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 297337782,
+            "country": 764,
+            "level1area": [
+                "th90"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Songkhla",
+                "fr": "Songkhla",
+                "ja": "ソンクラー",
+                "ru": "Сонгкхла",
+                "th": "สงขลา",
+                "uk": "Сонгкхла"
+            },
+            "place_type": 67,
+            "population": 61758,
+            "latitude": 7.1973429,
+            "longitude": 100.593205,
+            "geocell": 3498405,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 297337782,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q795595",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 297591741,
+            "country": 764,
+            "level1area": [
+                "th23"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Trat",
+                "fr": "Trat",
+                "ja": "トラート",
+                "ru": "Трат",
+                "th": "ตราด"
+            },
+            "place_type": 84,
+            "population": 11454,
+            "latitude": 12.2440564,
+            "longitude": 102.5122822,
+            "geocell": 3682025,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 297591741,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1025964",
+                "wikipedia_pages": {
+                    "en": "Trat"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 301181330,
+            "country": 764,
+            "level1area": [
+                "th85"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Ranong",
+                "en": "Ranong",
+                "fr": "Ranong",
+                "ja": "ラノーン",
+                "th": "ระนอง"
+            },
+            "place_type": 84,
+            "population": 16163,
+            "latitude": 9.964128,
+            "longitude": 98.6340038,
+            "geocell": 3599186,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 301181330,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1012440",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 301213036,
+            "country": 764,
+            "level1area": [
+                "th63"
+            ],
+            "level2area": null,
+            "names": {
+                "ca": "Mae Sot",
+                "de": "Mae Sot",
+                "en": "Mae Sot",
+                "es": "Mae Sot",
+                "et": "Mae Sot",
+                "fr": "Mae Sot",
+                "ja": "メーソート",
+                "ko": "매솟",
+                "ru": "Мае Сот",
+                "th": "แม่สอด"
+            },
+            "place_type": 67,
+            "population": 41424,
+            "latitude": 16.714992,
+            "longitude": 98.5695528,
+            "geocell": 3843985,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 301213036,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q475964",
+                "wikipedia_pages": {
+                    "th": "แม่สอด"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 301330673,
+            "country": 764,
+            "level1area": [
+                "th71"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Thong Pha Phum",
+                "th": "ทองผาภูมิ"
+            },
+            "place_type": 84,
+            "population": 67018,
+            "latitude": 14.7430355,
+            "longitude": 98.6319339,
+            "geocell": 3771986,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 301330673,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q476925",
+                "wikipedia_pages": {
+                    "en": "Thong Pha Phum District"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 301331954,
+            "country": 764,
+            "level1area": [
+                "th71"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kanchanaburi",
+                "fr": "Kanchanaburi",
+                "ja": "カーンチャナブリー",
+                "ru": "Канчанабури",
+                "th": "กาญจนบุรี"
+            },
+            "place_type": 84,
+            "population": 31327,
+            "latitude": 14.0227073,
+            "longitude": 99.5323173,
+            "geocell": 3746795,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 301331954,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q239121",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 302295621,
+            "country": 764,
+            "level1area": [
+                "th91"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Satun",
+                "fr": "Satun",
+                "th": "สตูล"
+            },
+            "place_type": 84,
+            "population": 21498,
+            "latitude": 6.6151578,
+            "longitude": 100.0664441,
+            "geocell": 3480400,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 302295621,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1365666",
+                "wikipedia_pages": {
+                    "en": "Satun"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 302845879,
+            "country": 764,
+            "level1area": [
+                "th76"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Phetchaburi",
+                "fr": "Phetchaburi",
+                "ja": "ペッチャブリー",
+                "ru": "Пхетбури",
+                "th": "เพชรบุรี"
+            },
+            "place_type": 84,
+            "population": 31354,
+            "latitude": 13.1052914,
+            "longitude": 99.9475297,
+            "geocell": 3714399,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 302845879,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q641383",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 303801813,
+            "country": 764,
+            "level1area": [
+                "th13"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Pathum Thani",
+                "fr": "Pathum Thani",
+                "ja": "パトゥムターニー",
+                "ru": "Патхумтхани",
+                "th": "ปทุมธานี"
+            },
+            "place_type": 84,
+            "population": 18320,
+            "latitude": 14.0203964,
+            "longitude": 100.5340426,
+            "geocell": 3746805,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 303801813,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1365723",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 304199925,
+            "country": 764,
+            "level1area": [
+                "th11"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Samut Prakan",
+                "en": "Samut Prakan",
+                "fr": "Samut Prakan",
+                "th": "สมุทรปราการ"
+            },
+            "place_type": 67,
+            "population": 50843,
+            "latitude": 13.5949486,
+            "longitude": 100.5966707,
+            "geocell": 3728805,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 304199925,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 306247723,
+            "country": 764,
+            "level1area": [
+                "th51"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Lamphun",
+                "fr": "Lamphun",
+                "ja": "ラムプーン",
+                "th": "ลำพูน",
+                "uk": "Лампхун"
+            },
+            "place_type": 84,
+            "population": 14000,
+            "latitude": 18.5776383,
+            "longitude": 99.0069034,
+            "geocell": 3908790,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 306247723,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1211214",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 356814884,
+            "country": 764,
+            "level1area": [
+                "th12"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Pak Kret",
+                "et": "Pak Kret",
+                "fr": "Pak Kret",
+                "ja": "パックレット",
+                "ru": "Пак-Крет",
+                "th": "ปากเกร็ด"
+            },
+            "place_type": 67,
+            "population": 190272,
+            "latitude": 13.9120701,
+            "longitude": 100.4974327,
+            "geocell": 3743204,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 356814884,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q476330",
+                "wikipedia_pages": {
+                    "en": "Pak Kret District"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 359862014,
+            "country": 764,
+            "level1area": [
+                "th12"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nonthaburi",
+                "et": "Nonthaburi",
+                "eu": "Nonthaburi",
+                "fr": "Nonthaburi",
+                "ja": "ノンタブリー",
+                "ru": "Нонтабури",
+                "th": "นนทบุรี"
+            },
+            "place_type": 67,
+            "population": 254375,
+            "latitude": 13.8428962,
+            "longitude": 100.4937886,
+            "geocell": 3739604,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 359862014,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q768864",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 360352320,
+            "country": 764,
+            "level1area": [
+                "th73"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nakhon Pathom",
+                "fr": "Nakhon Pathom",
+                "ja": "ナコーンパトム",
+                "ru": "Накхонпатхом",
+                "th": "นครปฐม"
+            },
+            "place_type": 67,
+            "population": 74446,
+            "latitude": 13.8190071,
+            "longitude": 100.0639917,
+            "geocell": 3739600,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 360352320,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q520338",
+                "wikipedia_pages": {
+                    "en": "Nakhon Pathom"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 366477502,
+            "country": 764,
+            "level1area": [
+                "th20"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Chon Buri",
+                "fr": "Chonburi",
+                "ja": "チョンブリー県",
+                "ru": "Чонбури",
+                "th": "ชลบุรี"
+            },
+            "place_type": 84,
+            "population": 70364,
+            "latitude": 13.3662087,
+            "longitude": 100.9872185,
+            "geocell": 3721609,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 366477502,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 366876767,
+            "country": 764,
+            "level1area": [
+                "th19"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Saraburi",
+                "fr": "Saraburi",
+                "ja": "サラブリー",
+                "ru": "Сарабури",
+                "th": "สระบุรี"
+            },
+            "place_type": 84,
+            "population": 61900,
+            "latitude": 14.5249471,
+            "longitude": 100.9160757,
+            "geocell": 3764809,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 366876767,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q337627",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 367367305,
+            "country": 764,
+            "level1area": [
+                "th56"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Phayao",
+                "fr": "Phayao",
+                "ja": "パヤオ",
+                "ru": "Пхаяу",
+                "th": "พะเยา",
+                "uk": "Пхаяу"
+            },
+            "place_type": 84,
+            "population": 19118,
+            "latitude": 19.1666313,
+            "longitude": 99.9019423,
+            "geocell": 3930399,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 367367305,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1207122",
+                "wikipedia_pages": {
+                    "en": "Phayao"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369493329,
+            "country": 764,
+            "level1area": [
+                "th40"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Khon Kaen",
+                "et": "Khon Kaen",
+                "fr": "Khon Kaen",
+                "ja": "コーンケン",
+                "ru": "Кхонкэн",
+                "th": "ขอนแก่น",
+                "uk": "Кхонкен"
+            },
+            "place_type": 67,
+            "population": 114459,
+            "latitude": 16.4303916,
+            "longitude": 102.8355904,
+            "geocell": 3833228,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369493329,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q876526",
+                "wikipedia_pages": {
+                    "en": "Khon Kaen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369496413,
+            "country": 764,
+            "level1area": [
+                "th22"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Khlung",
+                "ru": "Кхлунг",
+                "th": "ขลุง",
+                "uk": "Кхлунґ"
+            },
+            "place_type": 84,
+            "population": 11328,
+            "latitude": 12.4543683,
+            "longitude": 102.2238394,
+            "geocell": 3689222,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369496413,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q475713",
+                "wikipedia_pages": {
+                    "en": "Amphoe Khlung"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 372810213,
+            "country": 764,
+            "level1area": [
+                "th74"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Samut Sakhon",
+                "fr": "Samut Sakhon",
+                "ja": "サムットサーコーン",
+                "ru": "Самутсакхон",
+                "th": "สมุทรสาคร"
+            },
+            "place_type": 67,
+            "population": 67515,
+            "latitude": 13.5497782,
+            "longitude": 100.2742813,
+            "geocell": 3728802,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 372810213,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1359220",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 372811021,
+            "country": 764,
+            "level1area": [
+                "th21"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Rayong",
+                "fr": "Rayong",
+                "ja": "ラヨーン",
+                "ru": "Районг",
+                "th": "ระยอง",
+                "uk": "Районг"
+            },
+            "place_type": 67,
+            "population": 63565,
+            "latitude": 12.6817905,
+            "longitude": 101.277765,
+            "geocell": 3696412,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 372811021,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1015123",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 372812084,
+            "country": 764,
+            "level1area": [
+                "th95"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Yala",
+                "fr": "Yala",
+                "ja": "ヤラー",
+                "ru": "Яла",
+                "th": "ยะลา",
+                "uk": "Яла"
+            },
+            "place_type": 67,
+            "population": 60617,
+            "latitude": 6.5567245,
+            "longitude": 101.2902517,
+            "geocell": 3476812,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 372812084,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1207083",
+                "wikipedia_pages": {
+                    "en": "Yala, Thailand"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 372812229,
+            "country": 764,
+            "level1area": [
+                "th92"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Trang",
+                "en": "Trang",
+                "fr": "Trang",
+                "ja": "トラン",
+                "ru": "Транг",
+                "th": "ตรัง",
+                "uk": "Транґ"
+            },
+            "place_type": 67,
+            "population": 59304,
+            "latitude": 7.5557778,
+            "longitude": 99.6076502,
+            "geocell": 3512796,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 372812229,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1014322",
+                "wikipedia_pages": {
+                    "en": "Trang, Thailand"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 372813341,
+            "country": 764,
+            "level1area": [
+                "th80"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nakhon Si Thammarat",
+                "et": "Nakhon Si Thammarat",
+                "fr": "Nakhon Si Thammarat",
+                "ja": "ナコーンシータンマラート",
+                "ru": "Накхонситхаммарат",
+                "th": "นครศรีธรรมราช",
+                "uk": "Накхонсітхаммарат"
+            },
+            "place_type": 67,
+            "population": 102152,
+            "latitude": 8.4327951,
+            "longitude": 99.9627967,
+            "geocell": 3545199,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 372813341,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1012424",
+                "wikipedia_pages": {
+                    "en": "Nakhon Si Thammarat"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 372813885,
+            "country": 764,
+            "level1area": [
+                "th84"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Surat Thani",
+                "en": "Surat Thani",
+                "et": "Surat Thani",
+                "fr": "Surat Thani",
+                "ja": "スラートターニー",
+                "ru": "Сураттхани",
+                "th": "สุราษฎร์ธานี"
+            },
+            "place_type": 67,
+            "population": 132040,
+            "latitude": 9.1404136,
+            "longitude": 99.3241347,
+            "geocell": 3570393,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 372813885,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q840951",
+                "wikipedia_pages": {
+                    "en": "Surat Thani"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 373164985,
+            "country": 764,
+            "level1area": [
+                "th14"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Phra Nakhon Si Ayutthaya",
+                "en": "Phra Nakhon Si Ayutthaya",
+                "es": "Phra Nakhon Si Ayutthaya",
+                "fr": "Phra Nakhon Si Ayutthaya",
+                "ja": "アユタヤ",
+                "ru": "Аюттхая",
+                "th": "พระนครศรีอยุธยา"
+            },
+            "place_type": 67,
+            "population": 50830,
+            "latitude": 14.3535427,
+            "longitude": 100.5645684,
+            "geocell": 3757605,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 373164985,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q203370",
+                "wikipedia_pages": {
+                    "en": "Phra Nakhon Si Ayutthaya (city)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 407997799,
+            "country": 764,
+            "level1area": [
+                "th67"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Phetchabun",
+                "fr": "Phetchabun",
+                "ja": "ペッチャブーン",
+                "th": "เพชรบูรณ์",
+                "uk": "Пхетчабун"
+            },
+            "place_type": 84,
+            "population": 23823,
+            "latitude": 16.418027,
+            "longitude": 101.1556825,
+            "geocell": 3833211,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 407997799,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q240520",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 408089150,
+            "country": 764,
+            "level1area": [
+                "th42"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Loei",
+                "fr": "Loei",
+                "ja": "ルーイ",
+                "th": "เลย"
+            },
+            "place_type": 84,
+            "population": 22677,
+            "latitude": 17.490375,
+            "longitude": 101.7286456,
+            "geocell": 3869217,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 408089150,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q598784",
+                "wikipedia_pages": {
+                    "en": "Loei"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 409647053,
+            "country": 764,
+            "level1area": [
+                "th37"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Amnat Charoen",
+                "fr": "Amnat Charoen",
+                "ja": "アムナートチャルーン",
+                "ru": "Амнатчарен",
+                "th": "อำนาจเจริญ"
+            },
+            "place_type": 84,
+            "population": 26434,
+            "latitude": 15.8640232,
+            "longitude": 104.6278059,
+            "geocell": 3811646,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 409647053,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q473674",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 409666323,
+            "country": 764,
+            "level1area": [
+                "th44"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Maha Sarakham",
+                "fr": "Maha Sarakham",
+                "ja": "マハーサーラカーム",
+                "ru": "Махасаракхам",
+                "th": "มหาสารคาม"
+            },
+            "place_type": 84,
+            "population": 46523,
+            "latitude": 16.1880948,
+            "longitude": 103.2987346,
+            "geocell": 3822432,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 409666323,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q468554",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 409675713,
+            "country": 764,
+            "level1area": [
+                "th49"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mukdahan",
+                "fr": "Mukdahan",
+                "ja": "ムックダーハーン",
+                "th": "มุกดาหาร"
+            },
+            "place_type": 84,
+            "population": 35654,
+            "latitude": 16.5414065,
+            "longitude": 104.7290699,
+            "geocell": 3836847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 409675713,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1017743",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 409682242,
+            "country": 764,
+            "level1area": [
+                "th45"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Roi Et",
+                "en": "Roi Et",
+                "fr": "Roi Et",
+                "ja": "ローイエット",
+                "ru": "Ройет",
+                "th": "ร้อยเอ็ด"
+            },
+            "place_type": 84,
+            "population": 34229,
+            "latitude": 16.0568089,
+            "longitude": 103.6514286,
+            "geocell": 3818836,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 409682242,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "45000"
+                ],
+                "wikidata_page_name": "Q1017738",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 409686741,
+            "country": 764,
+            "level1area": [
+                "th33"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Si Sa Ket",
+                "fr": "Si Sa Ket",
+                "ja": "シーサケート",
+                "th": "ศรีสะเกษ"
+            },
+            "place_type": 84,
+            "population": 42193,
+            "latitude": 15.1144087,
+            "longitude": 104.328868,
+            "geocell": 3786443,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 409686741,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.musisaket.go.th/",
+                "wikidata_page_name": "Q1207432",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 409691951,
+            "country": 764,
+            "level1area": [
+                "th35"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Yasothon",
+                "fr": "Yasothon",
+                "ja": "ヤソートーン",
+                "th": "ยโสธร",
+                "uk": "Ясотхон"
+            },
+            "place_type": 84,
+            "population": 21134,
+            "latitude": 15.7926751,
+            "longitude": 104.1452903,
+            "geocell": 3808041,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 409691951,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1017730",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 409694129,
+            "country": 764,
+            "level1area": [
+                "th36"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Chaiyaphum",
+                "fr": "Chaiyaphum",
+                "ja": "チャイヤプーム",
+                "th": "ชัยภูมิ"
+            },
+            "place_type": 84,
+            "population": 42436,
+            "latitude": 15.8068082,
+            "longitude": 102.0315003,
+            "geocell": 3811620,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 409694129,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q997062",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 409704578,
+            "country": 764,
+            "level1area": [
+                "th62"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kamphaeng Phet",
+                "fr": "Kamphaeng Phet",
+                "ja": "カムペーンペット",
+                "ru": "Кампхэнгпхет",
+                "th": "กำแพงเพชร"
+            },
+            "place_type": 84,
+            "population": 30114,
+            "latitude": 16.4748045,
+            "longitude": 99.5280072,
+            "geocell": 3833195,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 409704578,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2960445",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 409975309,
+            "country": 764,
+            "level1area": [
+                "th66"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Phichit",
+                "fr": "Phichit",
+                "ja": "ピチット",
+                "th": "พิจิตร",
+                "uk": "Пхічіт"
+            },
+            "place_type": 84,
+            "population": 23791,
+            "latitude": 16.4428085,
+            "longitude": 100.3438228,
+            "geocell": 3833203,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 409975309,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q237874",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 409978675,
+            "country": 764,
+            "level1area": [
+                "th54"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Phrae",
+                "fr": "Phrae",
+                "ja": "プレー",
+                "ru": "Пхрэ",
+                "th": "แพร่",
+                "uk": "Пхре"
+            },
+            "place_type": 84,
+            "population": 17971,
+            "latitude": 18.14177,
+            "longitude": 100.1425639,
+            "geocell": 3894401,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 409978675,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1207145",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 409983708,
+            "country": 764,
+            "level1area": [
+                "th61"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Uthai Thani",
+                "fr": "Uthai Thani",
+                "ja": "ウタイターニー",
+                "ru": "Утхайтхани",
+                "th": "อุทัยธานี"
+            },
+            "place_type": 84,
+            "population": 16787,
+            "latitude": 15.3824774,
+            "longitude": 100.0277754,
+            "geocell": 3793600,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 409983708,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1332721",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 457321994,
+            "country": 764,
+            "level1area": [
+                "th72"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Suphan Buri",
+                "fr": "Suphanburi",
+                "ja": "スパンブリー",
+                "th": "สุพรรณบุรี"
+            },
+            "place_type": 84,
+            "population": 26656,
+            "latitude": 14.4699051,
+            "longitude": 100.1164984,
+            "geocell": 3761201,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 457321994,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 484263504,
+            "country": 764,
+            "level1area": [
+                "th90"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sadao",
+                "fr": "Sadao",
+                "th": "สะเดา"
+            },
+            "place_type": 84,
+            "population": 18940,
+            "latitude": 6.6364252,
+            "longitude": 100.4213368,
+            "geocell": 3480404,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 484263504,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13025392",
+                "wikipedia_pages": {
+                    "en": "Sadao (town)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 484263916,
+            "country": 764,
+            "level1area": [
+                "th93"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Phatthalung",
+                "fr": "Phatthalung",
+                "ko": "파탈룽",
+                "ru": "Пхаттхалунг",
+                "th": "พัทลุง",
+                "uk": "Пхаттхалунґ"
+            },
+            "place_type": 84,
+            "population": 35039,
+            "latitude": 7.617689,
+            "longitude": 100.0809426,
+            "geocell": 3516400,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 484263916,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q179539",
+                "wikipedia_pages": {
+                    "en": "Phatthalung"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 484267714,
+            "country": 764,
+            "level1area": [
+                "th86"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Chumphon",
+                "en": "Chumphon",
+                "fr": "Chumphon",
+                "ja": "チュムポーン",
+                "ru": "Чумпхон",
+                "th": "ชุมพร"
+            },
+            "place_type": 84,
+            "population": 33522,
+            "latitude": 10.4961355,
+            "longitude": 99.1778731,
+            "geocell": 3617191,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 484267714,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q637500",
+                "wikipedia_pages": {
+                    "en": "Chumphon"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 485553598,
+            "country": 764,
+            "level1area": [
+                "th81"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Krabi",
+                "en": "Krabi",
+                "fr": "Krabi",
+                "ko": "끄라비",
+                "ru": "Краби",
+                "th": "กระบี่",
+                "uk": "Крабі"
+            },
+            "place_type": 84,
+            "population": 50000,
+            "latitude": 8.0634637,
+            "longitude": 98.9162345,
+            "geocell": 3530789,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 485553598,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1000353",
+                "wikipedia_pages": {
+                    "en": "Krabi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 485662295,
+            "country": 764,
+            "level1area": [
+                "th11"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Phra Pradaeng",
+                "th": "พระประแดง"
+            },
+            "place_type": 84,
+            "population": 197122,
+            "latitude": 13.6591779,
+            "longitude": 100.5338323,
+            "geocell": 3732405,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 485662295,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q476440",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 493883760,
+            "country": 764,
+            "level1area": [
+                "th43"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tha Bo",
+                "th": "ท่าบ่อ"
+            },
+            "place_type": 84,
+            "population": 19560,
+            "latitude": 17.8474846,
+            "longitude": 102.5813523,
+            "geocell": 3883625,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 493883760,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13025359",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 493900173,
+            "country": 764,
+            "level1area": [
+                "th40"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Chum Phae",
+                "th": "ชุมแพ"
+            },
+            "place_type": 84,
+            "population": 32081,
+            "latitude": 16.5400365,
+            "longitude": 102.102223,
+            "geocell": 3836821,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 493900173,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13025353",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 585128821,
+            "country": 764,
+            "level1area": [
+                "th75"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Samut Songkhram",
+                "fr": "Samut Songkhram",
+                "ja": "サムットソンクラーム",
+                "ru": "Самутсонгкхрам",
+                "th": "สมุทรสงคราม"
+            },
+            "place_type": 84,
+            "population": 29674,
+            "latitude": 13.4086617,
+            "longitude": 100.000494,
+            "geocell": 3725200,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 585128821,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1361155",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 585166147,
+            "country": 764,
+            "level1area": [
+                "th86"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Lang Suan",
+                "en": "Lang Suan",
+                "th": "หลังสวน"
+            },
+            "place_type": 84,
+            "population": 11822,
+            "latitude": 9.9524508,
+            "longitude": 99.0748923,
+            "geocell": 3599190,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 585166147,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6485624",
+                "wikipedia_pages": {
+                    "en": "Lang Suan (town)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 717496104,
+            "country": 764,
+            "level1area": [
+                "th41"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nam Som",
+                "th": "น้ำโสม"
+            },
+            "place_type": 84,
+            "population": 59379,
+            "latitude": 17.7704584,
+            "longitude": 102.188763,
+            "geocell": 3880021,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 717496104,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q476194",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 798823333,
+            "country": 764,
+            "level1area": [
+                "th50"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Omkoi",
+                "th": "อมก๋อย"
+            },
+            "place_type": 84,
+            "population": 62317,
+            "latitude": 17.7992981,
+            "longitude": 98.357351,
+            "geocell": 3879983,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 798823333,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q476297",
+                "wikipedia_pages": {
+                    "en": "Omkoi District"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 912901435,
+            "country": 764,
+            "level1area": [
+                "th64"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Thung Saliam",
+                "th": "ทุ่งเสลี่ยม"
+            },
+            "place_type": 84,
+            "population": 14303,
+            "latitude": 17.3173594,
+            "longitude": 99.5530996,
+            "geocell": 3865595,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 912901435,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 924671402,
+            "country": 764,
+            "level1area": [
+                "th55"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nan",
+                "fr": "Nan",
+                "ja": "ナーン",
+                "th": "น่าน"
+            },
+            "place_type": 84,
+            "population": 25000,
+            "latitude": 18.7778874,
+            "longitude": 100.773732,
+            "geocell": 3916007,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 924671402,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1014345",
+                "wikipedia_pages": {
+                    "th": "เทศบาลเมืองน่าน"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 942030709,
+            "country": 764,
+            "level1area": [
+                "th18"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Chai Nat",
+                "fr": "Chainat",
+                "ja": "チャイナート",
+                "th": "ชัยนาท"
+            },
+            "place_type": 84,
+            "population": 14469,
+            "latitude": 15.1853305,
+            "longitude": 100.1250568,
+            "geocell": 3786401,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 942030709,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1059129",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 944871924,
+            "country": 764,
+            "level1area": [
+                "th15"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ang Thong",
+                "fr": "Ang Thong",
+                "ja": "アーントーン",
+                "ru": "Ангтхонг",
+                "th": "อ่างทอง"
+            },
+            "place_type": 84,
+            "population": 14105,
+            "latitude": 14.5924644,
+            "longitude": 100.4513754,
+            "geocell": 3764804,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 944871924,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q530241",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 952669409,
+            "country": 764,
+            "level1area": [
+                "th17"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tha Chang",
+                "th": "ท่าช้าง"
+            },
+            "place_type": 84,
+            "population": 12706,
+            "latitude": 14.7641348,
+            "longitude": 100.3902133,
+            "geocell": 3772003,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 952669409,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 961204919,
+            "country": 764,
+            "level1area": [
+                "th19"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kaeng Khoi",
+                "th": "แก่งคอย"
+            },
+            "place_type": 84,
+            "population": 12860,
+            "latitude": 14.5897806,
+            "longitude": 101.0001303,
+            "geocell": 3764810,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 961204919,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q475568",
+                "wikipedia_pages": {
+                    "en": "Amphoe Kaeng Khoi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 966263786,
+            "country": 764,
+            "level1area": [
+                "th30"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Pak Chong",
+                "th": "ปากช่อง"
+            },
+            "place_type": 84,
+            "population": 37052,
+            "latitude": 14.7040864,
+            "longitude": 101.4132201,
+            "geocell": 3772014,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 966263786,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13025371",
+                "wikipedia_pages": {
+                    "en": "Amphoe Pak Chong"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 971260269,
+            "country": 764,
+            "level1area": [
+                "th70"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ratchaburi",
+                "fr": "Ratchaburi",
+                "ja": "ラーチャブリー",
+                "ru": "Ратбури",
+                "th": "ราชบุรี"
+            },
+            "place_type": 84,
+            "population": 38208,
+            "latitude": 13.539067,
+            "longitude": 99.8197035,
+            "geocell": 3728798,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 971260269,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1207138",
+                "wikipedia_pages": {
+                    "en": "Ratchaburi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 976428813,
+            "country": 764,
+            "level1area": [
+                "th77"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Prachuap Khiri Khan",
+                "en": "Prachuap Khiri Khan",
+                "fr": "Prachuap Khiri Khan",
+                "ja": "プラチュワップキーリーカン",
+                "my": "ပရာချွပ်(ပ်) ခီရီ ခန်",
+                "ru": "Прачуапкхирикхан",
+                "th": "ประจวบคีรีขันธ์",
+                "uk": "Прачуапкхірікхан"
+            },
+            "place_type": 84,
+            "population": 26926,
+            "latitude": 11.8057688,
+            "longitude": 99.7967271,
+            "geocell": 3667597,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 976428813,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q244628",
+                "wikipedia_pages": {
+                    "en": "Prachuap Khiri Khan province"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1061754879,
+            "country": 764,
+            "level1area": [
+                "th30"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bua Yai",
+                "th": "บัวใหญ่"
+            },
+            "place_type": 84,
+            "population": 14599,
+            "latitude": 15.5871679,
+            "longitude": 102.4257424,
+            "geocell": 3800824,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1061754879,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q475290",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1099325093,
+            "country": 764,
+            "level1area": [
+                "th18"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Han Kha",
+                "th": "หันคา"
+            },
+            "place_type": 84,
+            "population": 55522,
+            "latitude": 14.9822913,
+            "longitude": 100.0117568,
+            "geocell": 3779200,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1099325093,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q475512",
+                "wikipedia_pages": {
+                    "en": "Hankha District"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1102312492,
+            "country": 764,
+            "level1area": [
+                "th50"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ban Ton Pao",
+                "th": "บ้านต้นเปา"
+            },
+            "place_type": 86,
+            "population": 18883,
+            "latitude": 18.77247,
+            "longitude": 99.0771125,
+            "geocell": 3915990,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1102312492,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1129194720,
+            "country": 764,
+            "level1area": [
+                "th50"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Maejo",
+                "th": "แม่โจ้"
+            },
+            "place_type": 84,
+            "population": 19717,
+            "latitude": 18.8970761,
+            "longitude": 99.0081307,
+            "geocell": 3919590,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1129194720,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13025410",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1179934993,
+            "country": 764,
+            "level1area": [
+                "th92"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Yan Ta Khao",
+                "th": "ย่านตาขาว"
+            },
+            "place_type": 84,
+            "population": 10000,
+            "latitude": 7.3770664,
+            "longitude": 99.6769415,
+            "geocell": 3505596,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1179934993,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1185605206,
+            "country": 764,
+            "level1area": [
+                "th96"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Su-ngai Kolok",
+                "id": "Sungai Golok",
+                "ms": "Sungai Golok",
+                "th": "สุไหงโก-ลก"
+            },
+            "place_type": 84,
+            "population": 38612,
+            "latitude": 6.0229548,
+            "longitude": 101.9634532,
+            "geocell": 3458819,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1185605206,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1770801",
+                "wikipedia_pages": {
+                    "en": "Su-ngai Kolok"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1188546636,
+            "country": 764,
+            "level1area": [
+                "th95"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Betong",
+                "th": "เบตง"
+            },
+            "place_type": 84,
+            "population": 24688,
+            "latitude": 5.7718215,
+            "longitude": 101.0715158,
+            "geocell": 3448010,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1188546636,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2900126",
+                "wikipedia_pages": {
+                    "en": "Betong, Thailand"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1233643063,
+            "country": 764,
+            "level1area": [
+                "th73"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sam Phran",
+                "th": "สามพราน"
+            },
+            "place_type": 84,
+            "population": 16820,
+            "latitude": 13.7258154,
+            "longitude": 100.2138628,
+            "geocell": 3736002,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1233643063,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q476603",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1271887267,
+            "country": 764,
+            "level1area": [
+                "th74"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bang Namchuet",
+                "th": "บางน้ำจืด"
+            },
+            "place_type": 86,
+            "population": 13633,
+            "latitude": 13.6238062,
+            "longitude": 100.3568911,
+            "geocell": 3732403,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1271887267,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1306428302,
+            "country": 764,
+            "level1area": [
+                "th20"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Phanat Nikhom",
+                "th": "พนัสนิคม"
+            },
+            "place_type": 84,
+            "population": 12000,
+            "latitude": 13.4495893,
+            "longitude": 101.1808862,
+            "geocell": 3725211,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1306428302,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13025381",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1395854447,
+            "country": 764,
+            "level1area": [
+                "th30"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nakhon Ratchasima",
+                "et": "Nakhon Ratchasima",
+                "fr": "Nakhon Ratchasima",
+                "ja": "ナコーンラーチャシーマー",
+                "ru": "Накхонратчасима",
+                "th": "นครราชสีมา",
+                "uk": "Накхонратчасіма"
+            },
+            "place_type": 67,
+            "population": 126391,
+            "latitude": 14.9747339,
+            "longitude": 102.0981161,
+            "geocell": 3779220,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1395854447,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q633036",
+                "wikipedia_pages": {
+                    "th": "เทศบาลนครนครราชสีมา"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1402895608,
+            "country": 764,
+            "level1area": [
+                "th76"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Cha-am",
+                "ru": "Ча-Ам",
+                "th": "ชะอำ"
+            },
+            "place_type": 84,
+            "population": 31354,
+            "latitude": 12.7975552,
+            "longitude": 99.9716803,
+            "geocell": 3699999,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1402895608,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1542105667,
+            "country": 764,
+            "level1area": [
+                "th12"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sao Thong Hin",
+                "th": "เสาธงหิน"
+            },
+            "place_type": 84,
+            "population": 38475,
+            "latitude": 13.8739783,
+            "longitude": 100.4099209,
+            "geocell": 3739604,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1542105667,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1597696141,
+            "country": 764,
+            "level1area": [
+                "th96"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Narathiwat",
+                "fr": "Narathiwat",
+                "ms": "Menara",
+                "th": "นราธิวาส"
+            },
+            "place_type": 84,
+            "population": 40521,
+            "latitude": 6.4350352,
+            "longitude": 101.8228923,
+            "geocell": 3473218,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1597696141,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q271442",
+                "wikipedia_pages": {
+                    "en": "Narathiwat Province"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1604736460,
+            "country": 764,
+            "level1area": [
+                "th50"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mae Ai",
+                "th": "แม่อาย"
+            },
+            "place_type": 84,
+            "population": 77778,
+            "latitude": 20.0328666,
+            "longitude": 99.298,
+            "geocell": 3962792,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1604736460,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q475919",
+                "wikipedia_pages": {
+                    "en": "Mae Ai District"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1612087607,
+            "country": 764,
+            "level1area": [
+                "th92"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kantang",
+                "th": "กันตัง"
+            },
+            "place_type": 84,
+            "population": 13225,
+            "latitude": 7.4076251,
+            "longitude": 99.5098309,
+            "geocell": 3509195,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1612087607,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13025348",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1628207792,
+            "country": 764,
+            "level1area": [
+                "th10"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بانكوك",
+                "az": "Banqkok",
+                "be": "Бангкок",
+                "bg": "Банкок",
+                "bn": "ব্যাংকক",
+                "ckb": "بانکۆک",
+                "cs": "Bangkok",
+                "de": "Bangkok",
+                "el": "Μπανγκόκ",
+                "en": "Bangkok",
+                "eo": "Bankoko",
+                "es": "Bangkok",
+                "et": "Bangkok",
+                "eu": "Bangkok",
+                "fa": "بانکوک",
+                "fi": "Bangkok",
+                "fr": "Bangkok",
+                "ga": "Bancác",
+                "gl": "Bangkok",
+                "he": "בנגקוק",
+                "hi": "बैंकॉक",
+                "hr": "Bangkok",
+                "hu": "Bangkok",
+                "hy": "Բանգկոկ",
+                "ia": "Bangkok",
+                "io": "Bangkok",
+                "is": "Bangkok",
+                "it": "Bangkok",
+                "ja": "バンコク",
+                "ka": "ბანგკოკი",
+                "kk": "Бангкок",
+                "km": "បាងកក",
+                "kn": "ಬಾಂಗ್ಕೊಕ್",
+                "ko": "방콕",
+                "lt": "Bankokas",
+                "lv": "Bangkoka",
+                "mk": "Бангкок",
+                "ml": "ബാങ്കോക്ക്",
+                "mn": "Бангкок",
+                "mr": "बँकॉक",
+                "my": "ဘန်ကောက်မြို့",
+                "ne": "बैङ्कक",
+                "nl": "Bangkok",
+                "os": "Бангкок",
+                "pl": "Bangkok",
+                "pt": "Banguecoque",
+                "ru": "Бангкок",
+                "sk": "Bangkok",
+                "sl": "Bangkok",
+                "sr": "Бангкок",
+                "sv": "Bangkok",
+                "ta": "பேங்காக்",
+                "tg": "Бангкок",
+                "th": "กรุงเทพมหานคร",
+                "uk": "Банґкок",
+                "ur": "بنکاک",
+                "vi": "Băng Cốc"
+            },
+            "place_type": 67,
+            "population": 5666264,
+            "latitude": 13.7524938,
+            "longitude": 100.4935089,
+            "geocell": 3736004,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1628207792,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1861",
+                "wikipedia_pages": {
+                    "th": "กรุงเทพมหานคร"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1685715520,
+            "country": 764,
+            "level1area": [
+                "th24"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Chachoengsao",
+                "fr": "Chachoengsao",
+                "ja": "チャチューンサオ",
+                "ru": "Чаченгсау",
+                "th": "ฉะเชิงเทรา"
+            },
+            "place_type": 84,
+            "population": 60893,
+            "latitude": 13.6891784,
+            "longitude": 101.0708268,
+            "geocell": 3732410,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1685715520,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1026368",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1696032985,
+            "country": 764,
+            "level1area": [
+                "th52"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ngao",
+                "th": "งาว"
+            },
+            "place_type": 84,
+            "population": 55909,
+            "latitude": 18.752733,
+            "longitude": 99.9800106,
+            "geocell": 3915999,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1696032985,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q476202",
+                "wikipedia_pages": {
+                    "en": "Ngao District"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1756929314,
+            "country": 764,
+            "level1area": [
+                "th21"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ban Chang",
+                "ru": "Бан Чанг",
+                "th": "บ้านฉาง"
+            },
+            "place_type": 84,
+            "population": 26036,
+            "latitude": 12.724592,
+            "longitude": 101.0547288,
+            "geocell": 3700010,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1756929314,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q15999229",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1762209646,
+            "country": 764,
+            "level1area": [
+                "th20"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ban Bueng",
+                "th": "บ้านบึง"
+            },
+            "place_type": 84,
+            "population": 18606,
+            "latitude": 13.3102264,
+            "longitude": 101.1156016,
+            "geocell": 3721611,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1762209646,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13025368",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1773481843,
+            "country": 764,
+            "level1area": [
+                "th20"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Si Racha",
+                "ja": "スリラチャ",
+                "th": "ศรีราชา"
+            },
+            "place_type": 84,
+            "population": 19444,
+            "latitude": 13.1655011,
+            "longitude": 100.9256709,
+            "geocell": 3714409,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1773481843,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1827428772,
+            "country": 764,
+            "level1area": [
+                "th14"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bang Ban",
+                "ja": "バーンバーン",
+                "th": "บางบาล"
+            },
+            "place_type": 84,
+            "population": 16588,
+            "latitude": 14.4075172,
+            "longitude": 100.4686288,
+            "geocell": 3761204,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1827428772,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1833702670,
+            "country": 764,
+            "level1area": [
+                "th71"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Wang Pho",
+                "th": "วังโพธิ์"
+            },
+            "place_type": 84,
+            "population": 62652,
+            "latitude": 14.1192624,
+            "longitude": 99.1390712,
+            "geocell": 3750391,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1833702670,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q476592",
+                "wikipedia_pages": {
+                    "en": "Sai Yok District"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1848247892,
+            "country": 764,
+            "level1area": [
+                "th12"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bang Bua Thong",
+                "th": "บางบัวทอง"
+            },
+            "place_type": 84,
+            "population": 53723,
+            "latitude": 13.9158658,
+            "longitude": 100.4220767,
+            "geocell": 3743204,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1848247892,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q15199201",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1848247913,
+            "country": 764,
+            "level1area": [
+                "th13"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Rangsit",
+                "fr": "Rangsit",
+                "ja": "ランシット",
+                "th": "รังสิต"
+            },
+            "place_type": 67,
+            "population": 85260,
+            "latitude": 13.987449,
+            "longitude": 100.6100666,
+            "geocell": 3743206,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1848247913,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q14230710",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1919715630,
+            "country": 764,
+            "level1area": [
+                "th20"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Laem Chabang",
+                "ja": "レムチャバン",
+                "ru": "Лаем Чабанг",
+                "th": "แหลมฉบัง"
+            },
+            "place_type": 67,
+            "population": 88271,
+            "latitude": 13.0883664,
+            "longitude": 100.9180778,
+            "geocell": 3710809,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1919715630,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1025958",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1923857087,
+            "country": 764,
+            "level1area": [
+                "th27"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sa Kaeo",
+                "fr": "Sa Kaeo",
+                "ja": "サケーオ",
+                "th": "สระแก้ว"
+            },
+            "place_type": 84,
+            "population": 16591,
+            "latitude": 13.8194901,
+            "longitude": 102.0702537,
+            "geocell": 3739620,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1923857087,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1367916",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1985565990,
+            "country": 764,
+            "level1area": [
+                "th20"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bang Saen",
+                "th": "บางแสน"
+            },
+            "place_type": 84,
+            "population": 42843,
+            "latitude": 13.2848334,
+            "longitude": 100.9179506,
+            "geocell": 3718009,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1985565990,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q806451",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2066161548,
+            "country": 764,
+            "level1area": [
+                "th70"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Suan Phueng",
+                "th": "สวนผึ้ง"
+            },
+            "place_type": 84,
+            "population": 52050,
+            "latitude": 13.5411477,
+            "longitude": 99.3391487,
+            "geocell": 3728793,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2066161548,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q476778",
+                "wikipedia_pages": {
+                    "en": "Suan Phueng District"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2074111455,
+            "country": 764,
+            "level1area": [
+                "th71"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Huai Krachao",
+                "th": "ห้วยกระเจา"
+            },
+            "place_type": 86,
+            "population": 34314,
+            "latitude": 14.3332551,
+            "longitude": 99.6454073,
+            "geocell": 3757596,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2074111455,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q475538",
+                "wikipedia_pages": {
+                    "en": "Huai Krachao District"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2079401370,
+            "country": 764,
+            "level1area": [
+                "th61"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Lan Sak",
+                "th": "ลานสัก"
+            },
+            "place_type": 84,
+            "population": 59155,
+            "latitude": 15.4688941,
+            "longitude": 99.537879,
+            "geocell": 3797195,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2079401370,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q475889",
+                "wikipedia_pages": {
+                    "en": "Lan Sak District"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2099205623,
+            "country": 764,
+            "level1area": [
+                "th80"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Thung Song",
+                "th": "ทุ่งสง"
+            },
+            "place_type": 84,
+            "population": 29232,
+            "latitude": 8.166657,
+            "longitude": 99.6774848,
+            "geocell": 3534396,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2099205623,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q476950",
+                "wikipedia_pages": {
+                    "th": "เทศบาลเมืองทุ่งสง"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2160837232,
+            "country": 764,
+            "level1area": [
+                "th94"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Pattani",
+                "fr": "Pattani",
+                "th": "ปัตตานี"
+            },
+            "place_type": 84,
+            "population": 43631,
+            "latitude": 6.8680798,
+            "longitude": 101.253623,
+            "geocell": 3487612,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2160837232,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q236781",
+                "wikipedia_pages": {
+                    "en": "Pattani Province"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2291212069,
+            "country": 764,
+            "level1area": [
+                "th50"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mae Tuen",
+                "th": "แม่ตื่น"
+            },
+            "place_type": 86,
+            "population": 10000,
+            "latitude": 17.4025068,
+            "longitude": 98.4580641,
+            "geocell": 3869184,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2291212069,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6729046",
+                "wikipedia_pages": {
+                    "en": "Mae Tuen, Chiang Mai"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2327043257,
+            "country": 764,
+            "level1area": [
+                "th66"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Taphan Hin",
+                "th": "ตะพานหิน"
+            },
+            "place_type": 84,
+            "population": 16388,
+            "latitude": 16.2195367,
+            "longitude": 100.4231203,
+            "geocell": 3826004,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2327043257,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "66110"
+                ],
+                "wikidata_page_name": "Q15980698",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2418075349,
+            "country": 764,
+            "level1area": [
+                "th74"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Om Noi",
+                "th": "อ้อมน้อย"
+            },
+            "place_type": 67,
+            "population": 53978,
+            "latitude": 13.7064729,
+            "longitude": 100.2990098,
+            "geocell": 3736002,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2418075349,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13025345",
+                "wikipedia_pages": {
+                    "en": "Om Noi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2420998962,
+            "country": 764,
+            "level1area": [
+                "th83"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Rawai",
+                "ru": "Равай",
+                "th": "ราไวย์"
+            },
+            "place_type": 84,
+            "population": 16988,
+            "latitude": 7.7758136,
+            "longitude": 98.3277162,
+            "geocell": 3519983,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2420998962,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q15629557",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3263987922,
+            "country": 764,
+            "level1area": [
+                "th12"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bang Si Mueang",
+                "th": "บางศรีเมือง"
+            },
+            "place_type": 84,
+            "population": 32880,
+            "latitude": 13.8425351,
+            "longitude": 100.4817124,
+            "geocell": 3739604,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3263987922,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13025367",
+                "wikipedia_pages": {
+                    "th": "เทศบาลเมืองบางศรีเมือง"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3522021147,
+            "country": 764,
+            "level1area": [
+                "th27"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Aranyaprathet",
+                "fr": "Aranyaprathet",
+                "th": "อรัญประเทศ"
+            },
+            "place_type": 84,
+            "population": 16283,
+            "latitude": 13.690903,
+            "longitude": 102.5038168,
+            "geocell": 3732425,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3522021147,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4784166",
+                "wikipedia_pages": {
+                    "th": "เทศบาลเมืองอรัญญประเทศ"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4585394892,
+            "country": 764,
+            "level1area": [
+                "th95"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Yaha",
+                "th": "ยะหา",
+                "uk": "Яга"
+            },
+            "place_type": 84,
+            "population": 14837,
+            "latitude": 6.4803972,
+            "longitude": 101.1334344,
+            "geocell": 3473211,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4585394892,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q477101",
+                "wikipedia_pages": {
+                    "en": "Yaha District"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6565379852,
+            "country": 764,
+            "level1area": [
+                "th12"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Plai Bang",
+                "th": "ปลายบาง"
+            },
+            "place_type": 84,
+            "population": 44401,
+            "latitude": 13.8137402,
+            "longitude": 100.4117213,
+            "geocell": 3739604,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6565379852,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6594064018,
+            "country": 764,
+            "level1area": [
+                "th12"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bang Kruai",
+                "th": "บางกรวย"
+            },
+            "place_type": 84,
+            "population": 43453,
+            "latitude": 13.8027856,
+            "longitude": 100.4773195,
+            "geocell": 3739604,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6594064018,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q15199204",
+                "wikipedia_pages": {
+                    "th": "เทศบาลเมืองบางกรวย"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6632514705,
+            "country": 764,
+            "level1area": [
+                "th12"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sai Noi",
+                "th": "ไทรน้อย"
+            },
+            "place_type": 84,
+            "population": 64728,
+            "latitude": 13.9786347,
+            "longitude": 100.3141572,
+            "geocell": 3743203,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6632514705,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13025346",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7355162734,
+            "country": 764,
+            "level1area": [
+                "th84"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ko Samui",
+                "th": "เกาะสมุย"
+            },
+            "place_type": 67,
+            "population": 70059,
+            "latitude": 9.5071545,
+            "longitude": 99.9957562,
+            "geocell": 3584799,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7355162734,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q270375",
+                "wikipedia_pages": {
+                    "de": "Ko Samui"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8643175475,
+            "country": 764,
+            "level1area": [
+                "th65"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Phitsanulok",
+                "en": "Phitsanulok",
+                "es": "Phitsanulok",
+                "fr": "Phitsanulok",
+                "ja": "ピッサヌローク",
+                "ru": "Пхитсанулок",
+                "th": "พิษณุโลก",
+                "uk": "Пхітсанулок"
+            },
+            "place_type": 67,
+            "population": 66106,
+            "latitude": 16.8150258,
+            "longitude": 100.2647898,
+            "geocell": 3847602,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8643175475,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q867579",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12014653258,
+            "country": 764,
+            "level1area": [
+                "th62"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ban Sakkhi",
+                "th": "บ้านสักขี"
+            },
+            "place_type": 86,
+            "population": 11000,
+            "latitude": 16.4609973,
+            "longitude": 99.9652504,
+            "geocell": 3833199,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12014653258,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12014737356,
+            "country": 764,
+            "level1area": [
+                "th62"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ban Mae Yue",
+                "th": "บ้านแม่ยื้อ"
+            },
+            "place_type": 86,
+            "population": 10000,
+            "latitude": 16.5005146,
+            "longitude": 99.9568747,
+            "geocell": 3836799,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12014737356,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

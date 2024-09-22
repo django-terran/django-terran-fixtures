@@ -1,0 +1,1373 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27565080,
+            "country": 288,
+            "level1area": [
+                "ghaa"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Accra",
+                "ar": "أكرا",
+                "az": "Akkra",
+                "be": "Акра",
+                "bg": "Акра",
+                "br": "Accra",
+                "ckb": "ئاکرا",
+                "de": "Accra",
+                "el": "Άκκρα",
+                "en": "Accra",
+                "eo": "Akrao",
+                "es": "Acra",
+                "eu": "Akkra",
+                "fa": "آکرا",
+                "fr": "Accra",
+                "fy": "Akkra",
+                "he": "אקרה",
+                "hu": "Accra",
+                "hy": "Ակրա",
+                "is": "Akkra",
+                "it": "Accra",
+                "ja": "アクラ",
+                "ka": "აკრა",
+                "kab": "Akra",
+                "kn": "ಅಕ್ಕ್ರಾ",
+                "ko": "아크라",
+                "ky": "Аккра",
+                "lt": "Akra",
+                "lv": "Akra",
+                "mk": "Акра",
+                "ml": "അക്ര",
+                "mr": "आक्रा",
+                "my": "အက်ခရာမြို့",
+                "nl": "Accra",
+                "os": "Аккрæ",
+                "pl": "Akra",
+                "pt": "Acra",
+                "ru": "Аккра",
+                "sk": "Akkra",
+                "sl": "Akra",
+                "sq": "Akra",
+                "sr": "Акра",
+                "sv": "Accra",
+                "ta": "அக்ரா",
+                "tg": "Аккра",
+                "th": "อักกรา",
+                "tr": "Akra",
+                "udm": "Аккра",
+                "uk": "Аккра",
+                "ur": "اکرا"
+            },
+            "place_type": 67,
+            "population": 2388000,
+            "latitude": 5.5571096,
+            "longitude": -0.2012376,
+            "geocell": 3439797,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27565080,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3761",
+                "wikipedia_pages": {
+                    "en": "Accra"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30933440,
+            "country": 288,
+            "level1area": [
+                "ghnp"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Tamale",
+                "ar": "تامالي",
+                "en": "Tamale",
+                "es": "Tamale",
+                "fr": "Tamalé",
+                "ko": "타말레",
+                "lt": "Tamalė",
+                "ru": "Тамале",
+                "uk": "Тамале"
+            },
+            "place_type": 67,
+            "population": 950124,
+            "latitude": 9.4051992,
+            "longitude": -0.8423986,
+            "geocell": 3580191,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30933440,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q217040",
+                "wikipedia_pages": {
+                    "en": "Tamale, Ghana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 132021012,
+            "country": 288,
+            "level1area": [
+                "ghwp"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Takoradi",
+                "ar": "تاكورادي",
+                "en": "Takoradi",
+                "ru": "Такоради",
+                "uk": "Такораді"
+            },
+            "place_type": 84,
+            "population": 539548,
+            "latitude": 4.887401,
+            "longitude": -1.7519316,
+            "geocell": 3414582,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 132021012,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2022168",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 132021927,
+            "country": 288,
+            "level1area": [
+                "ghwp"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Sekondi",
+                "en": "Sekondi",
+                "ru": "Секонди",
+                "uk": "Секонді"
+            },
+            "place_type": 84,
+            "population": 150000,
+            "latitude": 4.937,
+            "longitude": -1.7127928,
+            "geocell": 3418182,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 132021927,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 261702404,
+            "country": 288,
+            "level1area": [
+                "ghah"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Kumasi",
+                "ar": "كوماسي",
+                "ko": "쿠마시",
+                "lt": "Kumasis",
+                "pt": "Kumasi",
+                "ru": "Кумаси",
+                "uk": "Кумасі"
+            },
+            "place_type": 67,
+            "population": 1517000,
+            "latitude": 6.6985605,
+            "longitude": -1.6233086,
+            "geocell": 3479383,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 261702404,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "url": "http://www.ghanaweb.com/GhanaHomePage/geography/kumasi.php",
+                "wikidata_page_name": "Q182059",
+                "wikipedia_pages": {
+                    "en": "Kumasi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 330058453,
+            "country": 288,
+            "level1area": [
+                "ghuw"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Wa",
+                "ar": "وا",
+                "en": "Wa",
+                "ko": "와",
+                "ru": "Ва",
+                "uk": "Ва"
+            },
+            "place_type": 67,
+            "population": 105000,
+            "latitude": 10.0623261,
+            "longitude": -2.5054273,
+            "geocell": 3601774,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 330058453,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q250733",
+                "wikipedia_pages": {
+                    "en": "Wa, Ghana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 330232703,
+            "country": 288,
+            "level1area": [
+                "ghbe"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Techiman",
+                "ar": "تيكيمان"
+            },
+            "place_type": 67,
+            "population": 104212,
+            "latitude": 7.584971,
+            "longitude": -1.936401,
+            "geocell": 3511780,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 330232703,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q964069",
+                "wikipedia_pages": {
+                    "en": "Techiman"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 330593382,
+            "country": 288,
+            "level1area": [
+                "ghtv"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Hohoe"
+            },
+            "place_type": 84,
+            "population": 56202,
+            "latitude": 7.153187,
+            "longitude": 0.477735,
+            "geocell": 3497404,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 330593382,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1017008",
+                "wikipedia_pages": {
+                    "en": "Hohoe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 373425495,
+            "country": 288,
+            "level1area": [
+                "ghaa"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Achimota"
+            },
+            "place_type": 84,
+            "population": 22767,
+            "latitude": 5.6242019,
+            "longitude": -0.2276807,
+            "geocell": 3443397,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 373425495,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 434420117,
+            "country": 288,
+            "level1area": [
+                "ghue"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Bolgatanga",
+                "en": "Bolgatanga",
+                "fr": "Bolgatanga",
+                "ru": "Болгатанга",
+                "uk": "Болгатанга"
+            },
+            "place_type": 67,
+            "population": 66685,
+            "latitude": 10.7853963,
+            "longitude": -0.8487322,
+            "geocell": 3626991,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 434420117,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4939409",
+                "wikipedia_pages": {
+                    "en": "Bolgatanga"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 434449745,
+            "country": 288,
+            "level1area": [
+                "ghtv"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Ho",
+                "ar": "هو",
+                "ru": "Хо",
+                "uk": "Хо"
+            },
+            "place_type": 67,
+            "population": 83715,
+            "latitude": 6.6126598,
+            "longitude": 0.4688932,
+            "geocell": 3479404,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 434449745,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q615006",
+                "wikipedia_pages": {
+                    "en": "Ho, Ghana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 434461245,
+            "country": 288,
+            "level1area": [
+                "ghbe"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Kintampo"
+            },
+            "place_type": 84,
+            "population": 49046,
+            "latitude": 8.053714,
+            "longitude": -1.728919,
+            "geocell": 3529782,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 434461245,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1742284",
+                "wikipedia_pages": {
+                    "en": "Kintampo, Ghana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 443416948,
+            "country": 288,
+            "level1area": [
+                "ghwp"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Axim"
+            },
+            "place_type": 84,
+            "population": 27719,
+            "latitude": 4.865362,
+            "longitude": -2.242169,
+            "geocell": 3414577,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 443416948,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q792509",
+                "wikipedia_pages": {
+                    "en": "Axim"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 443417664,
+            "country": 288,
+            "level1area": [
+                "ghwp"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Tarkwa"
+            },
+            "place_type": 84,
+            "population": 40397,
+            "latitude": 5.310935,
+            "longitude": -1.992426,
+            "geocell": 3432580,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 443417664,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q995439",
+                "wikipedia_pages": {
+                    "en": "Tarkwa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 735505132,
+            "country": 288,
+            "level1area": [
+                "ghaa"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Tema",
+                "ko": "테마"
+            },
+            "place_type": 67,
+            "population": 160000,
+            "latitude": 5.6596441,
+            "longitude": -0.0096592,
+            "geocell": 3443399,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 735505132,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q726143",
+                "wikipedia_pages": {
+                    "en": "Tema"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 892162451,
+            "country": 288,
+            "level1area": [
+                "ghep"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Koforidua",
+                "ar": "كوفوريدوا",
+                "ko": "코포리두아",
+                "ru": "Кофоридуа",
+                "uk": "Кофорідуа"
+            },
+            "place_type": 67,
+            "population": 130000,
+            "latitude": 6.100334,
+            "longitude": -0.2614572,
+            "geocell": 3461397,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 892162451,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q406358",
+                "wikipedia_pages": {
+                    "en": "Koforidua"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 990129709,
+            "country": 288,
+            "level1area": [
+                "ghcp"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Cape Coast",
+                "ar": "كيب كوست",
+                "ru": "Кейп-Кост",
+                "uk": "Кейп-Кост"
+            },
+            "place_type": 67,
+            "population": 155000,
+            "latitude": 5.107467,
+            "longitude": -1.2430793,
+            "geocell": 3425387,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 990129709,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q221283",
+                "wikipedia_pages": {
+                    "en": "Cape Coast"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 990130114,
+            "country": 288,
+            "level1area": [
+                "ghcp"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Kasoa"
+            },
+            "place_type": 84,
+            "population": 44227,
+            "latitude": 5.532573,
+            "longitude": -0.437491,
+            "geocell": 3439795,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 990130114,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q656652",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1540762838,
+            "country": 288,
+            "level1area": [
+                "ghcp"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Agona Swedru"
+            },
+            "place_type": 84,
+            "population": 68216,
+            "latitude": 5.534454,
+            "longitude": -0.700763,
+            "geocell": 3439792,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1540762838,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q395265",
+                "wikipedia_pages": {
+                    "en": "Agona Swedru"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1546904137,
+            "country": 288,
+            "level1area": [
+                "ghaa"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Ashaiman",
+                "ar": "آشيامان"
+            },
+            "place_type": 84,
+            "population": 230000,
+            "latitude": 5.694385,
+            "longitude": -0.029529,
+            "geocell": 3443399,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1546904137,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q724730",
+                "wikipedia_pages": {
+                    "en": "Ashaiman"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1818632583,
+            "country": 288,
+            "level1area": [
+                "ghah"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Patriensa"
+            },
+            "place_type": 84,
+            "population": 69186,
+            "latitude": 6.6619572,
+            "longitude": -1.1789403,
+            "geocell": 3479388,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1818632583,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1830247502,
+            "country": 288,
+            "level1area": [
+                "ghcp"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Ayanfuri"
+            },
+            "place_type": 86,
+            "population": 29748,
+            "latitude": 5.4785785,
+            "longitude": -0.868758,
+            "geocell": 3436191,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1830247502,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1836489322,
+            "country": 288,
+            "level1area": [
+                "ghcp"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Nyakrom"
+            },
+            "place_type": 84,
+            "population": 22911,
+            "latitude": 5.611555,
+            "longitude": -0.78888,
+            "geocell": 3443392,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1836489322,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7070812",
+                "wikipedia_pages": {
+                    "en": "Nyakrom"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1867267203,
+            "country": 288,
+            "level1area": [
+                "ghnp"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Yendi"
+            },
+            "place_type": 67,
+            "population": 52008,
+            "latitude": 9.4466478,
+            "longitude": -0.0035068,
+            "geocell": 3580199,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1867267203,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q639066",
+                "wikipedia_pages": {
+                    "en": "Yendi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1964360968,
+            "country": 288,
+            "level1area": [
+                "ghue"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Bawku",
+                "ru": "Боку"
+            },
+            "place_type": 84,
+            "population": 61000,
+            "latitude": 11.0607602,
+            "longitude": -0.2422876,
+            "geocell": 3637797,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1964360968,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q812036",
+                "wikipedia_pages": {
+                    "de": "Bawku"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2026026298,
+            "country": 288,
+            "level1area": [
+                "ghbo"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Sunyani",
+                "ar": "سونياتي",
+                "en": "Sunyani",
+                "fr": "Sunyani",
+                "ko": "수니아니",
+                "ru": "Суньяни",
+                "uk": "Суньяні"
+            },
+            "place_type": 67,
+            "population": 248500,
+            "latitude": 7.3384389,
+            "longitude": -2.3309226,
+            "geocell": 3504576,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2026026298,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q406037",
+                "wikipedia_pages": {
+                    "en": "Sunyani"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2147841289,
+            "country": 288,
+            "level1area": [
+                "ghaa"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Weija"
+            },
+            "place_type": 84,
+            "population": 12410,
+            "latitude": 5.5792263,
+            "longitude": -0.3306792,
+            "geocell": 3439796,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2147841289,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7980170",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2148020762,
+            "country": 288,
+            "level1area": [
+                "ghaa"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Adenta"
+            },
+            "place_type": 84,
+            "population": 96478,
+            "latitude": 5.7042433,
+            "longitude": -0.1690967,
+            "geocell": 3446998,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2148020762,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4682309",
+                "wikipedia_pages": {
+                    "en": "Adenta"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2165312314,
+            "country": 288,
+            "level1area": [
+                "ghep"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Nkawkaw",
+                "ru": "Нкоко"
+            },
+            "place_type": 84,
+            "population": 61785,
+            "latitude": 6.552795,
+            "longitude": -0.769811,
+            "geocell": 3475792,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2165312314,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1025019",
+                "wikipedia_pages": {
+                    "en": "Nkawkaw"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2629102452,
+            "country": 288,
+            "level1area": [
+                "ghaa"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Nungua"
+            },
+            "place_type": 84,
+            "population": 84119,
+            "latitude": 5.6011385,
+            "longitude": -0.0703851,
+            "geocell": 3443399,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2629102452,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q493990",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2918086961,
+            "country": 288,
+            "level1area": [
+                "ghtv"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Aflao"
+            },
+            "place_type": 84,
+            "population": 66546,
+            "latitude": 6.1160471,
+            "longitude": 1.1914021,
+            "geocell": 3461411,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2918086961,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q383333",
+                "wikipedia_pages": {
+                    "en": "Aflao"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2921462706,
+            "country": 288,
+            "level1area": [
+                "ghtv"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Keta"
+            },
+            "place_type": 84,
+            "population": 22739,
+            "latitude": 5.9215688,
+            "longitude": 0.9910728,
+            "geocell": 3454209,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2921462706,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1471408",
+                "wikipedia_pages": {
+                    "en": "Keta"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3281966704,
+            "country": 288,
+            "level1area": [
+                "ghah"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Bekwai"
+            },
+            "place_type": 84,
+            "population": 10000,
+            "latitude": 6.456707,
+            "longitude": -1.5837496,
+            "geocell": 3472184,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3281966704,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q815055",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3973079747,
+            "country": 288,
+            "level1area": [
+                "ghcp"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Twifo Praso"
+            },
+            "place_type": 84,
+            "population": 10000,
+            "latitude": 5.611593,
+            "longitude": -1.5497035,
+            "geocell": 3443384,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3973079747,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7857921",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4293849752,
+            "country": 288,
+            "level1area": [
+                "ghah"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Obuasi",
+                "ar": "أوبواسي"
+            },
+            "place_type": 67,
+            "population": 175000,
+            "latitude": 6.211542,
+            "longitude": -1.6894045,
+            "geocell": 3464983,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4293849752,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1020901",
+                "wikipedia_pages": {
+                    "en": "Obuasi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4509337287,
+            "country": 288,
+            "level1area": [
+                "ghaa"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Madina",
+                "ar": "المدينة"
+            },
+            "place_type": 84,
+            "population": 140000,
+            "latitude": 5.6864962,
+            "longitude": -0.1677052,
+            "geocell": 3443398,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4509337287,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1316141",
+                "wikipedia_pages": {
+                    "en": "Madina, Ghana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4563088958,
+            "country": 288,
+            "level1area": [
+                "ghwp"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Sekondi-Takoradi",
+                "en": "Sekondi-Takoradi",
+                "id": "Sekondi-Takoradi",
+                "ru": "Секонди-Такоради",
+                "uk": "Секонді-Такораді"
+            },
+            "place_type": 67,
+            "population": 445000,
+            "latitude": 4.927456,
+            "longitude": -1.7490216,
+            "geocell": 3418182,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4563088958,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q243293",
+                "wikipedia_pages": {
+                    "en": "Sekondi-Takoradi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4563121334,
+            "country": 288,
+            "level1area": [
+                "ghaa"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Teshie"
+            },
+            "place_type": 84,
+            "population": 170000,
+            "latitude": 5.5822343,
+            "longitude": -0.1135104,
+            "geocell": 3439798,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4563121334,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1062602",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4834904424,
+            "country": 288,
+            "level1area": [
+                "ghep"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Akosombo"
+            },
+            "place_type": 84,
+            "population": 15000,
+            "latitude": 6.2697987,
+            "longitude": 0.0508987,
+            "geocell": 3465000,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4834904424,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "en": "Akosombo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4969187793,
+            "country": 288,
+            "level1area": [
+                "ghwp"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Alomatuope"
+            },
+            "place_type": 84,
+            "population": 20451,
+            "latitude": 5.0597833,
+            "longitude": -2.94445,
+            "geocell": 3421770,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4969187793,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4969187798,
+            "country": 288,
+            "level1area": [
+                "ghwp"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Alomatuope"
+            },
+            "place_type": 84,
+            "population": 20451,
+            "latitude": 5.0583925,
+            "longitude": -2.9323563,
+            "geocell": 3421770,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4969187798,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5016517876,
+            "country": 288,
+            "level1area": [
+                "ghaa"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "La"
+            },
+            "place_type": 84,
+            "population": 98683,
+            "latitude": 5.5602324,
+            "longitude": -0.1576413,
+            "geocell": 3439798,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5016517876,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q20986963",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7723506103,
+            "country": 288,
+            "level1area": [
+                "ghaa"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Lashibi"
+            },
+            "place_type": 84,
+            "population": 78539,
+            "latitude": 5.6850117,
+            "longitude": -0.0383551,
+            "geocell": 3443399,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7723506103,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7723538830,
+            "country": 288,
+            "level1area": [
+                "ghaa"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Sakumono"
+            },
+            "place_type": 84,
+            "population": 20172,
+            "latitude": 5.6252982,
+            "longitude": -0.0570156,
+            "geocell": 3443399,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7723538830,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9703337660,
+            "country": 288,
+            "level1area": [
+                "ghaa"
+            ],
+            "level2area": null,
+            "names": {
+                "ak": "Taifa"
+            },
+            "place_type": 84,
+            "population": 68459,
+            "latitude": 5.6566514,
+            "longitude": -0.2500244,
+            "geocell": 3443397,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9703337660,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q15045731",
+                "wikipedia_pages": {
+                    "en": "Taifa, Accra"
+                }
+            }
+        }
+    }
+]

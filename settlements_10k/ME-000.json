@@ -1,0 +1,676 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29052086,
+            "country": 499,
+            "level1area": [
+                "me10"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كوتور",
+                "be": "Котар",
+                "bg": "Котор",
+                "el": "Κότορ",
+                "fa": "کوتور",
+                "he": "קוטור",
+                "hy": "Կոտոր",
+                "it": "Cattaro",
+                "ja": "コトル",
+                "ka": "კოტორი",
+                "ko": "코토르",
+                "lt": "Kotoras",
+                "lv": "Kotora",
+                "mk": "Котор",
+                "os": "Котор",
+                "ru": "Котор",
+                "sq": "Kotorri",
+                "sr": "Котор",
+                "sr-latn": "Kotor",
+                "uk": "Котор",
+                "ur": "کوتور"
+            },
+            "place_type": 84,
+            "population": 13176,
+            "latitude": 42.4248515,
+            "longitude": 18.7710437,
+            "geocell": 4768387,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29052086,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "85339"
+                ],
+                "website": "https://www.kotor.me/",
+                "wikidata_page_name": "Q171080",
+                "wikipedia_pages": {
+                    "sr-latn": "sh:Kotor"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 36258939,
+            "country": 499,
+            "level1area": [
+                "me05"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بودفا",
+                "be": "Будва",
+                "bg": "Будва",
+                "el": "Μπούντβα",
+                "en": "Budva",
+                "fa": "بودوا",
+                "he": "בודווה",
+                "hy": "Բուդվա",
+                "it": "Budua",
+                "ja": "ブドヴァ",
+                "ka": "ბუდვა",
+                "ko": "부드바",
+                "mk": "Будва",
+                "ru": "Будва",
+                "sq": "Budua",
+                "sr": "Будва",
+                "sr-latn": "Budva",
+                "uk": "Будва",
+                "ur": "بودوا"
+            },
+            "place_type": 67,
+            "population": 13338,
+            "latitude": 42.2885656,
+            "longitude": 18.8419505,
+            "geocell": 4761188,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 36258939,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.budva.me/",
+                "wikidata_page_name": "Q174237",
+                "wikipedia_pages": {
+                    "sr-latn": "sh:Budva"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 49875186,
+            "country": 499,
+            "level1area": [
+                "me02"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بار",
+                "be": "Бар",
+                "bg": "Бар",
+                "bs": "Bar",
+                "ca": "Bar",
+                "cs": "Bar",
+                "da": "Bar",
+                "de": "Bar",
+                "el": "Μπαρ",
+                "en": "Bar",
+                "es": "Bar",
+                "et": "Bar",
+                "eu": "Bar",
+                "fa": "بار",
+                "fi": "Bar",
+                "fr": "Bar",
+                "he": "בר",
+                "hr": "Bar",
+                "hu": "Bar",
+                "id": "Bar",
+                "is": "Bar",
+                "it": "Antivari",
+                "ja": "バール",
+                "ka": "ბარი",
+                "ko": "바르",
+                "lt": "Baras",
+                "mk": "Бар",
+                "nb": "Bar",
+                "nl": "Bar",
+                "nn": "Bar",
+                "pa": "ਬਾਰ",
+                "pl": "Bar",
+                "pt": "Bar",
+                "ro": "Bar",
+                "ru": "Бар",
+                "sk": "Bar",
+                "sl": "Bar",
+                "sq": "Tivar",
+                "sr": "Бар",
+                "sr-latn": "Bar",
+                "sv": "Bar",
+                "th": "บาร์",
+                "tr": "Bar",
+                "uk": "Бар",
+                "ur": "بار"
+            },
+            "place_type": 67,
+            "population": 17727,
+            "latitude": 42.0979745,
+            "longitude": 19.0954528,
+            "geocell": 4753990,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 49875186,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://bar.me/",
+                "wikidata_page_name": "Q115276",
+                "wikipedia_pages": {
+                    "sr": "Бар (Црна Гора)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 123858919,
+            "country": 499,
+            "level1area": [
+                "me08"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "هرسك نوفي",
+                "az": "Herseq Novi",
+                "be": "Херцэг-Нові",
+                "bg": "Херцег Нови",
+                "bs": "Herceg Novi",
+                "el": "Χέρτσεγκ Νόβι",
+                "en": "Herceg Novi",
+                "fa": "هرتسگ نووی",
+                "fr": "Herceg Novi",
+                "he": "הרצג נובי",
+                "hr": "Herceg Novi",
+                "hu": "Herceg Novi",
+                "it": "Castelnuovo",
+                "ja": "ヘルツェグ・ノヴィ",
+                "ka": "ჰერცეგ-ნოვი",
+                "ko": "헤르체그노비",
+                "lt": "Herceg Novis",
+                "mk": "Херцег Нови",
+                "ro": "Herceg Novi",
+                "ru": "Херцег-Нови",
+                "sk": "Herceg Novi",
+                "sl": "Hercegnovi",
+                "sq": "Herceg Novi",
+                "sr": "Херцег Нови",
+                "sr-latn": "Herceg Novi",
+                "tr": "Kastelnovo",
+                "uk": "Герцег-Новий",
+                "ur": "خیرتسیگ نووی"
+            },
+            "place_type": 84,
+            "population": 11059,
+            "latitude": 42.4517622,
+            "longitude": 18.5367516,
+            "geocell": 4768385,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 123858919,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.hercegnovi.me/sr/",
+                "wikidata_page_name": "Q193103",
+                "wikipedia_pages": {
+                    "en": "Herceg Novi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 123860883,
+            "country": 499,
+            "level1area": [
+                "me16"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بودغوريتسا",
+                "ast": "Podgorica",
+                "az": "Podqoritsa",
+                "be": "Падгорыца",
+                "bg": "Подгорица",
+                "bn": "পোদগোরিচা",
+                "ckb": "پۆدگۆریتسا",
+                "de": "Podgorica",
+                "el": "Ποντγκόριτσα",
+                "en": "Podgorica",
+                "eo": "Podgorico",
+                "es": "Podgorica",
+                "fa": "پودگوریتسا",
+                "fr": "Podgorica",
+                "fy": "Podgorytsa",
+                "ga": "Podgairítse",
+                "gl": "Podgorica",
+                "he": "פודגוריצה",
+                "hr": "Podgorica",
+                "hu": "Podgorica",
+                "hy": "Պոդգորիցա",
+                "is": "Podgorica",
+                "it": "Podgorizza",
+                "ja": "ポドゴリツァ",
+                "ka": "პოდგორიცა",
+                "kk": "Подгорица",
+                "ko": "포드고리차",
+                "ky": "Подгорица",
+                "mk": "Подгорица",
+                "ml": "പൊദ്ഗോറിക്ക",
+                "mr": "पॉडगोरिका",
+                "os": "Подгорицæ",
+                "pa": "ਪਾਡਗੋਰਿਤਸਾ",
+                "pl": "Podgorica",
+                "pt": "Podgoritza",
+                "ro": "Podgorița",
+                "ru": "Подгорица",
+                "sl": "Podgorica",
+                "sq": "Podgoricë",
+                "sr": "Подгорица",
+                "sr-latn": "Podgorica",
+                "sv": "Podgorica",
+                "ta": "பத்கரீத்சா",
+                "tg": "Подгоритса",
+                "th": "พอดกอรีตซา",
+                "tk": "Podgoritsa",
+                "tr": "Böğürtlen",
+                "tt": "Подгорица",
+                "udm": "Подгорица",
+                "uk": "Подгориця",
+                "ur": "پودگوریتسا",
+                "uz": "Podgoritsa",
+                "vi": "Podgorica"
+            },
+            "place_type": 67,
+            "population": 150799,
+            "latitude": 42.4415238,
+            "longitude": 19.2621081,
+            "geocell": 4768392,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 123860883,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://podgorica.me/",
+                "wikidata_page_name": "Q23564",
+                "wikipedia_pages": {
+                    "en": "Podgorica"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 192271967,
+            "country": 499,
+            "level1area": [
+                "me20"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أولسيني",
+                "az": "Ulsin",
+                "be": "Улцынь",
+                "bg": "Улцин",
+                "bs": "Ulcinj",
+                "el": "Ούλτσιν",
+                "fa": "اولتسینی",
+                "he": "אולצין",
+                "hr": "Ulcinj",
+                "it": "Dulcigno",
+                "ja": "ウルツィニ",
+                "ka": "ულცინი",
+                "ko": "울친",
+                "lt": "Ulcinis",
+                "lv": "Ulciņa",
+                "mk": "Улцињ",
+                "ru": "Улцинь",
+                "sq": "Ulqin",
+                "sr": "Улцињ",
+                "sr-latn": "Ulcinj - Ulqin",
+                "tr": "Ülgün",
+                "uk": "Ульцинь",
+                "ur": "اولتسینی"
+            },
+            "place_type": 84,
+            "population": 10707,
+            "latitude": 41.926012,
+            "longitude": 19.2055563,
+            "geocell": 4750392,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 192271967,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.ul-gov.me/Kryesore",
+                "wikidata_page_name": "Q189969",
+                "wikipedia_pages": {
+                    "sr-latn": "sh:Ulcinj"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 255351379,
+            "country": 499,
+            "level1area": [
+                "me06"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ستنيي",
+                "az": "Çetinye",
+                "be": "Цэтынэ",
+                "bg": "Цетине",
+                "el": "Τσέτινιε",
+                "en": "Cetinje",
+                "es": "Cetiña",
+                "fa": "چتینیه",
+                "he": "צטיניה",
+                "hr": "Cetinje",
+                "hy": "Ցետինե",
+                "it": "Cettigne",
+                "ja": "ツェティニェ",
+                "ka": "ცეტინიე",
+                "ko": "체티네",
+                "ky": "Цетине",
+                "lt": "Cetinė",
+                "lv": "Cetiņe",
+                "mk": "Цетиње",
+                "os": "Цетине",
+                "pl": "Cetynia",
+                "ru": "Цетине",
+                "sq": "Cetina",
+                "sr": "Цетиње",
+                "sr-latn": "Cetinje",
+                "ta": "செட்டிஞ்",
+                "th": "เซติเญ",
+                "tr": "Çetine",
+                "tt": "Цетине",
+                "uk": "Цетинє",
+                "ur": "سیتینیے"
+            },
+            "place_type": 67,
+            "population": 13918,
+            "latitude": 42.389633,
+            "longitude": 18.9246085,
+            "geocell": 4764789,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 255351379,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.cetinje.me/cetinje/site_mne/public/index.php/index/kategorija?id_kategorija=1",
+                "wikidata_page_name": "Q173338",
+                "wikipedia_pages": {
+                    "sr-latn": "sh:Cetinje"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 255351703,
+            "country": 499,
+            "level1area": [
+                "me12"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "نیکشیچ",
+                "az": "Nikşiç",
+                "be": "Нікшыч",
+                "bg": "Никшич",
+                "cs": "Nikšić",
+                "el": "Νίκσιτς",
+                "en": "Nikšić",
+                "hy": "Նիկշիչ",
+                "ja": "ニクシッチ",
+                "ka": "ნიკშიჩი",
+                "ko": "닉시치",
+                "lt": "Nikšičius",
+                "lv": "Nikšiča",
+                "mk": "Никшиќ",
+                "ru": "Никшич",
+                "sq": "Nikshiqi",
+                "sr": "Никшић",
+                "sr-latn": "Nikšić",
+                "th": "นิกชิช",
+                "tr": "Nikşik",
+                "tt": "Никшич",
+                "uk": "Никшич",
+                "ur": "نیکشیچ"
+            },
+            "place_type": 67,
+            "population": 56970,
+            "latitude": 42.7739388,
+            "longitude": 18.9488097,
+            "geocell": 4779189,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 255351703,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "http://www.niksic.me/",
+                "wikidata_page_name": "Q200733",
+                "wikipedia_pages": {
+                    "sr": "Nikšić"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 292101644,
+            "country": 499,
+            "level1area": [
+                "me14"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بلييفليا",
+                "az": "Plyevlya",
+                "be": "Плеўля",
+                "bg": "Плевля",
+                "bs": "Pljevlja",
+                "de": "Pljevlja",
+                "el": "Πλιέβλια",
+                "en": "Pljevlja",
+                "fa": "پلیفلیا",
+                "he": "פלייבליה",
+                "hr": "Pljevlja",
+                "ja": "プリェヴリャ",
+                "ka": "პლევლია",
+                "ko": "플레블라",
+                "lt": "Plevlia",
+                "mk": "Плевља",
+                "ru": "Плевля",
+                "sq": "Plevla",
+                "sr": "Пљевља",
+                "sr-latn": "Pljevlja",
+                "th": "ปลิเยวลิยา",
+                "tr": "Taşlıca",
+                "uk": "Плєвля",
+                "ur": "پلئیولیا"
+            },
+            "place_type": 67,
+            "population": 19136,
+            "latitude": 43.3565611,
+            "longitude": 19.3584715,
+            "geocell": 4800793,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 292101644,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://pljevlja.me/",
+                "wikidata_page_name": "Q211343",
+                "wikipedia_pages": {
+                    "sr": "Пљевља"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 307861977,
+            "country": 499,
+            "level1area": [
+                "me17"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "روجايي",
+                "bg": "Рожае",
+                "bs": "Rožaje",
+                "el": "Ρόζαγιε",
+                "fa": "روژایه",
+                "hr": "Rožaje",
+                "ja": "ロジャイェ",
+                "ka": "როჟაიე",
+                "ko": "로자예",
+                "lt": "Rožajė",
+                "mk": "Рожае",
+                "ru": "Рожае",
+                "sq": "Rozhaja",
+                "sr": "Рожаје",
+                "sr-latn": "Rožaje",
+                "tr": "Rojay",
+                "uk": "Рожає",
+                "ur": "روژایے"
+            },
+            "place_type": 84,
+            "population": 22693,
+            "latitude": 42.8416663,
+            "longitude": 20.1659665,
+            "geocell": 4782801,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 307861977,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.rozaje.me/",
+                "wikidata_page_name": "Q506775",
+                "wikipedia_pages": {
+                    "sr-latn": "sh:Rožaje"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 313119774,
+            "country": 499,
+            "level1area": [
+                "me04"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بييلو بوليي",
+                "be": "Біела-Поле",
+                "bg": "Биело поле",
+                "bs": "Bijelo Polje",
+                "el": "Μπιέλο Πόλιε",
+                "fa": "بیجلو پولیه",
+                "he": "ביילו פולה",
+                "hr": "Bijelo Polje",
+                "ja": "ビイェロ・ポリェ",
+                "ka": "ბიელო-პოლე",
+                "ko": "비옐로폴레",
+                "lt": "Bijelo Polė",
+                "mk": "Бијело Поље",
+                "ru": "Биело-Поле",
+                "sq": "Bellopoja",
+                "sr": "Бијело Поље",
+                "sr-latn": "Bijelo Polje",
+                "tr": "Akova",
+                "uk": "Бієло-Полє",
+                "ur": "بیئلو پولیے"
+            },
+            "place_type": 67,
+            "population": 13117,
+            "latitude": 43.0341595,
+            "longitude": 19.7473559,
+            "geocell": 4789997,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 313119774,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.bijelopolje.co.me/",
+                "wikidata_page_name": "Q207470",
+                "wikipedia_pages": {
+                    "sr": "Бијело Поље"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 320443766,
+            "country": 499,
+            "level1area": [
+                "me03"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "براني",
+                "bg": "Беране",
+                "bs": "Berane",
+                "el": "Μπέρανε",
+                "en": "Berane",
+                "fa": "برانه",
+                "he": "בראן",
+                "hr": "Berane",
+                "ja": "ベラネ",
+                "ka": "ბერანე",
+                "ko": "베라네",
+                "lt": "Beranė",
+                "mk": "Беране",
+                "ru": "Беране",
+                "sq": "Berana",
+                "sr": "Беране",
+                "sr-latn": "Berane",
+                "uk": "Беране",
+                "ur": "بیرانے"
+            },
+            "place_type": 84,
+            "population": 11776,
+            "latitude": 42.846826,
+            "longitude": 19.8740451,
+            "geocell": 4782798,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 320443766,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://berane.me/",
+                "wikidata_page_name": "Q208200",
+                "wikipedia_pages": {
+                    "sr-latn": "sh:Berane"
+                }
+            }
+        }
+    }
+]

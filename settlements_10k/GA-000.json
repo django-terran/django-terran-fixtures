@@ -1,0 +1,257 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27565068,
+            "country": 266,
+            "level1area": [
+                "ga1"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ليبرفيل",
+                "az": "Librevil",
+                "be": "Лібрэвіль",
+                "bg": "Либревил",
+                "br": "Libreville",
+                "ckb": "لیبرێڤیل",
+                "cs": "Libreville",
+                "de": "Libreville",
+                "el": "Λιμπρβίλ",
+                "en": "Libreville",
+                "eo": "Librevilo",
+                "es": "Libreville",
+                "fa": "لیبرویل",
+                "fr": "Libreville",
+                "he": "ליברוויל",
+                "hi": "लिबरेविले",
+                "hu": "Libreville",
+                "hy": "Լիբրևիլ",
+                "is": "Libreville",
+                "it": "Libreville",
+                "ja": "リーブルヴィル",
+                "ka": "ლიბრევილი",
+                "ko": "리브르빌",
+                "ky": "Либревил",
+                "lt": "Librevilis",
+                "lv": "Librevila",
+                "mk": "Либрвил",
+                "mr": "लिब्रेव्हिल",
+                "nl": "Libreville",
+                "pl": "Libreville",
+                "pt": "Libreville",
+                "ru": "Либревиль",
+                "sr": "Либрвил",
+                "sv": "Libreville",
+                "ta": "லிப்ரவில்",
+                "tg": "Либревил",
+                "th": "ลีเบรอวิล",
+                "tr": "Libreville",
+                "udm": "Либревиль",
+                "uk": "Лібревіль",
+                "ur": "لبریویل"
+            },
+            "place_type": 67,
+            "population": 850000,
+            "latitude": 0.4086518,
+            "longitude": 9.4418849,
+            "geocell": 3256294,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27565068,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3825",
+                "wikipedia_pages": {
+                    "fr": "Libreville"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 254528943,
+            "country": 266,
+            "level1area": [
+                "ga2"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "فرانسفيل",
+                "fr": "Franceville",
+                "ja": "フランスヴィル",
+                "ko": "프랑스빌",
+                "lt": "Fransvilis",
+                "ru": "Франсвиль",
+                "uk": "Франсвіль"
+            },
+            "place_type": 67,
+            "population": 56000,
+            "latitude": -1.6343979,
+            "longitude": 13.5894808,
+            "geocell": 3180735,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 254528943,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "http://www.franceville.ga",
+                "wikidata_page_name": "Q459369",
+                "wikipedia_pages": {
+                    "fr": "Franceville"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 331139740,
+            "country": 266,
+            "level1area": [
+                "ga9"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Oyem",
+                "fr": "Oyem",
+                "ru": "Оем",
+                "uk": "Оєм"
+            },
+            "place_type": 67,
+            "population": 35000,
+            "latitude": 1.5997904,
+            "longitude": 11.5751003,
+            "geocell": 3295915,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 331139740,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "http://www.oyem.ga/#",
+                "wikidata_page_name": "Q983886",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 331155527,
+            "country": 266,
+            "level1area": [
+                "ga4"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Mouila",
+                "ru": "Муила"
+            },
+            "place_type": 67,
+            "population": 22469,
+            "latitude": -1.8627018,
+            "longitude": 11.058713,
+            "geocell": 3173510,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 331155527,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q746670",
+                "wikipedia_pages": {
+                    "fr": "Mouila"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 339582598,
+            "country": 266,
+            "level1area": [
+                "ga8"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بورت جنتيل",
+                "en": "Port-Gentil",
+                "fr": "Port-Gentil",
+                "ko": "포르장티",
+                "ru": "Порт-Жантиль",
+                "uk": "Порт-Жантіль"
+            },
+            "place_type": 67,
+            "population": 136462,
+            "latitude": -0.7151966,
+            "longitude": 8.7787919,
+            "geocell": 3213087,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 339582598,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2178082117,
+            "country": 266,
+            "level1area": [
+                "ga7"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Lastoursville"
+            },
+            "place_type": 67,
+            "population": 11990,
+            "latitude": -0.810295,
+            "longitude": 12.7310246,
+            "geocell": 3209527,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2178082117,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1818610",
+                "wikipedia_pages": {
+                    "fr": "Lastoursville"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2178090546,
+            "country": 266,
+            "level1area": [
+                "ga2"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Moanda"
+            },
+            "place_type": 67,
+            "population": 39300,
+            "latitude": -1.554764,
+            "longitude": 13.2218993,
+            "geocell": 3184332,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2178090546,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1015100",
+                "wikipedia_pages": {
+                    "en": "Moanda"
+                }
+            }
+        }
+    }
+]

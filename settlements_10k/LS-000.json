@@ -1,0 +1,163 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30656833,
+            "country": 426,
+            "level1area": [
+                "lsa"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ماسيرو",
+                "be": "Масеру",
+                "bg": "Масеру",
+                "br": "Maseru",
+                "ckb": "ماسێرو",
+                "de": "Maseru",
+                "el": "Μαζέρου",
+                "en": "Maseru",
+                "eo": "Maseruo",
+                "es": "Maseru",
+                "fa": "ماسرو",
+                "fr": "Maseru",
+                "he": "מסרו",
+                "hi": "मासेरू",
+                "hu": "Maseru",
+                "hy": "Մասերու",
+                "is": "Maserú",
+                "it": "Maseru",
+                "ja": "マセル",
+                "ka": "მასერუ",
+                "kn": "ಮಸೇರು",
+                "ko": "마세루",
+                "ky": "Масеру",
+                "lt": "Maseru",
+                "mk": "Масеру",
+                "mr": "मासेरू",
+                "nl": "Maseru",
+                "os": "Масеру",
+                "pl": "Maseru",
+                "pt": "Maseru",
+                "ru": "Масеру",
+                "sr": "Масеру",
+                "st": "Maseru",
+                "sv": "Maseru",
+                "ta": "மசேரு",
+                "tg": "Масеру",
+                "th": "มาเซรู",
+                "tr": "Maseru",
+                "udm": "Масеру",
+                "uk": "Масеру",
+                "ur": "ماسیرو"
+            },
+            "place_type": 67,
+            "population": 227880,
+            "latitude": -29.310054,
+            "longitude": 27.478222,
+            "geocell": 2183674,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30656833,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3909",
+                "wikipedia_pages": {
+                    "en": "Maseru"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 243645370,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Мохалес-Хук",
+                "st": "Mohale's Hoek"
+            },
+            "place_type": 84,
+            "population": 24992,
+            "latitude": -30.1516305,
+            "longitude": 27.4770113,
+            "geocell": 2154874,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 243645370,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1818943",
+                "wikipedia_pages": {
+                    "en": "Mohale's Hoek"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 317708986,
+            "country": 426,
+            "level1area": [
+                "lsd"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Теятеяненг",
+                "st": "Teyateyaneng"
+            },
+            "place_type": 84,
+            "population": 75115,
+            "latitude": -29.1519737,
+            "longitude": 27.7427554,
+            "geocell": 2190877,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 317708986,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q844423",
+                "wikipedia_pages": {
+                    "en": "Teyateyaneng"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2954767335,
+            "country": 426,
+            "level1area": [
+                "lse"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mafeteng",
+                "ru": "Мафетенг",
+                "st": "Mafeteng",
+                "uk": "Мафетенг"
+            },
+            "place_type": 84,
+            "population": 57059,
+            "latitude": -29.8224468,
+            "longitude": 27.2388281,
+            "geocell": 2165672,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2954767335,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1013379",
+                "wikipedia_pages": {
+                    "en": "Mafeteng"
+                }
+            }
+        }
+    }
+]

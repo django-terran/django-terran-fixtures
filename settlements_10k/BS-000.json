@@ -1,0 +1,96 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 115664268,
+            "country": 44,
+            "level1area": [
+                "bsnp"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ناساو",
+                "be": "Насау",
+                "bg": "Насау",
+                "br": "Nassau",
+                "ckb": "ناساو",
+                "de": "Nassau",
+                "el": "Νασσάου",
+                "en": "Nassau",
+                "eo": "Nasaŭo",
+                "es": "Nasáu",
+                "fa": "ناسائو",
+                "fr": "Nassau",
+                "he": "נסאו",
+                "hu": "Nassau",
+                "hy": "Նասաու",
+                "is": "Nassá",
+                "ja": "ナッソー",
+                "ka": "ნასაუ",
+                "ko": "나소",
+                "lt": "Nasau",
+                "lv": "Naso",
+                "mk": "Насау",
+                "ml": "നാസോ",
+                "mr": "नासाउ",
+                "nn": "Nassau",
+                "os": "Нассау",
+                "pl": "Nassau",
+                "ru": "Нассау",
+                "sr": "Насау",
+                "sv": "Nassau",
+                "ta": "நாசோ",
+                "th": "แนสซอ",
+                "uk": "Нассау",
+                "ur": "نساؤ"
+            },
+            "place_type": 67,
+            "population": 259300,
+            "latitude": 25.0782266,
+            "longitude": -77.3383438,
+            "geocell": 4141026,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 115664268,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2467",
+                "wikipedia_pages": {
+                    "de": "Nassau (Bahamas)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1891921400,
+            "country": 44,
+            "level1area": [
+                "bsfp"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Freeport",
+                "hu": "Freeport",
+                "ru": "Фрипорт",
+                "uk": "Фріпорт"
+            },
+            "place_type": 67,
+            "population": 45945,
+            "latitude": 26.535681,
+            "longitude": -78.6953623,
+            "geocell": 4195013,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1891921400,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q867573",
+                "wikipedia_pages": {
+                    "en": "Freeport, Bahamas"
+                }
+            }
+        }
+    }
+]

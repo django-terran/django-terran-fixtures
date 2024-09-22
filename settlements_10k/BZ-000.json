@@ -1,0 +1,217 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 282294082,
+            "country": 84,
+            "level1area": [
+                "bzcy"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بلموبان",
+                "be": "Бельмапан",
+                "bg": "Белмопан",
+                "ckb": "بێلمۆپان",
+                "de": "Belmopan",
+                "el": "Μπελμοπάν",
+                "en": "Belmopan",
+                "eo": "Belmopano",
+                "es": "Belmopán",
+                "fa": "بلموپان",
+                "fr": "Belmopan",
+                "gl": "Belmopán",
+                "he": "בלמופן",
+                "hi": "बेल्मोपान",
+                "hu": "Belmopan",
+                "hy": "Բելմոպան",
+                "is": "Belmópan",
+                "ja": "ベルモパン",
+                "ka": "ბელმოპანი",
+                "ko": "벨모판",
+                "lt": "Belmopanas",
+                "lv": "Belmopana",
+                "mk": "Белмопан",
+                "mr": "बेल्मोपान",
+                "pl": "Belmopan",
+                "ru": "Бельмопан",
+                "sr": "Белмопан",
+                "sv": "Belmopan",
+                "ta": "பெல்மோப்பான்",
+                "th": "เบลโมแพน",
+                "tr": "Belmopán",
+                "uk": "Бельмопан"
+            },
+            "place_type": 67,
+            "population": 20754,
+            "latitude": 17.250199,
+            "longitude": -88.770018,
+            "geocell": 3860112,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 282294082,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3043",
+                "wikipedia_pages": {
+                    "en": "Belmopan"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 282297046,
+            "country": 84,
+            "level1area": [
+                "bzbz"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Belize Stadt",
+                "en": "Belize City",
+                "es": "Ciudad de Belice",
+                "fr": "Belize",
+                "hu": "Belize City",
+                "lt": "Belizas",
+                "uk": "Беліз"
+            },
+            "place_type": 67,
+            "population": 63999,
+            "latitude": 17.5002768,
+            "longitude": -88.1988737,
+            "geocell": 3870918,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 282297046,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q108223",
+                "wikipedia_pages": {
+                    "en": "Belize City"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 297441760,
+            "country": 84,
+            "level1area": [
+                "bzcy"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "San Ignacio"
+            },
+            "place_type": 84,
+            "population": 17878,
+            "latitude": 17.1527588,
+            "longitude": -89.0761718,
+            "geocell": 3856509,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 297441760,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q724815",
+                "wikipedia_pages": {
+                    "en": "San Ignacio, Belize"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 624692823,
+            "country": 84,
+            "level1area": [
+                "bzbz"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "San Pedro Stadt",
+                "en": "San Pedro",
+                "es": "San Pedro"
+            },
+            "place_type": 84,
+            "population": 15456,
+            "latitude": 17.9204087,
+            "longitude": -87.9621768,
+            "geocell": 3885320,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 624692823,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q677300",
+                "wikipedia_pages": {
+                    "en": "San Pedro Town"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4546749407,
+            "country": 84,
+            "level1area": [
+                "bzow"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Orange Walk Stadt",
+                "en": "Orange Walk",
+                "es": "Orange Walk"
+            },
+            "place_type": 84,
+            "population": 14553,
+            "latitude": 18.0804488,
+            "longitude": -88.5613615,
+            "geocell": 3888914,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4546749407,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q882964",
+                "wikipedia_pages": {
+                    "en": "Orange Walk Town"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9738788310,
+            "country": 84,
+            "level1area": [
+                "bzcy"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "San Ignacio & Santa Elena"
+            },
+            "place_type": 67,
+            "population": 21111,
+            "latitude": 17.1582776,
+            "longitude": -89.0681672,
+            "geocell": 3856509,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9738788310,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q724815",
+                "wikipedia_pages": {
+                    "en": "San Ignacio, Belize"
+                }
+            }
+        }
+    }
+]

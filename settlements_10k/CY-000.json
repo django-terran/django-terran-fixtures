@@ -1,0 +1,536 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9331795,
+            "country": 196,
+            "level1area": [
+                "cy02"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ليماسول",
+                "de": "Limassol",
+                "el": "Λεμεσός",
+                "en": "Limassol",
+                "es": "Limasol",
+                "et": "Limassol",
+                "eu": "Limasol",
+                "fr": "Limassol",
+                "he": "לימסול",
+                "hu": "Limassol",
+                "hy": "Լիմասոլ",
+                "it": "Limisso",
+                "mk": "Лимасол",
+                "ml": "ലിമസ്സോൾ",
+                "nl": "Limassol",
+                "nn": "Lemesós",
+                "ru": "Лимасол",
+                "tr": "Limasol",
+                "uk": "Лімасол"
+            },
+            "place_type": 67,
+            "population": 101000,
+            "latitude": 34.6852901,
+            "longitude": 33.0332657,
+            "geocell": 4487730,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9331795,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q185632",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 21422610,
+            "country": 196,
+            "level1area": [
+                "cy04"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "باراليمني",
+                "de": "Paralimni",
+                "el": "Παραλίμνι",
+                "en": "Paralimni",
+                "es": "Paralimni",
+                "eu": "Paralimni",
+                "fr": "Paralimni",
+                "he": "פאראלימני",
+                "hu": "Paralímni",
+                "lt": "Paralimnis",
+                "ru": "Паралимни",
+                "tr": "Paralimni",
+                "uk": "Паралімні"
+            },
+            "place_type": 84,
+            "population": 15000,
+            "latitude": 35.0391526,
+            "longitude": 33.9828013,
+            "geocell": 4502139,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 21422610,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.paralimni.org.cy/",
+                "wikidata_page_name": "Q954174",
+                "wikipedia_pages": {
+                    "en": "Paralimni"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 67322815,
+            "country": 196,
+            "level1area": [
+                "cy03"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أراديبو",
+                "de": "Aradippou",
+                "el": "Αραδίππου",
+                "en": "Aradhippou",
+                "eu": "Aradipou",
+                "fr": "Aradippou",
+                "hu": "Aradíppu",
+                "lt": "Aradipu",
+                "pl": "Aradipu",
+                "ru": "Арадиппоу",
+                "tr": "Aradippu",
+                "uk": "Арадіппоу"
+            },
+            "place_type": 84,
+            "population": 20000,
+            "latitude": 34.9496176,
+            "longitude": 33.5926752,
+            "geocell": 4498535,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 67322815,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.aradippou.org.cy/",
+                "wikidata_page_name": "Q2009604",
+                "wikipedia_pages": {
+                    "en": "Aradhippou"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 676672956,
+            "country": 196,
+            "level1area": [
+                "cy06"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "غرنة",
+                "de": "Kyrenia",
+                "el": "Κερύνεια",
+                "en": "Kyrenia",
+                "et": "Kyrenia",
+                "eu": "Kirenia",
+                "fi": "Kyrenia",
+                "fr": "Kyrenia",
+                "hu": "Girne",
+                "ml": "കുറേന്യ",
+                "ru": "Кирения",
+                "tr": "Girne",
+                "uk": "Кіренія"
+            },
+            "place_type": 67,
+            "population": 33207,
+            "latitude": 35.3396291,
+            "longitude": 33.3205287,
+            "geocell": 4512933,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 676672956,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q206760",
+                "wikipedia_pages": {
+                    "el": "Κερύνεια"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1621752518,
+            "country": 196,
+            "level1area": [
+                "cy02"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Ύψωνας",
+                "en": "Ypsonas",
+                "hu": "Ípszonasz",
+                "tr": "İpsona",
+                "uk": "Іпсонас"
+            },
+            "place_type": 84,
+            "population": 10916,
+            "latitude": 34.6903956,
+            "longitude": 32.9631519,
+            "geocell": 4487729,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1621752518,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3560553",
+                "wikipedia_pages": {
+                    "en": "Ypsonas"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1893015330,
+            "country": 196,
+            "level1area": [
+                "cy01"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Nicosia",
+                "ar": "نيقوسيا",
+                "az": "Nikosiya",
+                "be": "Нікасія",
+                "bg": "Никозия",
+                "bn": "নিকোসিয়া",
+                "br": "Nikozia",
+                "bs": "Nikozija",
+                "ca": "Nicòsia",
+                "ckb": "نیکۆسیا",
+                "cs": "Nikósie",
+                "cy": "Nicosia",
+                "da": "Nicosia",
+                "de": "Nikosia",
+                "el": "Λευκωσία",
+                "en": "Nicosia",
+                "eo": "Nikozio",
+                "es": "Nicosia",
+                "et": "Nikosia",
+                "eu": "Nikosia",
+                "fa": "لفکوشای",
+                "fr": "Nicosie",
+                "ga": "An Leafcóis",
+                "gd": "Nicosia",
+                "gl": "Nicosia",
+                "he": "ניקוסיה",
+                "hi": "निकोसिया",
+                "hr": "Nikozija",
+                "hu": "Nicosia",
+                "hy": "Նիկոսիա",
+                "is": "Nikósía",
+                "it": "Nicosia",
+                "ja": "ニコシア",
+                "ka": "ნიქოზია",
+                "kk": "Никосия",
+                "kn": "ನಿಕೋಸಿಯ",
+                "ko": "니코시아",
+                "ky": "Лефкоша",
+                "lt": "Nikosija",
+                "lv": "Nikosija",
+                "mk": "Левкозија",
+                "ml": "നിക്കോഷ്യ",
+                "mr": "निकोसिया",
+                "ms": "Nicosia",
+                "nl": "Nicosia",
+                "os": "Никоси",
+                "pl": "Nikozja",
+                "pt": "Nicósia",
+                "ro": "Nicosia",
+                "ru": "Никосия",
+                "sk": "Nikózia",
+                "sl": "Nikozija",
+                "sq": "Nicosia",
+                "sr": "Никозија",
+                "sv": "Nicosia",
+                "ta": "நிக்கோசியா",
+                "tg": "Никосия",
+                "th": "นิโคเซีย",
+                "tr": "Lefkoşa",
+                "tt": "Никосия",
+                "udm": "Никосия",
+                "ug": "نىكوسىيە",
+                "uk": "Нікосія",
+                "ur": "نیکوسیا",
+                "vi": "Nicosia"
+            },
+            "place_type": 67,
+            "population": 310355,
+            "latitude": 35.1746503,
+            "longitude": 33.3638783,
+            "geocell": 4505733,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1893015330,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "http://www.nicosia.org.cy/",
+                "wikidata_page_name": "Q3856",
+                "wikipedia_pages": {
+                    "el": "Λευκωσία"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1939509422,
+            "country": 196,
+            "level1area": [
+                "cy03"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "لارنكا",
+                "ckb": "لارناکا",
+                "de": "Larnaka",
+                "el": "Λάρνακα",
+                "en": "Larnaca",
+                "et": "Larnaca",
+                "eu": "Larnaka",
+                "fr": "Larnaca",
+                "he": "לרנקה",
+                "hu": "Lárnaka",
+                "it": "Larnaca",
+                "lt": "Larnaka",
+                "mk": "Ларнака",
+                "ml": "ലാർനാക്ക",
+                "nl": "Larnaca",
+                "pl": "Larnaka",
+                "ru": "Ларнака",
+                "sl": "Larnaka",
+                "tr": "Larnaka",
+                "uk": "Ларнака"
+            },
+            "place_type": 67,
+            "population": 51468,
+            "latitude": 34.9236095,
+            "longitude": 33.6236184,
+            "geocell": 4498536,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1939509422,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.larnaka.org.cy/",
+                "wikidata_page_name": "Q171882",
+                "wikipedia_pages": {
+                    "en": "Larnaca"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2011086710,
+            "country": 196,
+            "level1area": [
+                "cy01"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "دالي",
+                "el": "Δάλι",
+                "en": "Dali",
+                "eu": "Dali",
+                "fr": "Dali",
+                "hu": "Dáli",
+                "ru": "Дали",
+                "tr": "Dali",
+                "uk": "Далі"
+            },
+            "place_type": 84,
+            "population": 10000,
+            "latitude": 35.0225693,
+            "longitude": 33.4218073,
+            "geocell": 4502134,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2011086710,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.dali.org.cy/",
+                "wikidata_page_name": "Q2555453",
+                "wikipedia_pages": {
+                    "en": "Dali, Cyprus"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2052006010,
+            "country": 196,
+            "level1area": [
+                "cy01"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Lakatamia",
+                "el": "Λακατάμεια",
+                "en": "Lakatamia",
+                "eu": "Lakatamia",
+                "hu": "Lakatámia",
+                "tr": "Lakadamya",
+                "uk": "Лакатамія"
+            },
+            "place_type": 84,
+            "population": 38345,
+            "latitude": 35.1200946,
+            "longitude": 33.3078496,
+            "geocell": 4505733,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2052006010,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q349503",
+                "wikipedia_pages": {
+                    "en": "Lakatamia"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2052006016,
+            "country": 196,
+            "level1area": [
+                "cy01"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "استروفولوس",
+                "de": "Strovolos",
+                "el": "Στρόβολος",
+                "en": "Strovolos",
+                "es": "Strovolos",
+                "fr": "Strovolos",
+                "hu": "Sztróvolosz",
+                "ru": "Строволос",
+                "tr": "Strovolos",
+                "uk": "Строволос"
+            },
+            "place_type": 84,
+            "population": 67904,
+            "latitude": 35.1328993,
+            "longitude": 33.3454972,
+            "geocell": 4505733,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2052006016,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q668370",
+                "wikipedia_pages": {
+                    "en": "Strovolos"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2057562429,
+            "country": 196,
+            "level1area": [
+                "cy01"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Λατσιά",
+                "en": "Latsia",
+                "hu": "Laciá",
+                "tr": "Latça",
+                "uk": "Лачія"
+            },
+            "place_type": 84,
+            "population": 12195,
+            "latitude": 35.0995648,
+            "longitude": 33.3815988,
+            "geocell": 4502133,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2057562429,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.latsia.org.cy/",
+                "wikidata_page_name": "Q2430447",
+                "wikipedia_pages": {
+                    "en": "Latsia"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5614350943,
+            "country": 196,
+            "level1area": [
+                "cy05"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بافوس",
+                "de": "Paphos",
+                "el": "Πάφος",
+                "en": "Pafos",
+                "es": "Pafos",
+                "et": "Paphos",
+                "eu": "Pafos",
+                "fr": "Paphos",
+                "hu": "Páfosz",
+                "it": "Pafo",
+                "ml": "പാഫോസ്",
+                "nl": "Paphos",
+                "ru": "Пафос",
+                "tr": "Baf",
+                "uk": "Пафос"
+            },
+            "place_type": 67,
+            "population": 32892,
+            "latitude": 34.7743988,
+            "longitude": 32.4231586,
+            "geocell": 4491324,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5614350943,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.pafos.org.cy/",
+                "wikidata_page_name": "Q180918",
+                "wikipedia_pages": {
+                    "es": "Pafos"
+                }
+            }
+        }
+    }
+]

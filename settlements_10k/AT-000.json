@@ -1,0 +1,2350 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 17328659,
+            "country": 40,
+            "level1area": [
+                "at9"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Wene",
+                "ar": "فيينا",
+                "ast": "Viena",
+                "az": "Vyana",
+                "be": "Вена",
+                "bg": "Виена",
+                "bn": "ভিয়েনা",
+                "br": "Vienna",
+                "bs": "Beč",
+                "ca": "Viena",
+                "ckb": "ڤیێنا",
+                "cs": "Vídeň",
+                "de": "Wien",
+                "el": "Βιέννη",
+                "en": "Vienna",
+                "eo": "Vieno",
+                "es": "Viena",
+                "et": "Viin",
+                "eu": "Viena",
+                "fa": "وین",
+                "fi": "Wien",
+                "fr": "Vienne",
+                "fy": "Wenen",
+                "ga": "Vín",
+                "gd": "Vienna",
+                "gl": "Viena",
+                "he": "וינה",
+                "hi": "वियना",
+                "hr": "Beč",
+                "hu": "Bécs",
+                "hy": "Վիեննա",
+                "ia": "Vienna",
+                "id": "Wina",
+                "is": "Vín",
+                "it": "Vienna",
+                "ja": "ウィーン",
+                "ka": "ვენა",
+                "kab": "Wien",
+                "kk": "Вена",
+                "kn": "ವಿಯೆನ್ನ",
+                "ko": "빈",
+                "ky": "Вена",
+                "lt": "Viena",
+                "lv": "Vīne",
+                "mk": "Виена",
+                "ml": "വിയന്ന",
+                "mn": "Вена",
+                "mr": "व्हियेना",
+                "ms": "Vienna",
+                "my": "ဗီယင်နာမြို့",
+                "nl": "Wenen",
+                "os": "Венæ",
+                "pl": "Wiedeń",
+                "pt": "Viena",
+                "ro": "Viena",
+                "ru": "Вена",
+                "sk": "Viedeň",
+                "sl": "Dunaj",
+                "sq": "Vjena",
+                "sr": "Беч",
+                "sv": "Wien",
+                "sw": "Vienna",
+                "ta": "வியன்னா",
+                "tg": "Вена",
+                "th": "เวียนนา",
+                "tk": "Wena",
+                "tr": "Viyana",
+                "tt": "Вена шәһәре",
+                "udm": "Вена",
+                "ug": "Wyéna",
+                "uk": "Відень",
+                "ur": "ویانا",
+                "uz": "Vena",
+                "vi": "Viên"
+            },
+            "place_type": 67,
+            "population": 1920949,
+            "latitude": 48.2083537,
+            "longitude": 16.3725042,
+            "geocell": 4977163,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 17328659,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.wien.gv.at/",
+                "wikidata_page_name": "Q1741",
+                "wikipedia_pages": {
+                    "de": "Wien"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 21015489,
+            "country": 40,
+            "level1area": [
+                "at6"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "غراتس",
+                "be": "Грац",
+                "bg": "Грац",
+                "cs": "Štýrský Hradec",
+                "de": "Graz",
+                "en": "Graz",
+                "fr": "Graz",
+                "hr": "Graz",
+                "hsb": "Štyrski Hródk",
+                "hu": "Grác",
+                "ka": "გრაცი",
+                "lt": "Gracas",
+                "mk": "Грац",
+                "ml": "ഗ്രാസ്",
+                "ro": "Graz",
+                "ru": "Грац",
+                "sl": "Gradec",
+                "sr": "Грац",
+                "ta": "க்ராத்ஸ்",
+                "uk": "Грац"
+            },
+            "place_type": 67,
+            "population": 331359,
+            "latitude": 47.0708678,
+            "longitude": 15.4382786,
+            "geocell": 4933954,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 21015489,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "8010",
+                    "8020",
+                    "8036",
+                    "8041",
+                    "8042",
+                    "8043",
+                    "8044",
+                    "8045",
+                    "8046",
+                    "8047",
+                    "8051",
+                    "8052",
+                    "8053",
+                    "8054",
+                    "8055",
+                    "8073",
+                    "8074",
+                    "8012",
+                    "8013",
+                    "8015",
+                    "8016",
+                    "8017",
+                    "8018",
+                    "8019",
+                    "8022",
+                    "8023",
+                    "8024",
+                    "8025",
+                    "8026",
+                    "8027",
+                    "8028",
+                    "8029",
+                    "8035",
+                    "8056"
+                ],
+                "website": "https://www.graz.at/",
+                "wikidata_page_name": "Q13298",
+                "wikipedia_pages": {
+                    "de": "Graz"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25181326,
+            "country": 40,
+            "level1area": [
+                "at4"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "لنتس",
+                "be": "Лінц",
+                "bg": "Линц",
+                "cs": "Linec",
+                "de": "Linz",
+                "en": "Linz",
+                "fr": "Linz",
+                "hu": "Linz",
+                "hy": "Լինց",
+                "ja": "リンツ",
+                "ka": "ლინყი",
+                "mk": "Линц",
+                "ml": "ലിൻ്റ്സ്",
+                "ro": "Linz",
+                "ru": "Линц",
+                "sr": "Линц",
+                "uk": "Лінц"
+            },
+            "place_type": 67,
+            "population": 207812,
+            "latitude": 48.3059078,
+            "longitude": 14.286198,
+            "geocell": 4980742,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25181326,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q41329",
+                "wikipedia_pages": {
+                    "de": "Linz"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26370473,
+            "country": 40,
+            "level1area": [
+                "at5"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Zell am See",
+                "hu": "Zell am See",
+                "ru": "Целль-ам-Зе"
+            },
+            "place_type": 84,
+            "population": 10131,
+            "latitude": 47.3239636,
+            "longitude": 12.7963165,
+            "geocell": 4944727,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26370473,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5700",
+                    "5705"
+                ],
+                "wikidata_page_name": "Q187572",
+                "wikipedia_pages": {
+                    "de": "Zell am See"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26748998,
+            "country": 40,
+            "level1area": [
+                "at4"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Wels",
+                "hu": "Wels",
+                "lt": "Velsas",
+                "ml": "വെൽസ്",
+                "uk": "Вельс"
+            },
+            "place_type": 84,
+            "population": 59853,
+            "latitude": 48.1565472,
+            "longitude": 14.0243752,
+            "geocell": 4973540,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26748998,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.wels.at/",
+                "wikidata_page_name": "Q178582",
+                "wikipedia_pages": {
+                    "de": "Wels (Stadt)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26754457,
+            "country": 40,
+            "level1area": [
+                "at6"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Leoben",
+                "hu": "Leoben",
+                "ru": "Леобен"
+            },
+            "place_type": 84,
+            "population": 24645,
+            "latitude": 47.3805128,
+            "longitude": 15.0947756,
+            "geocell": 4944750,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26754457,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26807229,
+            "country": 40,
+            "level1area": [
+                "at3"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "فينر نويشتات",
+                "bg": "Винер Нойщат",
+                "bs": "Bečko Novo Mjesto",
+                "cs": "Vídeňské Nové Město",
+                "de": "Wiener Neustadt",
+                "he": "וינר נוישטט",
+                "hr": "Bečko Novo Mjesto",
+                "hu": "Bécsújhely",
+                "ja": "ウィーナー・ノイシュタット",
+                "ka": "ვენური ახალქალაქი",
+                "lt": "Vyner Noištatas",
+                "ml": "വീനർ നോയ്‌സ്റ്റാറ്റ്",
+                "ru": "Винер-Нойштадт",
+                "sk": "Viedenské Nové Mesto",
+                "sl": "Dunajsko Novo mesto",
+                "sr": "Винер Нојштат",
+                "uk": "Вінер-Нойштадт"
+            },
+            "place_type": 84,
+            "population": 38481,
+            "latitude": 47.8131847,
+            "longitude": 16.2441166,
+            "geocell": 4962762,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26807229,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.wiener-neustadt.at/",
+                "wikidata_page_name": "Q131612",
+                "wikipedia_pages": {
+                    "de": "Wiener Neustadt"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26902436,
+            "country": 40,
+            "level1area": [
+                "at7"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Wörgl",
+                "hu": "Wörgl",
+                "ru": "Вёргль"
+            },
+            "place_type": 84,
+            "population": 13811,
+            "latitude": 47.4872718,
+            "longitude": 12.0637633,
+            "geocell": 4948320,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26902436,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26902437,
+            "country": 40,
+            "level1area": [
+                "at7"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كوفشتاين",
+                "de": "Kufstein",
+                "hu": "Kufstein",
+                "ja": "クーフシュタイン",
+                "ru": "Куфштайн"
+            },
+            "place_type": 84,
+            "population": 19223,
+            "latitude": 47.582996,
+            "longitude": 12.1692134,
+            "geocell": 4951921,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26902437,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q486341",
+                "wikipedia_pages": {
+                    "de": "Kufstein"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27270106,
+            "country": 40,
+            "level1area": [
+                "at3"
+            ],
+            "level2area": null,
+            "names": {
+                "cs": "Štokrava",
+                "de": "Stockerau",
+                "hu": "Stockerau",
+                "ml": "സ്റ്റോക്കറൗ",
+                "ru": "Штоккерау"
+            },
+            "place_type": 84,
+            "population": 16858,
+            "latitude": 48.3846124,
+            "longitude": 16.2076303,
+            "geocell": 4980762,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27270106,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q494283",
+                "wikipedia_pages": {
+                    "de": "Stockerau"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29777261,
+            "country": 40,
+            "level1area": [
+                "at2"
+            ],
+            "level2area": null,
+            "names": {
+                "cs": "Bělák",
+                "de": "Villach",
+                "hu": "Villach",
+                "it": "Villaco",
+                "ka": "ფილახი",
+                "ml": "വിലാഹ്",
+                "ru": "Филлах",
+                "sl": "Beljak",
+                "sr": "Филах"
+            },
+            "place_type": 84,
+            "population": 61221,
+            "latitude": 46.6167284,
+            "longitude": 13.8500268,
+            "geocell": 4919538,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29777261,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "9500"
+                ],
+                "wikidata_page_name": "Q483522",
+                "wikipedia_pages": {
+                    "de": "Villach"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29777988,
+            "country": 40,
+            "level1area": [
+                "at2"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كلاغنفورت",
+                "be": "Клагенфурт",
+                "bs": "Celovec",
+                "cs": "Celovec",
+                "de": "Klagenfurt",
+                "en": "Klagenfurt",
+                "es": "Klagenfurt",
+                "fr": "Klagenfurt",
+                "hr": "Klagenfurt",
+                "hsb": "Celowc",
+                "hu": "Klagenfurt",
+                "ja": "クラーゲンフルト・アム・ヴェルターゼー",
+                "ka": "კლაგენფურთი;ცელოვწი",
+                "lt": "Clanforte",
+                "lv": "Klāgenfurte",
+                "mk": "Клагенфурт",
+                "ml": "ക്ലാഗൻഫുർട്ട്",
+                "ru": "Клагенфурт",
+                "sl": "Celovec ob Vrbskem jezeru",
+                "sr": "Клагенфурт",
+                "uk": "Клагенфурт"
+            },
+            "place_type": 67,
+            "population": 100316,
+            "latitude": 46.623943,
+            "longitude": 14.3075976,
+            "geocell": 4919543,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29777988,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "9020"
+                ],
+                "website": "https://www.klagenfurt.at/",
+                "wikidata_page_name": "Q41753",
+                "wikipedia_pages": {
+                    "de": "Klagenfurt am Wörthersee"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30587791,
+            "country": 40,
+            "level1area": [
+                "at4"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Gmunden",
+                "hu": "Gmunden",
+                "ru": "Гмунден"
+            },
+            "place_type": 84,
+            "population": 13104,
+            "latitude": 47.9185855,
+            "longitude": 13.8003048,
+            "geocell": 4966338,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30587791,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4810"
+                ],
+                "wikidata_page_name": "Q430449",
+                "wikipedia_pages": {
+                    "de": "Gmunden"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 31238888,
+            "country": 40,
+            "level1area": [
+                "at2"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Spittal an der Drau",
+                "hu": "Spittal an der Drau",
+                "ja": "シュピッタール"
+            },
+            "place_type": 84,
+            "population": 15549,
+            "latitude": 46.7982211,
+            "longitude": 13.4963308,
+            "geocell": 4923134,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 31238888,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "9800",
+                    "9802",
+                    "9803"
+                ],
+                "wikidata_page_name": "Q487500",
+                "wikipedia_pages": {
+                    "de": "Spittal an der Drau"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 32627098,
+            "country": 40,
+            "level1area": [
+                "at8"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Feldkirch",
+                "el": "Φέλντκιρχ",
+                "ja": "フェルトキルヒ",
+                "mk": "Фелдкирх",
+                "uk": "Фельдкірх"
+            },
+            "place_type": 84,
+            "population": 35793,
+            "latitude": 47.2375671,
+            "longitude": 9.5981724,
+            "geocell": 4941095,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 32627098,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q183104",
+                "wikipedia_pages": {
+                    "de": "Feldkirch"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 34103909,
+            "country": 40,
+            "level1area": [
+                "at3"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Bad Vöslau",
+                "hu": "Bad Vöslau",
+                "ru": "Бад-Фёслау"
+            },
+            "place_type": 84,
+            "population": 11190,
+            "latitude": 47.9655519,
+            "longitude": 16.2148073,
+            "geocell": 4966362,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 34103909,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q798800",
+                "wikipedia_pages": {
+                    "de": "Bad Vöslau"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 34103911,
+            "country": 40,
+            "level1area": [
+                "at3"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Baden",
+                "hr": "Teplice",
+                "hu": "Baden",
+                "lt": "Badenas",
+                "ru": "Баден"
+            },
+            "place_type": 84,
+            "population": 25000,
+            "latitude": 48.0076713,
+            "longitude": 16.2343693,
+            "geocell": 4969962,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 34103911,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q486450",
+                "wikipedia_pages": {
+                    "de": "Baden (Niederösterreich)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 34840064,
+            "country": 40,
+            "level1area": [
+                "at7"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "إنسبروك",
+                "az": "İnsbruk",
+                "be": "Інсбрук",
+                "bg": "Инсбрук",
+                "bn": "ইন্সব্রুক",
+                "cs": "Innsbruck",
+                "de": "Innsbruck",
+                "el": "Ίνσμπρουκ",
+                "en": "Innsbruck",
+                "fa": "اینسبروک",
+                "fr": "Innsbruck",
+                "he": "אינסברוק",
+                "hu": "Innsbruck",
+                "it": "Innsbruck",
+                "ja": "インスブルック",
+                "ka": "ინსბრუკი",
+                "kk": "Инсбрук",
+                "ko": "인스브루크",
+                "lt": "Insbrukas",
+                "lv": "Insbruka",
+                "mk": "Инсбрук",
+                "ml": "ഇൻസ്ബ്രൂക്ക്",
+                "mr": "इन्सब्रुक",
+                "os": "Инсбрук",
+                "ru": "Инсбрук",
+                "sr": "Инзбрук",
+                "th": "อินส์บรุค",
+                "tr": "İnnsbruck",
+                "uk": "Інсбрук"
+            },
+            "place_type": 67,
+            "population": 130585,
+            "latitude": 47.2654296,
+            "longitude": 11.3927685,
+            "geocell": 4941113,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 34840064,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "http://www.innsbruck.at/",
+                "wikidata_page_name": "Q1735",
+                "wikipedia_pages": {
+                    "de": "Innsbruck"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 34849803,
+            "country": 40,
+            "level1area": [
+                "at6"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Gleisdorf",
+                "ru": "Гляйсдорф"
+            },
+            "place_type": 84,
+            "population": 11072,
+            "latitude": 47.1054105,
+            "longitude": 15.7098162,
+            "geocell": 4937557,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 34849803,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q643600",
+                "wikipedia_pages": {
+                    "de": "Gleisdorf"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 34911783,
+            "country": 40,
+            "level1area": [
+                "at6"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Kapfenberg",
+                "ru": "Капфенберг"
+            },
+            "place_type": 84,
+            "population": 23004,
+            "latitude": 47.4405481,
+            "longitude": 15.2901669,
+            "geocell": 4948352,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 34911783,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q623049",
+                "wikipedia_pages": {
+                    "de": "Kapfenberg"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 34964314,
+            "country": 40,
+            "level1area": [
+                "at5"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "زالتسبورغ",
+                "cs": "Salcburk",
+                "de": "Salzburg",
+                "el": "Σάλτσμπουργκ",
+                "en": "Salzburg",
+                "es": "Salzburgo",
+                "fr": "Salzbourg",
+                "he": "זלצבורג",
+                "hu": "Salzburg",
+                "it": "Salisburgo",
+                "ka": "ზალცბურგი",
+                "ko": "짤츠부르크",
+                "lt": "Zalcburgas",
+                "lv": "Zalcburga",
+                "mk": "Салцбург",
+                "ml": "സാൽസ്ബർഗ്",
+                "ro": "Salzburg",
+                "ru": "Зальцбург",
+                "sk": "Soľnohrad",
+                "sr": "Салцбург",
+                "uk": "Зальцбург"
+            },
+            "place_type": 67,
+            "population": 152083,
+            "latitude": 47.7981346,
+            "longitude": 13.0464806,
+            "geocell": 4959130,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 34964314,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "5020",
+                    "5023",
+                    "5026",
+                    "5061",
+                    "5071",
+                    "5082",
+                    "5101",
+                    "5010",
+                    "5012",
+                    "5014",
+                    "5015",
+                    "5016",
+                    "5017",
+                    "5022",
+                    "5024",
+                    "5027",
+                    "5032",
+                    "5033"
+                ],
+                "wikidata_page_name": "Q34713",
+                "wikipedia_pages": {
+                    "de": "Salzburg"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 35350228,
+            "country": 40,
+            "level1area": [
+                "at4"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Ried im Innkreis",
+                "hu": "Ried im Innkreis"
+            },
+            "place_type": 84,
+            "population": 11404,
+            "latitude": 48.2085868,
+            "longitude": 13.48839,
+            "geocell": 4977134,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 35350228,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 44846322,
+            "country": 40,
+            "level1area": [
+                "at3"
+            ],
+            "level2area": null,
+            "names": {
+                "cs": "Mysliboch",
+                "de": "Mistelbach",
+                "hu": "Mistelbach",
+                "ru": "Мистельбах",
+                "sk": "Mysliboch"
+            },
+            "place_type": 84,
+            "population": 10643,
+            "latitude": 48.5694535,
+            "longitude": 16.5720327,
+            "geocell": 4987965,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 44846322,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2130"
+                ],
+                "website": "https://www.mistelbach.at/",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60041539,
+            "country": 40,
+            "level1area": [
+                "at3"
+            ],
+            "level2area": null,
+            "names": {
+                "cs": "Dolina",
+                "de": "Tulln an der Donau",
+                "hu": "Tulln",
+                "ru": "Тульн"
+            },
+            "place_type": 84,
+            "population": 12357,
+            "latitude": 48.3311702,
+            "longitude": 16.05179,
+            "geocell": 4980760,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60041539,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "url": "https://www.tulln.at",
+                "wikidata_page_name": "Q489810",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60806241,
+            "country": 40,
+            "level1area": [
+                "at3"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Amstetten",
+                "hu": "Amstetten"
+            },
+            "place_type": 84,
+            "population": 13878,
+            "latitude": 48.1203262,
+            "longitude": 14.8752424,
+            "geocell": 4973548,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60806241,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 61764877,
+            "country": 40,
+            "level1area": [
+                "at7"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Imst",
+                "ja": "イムスト",
+                "ru": "Имст"
+            },
+            "place_type": 84,
+            "population": 10504,
+            "latitude": 47.2381536,
+            "longitude": 10.7406982,
+            "geocell": 4941107,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 61764877,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6460"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 71650771,
+            "country": 40,
+            "level1area": [
+                "at3"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Perchtoldsdorf"
+            },
+            "place_type": 86,
+            "population": 13998,
+            "latitude": 48.1191393,
+            "longitude": 16.2651702,
+            "geocell": 4973562,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 71650771,
+                "open_street_map_place": "village",
+                "postal_codes": [
+                    "2380"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 76472938,
+            "country": 40,
+            "level1area": [
+                "at7"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Telfs",
+                "hu": "Telfs"
+            },
+            "place_type": 84,
+            "population": 15920,
+            "latitude": 47.3046511,
+            "longitude": 11.071515,
+            "geocell": 4944710,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 76472938,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6410"
+                ],
+                "wikidata_page_name": "Q660015",
+                "wikipedia_pages": {
+                    "de": "Telfs"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 79994020,
+            "country": 40,
+            "level1area": [
+                "at8"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Dornbirn",
+                "hu": "Dornbirn",
+                "ja": "ドルンビルン",
+                "ru": "Дорнбирн",
+                "uk": "Дорнбірн"
+            },
+            "place_type": 84,
+            "population": 51222,
+            "latitude": 47.4136351,
+            "longitude": 9.7423762,
+            "geocell": 4948297,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 79994020,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6850"
+                ],
+                "website": "https://www.dornbirn.at",
+                "wikidata_page_name": "Q171219",
+                "wikipedia_pages": {
+                    "de": "Dornbirn"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 176758063,
+            "country": 40,
+            "level1area": [
+                "at8"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Götzis",
+                "hu": "Götzis",
+                "ru": "Гётцис",
+                "uk": "Ґьотціс"
+            },
+            "place_type": 84,
+            "population": 12041,
+            "latitude": 47.3351291,
+            "longitude": 9.6440092,
+            "geocell": 4944696,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 176758063,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6840"
+                ],
+                "website": "https://goetzis.at/",
+                "wikidata_page_name": "Q698573",
+                "wikipedia_pages": {
+                    "de": "Götzis"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 206378027,
+            "country": 40,
+            "level1area": [
+                "at7"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Lienz",
+                "hu": "Lienz",
+                "ru": "Линц"
+            },
+            "place_type": 84,
+            "population": 12077,
+            "latitude": 46.8298662,
+            "longitude": 12.7681269,
+            "geocell": 4926727,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 206378027,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "9900"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 237042948,
+            "country": 40,
+            "level1area": [
+                "at4"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Braunau am Inn",
+                "hu": "Braunau",
+                "ru": "Браунау-ам-Инн"
+            },
+            "place_type": 84,
+            "population": 16380,
+            "latitude": 48.253136,
+            "longitude": 13.039506,
+            "geocell": 4977130,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 237042948,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q131128",
+                "wikipedia_pages": {
+                    "de": "Braunau am Inn"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240025153,
+            "country": 40,
+            "level1area": [
+                "at3"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "تيرنتس",
+                "de": "Ternitz",
+                "he": "תרניץ",
+                "hu": "Ternitz",
+                "ml": "ടെർനിറ്റ്സ്",
+                "ru": "Терниц"
+            },
+            "place_type": 84,
+            "population": 14823,
+            "latitude": 47.7066007,
+            "longitude": 16.0194688,
+            "geocell": 4959160,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240025153,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.ternitz.gv.at/",
+                "wikidata_page_name": "Q659984",
+                "wikipedia_pages": {
+                    "de": "Ternitz"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240029790,
+            "country": 40,
+            "level1area": [
+                "at8"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Rankweil",
+                "hu": "Rankweil",
+                "uk": "Ранквайль"
+            },
+            "place_type": 84,
+            "population": 12150,
+            "latitude": 47.2703808,
+            "longitude": 9.6426923,
+            "geocell": 4941096,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240029790,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6830"
+                ],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240038219,
+            "country": 40,
+            "level1area": [
+                "at3"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سانت بولتن",
+                "be": "Санкт-Пёльтэн",
+                "cs": "Svatý Hypolit",
+                "de": "St. Pölten",
+                "hu": "Sankt Pölten",
+                "ml": "സാങ്ക്റ്റ്-പോൾട്ടൻ",
+                "ru": "Санкт-Пёльтен",
+                "sr": "Санкт Пелтен"
+            },
+            "place_type": 84,
+            "population": 56360,
+            "latitude": 48.2043985,
+            "longitude": 15.6229118,
+            "geocell": 4977156,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240038219,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q82500",
+                "wikipedia_pages": {
+                    "de": "St. Pölten"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240045557,
+            "country": 40,
+            "level1area": [
+                "at5"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Wals-Siezenheim"
+            },
+            "place_type": 86,
+            "population": 11450,
+            "latitude": 47.7986,
+            "longitude": 12.9807,
+            "geocell": 4959129,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240045557,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240052074,
+            "country": 40,
+            "level1area": [
+                "at3"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Traiskirchen",
+                "fa": "ترایزکیرشن",
+                "hu": "Traiskirchen",
+                "ka": "ტრაისკირხენი",
+                "ru": "Трайскирхен",
+                "sr": "Трајскирхен"
+            },
+            "place_type": 84,
+            "population": 18000,
+            "latitude": 48.0138858,
+            "longitude": 16.2952311,
+            "geocell": 4969962,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240052074,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q659950",
+                "wikipedia_pages": {
+                    "de": "Traiskirchen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240056945,
+            "country": 40,
+            "level1area": [
+                "at3"
+            ],
+            "level2area": null,
+            "names": {
+                "cs": "Světlá",
+                "de": "Zwettl"
+            },
+            "place_type": 84,
+            "population": 10908,
+            "latitude": 48.6052683,
+            "longitude": 15.1681644,
+            "geocell": 4991551,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240056945,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240057320,
+            "country": 40,
+            "level1area": [
+                "at3"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Mödling",
+                "hu": "Mödling",
+                "ka": "მიოდლინგი",
+                "ru": "Мёдлинг"
+            },
+            "place_type": 84,
+            "population": 20619,
+            "latitude": 48.0855922,
+            "longitude": 16.2833526,
+            "geocell": 4969962,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240057320,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "2340"
+                ],
+                "wikidata_page_name": "Q277965",
+                "wikipedia_pages": {
+                    "de": "Mödling"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240059607,
+            "country": 40,
+            "level1area": [
+                "at4"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Ansfelden",
+                "hu": "Ansfelden"
+            },
+            "place_type": 84,
+            "population": 17748,
+            "latitude": 48.2090744,
+            "longitude": 14.2892608,
+            "geocell": 4977142,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240059607,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q257130",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240067971,
+            "country": 40,
+            "level1area": [
+                "at2"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Sankt Veit an der Glan",
+                "hu": "Sankt Veit an der Glan",
+                "sl": "Sveti Vid"
+            },
+            "place_type": 84,
+            "population": 12255,
+            "latitude": 46.7672814,
+            "longitude": 14.3576981,
+            "geocell": 4923143,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240067971,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "www.stveit.carinthia.at",
+                "wikidata_page_name": "Q494604",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240070646,
+            "country": 40,
+            "level1area": [
+                "at5"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Sankt Johann im Pongau",
+                "hu": "Sankt Johann im Pongau"
+            },
+            "place_type": 84,
+            "population": 11000,
+            "latitude": 47.3475782,
+            "longitude": 13.2026049,
+            "geocell": 4944732,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240070646,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240076643,
+            "country": 40,
+            "level1area": [
+                "at4"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Traun",
+                "ru": "Траун"
+            },
+            "place_type": 84,
+            "population": 10627,
+            "latitude": 48.2214369,
+            "longitude": 14.2368078,
+            "geocell": 4977142,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240076643,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.traun.at/",
+                "wikidata_page_name": "Q260176",
+                "wikipedia_pages": {
+                    "de": "Traun (Stadt)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240076703,
+            "country": 40,
+            "level1area": [
+                "at8"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Lauterach",
+                "uk": "Лаутерах"
+            },
+            "place_type": 84,
+            "population": 10433,
+            "latitude": 47.4747262,
+            "longitude": 9.7313331,
+            "geocell": 4948297,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240076703,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6923"
+                ],
+                "website": "https://www.lauterach.at/",
+                "wikidata_page_name": "Q699781",
+                "wikipedia_pages": {
+                    "de": "Lauterach (Vorarlberg)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240079280,
+            "country": 40,
+            "level1area": [
+                "at8"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Hohenems",
+                "ru": "Хоэнемс",
+                "uk": "Гогенемс"
+            },
+            "place_type": 84,
+            "population": 16720,
+            "latitude": 47.3639973,
+            "longitude": 9.689271,
+            "geocell": 4944696,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240079280,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6845"
+                ],
+                "website": "https://www.hohenems.at/",
+                "wikidata_page_name": "Q698591",
+                "wikipedia_pages": {
+                    "de": "Hohenems"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240079480,
+            "country": 40,
+            "level1area": [
+                "at4"
+            ],
+            "level2area": null,
+            "names": {
+                "cs": "Štýr",
+                "de": "Steyr",
+                "ru": "Штайр"
+            },
+            "place_type": 84,
+            "population": 38344,
+            "latitude": 48.0390046,
+            "longitude": 14.4191276,
+            "geocell": 4969944,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240079480,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q260320",
+                "wikipedia_pages": {
+                    "de": "Steyr"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240080957,
+            "country": 40,
+            "level1area": [
+                "at3"
+            ],
+            "level2area": null,
+            "names": {
+                "cs": "Husník",
+                "de": "Gänserndorf",
+                "hu": "Gänserndorf",
+                "ru": "Гензерндорф",
+                "sk": "Genšdorf"
+            },
+            "place_type": 84,
+            "population": 11404,
+            "latitude": 48.3403867,
+            "longitude": 16.7187051,
+            "geocell": 4980767,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240080957,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.gaenserndorf.at/",
+                "wikidata_page_name": "Q259579",
+                "wikipedia_pages": {
+                    "de": "Gänserndorf"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240095192,
+            "country": 40,
+            "level1area": [
+                "at4"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Leonding",
+                "ru": "Леондинг"
+            },
+            "place_type": 84,
+            "population": 24416,
+            "latitude": 48.2793314,
+            "longitude": 14.2487457,
+            "geocell": 4977142,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240095192,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.leonding.at/",
+                "wikidata_page_name": "Q487958",
+                "wikipedia_pages": {
+                    "de": "Leonding"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240101155,
+            "country": 40,
+            "level1area": [
+                "at4"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Vöcklabruck",
+                "hu": "Vöcklabruck"
+            },
+            "place_type": 84,
+            "population": 11972,
+            "latitude": 48.0078587,
+            "longitude": 13.6460378,
+            "geocell": 4969936,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240101155,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4840"
+                ],
+                "website": "https://www.voecklabruck.at/",
+                "wikidata_page_name": "Q251325",
+                "wikipedia_pages": {
+                    "de": "Vöcklabruck"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240103067,
+            "country": 40,
+            "level1area": [
+                "at8"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Bludenz",
+                "mk": "Блуденц",
+                "pl": "Bogna",
+                "uk": "Блуденц"
+            },
+            "place_type": 84,
+            "population": 15029,
+            "latitude": 47.153037,
+            "longitude": 9.8219314,
+            "geocell": 4937498,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240103067,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q494504",
+                "wikipedia_pages": {
+                    "de": "Bludenz"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240108057,
+            "country": 40,
+            "level1area": [
+                "at8"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Lustenau",
+                "hu": "Lustenau",
+                "uk": "Лустенау"
+            },
+            "place_type": 84,
+            "population": 23843,
+            "latitude": 47.4276538,
+            "longitude": 9.6599406,
+            "geocell": 4948296,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240108057,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6890;6893"
+                ],
+                "website": "https://www.lustenau.at/",
+                "wikidata_page_name": "Q488315",
+                "wikipedia_pages": {
+                    "de": "Lustenau"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240110400,
+            "country": 40,
+            "level1area": [
+                "at4"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Bad Ischl",
+                "hu": "Bad Ischl",
+                "ru": "Бад-Ишль"
+            },
+            "place_type": 84,
+            "population": 14088,
+            "latitude": 47.7115299,
+            "longitude": 13.6239333,
+            "geocell": 4959136,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240110400,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240116186,
+            "country": 40,
+            "level1area": [
+                "at2"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Feldkirchen",
+                "hu": "Feldkirchen in Kärnten",
+                "ru": "Фельдкирхен-ин-Кернтен"
+            },
+            "place_type": 84,
+            "population": 14434,
+            "latitude": 46.7229178,
+            "longitude": 14.0964965,
+            "geocell": 4923140,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240116186,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "9560"
+                ],
+                "wikidata_page_name": "Q507533",
+                "wikipedia_pages": {
+                    "de": "Feldkirchen in Kärnten"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240120735,
+            "country": 40,
+            "level1area": [
+                "at2"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Wolfsberg",
+                "hu": "Wolfsberg",
+                "ru": "Вольфсберг",
+                "sl": "Volšperk"
+            },
+            "place_type": 84,
+            "population": 25045,
+            "latitude": 46.8390583,
+            "longitude": 14.8452061,
+            "geocell": 4926748,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240120735,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "9400"
+                ],
+                "wikidata_page_name": "Q487527",
+                "wikipedia_pages": {
+                    "de": "Wolfsberg (Kärnten)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240122409,
+            "country": 40,
+            "level1area": [
+                "at5"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Sankt Johann im Pongau"
+            },
+            "place_type": 84,
+            "population": 10566,
+            "latitude": 47.3488031,
+            "longitude": 13.202318,
+            "geocell": 4944732,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240122409,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q251022",
+                "wikipedia_pages": {
+                    "de": "St. Johann im Pongau"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 240129102,
+            "country": 40,
+            "level1area": [
+                "at4"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Marchtrenk",
+                "hu": "Marchtrenk",
+                "ru": "Мархтренк"
+            },
+            "place_type": 84,
+            "population": 12951,
+            "latitude": 48.1907992,
+            "longitude": 14.1117625,
+            "geocell": 4973541,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 240129102,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 340180405,
+            "country": 40,
+            "level1area": [
+                "at3"
+            ],
+            "level2area": null,
+            "names": {
+                "cs": "Kremže",
+                "de": "Krems an der Donau",
+                "hu": "Krems an der Donau",
+                "ka": "კრემზი დუნაიზე",
+                "ru": "Кремз на Дунае"
+            },
+            "place_type": 84,
+            "population": 12500,
+            "latitude": 48.4108382,
+            "longitude": 15.6003717,
+            "geocell": 4984356,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 340180405,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q131266",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 802050695,
+            "country": 40,
+            "level1area": [
+                "at3"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Klosterneuburg",
+                "hu": "Klosterneuburg",
+                "ml": "ക്ലോസ്റ്റർനോയ്ബർഗ്",
+                "ru": "Клостернойбург"
+            },
+            "place_type": 84,
+            "population": 26816,
+            "latitude": 48.30499,
+            "longitude": 16.323756,
+            "geocell": 4980763,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 802050695,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q487522",
+                "wikipedia_pages": {
+                    "de": "Klosterneuburg"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 826109863,
+            "country": 40,
+            "level1area": [
+                "at5"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Saalfelden am Steinernen Meer",
+                "ru": "Зальфельден-ам-Штайнернен-Мер"
+            },
+            "place_type": 84,
+            "population": 16235,
+            "latitude": 47.4266166,
+            "longitude": 12.8481048,
+            "geocell": 4948328,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 826109863,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5760"
+                ],
+                "wikidata_page_name": "Q183228",
+                "wikipedia_pages": {
+                    "de": "Saalfelden am Steinernen Meer"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1612589807,
+            "country": 40,
+            "level1area": [
+                "at7"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Hall in Tirol",
+                "hu": "Hall in Tirol",
+                "ja": "ハル・イン・チロル",
+                "ko": "할인티롤",
+                "ru": "Халль-ин-Тироль"
+            },
+            "place_type": 84,
+            "population": 14418,
+            "latitude": 47.2816648,
+            "longitude": 11.5075337,
+            "geocell": 4941115,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1612589807,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6060",
+                    "6050"
+                ],
+                "wikidata_page_name": "Q302745",
+                "wikipedia_pages": {
+                    "de": "Hall in Tirol"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1685894040,
+            "country": 40,
+            "level1area": [
+                "at5"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Hallein",
+                "ru": "Халлайн"
+            },
+            "place_type": 84,
+            "population": 20768,
+            "latitude": 47.6821521,
+            "longitude": 13.0956313,
+            "geocell": 4955530,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1685894040,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1898614152,
+            "country": 40,
+            "level1area": [
+                "at8"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Брэгенц",
+                "de": "Bregenz",
+                "fr": "Brégence",
+                "hu": "Bregenz",
+                "pl": "Bregencja",
+                "ru": "Брегенц"
+            },
+            "place_type": 84,
+            "population": 29620,
+            "latitude": 47.5025779,
+            "longitude": 9.7472924,
+            "geocell": 4951897,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1898614152,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6900"
+                ],
+                "website": "https://www.bregenz.at/",
+                "wikidata_page_name": "Q1737",
+                "wikipedia_pages": {
+                    "de": "Bregenz"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2015063027,
+            "country": 40,
+            "level1area": [
+                "at7"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Schwaz",
+                "ko": "한국어",
+                "ru": "Швац"
+            },
+            "place_type": 84,
+            "population": 13058,
+            "latitude": 47.3449529,
+            "longitude": 11.7084253,
+            "geocell": 4944717,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2015063027,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.schwaz.at/",
+                "wikidata_page_name": "Q583485",
+                "wikipedia_pages": {
+                    "de": "Schwaz"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3578173987,
+            "country": 40,
+            "level1area": [
+                "at8"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Hard",
+                "ru": "Хард",
+                "uk": "Гард"
+            },
+            "place_type": 86,
+            "population": 13786,
+            "latitude": 47.489391,
+            "longitude": 9.6916539,
+            "geocell": 4948296,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3578173987,
+                "open_street_map_place": "village",
+                "postal_codes": [
+                    "6971"
+                ],
+                "wikidata_page_name": "Q699612",
+                "wikipedia_pages": {
+                    "de": "Hard"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3653282655,
+            "country": 40,
+            "level1area": [
+                "at6"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Feldbach",
+                "hr": "Polje",
+                "hu": "Földvár",
+                "sl": "Vrbna"
+            },
+            "place_type": 84,
+            "population": 13369,
+            "latitude": 46.9527822,
+            "longitude": 15.8886091,
+            "geocell": 4930358,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3653282655,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5362096170,
+            "country": 40,
+            "level1area": [
+                "at6"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Gratwein-Straßengel"
+            },
+            "place_type": 84,
+            "population": 13000,
+            "latitude": 47.1231264,
+            "longitude": 15.3304611,
+            "geocell": 4937553,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5362096170,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9260667460,
+            "country": 40,
+            "level1area": [
+                "at6"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Knittelfeld"
+            },
+            "place_type": 84,
+            "population": 12574,
+            "latitude": 47.2147399,
+            "longitude": 14.8297233,
+            "geocell": 4941148,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9260667460,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "8720"
+                ],
+                "website": "https://knittelfeld.gv.at/",
+                "wikipedia_pages": {
+                    "de": "Knittelfeld"
+                }
+            }
+        }
+    }
+]

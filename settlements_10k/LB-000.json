@@ -1,0 +1,466 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258516078,
+            "country": 422,
+            "level1area": [
+                "lbas"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "طرابلس",
+                "be": "Трыпалі",
+                "bg": "Триполи",
+                "ca": "Trípoli",
+                "de": "Tripoli",
+                "el": "Τρίπολη",
+                "en": "Tripoli",
+                "es": "Trípoli",
+                "et": "Tripoli",
+                "eu": "Tripoli",
+                "fa": "طرابلس",
+                "fr": "Tripoli",
+                "gl": "Trípoli",
+                "he": "טריפולי",
+                "hi": "ताराबूलस",
+                "hy": "Տրիպոլի",
+                "ka": "ტრიპოლი",
+                "lt": "Tripolis",
+                "ml": "തറാബുലുസ്",
+                "pl": "Trypolis",
+                "pt": "Trípoli",
+                "ru": "Триполи",
+                "sk": "Tripolis",
+                "sr": "Триполи",
+                "uk": "Триполі",
+                "ur": "طرابلس"
+            },
+            "place_type": 67,
+            "population": 999000,
+            "latitude": 34.4373616,
+            "longitude": 35.8348551,
+            "geocell": 4480558,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258516078,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "1300"
+                ],
+                "wikidata_page_name": "Q168954",
+                "wikipedia_pages": {
+                    "ar": "طرابلس (لبنان)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 289346590,
+            "country": 422,
+            "level1area": [
+                "lbba"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Beiroet",
+                "ar": "بيروت",
+                "az": "Beyrut",
+                "be": "Бейрут",
+                "bg": "Бейрут",
+                "bn": "বৈরুত",
+                "br": "Beirout",
+                "bs": "Bejrut",
+                "ckb": "بەیرووت",
+                "cs": "Bejrút",
+                "da": "Beirut",
+                "de": "Beirut",
+                "el": "Βηρυτός",
+                "en": "Beirut",
+                "eo": "Bejruto",
+                "es": "Beirut",
+                "et": "Beirut",
+                "eu": "Beirut",
+                "fa": "بیروت",
+                "fi": "Beirut",
+                "fr": "Beyrouth",
+                "fy": "Beirût",
+                "ga": "Béiriút",
+                "he": "ביירות",
+                "hi": "बेयरूत",
+                "hr": "Bejrut",
+                "hu": "Bejrút",
+                "hy": "Պէյրութ",
+                "is": "Beirút",
+                "it": "Beirut",
+                "ja": "ベイルート",
+                "ka": "ბეირუთი",
+                "kab": "Birut",
+                "kk": "Бейрут",
+                "kn": "ಬೈರುತ್",
+                "ko": "베이루트",
+                "ky": "Бейрут",
+                "lt": "Beirutas",
+                "lv": "Beirūta",
+                "mk": "Бејрут",
+                "ml": "ബെയ്റൂത്ത്",
+                "mn": "Бейрут",
+                "mr": "बैरूत",
+                "my": "ဘေရွတ်မြို့",
+                "nl": "Beiroet",
+                "os": "Бейрут",
+                "pl": "Bejrut",
+                "pt": "Beirute",
+                "ru": "Бейрут",
+                "sk": "Bejrút",
+                "sl": "Bejrut",
+                "sq": "Bejrut",
+                "sr": "Бејрут",
+                "sv": "Beirut",
+                "ta": "பெய்ரூத்",
+                "tg": "Бейрут",
+                "th": "เบรุต",
+                "tr": "Beyrut",
+                "tt": "Бәйрут",
+                "ug": "بېيرۇت",
+                "uk": "Бейрут",
+                "ur": "بیروت"
+            },
+            "place_type": 67,
+            "population": 1252000,
+            "latitude": 33.8959203,
+            "longitude": 35.47843,
+            "geocell": 4458954,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 289346590,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3820",
+                "wikipedia_pages": {
+                    "ar": "بيروت"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 428339508,
+            "country": 422,
+            "level1area": [
+                "lbbh"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بعلبك",
+                "cs": "Baalbek",
+                "de": "Baalbek",
+                "el": "Μπάαλμπεκ",
+                "en": "Baalbek",
+                "es": "Baalbek",
+                "eu": "Baalbek",
+                "fa": "بعلبک",
+                "fr": "Baalbek",
+                "he": "בעלבכ",
+                "hi": "बाल्बेक",
+                "hy": "Բաալբեկ",
+                "lt": "Baalbekas",
+                "ml": "ബാൽബെക്",
+                "ru": "Баальбек",
+                "uk": "Баальбек",
+                "ur": "بعلبک"
+            },
+            "place_type": 67,
+            "population": 82608,
+            "latitude": 34.009653,
+            "longitude": 36.2117096,
+            "geocell": 4466162,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 428339508,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "1800"
+                ],
+                "wikidata_page_name": "Q178835",
+                "wikipedia_pages": {
+                    "ar": "بعلبك"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 803018184,
+            "country": 422,
+            "level1area": [
+                "lbja"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "صور",
+                "be": "Тыр",
+                "bg": "Тир",
+                "ckb": "تەیرا",
+                "cs": "Týr",
+                "de": "Tyros",
+                "el": "Τύρος",
+                "en": "Tyre",
+                "eo": "Tiro",
+                "es": "Tiro",
+                "et": "Şūr",
+                "eu": "Tiro",
+                "fa": "صور",
+                "fi": "Tyros",
+                "fr": "Tyr",
+                "gl": "Tiro",
+                "he": "צור",
+                "hi": "सोर",
+                "hy": "Տյուրոս",
+                "is": "Týros",
+                "it": "Tiro",
+                "lt": "Tyras",
+                "ml": "സൂർ",
+                "nl": "Tyrus",
+                "pl": "Tyr",
+                "pt": "Tiro",
+                "ru": "Сур",
+                "sr": "Тир",
+                "sv": "Tyros",
+                "sw": "Tiro",
+                "tr": "Sûr",
+                "uk": "Сур",
+                "ur": "صور",
+                "vi": "Týros"
+            },
+            "place_type": 67,
+            "population": 135000,
+            "latitude": 33.2721211,
+            "longitude": 35.1964023,
+            "geocell": 4437351,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 803018184,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "1601"
+                ],
+                "wikidata_page_name": "Q82070",
+                "wikipedia_pages": {
+                    "ar": "صور (لبنان)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4746546642,
+            "country": 422,
+            "level1area": [
+                "lbas"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "البترون",
+                "de": "Batrun",
+                "el": "Μπατρούν",
+                "en": "Batroun",
+                "es": "Batrún",
+                "eu": "Batroun",
+                "fa": "البترون",
+                "fr": "Batroûn",
+                "he": "בתרון",
+                "hy": "Ալ-Բաթրուն",
+                "ml": "ബത്രൂൺ",
+                "ur": "البترون"
+            },
+            "place_type": 84,
+            "population": 45000,
+            "latitude": 34.2548879,
+            "longitude": 35.6588567,
+            "geocell": 4473356,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4746546642,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3285145",
+                "wikipedia_pages": {
+                    "ar": "البترون"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4795498216,
+            "country": 422,
+            "level1area": [
+                "lbjl"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "دير القمر",
+                "de": "Deir Al Qamar",
+                "en": "Deir Al Qamar",
+                "fa": "دیر القمر",
+                "fr": "Deir El Qamar",
+                "ur": "دیر القمر"
+            },
+            "place_type": 86,
+            "population": 10000,
+            "latitude": 33.6979691,
+            "longitude": 35.5647431,
+            "geocell": 4451755,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4795498216,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q613943",
+                "wikipedia_pages": {
+                    "ar": "دير القمر"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5037444068,
+            "country": 422,
+            "level1area": [
+                "lbjl"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "برجا",
+                "de": "Barja",
+                "en": "Barja",
+                "fr": "Barja",
+                "ml": "ബർജ"
+            },
+            "place_type": 84,
+            "population": 35000,
+            "latitude": 33.6448026,
+            "longitude": 35.4330164,
+            "geocell": 4451754,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5037444068,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2884574",
+                "wikipedia_pages": {
+                    "ar": "برجا"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5522106653,
+            "country": 422,
+            "level1area": [
+                "lbbi"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "جب جنين",
+                "de": "Joub Jannine",
+                "en": "Joub Jannine",
+                "fr": "Joub Jannine",
+                "he": "ג'וב ג'נין",
+                "ml": "ജൂബ് ജനീൻ"
+            },
+            "place_type": 84,
+            "population": 120000,
+            "latitude": 33.6266499,
+            "longitude": 35.7838352,
+            "geocell": 4451757,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5522106653,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q25912",
+                "wikipedia_pages": {
+                    "en": "Joub Jannine"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5750147409,
+            "country": 422,
+            "level1area": [
+                "lbak"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "القبيات",
+                "en": "Al Qoubaiyat",
+                "fr": "Koubayat"
+            },
+            "place_type": 84,
+            "population": 32000,
+            "latitude": 34.568685,
+            "longitude": 36.2803399,
+            "geocell": 4484162,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5750147409,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4704645",
+                "wikipedia_pages": {
+                    "ar": "القبيات"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6452190034,
+            "country": 422,
+            "level1area": [
+                "lbjl"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الدامور",
+                "de": "Damour",
+                "en": "Damour",
+                "fa": "الدامور",
+                "fr": "Damour",
+                "he": "דאמור",
+                "ml": "ദാമൂർ"
+            },
+            "place_type": 86,
+            "population": 10000,
+            "latitude": 33.7307565,
+            "longitude": 35.455482,
+            "geocell": 4455354,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6452190034,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1158931",
+                "wikipedia_pages": {
+                    "ar": "الدامور"
+                }
+            }
+        }
+    }
+]

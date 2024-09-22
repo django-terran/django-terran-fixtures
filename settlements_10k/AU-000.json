@@ -1,0 +1,4179 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 13766899,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سيدني",
+                "be": "Сіднэй",
+                "bg": "Сидни",
+                "de": "Sydney",
+                "en": "Sydney",
+                "eo": "Sidnejo",
+                "es": "Sídney",
+                "fr": "Sydney",
+                "he": "סידני",
+                "hi": "सिड्णि",
+                "is": "Sydney",
+                "ja": "シドニー",
+                "kn": "ಸಿಡ್ಣಿ",
+                "lt": "Sidnėjus",
+                "mk": "Сиднеј",
+                "mr": "सिडनी",
+                "pl": "Sydney",
+                "ru": "Сидней",
+                "sr": "Сиднеј",
+                "sv": "Sydney",
+                "uk": "Сідней"
+            },
+            "place_type": 67,
+            "population": 4698656,
+            "latitude": -33.8698439,
+            "longitude": 151.2082848,
+            "geocell": 2022912,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 13766899,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3130",
+                "wikipedia_pages": {
+                    "en": "Sydney"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 17150221,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Taree",
+                "ja": "タリー"
+            },
+            "place_type": 67,
+            "population": 18110,
+            "latitude": -31.912864,
+            "longitude": 152.4608481,
+            "geocell": 2091324,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 17150221,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1543632",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 17631871,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Forster"
+            },
+            "place_type": 84,
+            "population": 20554,
+            "latitude": -32.1820852,
+            "longitude": 152.5131155,
+            "geocell": 2084125,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 17631871,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q581879",
+                "wikipedia_pages": {
+                    "en": "Forster, New South Wales"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 18370040,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "North Sydney"
+            },
+            "place_type": 84,
+            "population": 62289,
+            "latitude": -33.8354519,
+            "longitude": 151.2083011,
+            "geocell": 2022912,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 18370040,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3276625",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 18375400,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Manly"
+            },
+            "place_type": 84,
+            "population": 39747,
+            "latitude": -33.7971937,
+            "longitude": 151.2879845,
+            "geocell": 2026512,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 18375400,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 18375402,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Chatswood"
+            },
+            "place_type": 84,
+            "population": 21194,
+            "latitude": -33.7967377,
+            "longitude": 151.1814306,
+            "geocell": 2026511,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 18375402,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5087800",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 19160869,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Parramatta",
+                "ja": "パラマタ",
+                "ru": "Парраматта"
+            },
+            "place_type": 84,
+            "population": 19745,
+            "latitude": -33.8139843,
+            "longitude": 151.002666,
+            "geocell": 2022910,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 19160869,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q21319",
+                "wikipedia_pages": {
+                    "en": "Parramatta"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 19949789,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Toowoomba",
+                "ja": "トゥーンバ",
+                "ru": "Тувумба"
+            },
+            "place_type": 67,
+            "population": 108398,
+            "latitude": -27.5610193,
+            "longitude": 151.953351,
+            "geocell": 2249719,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 19949789,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q478302",
+                "wikipedia_pages": {
+                    "en": "Toowoomba"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 20920968,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Wollongong",
+                "ja": "ウロンゴン",
+                "lt": "Vulongongas",
+                "mk": "Волонгонг",
+                "ru": "Вуллонгонг"
+            },
+            "place_type": 67,
+            "population": 280153,
+            "latitude": -34.4243941,
+            "longitude": 150.89385,
+            "geocell": 2001308,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 20920968,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.wollongong.nsw.gov.au/",
+                "wikidata_page_name": "Q187861",
+                "wikipedia_pages": {
+                    "en": "Wollongong"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 21292397,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Dalby"
+            },
+            "place_type": 84,
+            "population": 12082,
+            "latitude": -27.1822593,
+            "longitude": 151.2634168,
+            "geocell": 2264112,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 21292397,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1001056",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 21381162,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tweed Heads",
+                "ru": "Туид-Хедс"
+            },
+            "place_type": 84,
+            "population": 63721,
+            "latitude": -28.181708,
+            "longitude": 153.5469621,
+            "geocell": 2228135,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 21381162,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q606344",
+                "wikipedia_pages": {
+                    "en": "Tweed Heads, New South Wales"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 21579127,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ملبورن",
+                "bg": "Мелбърн",
+                "de": "Melbourne",
+                "el": "Μελβούρνη",
+                "en": "Melbourne",
+                "eo": "Melburno",
+                "es": "Melbourne",
+                "fi": "Melbourne",
+                "fr": "Melbourne",
+                "he": "מלבורן",
+                "hi": "मॆल्बोर्न्",
+                "is": "Melbourne",
+                "ja": "メルボルン",
+                "kn": "ಮೆಲ್ಬೋರ್ನ್",
+                "ko": "멜버른",
+                "lt": "Melburnas",
+                "mk": "Мелбурн",
+                "mr": "मेलबर्न",
+                "pl": "Melbourne",
+                "ru": "Мельбурн",
+                "sr": "Мелбурн",
+                "sv": "Melbourne",
+                "uk": "Мельбурн"
+            },
+            "place_type": 67,
+            "population": 4585537,
+            "latitude": -37.8142454,
+            "longitude": 144.9631732,
+            "geocell": 1878849,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 21579127,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.melbourne.vic.gov.au/",
+                "wikidata_page_name": "Q3141",
+                "wikipedia_pages": {
+                    "en": "Melbourne"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 21674637,
+            "country": 36,
+            "level1area": [
+                "auact"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كانبرا",
+                "az": "Kanberra",
+                "be": "Канбера",
+                "bg": "Канбера",
+                "bn": "ক্যানবেরা",
+                "ckb": "کانبێرا",
+                "de": "Canberra",
+                "el": "Καμπέρα",
+                "en": "Canberra",
+                "eo": "Kanbero",
+                "es": "Canberra",
+                "fa": "کانبرا",
+                "fr": "Canberra",
+                "fy": "Kanberra",
+                "he": "קנברה",
+                "hi": "कैनबरा",
+                "hu": "Canberra",
+                "hy": "Կանբեռա",
+                "is": "Canberra",
+                "ja": "キャンベラ",
+                "ka": "კანბერა",
+                "kn": "ಕ್ಯಾನ್ಬೆರ",
+                "ko": "캔버라",
+                "ky": "Канберра",
+                "lt": "Kanbera",
+                "lv": "Kanbera",
+                "mk": "Канбера",
+                "mn": "Канберра",
+                "mr": "कॅनबेरा",
+                "os": "Канберрæ",
+                "pl": "Canberra",
+                "pt": "Camberra",
+                "ru": "Канберра",
+                "sr": "Канбера",
+                "sv": "Canberra",
+                "ta": "கான்பரா",
+                "tg": "Канберра",
+                "th": "แคนเบอร์รา",
+                "tt": "Канберра",
+                "ug": "Kanbérra",
+                "uk": "Канберра",
+                "ur": "کینبرا"
+            },
+            "place_type": 67,
+            "population": 426709,
+            "latitude": -35.2975906,
+            "longitude": 149.1012676,
+            "geocell": 1972491,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 21674637,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.act.gov.au/",
+                "wikidata_page_name": "Q3114",
+                "wikipedia_pages": {
+                    "en": "Canberra"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 21676216,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Port Macquarie",
+                "ja": "ポートマッコリー",
+                "ru": "Порт-Маккуори",
+                "uk": "Порт Макарі"
+            },
+            "place_type": 67,
+            "population": 47793,
+            "latitude": -31.4299499,
+            "longitude": 152.9103525,
+            "geocell": 2109329,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 21676216,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q606153",
+                "wikipedia_pages": {
+                    "en": "Port Macquarie"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25646189,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Wallan"
+            },
+            "place_type": 84,
+            "population": 14741,
+            "latitude": -37.4138855,
+            "longitude": 144.9774549,
+            "geocell": 1893249,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25646189,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25841904,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Newcastle",
+                "eo": "Novkastelo",
+                "ja": "ニューカッスル",
+                "lt": "Niukaslas",
+                "ru": "Ньюкасл",
+                "uk": "Ньюкасл"
+            },
+            "place_type": 67,
+            "population": 348539,
+            "latitude": -32.9272881,
+            "longitude": 151.7812534,
+            "geocell": 2055317,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25841904,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://newcastle.nsw.gov.au/",
+                "wikidata_page_name": "Q57278",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25843569,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Batemans Bay",
+                "ru": "Бейтменс-Бей"
+            },
+            "place_type": 84,
+            "population": 12263,
+            "latitude": -35.7072183,
+            "longitude": 150.178289,
+            "geocell": 1954501,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25843569,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q810756",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25850236,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kiama",
+                "ru": "Кайама"
+            },
+            "place_type": 84,
+            "population": 14761,
+            "latitude": -34.6715718,
+            "longitude": 150.8556251,
+            "geocell": 1994108,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25850236,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1740762",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25863600,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nowra",
+                "ru": "Наура"
+            },
+            "place_type": 84,
+            "population": 33583,
+            "latitude": -34.8741198,
+            "longitude": 150.6004709,
+            "geocell": 1986906,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25863600,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1343021",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25863607,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ulladulla",
+                "ru": "Алладалла"
+            },
+            "place_type": 84,
+            "population": 14396,
+            "latitude": -35.3621503,
+            "longitude": 150.4751713,
+            "geocell": 1968904,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25863607,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q649969",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25939676,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Morisset"
+            },
+            "place_type": 84,
+            "population": 22150,
+            "latitude": -33.1066576,
+            "longitude": 151.4876595,
+            "geocell": 2048114,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25939676,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25954764,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nelson Bay"
+            },
+            "place_type": 84,
+            "population": 14593,
+            "latitude": -32.7218138,
+            "longitude": 152.1440889,
+            "geocell": 2062521,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25954764,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25976250,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Coffs Harbour",
+                "ja": "コフスハーバー",
+                "ru": "Кофс-Харбор"
+            },
+            "place_type": 67,
+            "population": 51069,
+            "latitude": -30.2962407,
+            "longitude": 153.1135293,
+            "geocell": 2152531,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25976250,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q604283",
+                "wikipedia_pages": {
+                    "en": "Coffs Harbour"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 25989580,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ballina"
+            },
+            "place_type": 84,
+            "population": 18532,
+            "latitude": -28.86574,
+            "longitude": 153.5659468,
+            "geocell": 2202935,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 25989580,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q805263",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26010100,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Byron Bay",
+                "ko": "바이런베이"
+            },
+            "place_type": 84,
+            "population": 10538,
+            "latitude": -28.6483333,
+            "longitude": 153.6177778,
+            "geocell": 2210136,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26010100,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1018597",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26391679,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hornsby"
+            },
+            "place_type": 84,
+            "population": 22168,
+            "latitude": -33.7040253,
+            "longitude": 151.1005847,
+            "geocell": 2026511,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26391679,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1007874",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26764260,
+            "country": 36,
+            "level1area": [
+                "auact"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Woden"
+            },
+            "place_type": 84,
+            "population": 33000,
+            "latitude": -35.3498582,
+            "longitude": 149.0940482,
+            "geocell": 1968890,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26764260,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 26795879,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Liverpool"
+            },
+            "place_type": 84,
+            "population": 24095,
+            "latitude": -33.9198252,
+            "longitude": 150.92566,
+            "geocell": 2019309,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 26795879,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27120185,
+            "country": 36,
+            "level1area": [
+                "autas"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Devonport",
+                "ja": "デボンポート",
+                "ru": "Девонпорт",
+                "uk": "Девонпорт"
+            },
+            "place_type": 67,
+            "population": 24591,
+            "latitude": -41.1797561,
+            "longitude": 146.3613011,
+            "geocell": 1760063,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27120185,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.devonport.tas.gov.au/",
+                "wikidata_page_name": "Q705705",
+                "wikipedia_pages": {
+                    "en": "Devonport, Tasmania"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27286755,
+            "country": 36,
+            "level1area": [
+                "auact"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tuggeranong"
+            },
+            "place_type": 84,
+            "population": 86900,
+            "latitude": -35.4209771,
+            "longitude": 149.0921341,
+            "geocell": 1965290,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27286755,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29277817,
+            "country": 36,
+            "level1area": [
+                "auwa"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بيرث",
+                "de": "Perth",
+                "en": "Perth",
+                "eo": "Perto",
+                "es": "Perth",
+                "fr": "Perth",
+                "he": "פרת",
+                "hi": "पर्थ",
+                "is": "Perth",
+                "ja": "パース",
+                "kn": "ಪರ್ತ್",
+                "ko": "퍼스",
+                "lt": "Pertas",
+                "mk": "Перт",
+                "mr": "पर्थ",
+                "pl": "Perth",
+                "pt": "Perth",
+                "ru": "Перт",
+                "sr": "Перт",
+                "sv": "Perth",
+                "uk": "Перт"
+            },
+            "place_type": 67,
+            "population": 2043762,
+            "latitude": -31.9558933,
+            "longitude": 115.8605855,
+            "geocell": 2090958,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29277817,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.cityofperth.wa.gov.au/",
+                "wikidata_page_name": "Q3183",
+                "wikipedia_pages": {
+                    "en": "Perth"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29341070,
+            "country": 36,
+            "level1area": [
+                "aunt"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Alice Springs",
+                "ja": "アリススプリングス",
+                "mk": "Алис Спрингс",
+                "ru": "Алис-Спрингс",
+                "uk": "Аліс-Спрінгс"
+            },
+            "place_type": 67,
+            "population": 24855,
+            "latitude": -23.6983884,
+            "longitude": 133.8812885,
+            "geocell": 2389938,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29341070,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q17872",
+                "wikipedia_pages": {
+                    "en": "Alice Springs"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29386608,
+            "country": 36,
+            "level1area": [
+                "ausa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Port Augusta",
+                "ja": "ポートオーガスタ",
+                "ru": "Порт-Огаста",
+                "uk": "Порт-Огаста"
+            },
+            "place_type": 84,
+            "population": 12788,
+            "latitude": -32.4908819,
+            "longitude": 137.7639874,
+            "geocell": 2073177,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29386608,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q606288",
+                "wikipedia_pages": {
+                    "en": "Port Augusta"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29405229,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Cairns",
+                "ja": "ケアンズ",
+                "ru": "Кэрнс",
+                "uk": "Кернс"
+            },
+            "place_type": 67,
+            "population": 153181,
+            "latitude": -16.9206657,
+            "longitude": 145.7721854,
+            "geocell": 2631257,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29405229,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q189133",
+                "wikipedia_pages": {
+                    "en": "Cairns"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29798816,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Goulburn",
+                "ru": "Гоулберн"
+            },
+            "place_type": 84,
+            "population": 23963,
+            "latitude": -34.7523871,
+            "longitude": 149.7198009,
+            "geocell": 1990497,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29798816,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.goulburn.nsw.gov.au/",
+                "wikidata_page_name": "Q605235",
+                "wikipedia_pages": {
+                    "en": "Goulburn, New South Wales"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30772411,
+            "country": 36,
+            "level1area": [
+                "auwa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kalgoorlie",
+                "ja": "カルグーリー",
+                "ru": "Калгурли",
+                "uk": "Калгурлі"
+            },
+            "place_type": 67,
+            "population": 29068,
+            "latitude": -30.7464139,
+            "longitude": 121.473223,
+            "geocell": 2134214,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30772411,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q329503",
+                "wikipedia_pages": {
+                    "en": "Kalgoorlie"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30877330,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mildura",
+                "ja": "ミルデューラ",
+                "ru": "Милдьюра",
+                "uk": "Мілдьюра"
+            },
+            "place_type": 67,
+            "population": 35652,
+            "latitude": -34.195274,
+            "longitude": 142.1503146,
+            "geocell": 2012021,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30877330,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.mildura.vic.gov.au/",
+                "wikidata_page_name": "Q705829",
+                "wikipedia_pages": {
+                    "en": "Mildura"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30917754,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bendigo",
+                "ja": "ベンディゴ",
+                "ru": "Бендиго"
+            },
+            "place_type": 67,
+            "population": 100649,
+            "latitude": -36.7590183,
+            "longitude": 144.2826718,
+            "geocell": 1918442,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30917754,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.bendigo.vic.gov.au/",
+                "wikidata_page_name": "Q497793",
+                "wikipedia_pages": {
+                    "en": "Bendigo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 31446304,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Townsville",
+                "ja": "タウンズビル",
+                "ru": "Таунсвилл"
+            },
+            "place_type": 67,
+            "population": 173724,
+            "latitude": -19.2569391,
+            "longitude": 146.8239537,
+            "geocell": 2548468,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 31446304,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q190021",
+                "wikipedia_pages": {
+                    "en": "Townsville"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 32011608,
+            "country": 36,
+            "level1area": [
+                "autas"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ulverstone"
+            },
+            "place_type": 84,
+            "population": 12723,
+            "latitude": -41.1571818,
+            "longitude": 146.1705057,
+            "geocell": 1760061,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 32011608,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2169513",
+                "wikipedia_pages": {
+                    "en": "Ulverstone, Tasmania"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 32566859,
+            "country": 36,
+            "level1area": [
+                "auwa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bunbury",
+                "ja": "バンバリー",
+                "ru": "Банбери"
+            },
+            "place_type": 67,
+            "population": 75196,
+            "latitude": -33.3267797,
+            "longitude": 115.636698,
+            "geocell": 2040556,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 32566859,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q256711",
+                "wikipedia_pages": {
+                    "en": "Bunbury, Western Australia"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 32748684,
+            "country": 36,
+            "level1area": [
+                "autas"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Burnie",
+                "ja": "バーニー",
+                "ru": "Берни",
+                "uk": "Берні"
+            },
+            "place_type": 67,
+            "population": 20267,
+            "latitude": -41.0523688,
+            "longitude": 145.9064073,
+            "geocell": 1763659,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 32748684,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.burnie.net/",
+                "wikidata_page_name": "Q175262",
+                "wikipedia_pages": {
+                    "en": "Burnie"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 35469724,
+            "country": 36,
+            "level1area": [
+                "auwa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Geraldton",
+                "ja": "ジェラルトン",
+                "ru": "Джералдтон",
+                "uk": "Джеральдтон"
+            },
+            "place_type": 67,
+            "population": 32717,
+            "latitude": -28.77035,
+            "longitude": 114.6147159,
+            "geocell": 2206146,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 35469724,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q605267",
+                "wikipedia_pages": {
+                    "en": "Geraldton"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 36701460,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Geelong",
+                "ja": "ジーロング",
+                "ru": "Джилонг",
+                "uk": "Джелонг"
+            },
+            "place_type": 67,
+            "population": 180239,
+            "latitude": -38.1493248,
+            "longitude": 144.3598241,
+            "geocell": 1868043,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 36701460,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.geelongaustralia.com.au/",
+                "wikidata_page_name": "Q231765",
+                "wikipedia_pages": {
+                    "en": "Geelong"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 40764819,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kurri Kurri"
+            },
+            "place_type": 84,
+            "population": 20015,
+            "latitude": -32.8175039,
+            "longitude": 151.4833649,
+            "geocell": 2058914,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 40764819,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 40817809,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Queanbeyan",
+                "ja": "クイーンビーアン",
+                "ru": "Куинбеян"
+            },
+            "place_type": 67,
+            "population": 37511,
+            "latitude": -35.3524518,
+            "longitude": 149.2337634,
+            "geocell": 1968892,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 40817809,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q606385",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 44776448,
+            "country": 36,
+            "level1area": [
+                "auwa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Port Hedland",
+                "ja": "ポートヘッドランド",
+                "ru": "Порт-Хедленд",
+                "uk": "Порт-Гедленд"
+            },
+            "place_type": 67,
+            "population": 15298,
+            "latitude": -20.3111814,
+            "longitude": 118.5801181,
+            "geocell": 2508585,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 44776448,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q550465",
+                "wikipedia_pages": {
+                    "en": "Port Hedland, Western Australia"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 53919243,
+            "country": 36,
+            "level1area": [
+                "auwa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Broome",
+                "ja": "ブルーム",
+                "ru": "Брум",
+                "uk": "Брум"
+            },
+            "place_type": 67,
+            "population": 14660,
+            "latitude": -17.9566909,
+            "longitude": 122.2240181,
+            "geocell": 2595022,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 53919243,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q606294",
+                "wikipedia_pages": {
+                    "en": "Broome, Western Australia"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 55192009,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bairnsdale",
+                "ru": "Бэрнсдейл"
+            },
+            "place_type": 84,
+            "population": 13734,
+            "latitude": -37.8254509,
+            "longitude": 147.6304752,
+            "geocell": 1878876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 55192009,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q803960",
+                "wikipedia_pages": {
+                    "en": "Bairnsdale, Victoria"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 55196068,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Morwell"
+            },
+            "place_type": 84,
+            "population": 14068,
+            "latitude": -38.2363218,
+            "longitude": 146.3977575,
+            "geocell": 1864463,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 55196068,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q72337",
+                "wikipedia_pages": {
+                    "en": "Morwell, Victoria"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 55199092,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Warragul"
+            },
+            "place_type": 84,
+            "population": 19134,
+            "latitude": -38.1588674,
+            "longitude": 145.933629,
+            "geocell": 1868059,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 55199092,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q942732",
+                "wikipedia_pages": {
+                    "en": "Warragul"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 55199106,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Drouin"
+            },
+            "place_type": 84,
+            "population": 14764,
+            "latitude": -38.1361683,
+            "longitude": 145.8564344,
+            "geocell": 1868058,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 55199106,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3040050",
+                "wikipedia_pages": {
+                    "en": "Drouin, Victoria"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 56921985,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Moe",
+                "ru": "Моэ"
+            },
+            "place_type": 84,
+            "population": 15758,
+            "latitude": -38.177049,
+            "longitude": 146.2619888,
+            "geocell": 1868062,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 56921985,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1420012",
+                "wikipedia_pages": {
+                    "en": "Moe, Victoria"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 59149739,
+            "country": 36,
+            "level1area": [
+                "autas"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "هوبارت",
+                "ckb": "هۆبارت",
+                "en": "Hobart",
+                "es": "Hobart",
+                "fr": "Hobart",
+                "hu": "Hobart",
+                "is": "Hobart",
+                "ja": "ホバート",
+                "kn": "ಹೋಬಾರ್ಟ್",
+                "mk": "Хобарт",
+                "mr": "होबर्ट",
+                "pl": "Hobart",
+                "ru": "Хобарт",
+                "sr": "Хобарт",
+                "sv": "Hobart",
+                "uk": "Гобарт"
+            },
+            "place_type": 67,
+            "population": 197451,
+            "latitude": -42.8825088,
+            "longitude": 147.3281233,
+            "geocell": 1698873,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 59149739,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.hobartcity.com.au/",
+                "wikidata_page_name": "Q40191",
+                "wikipedia_pages": {
+                    "en": "Hobart"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 59609477,
+            "country": 36,
+            "level1area": [
+                "ausa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mount Gambier",
+                "ja": "マウントガンビア",
+                "ru": "Маунт-Гамбир",
+                "uk": "Маунт Гамб’єр"
+            },
+            "place_type": 67,
+            "population": 26734,
+            "latitude": -37.8301386,
+            "longitude": 140.7842627,
+            "geocell": 1878807,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 59609477,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.mountgambier.sa.gov.au/",
+                "wikidata_page_name": "Q327348",
+                "wikipedia_pages": {
+                    "en": "Mount Gambier, South Australia"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 59851594,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Armidale",
+                "ja": "アーミデイル",
+                "ru": "Армидейл",
+                "uk": "Армідейл"
+            },
+            "place_type": 67,
+            "population": 21312,
+            "latitude": -30.5144881,
+            "longitude": 151.6656564,
+            "geocell": 2141716,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 59851594,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q606169",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60283369,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Gisborne"
+            },
+            "place_type": 84,
+            "population": 10999,
+            "latitude": -37.486723,
+            "longitude": 144.5904237,
+            "geocell": 1893245,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60283369,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60796195,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Portland",
+                "ru": "Портленд",
+                "uk": "Портланд"
+            },
+            "place_type": 84,
+            "population": 10450,
+            "latitude": -38.3456231,
+            "longitude": 141.6042304,
+            "geocell": 1860816,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60796195,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1663450",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60976089,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Maryborough",
+                "ja": "マリーボロー",
+                "ru": "Мэриборо",
+                "uk": "Меріборо"
+            },
+            "place_type": 67,
+            "population": 22237,
+            "latitude": -25.537583,
+            "longitude": 152.7019182,
+            "geocell": 2321727,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60976089,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q377975",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 68558311,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hervey Bay",
+                "ja": "ハービー・ベイ"
+            },
+            "place_type": 67,
+            "population": 57722,
+            "latitude": -25.2985784,
+            "longitude": 152.8535216,
+            "geocell": 2332528,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 68558311,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q606324",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 78078822,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Lithgow",
+                "ja": "リスゴー"
+            },
+            "place_type": 84,
+            "population": 11197,
+            "latitude": -33.481536,
+            "longitude": 150.1564887,
+            "geocell": 2037301,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 78078822,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1789805",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 78094548,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Melton"
+            },
+            "place_type": 84,
+            "population": 76346,
+            "latitude": -37.6835714,
+            "longitude": 144.5828446,
+            "geocell": 1886045,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 78094548,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q706032",
+                "wikipedia_pages": {
+                    "en": "Melton, Victoria"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 80868537,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Cleveland"
+            },
+            "place_type": 84,
+            "population": 15851,
+            "latitude": -27.5262987,
+            "longitude": 153.2667298,
+            "geocell": 2249732,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 80868537,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5132034",
+                "wikipedia_pages": {
+                    "en": "Cleveland, Queensland"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 82448311,
+            "country": 36,
+            "level1area": [
+                "auwa"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بوسلتون",
+                "en": "Busselton",
+                "fa": "باسلتون",
+                "ru": "Басселтон",
+                "ur": "بیسیلٹن"
+            },
+            "place_type": 84,
+            "population": 27233,
+            "latitude": -33.644499,
+            "longitude": 115.3488754,
+            "geocell": 2029753,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 82448311,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q642631",
+                "wikipedia_pages": {
+                    "en": "Busselton"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 97564451,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Castlemaine",
+                "ru": "Каслмейн"
+            },
+            "place_type": 84,
+            "population": 10577,
+            "latitude": -37.0664778,
+            "longitude": 144.2200032,
+            "geocell": 1907642,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 97564451,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q260317",
+                "wikipedia_pages": {
+                    "en": "Castlemaine, Victoria"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 97625513,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kempsey"
+            },
+            "place_type": 84,
+            "population": 11073,
+            "latitude": -31.0798092,
+            "longitude": 152.842289,
+            "geocell": 2123728,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 97625513,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1619596",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 113708138,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Orange",
+                "ja": "オレンジ",
+                "ru": "Ориндж",
+                "uk": "Орандж"
+            },
+            "place_type": 67,
+            "population": 40127,
+            "latitude": -33.2820463,
+            "longitude": 149.0971567,
+            "geocell": 2044490,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 113708138,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q580973",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 113724008,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Wagga Wagga",
+                "ja": "ウォガウォガ",
+                "ru": "Уогга-Уогга"
+            },
+            "place_type": 67,
+            "population": 49686,
+            "latitude": -35.115,
+            "longitude": 147.3677778,
+            "geocell": 1976073,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 113724008,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.wagga.nsw.gov.au/",
+                "wikidata_page_name": "Q459600",
+                "wikipedia_pages": {
+                    "en": "Wagga Wagga"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 113763535,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Broken Hill",
+                "ja": "ブロークンヒル",
+                "ru": "Брокен-Хилл",
+                "uk": "Брокен-Гілл"
+            },
+            "place_type": 67,
+            "population": 17456,
+            "latitude": -31.965,
+            "longitude": 141.4511111,
+            "geocell": 2091214,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 113763535,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q270734",
+                "wikipedia_pages": {
+                    "en": "Broken Hill"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 114176225,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Cessnock",
+                "ja": "セスノック"
+            },
+            "place_type": 67,
+            "population": 23211,
+            "latitude": -32.8316667,
+            "longitude": 151.3511111,
+            "geocell": 2058913,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 114176225,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q606357",
+                "wikipedia_pages": {
+                    "en": "Cessnock, New South Wales"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 114370819,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Dubbo",
+                "ja": "ダボ",
+                "ru": "Даббо",
+                "uk": "Даббо"
+            },
+            "place_type": 67,
+            "population": 38783,
+            "latitude": -32.2478964,
+            "longitude": 148.6026502,
+            "geocell": 2080486,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 114370819,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q706105",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 114607613,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Muswellbrook",
+                "ru": "Масуэлбрук"
+            },
+            "place_type": 84,
+            "population": 10901,
+            "latitude": -32.2652323,
+            "longitude": 150.888733,
+            "geocell": 2080508,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 114607613,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1008383",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 114608650,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mudgee"
+            },
+            "place_type": 84,
+            "population": 11563,
+            "latitude": -32.5980702,
+            "longitude": 149.5886383,
+            "geocell": 2069695,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 114608650,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q59819",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 114638747,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tamworth",
+                "ja": "タムワース",
+                "ru": "Тамуэрт"
+            },
+            "place_type": 67,
+            "population": 35415,
+            "latitude": -31.0900743,
+            "longitude": 150.9290159,
+            "geocell": 2123709,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 114638747,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1434796",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 114651471,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Lismore",
+                "ja": "リズモー",
+                "ru": "Лисмор",
+                "uk": "Лісмор"
+            },
+            "place_type": 67,
+            "population": 27916,
+            "latitude": -28.8077608,
+            "longitude": 153.2791883,
+            "geocell": 2202932,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 114651471,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q35001",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 115097893,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Maitland",
+                "ru": "Мейтленд"
+            },
+            "place_type": 84,
+            "population": 89597,
+            "latitude": -32.7316683,
+            "longitude": 151.5511123,
+            "geocell": 2062515,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 115097893,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q606900",
+                "wikipedia_pages": {
+                    "en": "Maitland, New South Wales"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 116961349,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Gosford",
+                "ja": "ゴスフォード",
+                "ru": "Госфорд"
+            },
+            "place_type": 67,
+            "population": 325255,
+            "latitude": -33.4250175,
+            "longitude": 151.3417318,
+            "geocell": 2037313,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 116961349,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q605113",
+                "wikipedia_pages": {
+                    "en": "Gosford"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 116962459,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Woy Woy"
+            },
+            "place_type": 84,
+            "population": 10643,
+            "latitude": -33.4880548,
+            "longitude": 151.3274925,
+            "geocell": 2037313,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 116962459,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q8037471",
+                "wikipedia_pages": {
+                    "en": "Woy Woy, New South Wales"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 117004676,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Raymond Terrace"
+            },
+            "place_type": 84,
+            "population": 14081,
+            "latitude": -32.7610569,
+            "longitude": 151.7462299,
+            "geocell": 2062517,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 117004676,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 117056836,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Penrith",
+                "ja": "ペンリス",
+                "ru": "Пенрит"
+            },
+            "place_type": 84,
+            "population": 178465,
+            "latitude": -33.7512304,
+            "longitude": 150.6941603,
+            "geocell": 2026506,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 117056836,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 123453118,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Colac",
+                "ja": "コーラック",
+                "ru": "Колак"
+            },
+            "place_type": 84,
+            "population": 12348,
+            "latitude": -38.3399766,
+            "longitude": 143.5858537,
+            "geocell": 1860835,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 123453118,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1009509",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 124415146,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Horsham",
+                "ru": "Хоршем"
+            },
+            "place_type": 84,
+            "population": 16289,
+            "latitude": -36.7148099,
+            "longitude": 142.2018105,
+            "geocell": 1918422,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 124415146,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1629019",
+                "wikipedia_pages": {
+                    "en": "Horsham, Victoria"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 128565480,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Singleton"
+            },
+            "place_type": 84,
+            "population": 14229,
+            "latitude": -32.5664044,
+            "longitude": 151.1733972,
+            "geocell": 2069711,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 128565480,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q667610",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 135631881,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Echuca"
+            },
+            "place_type": 84,
+            "population": 13764,
+            "latitude": -36.1281405,
+            "longitude": 144.7516955,
+            "geocell": 1940047,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 135631881,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q991600",
+                "wikipedia_pages": {
+                    "en": "Echuca"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 135631910,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Swan Hill",
+                "ru": "Суон-Хилл"
+            },
+            "place_type": 84,
+            "population": 10869,
+            "latitude": -35.3390784,
+            "longitude": 143.5588436,
+            "geocell": 1968835,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 135631910,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2305836",
+                "wikipedia_pages": {
+                    "en": "Swan Hill"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 141109870,
+            "country": 36,
+            "level1area": [
+                "ausa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mount Barker"
+            },
+            "place_type": 84,
+            "population": 21554,
+            "latitude": -35.0641302,
+            "longitude": 138.8586385,
+            "geocell": 1979588,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 141109870,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1010639",
+                "wikipedia_pages": {
+                    "en": "Mount Barker, South Australia"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 145620822,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Gold Coast",
+                "ja": "ゴールドコースト",
+                "ko": "골드코스트",
+                "mk": "Голд Коуст",
+                "ru": "Голд-Кост",
+                "uk": "Голд-Кост"
+            },
+            "place_type": 67,
+            "population": 607665,
+            "latitude": -28.0023731,
+            "longitude": 153.4145987,
+            "geocell": 2231734,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 145620822,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q140075",
+                "wikipedia_pages": {
+                    "en": "Gold Coast, Queensland"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 172987017,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bathurst",
+                "ja": "バサースト"
+            },
+            "place_type": 67,
+            "population": 36230,
+            "latitude": -33.4166378,
+            "longitude": 149.5804943,
+            "geocell": 2037295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 172987017,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q704978",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 180957547,
+            "country": 36,
+            "level1area": [
+                "ausa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Gawler",
+                "ja": "ゴーラー"
+            },
+            "place_type": 67,
+            "population": 28562,
+            "latitude": -34.5973311,
+            "longitude": 138.7448933,
+            "geocell": 1997587,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 180957547,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "5118"
+                ],
+                "wikidata_page_name": "Q1007201",
+                "wikipedia_pages": {
+                    "en": "Gawler, South Australia"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 189820294,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Μπαλαράτ",
+                "en": "Ballarat",
+                "he": "בלאראט",
+                "ja": "バララット",
+                "pt": "Ballarat",
+                "ru": "Балларат"
+            },
+            "place_type": 67,
+            "population": 105348,
+            "latitude": -37.5623013,
+            "longitude": 143.8605645,
+            "geocell": 1889638,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 189820294,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.ballarat.vic.gov.au/",
+                "wikidata_page_name": "Q17856",
+                "wikipedia_pages": {
+                    "en": "Ballarat"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 205379654,
+            "country": 36,
+            "level1area": [
+                "ausa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Stirling",
+                "ja": "スターリング"
+            },
+            "place_type": 84,
+            "population": 15783,
+            "latitude": -35.0047044,
+            "longitude": 138.7163341,
+            "geocell": 1979587,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 205379654,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "5152"
+                ],
+                "wikidata_page_name": "Q1432101",
+                "wikipedia_pages": {
+                    "en": "Stirling, South Australia"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 210212520,
+            "country": 36,
+            "level1area": [
+                "ausa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Murray Bridge",
+                "ja": "マレーブリッジ",
+                "ru": "Марри-Бридж"
+            },
+            "place_type": 84,
+            "population": 17457,
+            "latitude": -35.1309451,
+            "longitude": 139.2651638,
+            "geocell": 1975992,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 210212520,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1641083",
+                "wikipedia_pages": {
+                    "en": "Murray Bridge, South Australia"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 244646675,
+            "country": 36,
+            "level1area": [
+                "autas"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Launceston",
+                "ja": "ローンセストン",
+                "mk": "Лонсестон",
+                "ru": "Лонсестон",
+                "uk": "Лонсестон"
+            },
+            "place_type": 67,
+            "population": 80943,
+            "latitude": -41.4340813,
+            "longitude": 147.1373496,
+            "geocell": 1749271,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 244646675,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.launceston.tas.gov.au/",
+                "wikidata_page_name": "Q339527",
+                "wikipedia_pages": {
+                    "en": "Launceston, Tasmania"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 245122449,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بوندابيرج",
+                "en": "Bundaberg",
+                "ja": "バンダバーグ",
+                "ru": "Бундаберг",
+                "uk": "Бундаберг"
+            },
+            "place_type": 67,
+            "population": 52370,
+            "latitude": -24.8653253,
+            "longitude": 152.3516785,
+            "geocell": 2346923,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 245122449,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q185404",
+                "wikipedia_pages": {
+                    "en": "Bundaberg"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 245122452,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bargara"
+            },
+            "place_type": 84,
+            "population": 13000,
+            "latitude": -24.8154799,
+            "longitude": 152.4630414,
+            "geocell": 2346924,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 245122452,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 247807315,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Gladstone",
+                "ja": "グラッドストン",
+                "ru": "Гладстон",
+                "uk": "Гладстон"
+            },
+            "place_type": 67,
+            "population": 34703,
+            "latitude": -23.8431724,
+            "longitude": 151.256132,
+            "geocell": 2382912,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 247807315,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q705699",
+                "wikipedia_pages": {
+                    "en": "Gladstone, Queensland"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 247812099,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mount Isa",
+                "ja": "マウントアイザ",
+                "ru": "Маунт-Айза",
+                "uk": "Маунт-Айза"
+            },
+            "place_type": 67,
+            "population": 17936,
+            "latitude": -20.7289898,
+            "longitude": 139.4931522,
+            "geocell": 2494394,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 247812099,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.mountisa.qld.gov.au/",
+                "wikidata_page_name": "Q606335",
+                "wikipedia_pages": {
+                    "en": "Mount Isa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249072879,
+            "country": 36,
+            "level1area": [
+                "ausa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Victor Harbor",
+                "ja": "ビクターハーバー",
+                "ru": "Виктор-Харбор"
+            },
+            "place_type": 84,
+            "population": 16709,
+            "latitude": -35.5545579,
+            "longitude": 138.6234743,
+            "geocell": 1961586,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249072879,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1015796",
+                "wikipedia_pages": {
+                    "en": "Victor Harbor, South Australia"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 253010604,
+            "country": 36,
+            "level1area": [
+                "ausa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Whyalla",
+                "ja": "ワイアラ",
+                "ru": "Уайалла",
+                "uk": "Вайалла"
+            },
+            "place_type": 67,
+            "population": 20880,
+            "latitude": -33.0382085,
+            "longitude": 137.5843572,
+            "geocell": 2051575,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 253010604,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q706029",
+                "wikipedia_pages": {
+                    "en": "Whyalla"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 253012105,
+            "country": 36,
+            "level1area": [
+                "ausa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Port Lincoln",
+                "ja": "ポートリンカーン",
+                "ru": "Порт-Линкольн",
+                "uk": "Порт-Лінкольн"
+            },
+            "place_type": 84,
+            "population": 14404,
+            "latitude": -34.7211905,
+            "longitude": 135.8592218,
+            "geocell": 1990358,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 253012105,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.portlincoln.sa.gov.au/",
+                "wikidata_page_name": "Q606268",
+                "wikipedia_pages": {
+                    "en": "Port Lincoln"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 269455308,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nambour",
+                "ja": "ナンボー"
+            },
+            "place_type": 84,
+            "population": 20918,
+            "latitude": -26.6257326,
+            "longitude": 152.959953,
+            "geocell": 2282129,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 269455308,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1343166",
+                "wikipedia_pages": {
+                    "en": "Nambour"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 304116590,
+            "country": 36,
+            "level1area": [
+                "auact"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Weston Creek"
+            },
+            "place_type": 84,
+            "population": 22700,
+            "latitude": -35.343397,
+            "longitude": 149.0477964,
+            "geocell": 1968890,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 304116590,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 326110624,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Yeppoon",
+                "ru": "Йеппун"
+            },
+            "place_type": 84,
+            "population": 18789,
+            "latitude": -23.1348035,
+            "longitude": 150.7436625,
+            "geocell": 2408107,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 326110624,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2098901",
+                "wikipedia_pages": {
+                    "en": "Yeppoon"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 364652062,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kingaroy"
+            },
+            "place_type": 84,
+            "population": 10147,
+            "latitude": -26.5412563,
+            "longitude": 151.8394231,
+            "geocell": 2285718,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 364652062,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q605972",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 445177480,
+            "country": 36,
+            "level1area": [
+                "ausa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Port Pirie",
+                "ja": "ポートピリー",
+                "ru": "Порт-Пири"
+            },
+            "place_type": 84,
+            "population": 13708,
+            "latitude": -33.1791249,
+            "longitude": 138.0058614,
+            "geocell": 2047980,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 445177480,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q14966",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 662026831,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Wangaratta",
+                "ja": "ウォンガラッタ",
+                "ru": "Уонгаратта",
+                "uk": "Вангаратта"
+            },
+            "place_type": 84,
+            "population": 19712,
+            "latitude": -36.356434,
+            "longitude": 146.3228311,
+            "geocell": 1932863,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 662026831,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1024728",
+                "wikipedia_pages": {
+                    "en": "Wangaratta"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 705557765,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bacchus Marsh"
+            },
+            "place_type": 84,
+            "population": 21692,
+            "latitude": -37.6751897,
+            "longitude": 144.4366202,
+            "geocell": 1886044,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 705557765,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2878215",
+                "wikipedia_pages": {
+                    "en": "Bacchus Marsh, Victoria"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 941125358,
+            "country": 36,
+            "level1area": [
+                "ausa"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أديليد",
+                "be": "Адэлаіда",
+                "de": "Adelaide",
+                "en": "Adelaide",
+                "eo": "Adelajdo",
+                "es": "Adelaida",
+                "fr": "Adélaïde",
+                "he": "אדלייד",
+                "id": "Adelaide",
+                "is": "Adelaide",
+                "ja": "アデレード",
+                "kn": "ಅಡಿಲೇಡ್",
+                "lt": "Adelaidė",
+                "mk": "Аделаида",
+                "mr": "आडेलेड",
+                "pt": "Adelaide",
+                "ru": "Аделаида",
+                "sr": "Аделејд",
+                "sv": "Adelaide",
+                "tt": "Әделайд",
+                "uk": "Аделаїда"
+            },
+            "place_type": 67,
+            "population": 1245011,
+            "latitude": -34.9281805,
+            "longitude": 138.5999312,
+            "geocell": 1983185,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 941125358,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5112",
+                "wikipedia_pages": {
+                    "en": "Adelaide"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1546628274,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بريزبان",
+                "be": "Брысбэн",
+                "bg": "Брисбейн",
+                "de": "Brisbane",
+                "en": "Brisbane",
+                "eo": "Brisbano",
+                "es": "Brisbane",
+                "fr": "Brisbane",
+                "he": "בריסביין",
+                "is": "Brisbane",
+                "ja": "ブリスベン",
+                "lt": "Brisbenas",
+                "mk": "Бризбејн",
+                "mr": "ब्रिसबेन",
+                "pt": "Brisbane",
+                "ru": "Брисбен",
+                "sr": "Бризбејн",
+                "sv": "Brisbane",
+                "uk": "Брісбен"
+            },
+            "place_type": 67,
+            "population": 2287896,
+            "latitude": -27.4689682,
+            "longitude": 153.0234991,
+            "geocell": 2253330,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1546628274,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.brisbane.qld.gov.au/",
+                "wikidata_page_name": "Q34932",
+                "wikipedia_pages": {
+                    "en": "Brisbane"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1639099539,
+            "country": 36,
+            "level1area": [
+                "aunt"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "داروين",
+                "en": "Darwin",
+                "eo": "Darvino",
+                "es": "Darwin",
+                "ja": "ダーウィン",
+                "kn": "ಡಾರ್ವಿನ್",
+                "mk": "Дарвин",
+                "mr": "डार्विन",
+                "ru": "Дарвин",
+                "uk": "Дарвін"
+            },
+            "place_type": 67,
+            "population": 122207,
+            "latitude": -12.46044,
+            "longitude": 130.8410469,
+            "geocell": 2793108,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1639099539,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q11568",
+                "wikipedia_pages": {
+                    "en": "Darwin, Northern Territory"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1751005346,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sale",
+                "ru": "Сейл"
+            },
+            "place_type": 84,
+            "population": 14100,
+            "latitude": -38.1094463,
+            "longitude": 147.0656717,
+            "geocell": 1868070,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1751005346,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1026976",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1817489924,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Warwick",
+                "ja": "ウォリック",
+                "ru": "Уорик",
+                "uk": "Ворік"
+            },
+            "place_type": 67,
+            "population": 14110,
+            "latitude": -28.2163204,
+            "longitude": 152.0327039,
+            "geocell": 2224520,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1817489924,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "www.warwickevents.com",
+                "wikidata_page_name": "Q2118067",
+                "wikipedia_pages": {
+                    "en": "Warwick, Queensland"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1825242871,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Emerald"
+            },
+            "place_type": 84,
+            "population": 14089,
+            "latitude": -23.5263118,
+            "longitude": 148.1618622,
+            "geocell": 2393681,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1825242871,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1002615",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1831538106,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Griffith",
+                "ja": "グリフィス",
+                "ru": "Гриффит",
+                "uk": "Гріффіт"
+            },
+            "place_type": 67,
+            "population": 20799,
+            "latitude": -34.2870772,
+            "longitude": 146.0551022,
+            "geocell": 2008460,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1831538106,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q14217100",
+                "wikipedia_pages": {
+                    "en": "Griffith, New South Wales"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1875557678,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mackay",
+                "ja": "マッカイ",
+                "ru": "Маккай"
+            },
+            "place_type": 67,
+            "population": 80455,
+            "latitude": -21.141956,
+            "longitude": 149.1865149,
+            "geocell": 2480091,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1875557678,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q704371",
+                "wikipedia_pages": {
+                    "en": "Mackay, Queensland"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1882969315,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Gympie",
+                "ja": "ギンピー",
+                "ru": "Гимпи"
+            },
+            "place_type": 67,
+            "population": 19435,
+            "latitude": -26.1900447,
+            "longitude": 152.6600256,
+            "geocell": 2300126,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1882969315,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1558442",
+                "wikipedia_pages": {
+                    "en": "Gympie"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1918583620,
+            "country": 36,
+            "level1area": [
+                "auwa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Esperance",
+                "ja": "エスペランス",
+                "ru": "Эсперанс",
+                "uk": "Есперанс"
+            },
+            "place_type": 67,
+            "population": 10218,
+            "latitude": -33.858228,
+            "longitude": 121.8931606,
+            "geocell": 2022618,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1918583620,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1007665",
+                "wikipedia_pages": {
+                    "en": "Esperance, Western Australia"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1939438483,
+            "country": 36,
+            "level1area": [
+                "auwa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Albany",
+                "ja": "アルバニー",
+                "ru": "Олбани",
+                "uk": "Албані"
+            },
+            "place_type": 67,
+            "population": 31128,
+            "latitude": -35.0247822,
+            "longitude": 117.883608,
+            "geocell": 1979378,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1939438483,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q704257",
+                "wikipedia_pages": {
+                    "en": "Albany, Western Australia"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2014326094,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Rockhampton",
+                "ja": "ロックハンプトン",
+                "ru": "Рокгемптон",
+                "uk": "Рокгемптон"
+            },
+            "place_type": 67,
+            "population": 63151,
+            "latitude": -23.3782137,
+            "longitude": 150.5134227,
+            "geocell": 2400905,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2014326094,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q606162",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2292243210,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Shepparton",
+                "ja": "シェパートン",
+                "ru": "Шеппартон"
+            },
+            "place_type": 67,
+            "population": 49862,
+            "latitude": -36.3831633,
+            "longitude": 145.3988874,
+            "geocell": 1932853,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2292243210,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q707030",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2293318943,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Albury",
+                "ja": "オルベリー",
+                "ru": "Олбери"
+            },
+            "place_type": 67,
+            "population": 53677,
+            "latitude": -36.0804766,
+            "longitude": 146.9162795,
+            "geocell": 1943669,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2293318943,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.alburycity.nsw.gov.au/",
+                "wikidata_page_name": "Q331764",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2302780086,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Gracemere"
+            },
+            "place_type": 84,
+            "population": 11534,
+            "latitude": -23.4406387,
+            "longitude": 150.4559615,
+            "geocell": 2397304,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2302780086,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2321683713,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Warrnambool"
+            },
+            "place_type": 67,
+            "population": 32894,
+            "latitude": -38.3826242,
+            "longitude": 142.4814199,
+            "geocell": 1860824,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2321683713,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q705867",
+                "wikipedia_pages": {
+                    "en": "Warrnambool"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2324019453,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Traralgon",
+                "ja": "トララルゴン",
+                "ru": "Траралгон"
+            },
+            "place_type": 67,
+            "population": 27628,
+            "latitude": -38.1946636,
+            "longitude": 146.5381646,
+            "geocell": 1868065,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2324019453,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q249022",
+                "wikipedia_pages": {
+                    "en": "Traralgon"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2574377523,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Drysdale"
+            },
+            "place_type": 84,
+            "population": 16199,
+            "latitude": -38.1728304,
+            "longitude": 144.5710723,
+            "geocell": 1868045,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2574377523,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2183429",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2577778018,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Lara"
+            },
+            "place_type": 84,
+            "population": 15772,
+            "latitude": -38.0235346,
+            "longitude": 144.4088294,
+            "geocell": 1871644,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2577778018,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6488514",
+                "wikipedia_pages": {
+                    "en": "Lara, Victoria"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2578884910,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sunbury"
+            },
+            "place_type": 84,
+            "population": 38010,
+            "latitude": -37.5796938,
+            "longitude": 144.7295281,
+            "geocell": 1889647,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2578884910,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2613069224,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Leopold"
+            },
+            "place_type": 84,
+            "population": 12319,
+            "latitude": -38.1891547,
+            "longitude": 144.4644962,
+            "geocell": 1868044,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2613069224,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2615845781,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Torquay",
+                "ru": "Торкий"
+            },
+            "place_type": 84,
+            "population": 22998,
+            "latitude": -38.3266551,
+            "longitude": 144.3134076,
+            "geocell": 1860843,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2615845781,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q726992",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3136698236,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ocean Grove"
+            },
+            "place_type": 84,
+            "population": 22035,
+            "latitude": -38.267045,
+            "longitude": 144.52487,
+            "geocell": 1864445,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3136698236,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7076006",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3834031650,
+            "country": 36,
+            "level1area": [
+                "aunsw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Grafton",
+                "ja": "グラフトン",
+                "ru": "Графтон",
+                "uk": "Графтон"
+            },
+            "place_type": 67,
+            "population": 17155,
+            "latitude": -29.69125,
+            "longitude": 152.9333435,
+            "geocell": 2174129,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3834031650,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1025587",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3887250742,
+            "country": 36,
+            "level1area": [
+                "auwa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Karratha",
+                "ja": "カラサ"
+            },
+            "place_type": 67,
+            "population": 17013,
+            "latitude": -20.7370067,
+            "longitude": 116.8478592,
+            "geocell": 2494168,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3887250742,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1309107",
+                "wikipedia_pages": {
+                    "en": "Karratha, Western Australia"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9489623578,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sunshine Coast",
+                "ja": "サンシャインコースト",
+                "ko": "선샤인 코스트",
+                "mk": "сончев брег",
+                "ru": "солнечное побережье",
+                "uk": "сонячний берег"
+            },
+            "place_type": 67,
+            "population": 284131,
+            "latitude": -26.6544338,
+            "longitude": 153.0933668,
+            "geocell": 2282130,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9489623578,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q828357",
+                "wikipedia_pages": {
+                    "en": "Sunshine Coast, Queensland"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9941465039,
+            "country": 36,
+            "level1area": [
+                "auvic"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Wodonga",
+                "ja": "ウォドンガ"
+            },
+            "place_type": 67,
+            "population": 37839,
+            "latitude": -36.1205539,
+            "longitude": 146.8880837,
+            "geocell": 1940068,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9941465039,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.wodonga.vic.gov.au/",
+                "wikidata_page_name": "Q606307",
+                "wikipedia_pages": {
+                    "en": "Wodonga, Victoria"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12056660868,
+            "country": 36,
+            "level1area": [
+                "auqld"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Redland City"
+            },
+            "place_type": 67,
+            "population": 159222,
+            "latitude": -27.5263558,
+            "longitude": 153.2666582,
+            "geocell": 2249732,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12056660868,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.redland.qld.gov.au/",
+                "wikidata_page_name": "Q1492782",
+                "wikipedia_pages": {
+                    "en": "Redland City"
+                }
+            }
+        }
+    }
+]

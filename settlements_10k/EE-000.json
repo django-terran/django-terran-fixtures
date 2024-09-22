@@ -1,0 +1,576 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 21670333,
+            "country": 233,
+            "level1area": [
+                "ee45"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Narva",
+                "be": "Нарва",
+                "de": "Narwa",
+                "en": "Narva",
+                "et": "Narva",
+                "he": "נרבה",
+                "lt": "Narva",
+                "pl": "Narwa",
+                "ru": "Нарва",
+                "uk": "Нарва",
+                "uz": "Narva"
+            },
+            "place_type": 67,
+            "population": 53424,
+            "latitude": 59.3766729,
+            "longitude": 28.1921457,
+            "geocell": 5376881,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 21670333,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.narva.ee/",
+                "wikidata_page_name": "Q102158",
+                "wikipedia_pages": {
+                    "et": "Narva"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 28577941,
+            "country": 233,
+            "level1area": [
+                "ee68"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Pernau",
+                "et": "Pärnu",
+                "he": "פרנו",
+                "lt": "Pernu",
+                "lv": "Pērnava",
+                "pl": "Parnawa",
+                "ru": "Пярну",
+                "uk": "Пярну"
+            },
+            "place_type": 67,
+            "population": 43528,
+            "latitude": 58.3835136,
+            "longitude": 24.5081751,
+            "geocell": 5340845,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 28577941,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q102365",
+                "wikipedia_pages": {
+                    "et": "Pärnu"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29525427,
+            "country": 233,
+            "level1area": [
+                "ee81"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Walk",
+                "en": "Valga",
+                "et": "Valga",
+                "lt": "Valga",
+                "pl": "Wałk",
+                "ru": "Валга",
+                "uk": "Валга"
+            },
+            "place_type": 84,
+            "population": 12040,
+            "latitude": 57.777034,
+            "longitude": 26.0315628,
+            "geocell": 5319260,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29525427,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q193905",
+                "wikipedia_pages": {
+                    "et": "Valga"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29683679,
+            "country": 233,
+            "level1area": [
+                "ee37"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Kegel",
+                "en": "Keila",
+                "et": "Keila",
+                "lt": "Keila",
+                "ru": "Кейла",
+                "uk": "Кейла"
+            },
+            "place_type": 84,
+            "population": 10030,
+            "latitude": 59.3110918,
+            "longitude": 24.420907,
+            "geocell": 5376844,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29683679,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q207275",
+                "wikipedia_pages": {
+                    "et": "Keila"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29787492,
+            "country": 233,
+            "level1area": [
+                "ee37"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "تالين",
+                "ast": "Tallín",
+                "az": "Tallin",
+                "be": "Талін",
+                "bg": "Талин",
+                "bn": "তাল্লিন",
+                "br": "Tallinn",
+                "ckb": "تاڵین",
+                "de": "Tallinn",
+                "el": "Ταλίν",
+                "en": "Tallinn",
+                "eo": "Talino",
+                "es": "Tallin",
+                "et": "Tallinn",
+                "fa": "تالین",
+                "fi": "Tallinna",
+                "fr": "Tallinn",
+                "fy": "Tallin",
+                "ga": "Taillinn",
+                "gl": "Talín - Tallinn",
+                "he": "טאלין",
+                "hi": "ताल्लिन",
+                "hu": "Tallin",
+                "hy": "Տալլին",
+                "is": "Tallinn",
+                "it": "Tallinn",
+                "ja": "タリン",
+                "ka": "ტალინი",
+                "kk": "Таллин",
+                "ko": "탈린",
+                "ky": "Таллин",
+                "lt": "Talinas",
+                "lv": "Tallina",
+                "mk": "Талин",
+                "ml": "ടാലിൻ",
+                "mr": "तालिन",
+                "os": "Таллин",
+                "pl": "Tallinn",
+                "ro": "Tallinn",
+                "ru": "Таллин",
+                "sk": "Tallinn",
+                "sl": "Talin",
+                "sq": "Talini",
+                "sr": "Талин",
+                "sv": "Tallinn",
+                "ta": "தாலின்",
+                "tg": "Таллин",
+                "th": "ทาลลินน์",
+                "udm": "Таллин",
+                "ug": "تاللىن",
+                "uk": "Таллінн",
+                "ur": "ٹالن"
+            },
+            "place_type": 67,
+            "population": 462120,
+            "latitude": 59.4372155,
+            "longitude": 24.7453688,
+            "geocell": 5380447,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29787492,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1770",
+                "wikipedia_pages": {
+                    "et": "Tallinn"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 29949066,
+            "country": 233,
+            "level1area": [
+                "ee84"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Fellin",
+                "en": "Viljandi",
+                "et": "Viljandi",
+                "fi": "Viljandi",
+                "lt": "Viljandis",
+                "lv": "Vīlande",
+                "pl": "Felin",
+                "ru": "Вильянди",
+                "sv": "Fellin",
+                "uk": "Вільянді"
+            },
+            "place_type": 84,
+            "population": 19100,
+            "latitude": 58.36454,
+            "longitude": 25.5878074,
+            "geocell": 5340855,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 29949066,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.viljandi.ee/",
+                "wikidata_page_name": "Q44840",
+                "wikipedia_pages": {
+                    "et": "Viljandi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30127112,
+            "country": 233,
+            "level1area": [
+                "ee56"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Hapsal",
+                "en": "Haapsalu",
+                "et": "Haapsalu",
+                "lt": "Hapsalu",
+                "lv": "Hāpsalu",
+                "ru": "Хаапсалу",
+                "sv": "Hapsal",
+                "uk": "Хаапсалу"
+            },
+            "place_type": 84,
+            "population": 11593,
+            "latitude": 58.9399019,
+            "longitude": 23.5414798,
+            "geocell": 5362435,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30127112,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q191106",
+                "wikipedia_pages": {
+                    "et": "Haapsalu"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 30579730,
+            "country": 233,
+            "level1area": [
+                "ee87"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Werro",
+                "et": "Võru",
+                "he": "וורו",
+                "lt": "Veru",
+                "ru": "Выру",
+                "uk": "Виру"
+            },
+            "place_type": 84,
+            "population": 12951,
+            "latitude": 57.8385759,
+            "longitude": 27.0086505,
+            "geocell": 5322870,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 30579730,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q205271",
+                "wikipedia_pages": {
+                    "et": "Võru"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 35311924,
+            "country": 233,
+            "level1area": [
+                "ee45"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Jewe",
+                "en": "Jõhvi",
+                "et": "Jõhvi",
+                "lt": "Jehvis",
+                "ru": "Йыхви",
+                "uk": "Йихві"
+            },
+            "place_type": 84,
+            "population": 11600,
+            "latitude": 59.3579433,
+            "longitude": 27.4135654,
+            "geocell": 5376874,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 35311924,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q211059",
+                "wikipedia_pages": {
+                    "et": "Jõhvi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 242166775,
+            "country": 233,
+            "level1area": [
+                "ee45"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Kochtel-Türpsal",
+                "et": "Kohtla-Järve",
+                "lt": "Kohtla Jervė",
+                "ru": "Кохтла-Ярве",
+                "uk": "Кохтла-Ярве"
+            },
+            "place_type": 84,
+            "population": 44500,
+            "latitude": 59.4025488,
+            "longitude": 27.2880288,
+            "geocell": 5380472,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 242166775,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q201391",
+                "wikipedia_pages": {
+                    "et": "Kohtla-Järve"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 276210109,
+            "country": 233,
+            "level1area": [
+                "ee60"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Wesenberg",
+                "en": "Rakvere",
+                "et": "Rakvere",
+                "lt": "Rakverė",
+                "ru": "Раквере",
+                "uk": "Раквере"
+            },
+            "place_type": 84,
+            "population": 16953,
+            "latitude": 59.3482229,
+            "longitude": 26.3617173,
+            "geocell": 5376863,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 276210109,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q191889",
+                "wikipedia_pages": {
+                    "et": "Rakvere"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 293620554,
+            "country": 233,
+            "level1area": [
+                "ee79"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Тарту",
+                "de": "Dorpat",
+                "el": "Ταρτού",
+                "en": "Tartu",
+                "et": "Tartu",
+                "fi": "Tartto",
+                "he": "טרטו",
+                "it": "Tartu",
+                "lt": "Tartu",
+                "pl": "Tartu",
+                "ru": "Тарту",
+                "uk": "Тарту"
+            },
+            "place_type": 67,
+            "population": 102414,
+            "latitude": 58.3801207,
+            "longitude": 26.72245,
+            "geocell": 5340867,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 293620554,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13972",
+                "wikipedia_pages": {
+                    "et": "Tartu"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 516447315,
+            "country": 233,
+            "level1area": [
+                "ee45"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Sillamäggi",
+                "et": "Sillamäe",
+                "lt": "Silamejė",
+                "ru": "Силламяэ",
+                "uk": "Сілламяе"
+            },
+            "place_type": 84,
+            "population": 16567,
+            "latitude": 59.396265,
+            "longitude": 27.7625564,
+            "geocell": 5376877,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 516447315,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q207748",
+                "wikipedia_pages": {
+                    "et": "Sillamäe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 637658886,
+            "country": 233,
+            "level1area": [
+                "ee37"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Maart",
+                "en": "Maardu",
+                "et": "Maardu",
+                "lt": "Mardu",
+                "lv": "Mārdu",
+                "ru": "Маарду"
+            },
+            "place_type": 84,
+            "population": 16529,
+            "latitude": 59.468192,
+            "longitude": 24.9896751,
+            "geocell": 5380449,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 637658886,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q206555",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 753254956,
+            "country": 233,
+            "level1area": [
+                "ee74"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Arensburg",
+                "en": "Kuressaare",
+                "et": "Kuressaare",
+                "lt": "Kuresarė",
+                "ru": "Курессааре",
+                "uk": "Курессааре"
+            },
+            "place_type": 84,
+            "population": 15170,
+            "latitude": 58.2527693,
+            "longitude": 22.4849207,
+            "geocell": 5337224,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 753254956,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q188179",
+                "wikipedia_pages": {
+                    "et": "Kuressaare"
+                }
+            }
+        }
+    }
+]

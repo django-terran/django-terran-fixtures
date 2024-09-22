@@ -1,0 +1,619 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 270873161,
+            "country": 400,
+            "level1area": [
+                "joir"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "إربد",
+                "be": "Ірбід",
+                "bg": "Ирбид",
+                "de": "Irbid",
+                "el": "Ιρμπίντ",
+                "en": "Irbid",
+                "es": "Irbid",
+                "et": "Irbid",
+                "eu": "Irbid",
+                "fr": "Irbid",
+                "he": "אירביד",
+                "hi": "इर्बिद",
+                "hy": "Իրբիդ",
+                "ml": "ഇർബിദ്",
+                "ru": "Ирбид",
+                "uk": "Ірбід",
+                "ur": "اربد"
+            },
+            "place_type": 67,
+            "population": 292000,
+            "latitude": 32.5556091,
+            "longitude": 35.8493023,
+            "geocell": 4412158,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 270873161,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q194165",
+                "wikipedia_pages": {
+                    "ar": "إربد"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 270873411,
+            "country": 400,
+            "level1area": [
+                "joma"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "المفرق",
+                "de": "Mafrak",
+                "en": "Al Mafraq",
+                "eu": "Mafraq",
+                "fr": "Mafraq",
+                "he": "מפרק",
+                "ml": "മഫ്രക്ക്",
+                "ru": "Эль-Мафрак",
+                "uk": "Ель-Мафрак"
+            },
+            "place_type": 67,
+            "population": 60000,
+            "latitude": 32.3423619,
+            "longitude": 36.2075282,
+            "geocell": 4404962,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 270873411,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q276747",
+                "wikipedia_pages": {
+                    "en": "Mafraq"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 798842911,
+            "country": 400,
+            "level1area": [
+                "joaq"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "العقبة",
+                "cs": "Akaba",
+                "da": "Akaba",
+                "de": "Akaba",
+                "el": "Άκαμπα",
+                "en": "Aqaba",
+                "et": "Al-‘Aqabah",
+                "eu": "Aqaba",
+                "fa": "عقبه",
+                "fr": "Aqaba",
+                "he": "עקבה",
+                "hi": "अक़बा",
+                "hr": "Akaba",
+                "kn": "ಅಕಬ",
+                "ko": "아카바",
+                "ml": "അക്വബ",
+                "ru": "Акаба",
+                "sk": "Akaba",
+                "tr": "Akabe",
+                "uk": "Акаба",
+                "ur": "عقبہ"
+            },
+            "place_type": 67,
+            "population": 103100,
+            "latitude": 29.5266483,
+            "longitude": 35.0075433,
+            "geocell": 4304150,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 798842911,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q180522",
+                "wikipedia_pages": {
+                    "ar": "العقبة"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 798849022,
+            "country": 400,
+            "level1area": [
+                "joma"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "المنشية",
+                "de": "Al Manshiya",
+                "en": "Al Manshiya",
+                "fr": "Al Manshiya"
+            },
+            "place_type": 84,
+            "population": 11237,
+            "latitude": 32.370817,
+            "longitude": 36.0810338,
+            "geocell": 4404960,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 798849022,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q33773258",
+                "wikipedia_pages": {
+                    "ar": "منشية بني حسن (المفرق)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 798877241,
+            "country": 400,
+            "level1area": [
+                "joka"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الكرك",
+                "de": "Al Karak",
+                "en": "Al Karak",
+                "fr": "Al Karak",
+                "he": "כרכ",
+                "hi": "करक",
+                "ml": "കരക്",
+                "ru": "Эль-Карак",
+                "tr": "Kerek",
+                "ur": "الکرک"
+            },
+            "place_type": 84,
+            "population": 23000,
+            "latitude": 31.1847222,
+            "longitude": 35.7047218,
+            "geocell": 4361757,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 798877241,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q31572",
+                "wikipedia_pages": {
+                    "ar": "الكرك"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 799097498,
+            "country": 400,
+            "level1area": [
+                "jomd"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "مادبا",
+                "de": "Madaba",
+                "el": "Μάνταμπα",
+                "en": "Madaba",
+                "es": "Madaba",
+                "eu": "Madaba",
+                "fr": "Madaba",
+                "he": "מידבא",
+                "hi": "मदाबा",
+                "ml": "മാദബ",
+                "pt": "Madaba",
+                "ru": "Мадаба",
+                "uk": "Мадаба",
+                "ur": "مادبا"
+            },
+            "place_type": 67,
+            "population": 65000,
+            "latitude": 31.7165941,
+            "longitude": 35.7943856,
+            "geocell": 4383357,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 799097498,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1683958",
+                "wikipedia_pages": {
+                    "ar": "مادبا"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 802701305,
+            "country": 400,
+            "level1area": [
+                "joma"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "صبحا",
+                "de": "Sabha",
+                "en": "Sabha",
+                "fr": "Sabha"
+            },
+            "place_type": 84,
+            "population": 10819,
+            "latitude": 32.3295617,
+            "longitude": 36.501545,
+            "geocell": 4404965,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 802701305,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 802856920,
+            "country": 400,
+            "level1area": [
+                "joba"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الفحيص",
+                "en": "Al Fuhays",
+                "fr": "Al Fuhays"
+            },
+            "place_type": 86,
+            "population": 220000,
+            "latitude": 32.0097413,
+            "longitude": 35.7689844,
+            "geocell": 4394157,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 802856920,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1506264134,
+            "country": 400,
+            "level1area": [
+                "joaz"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الزرقاء",
+                "be": "Эз-Зарка",
+                "bg": "Зарка",
+                "de": "Zarka",
+                "en": "Zarqa",
+                "es": "Zarqa",
+                "et": "Az-Zarqā’",
+                "eu": "Zarqa",
+                "fr": "Zarka",
+                "he": "זרקא",
+                "hi": "ज़ार्का",
+                "ml": "സർഖ",
+                "ru": "Эз-Зарка",
+                "uk": "Ез-Зарка",
+                "ur": "زرقاء"
+            },
+            "place_type": 67,
+            "population": 395227,
+            "latitude": 32.0668425,
+            "longitude": 36.0885771,
+            "geocell": 4394160,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1506264134,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q148062",
+                "wikipedia_pages": {
+                    "ar": "الزرقاء (مدينة)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1643504896,
+            "country": 400,
+            "level1area": [
+                "joam"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "عمان",
+                "be": "Аман",
+                "bg": "Аман",
+                "bn": "আম্মান",
+                "br": "Amman",
+                "bs": "Aman",
+                "ckb": "عەممان",
+                "cs": "Ammán",
+                "da": "Amman",
+                "de": "Amman",
+                "el": "Αμμάν",
+                "en": "Amman",
+                "eo": "Amano",
+                "es": "Amán",
+                "et": "Amman",
+                "eu": "Amman",
+                "fa": "امان",
+                "fi": "Amman",
+                "fr": "Amman",
+                "gl": "Amán - عمان",
+                "he": "רבת עמון",
+                "hi": "अम्मान",
+                "hr": "Amman",
+                "hu": "Ammán",
+                "hy": "Ամման",
+                "is": "Amman",
+                "it": "Amman",
+                "ja": "アンマン",
+                "ka": "ამანი",
+                "kab": "Ɛemman",
+                "kk": "Амман",
+                "kn": "ಅಮ್ಮಾನ್",
+                "ko": "암만",
+                "lt": "Amanas",
+                "lv": "Ammāna",
+                "mk": "Аман",
+                "ml": "അമ്മാൻ",
+                "mn": "Амман",
+                "mr": "अम्मान",
+                "nl": "Amman",
+                "os": "Амман",
+                "pl": "Amman",
+                "pt": "Amã",
+                "ro": "Amman",
+                "ru": "Амман",
+                "sk": "Ammán",
+                "sl": "Aman",
+                "sr": "Аман",
+                "sv": "Amman",
+                "ta": "அம்மான்",
+                "te": "అమ్మాన్",
+                "tg": "Аммон",
+                "th": "อัมมาน",
+                "tr": "Amman",
+                "tt": "Амман",
+                "ug": "ئاممان",
+                "uk": "Амман",
+                "ur": "عمان"
+            },
+            "place_type": 67,
+            "population": 4000000,
+            "latitude": 31.9515694,
+            "longitude": 35.9239625,
+            "geocell": 4390559,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1643504896,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.ammancity.gov.jo/",
+                "wikidata_page_name": "Q3805",
+                "wikipedia_pages": {
+                    "en": "Amman"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2331717281,
+            "country": 400,
+            "level1area": [
+                "joma"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "مخيم الزعتري",
+                "en": "Al Zaatari Refugee Camp",
+                "fa": "مخيم الزعتري",
+                "fr": "Camp de réfugiés de Zaatari"
+            },
+            "place_type": 86,
+            "population": 79943,
+            "latitude": 32.2942395,
+            "longitude": 36.3267426,
+            "geocell": 4401363,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2331717281,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "website": "http://data.unhcr.org/syrianrefugees/settlement.php?id=176&country=107&region=77",
+                "wikidata_page_name": "Q8063414",
+                "wikipedia_pages": {
+                    "en": "Zaatari refugee camp"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4712484430,
+            "country": 400,
+            "level1area": [
+                "joja"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ساكب",
+                "de": "Sakib",
+                "en": "Sakib",
+                "es": "Sakib",
+                "eu": "Sakib",
+                "fr": "Sakib",
+                "he": "סאקיב",
+                "ml": "സാക്കിബ്",
+                "ru": "Сакиб",
+                "uk": "Сакіб"
+            },
+            "place_type": 67,
+            "population": 11586,
+            "latitude": 32.2844022,
+            "longitude": 35.8085641,
+            "geocell": 4401358,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4712484430,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2305496",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5866184111,
+            "country": 400,
+            "level1area": [
+                "joir"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "دير أبي سعيد",
+                "de": "Dayr Abī Sa‘īd",
+                "en": "Der Abi Saeed",
+                "fr": "Deïr Αbi Saïd"
+            },
+            "place_type": 84,
+            "population": 29590,
+            "latitude": 32.5009109,
+            "longitude": 35.6838815,
+            "geocell": 4412156,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5866184111,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5261124",
+                "wikipedia_pages": {
+                    "ar": "دير أبي سعيد (إربد)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7549550913,
+            "country": 400,
+            "level1area": [
+                "joir"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "دوقرة"
+            },
+            "place_type": 86,
+            "population": 11000,
+            "latitude": 32.5996356,
+            "longitude": 35.7374649,
+            "geocell": 4412157,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7549550913,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 10110212309,
+            "country": 400,
+            "level1area": [
+                "joma"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الزعتري",
+                "en": "Za'tary"
+            },
+            "place_type": 84,
+            "population": 13354,
+            "latitude": 32.3107262,
+            "longitude": 36.3012716,
+            "geocell": 4404963,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 10110212309,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q33772418",
+                "wikipedia_pages": {
+                    "ar": "الزعتري (المفرق)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 10110212310,
+            "country": 400,
+            "level1area": [
+                "joma"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الحمراء",
+                "en": "Hamra"
+            },
+            "place_type": 84,
+            "population": 12267,
+            "latitude": 32.4416783,
+            "longitude": 36.1487039,
+            "geocell": 4408561,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 10110212310,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q33771847",
+                "wikipedia_pages": {
+                    "ar": "الحمراء (المفرق)"
+                }
+            }
+        }
+    }
+]

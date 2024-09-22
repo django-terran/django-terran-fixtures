@@ -1,0 +1,97 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 339324562,
+            "country": 174,
+            "level1area": [
+                "kmg"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "موروني",
+                "be": "Мароні",
+                "bg": "Морони",
+                "ckb": "مۆرۆنی",
+                "de": "Moroni",
+                "el": "Μορονί",
+                "en": "Moroni",
+                "es": "Moroni",
+                "fa": "موروني",
+                "fr": "Moroni",
+                "fy": "Morony",
+                "he": "מורוני",
+                "hu": "Moroni",
+                "hy": "Մորոնի",
+                "id": "Moroni",
+                "is": "Moróní",
+                "it": "Moroni",
+                "ja": "モロニ",
+                "ka": "მორონი",
+                "ko": "모로니",
+                "ky": "Морони",
+                "lt": "Moronis",
+                "mk": "Морони",
+                "mn": "Морони",
+                "mr": "मोरोनी",
+                "pl": "Moroni",
+                "ru": "Морони",
+                "sr": "Морони",
+                "sv": "Moroni",
+                "ta": "மூறூனீ",
+                "th": "โมโรนี",
+                "udm": "Морони",
+                "uk": "Мороні",
+                "ur": "مورونی",
+                "vi": "Moroni"
+            },
+            "place_type": 67,
+            "population": 111329,
+            "latitude": -11.6931255,
+            "longitude": 43.2543044,
+            "geocell": 2821032,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 339324562,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3901",
+                "wikipedia_pages": {
+                    "ar": "موروني"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1295700465,
+            "country": 174,
+            "level1area": [
+                "kma"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "موتسامودو",
+                "en": "Mutsamudu",
+                "fr": "Mutsamudu",
+                "ko": "무차무두"
+            },
+            "place_type": 67,
+            "population": 30000,
+            "latitude": -12.168846,
+            "longitude": 44.3942831,
+            "geocell": 2803043,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1295700465,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q691016",
+                "wikipedia_pages": {
+                    "ar": "موتسامودو"
+                }
+            }
+        }
+    }
+]

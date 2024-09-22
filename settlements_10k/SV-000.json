@@ -1,0 +1,407 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 197701710,
+            "country": 222,
+            "level1area": [
+                "svss"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سان سلفادور",
+                "be": "Сан-Сальвадор",
+                "bg": "Сан Салвадор",
+                "de": "San Salvador",
+                "el": "Σαν Σαλβαδόρ",
+                "en": "San Salvador",
+                "eo": "San-Salvadoro",
+                "es": "San Salvador",
+                "fa": "سان سالوادور",
+                "fr": "San Salvador",
+                "he": "סן סלוודור",
+                "hu": "San Salvador",
+                "hy": "Սան Սալվադոր",
+                "is": "San Salvador",
+                "ja": "サンサルバドル",
+                "ka": "სან-სალვადორი",
+                "ko": "산살바도르",
+                "lt": "San Salvadoras",
+                "lv": "Sansalvadora",
+                "mk": "Сан Салвадор",
+                "mr": "सान साल्व्हाडोर",
+                "os": "Сан-Сальвадор",
+                "pl": "San Salvador",
+                "pt": "São Salvador",
+                "ru": "Сан-Сальвадор",
+                "sq": "San Salvadori",
+                "sr": "Сан Салвадор",
+                "sv": "San Salvador",
+                "ta": "சான் சல்வடோர்",
+                "th": "ซันซัลวาดอร์",
+                "ug": "سان سالۋادور",
+                "uk": "Сан-Сальвадор",
+                "ur": "سان سلواڈور"
+            },
+            "place_type": 67,
+            "population": 567698,
+            "latitude": 13.6989939,
+            "longitude": -89.1914249,
+            "geocell": 3730508,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 197701710,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3110",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 322789099,
+            "country": 222,
+            "level1area": [
+                "svso"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Sonsonate"
+            },
+            "place_type": 67,
+            "population": 110501,
+            "latitude": 13.7206461,
+            "longitude": -89.7274817,
+            "geocell": 3734102,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 322789099,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1014248",
+                "wikipedia_pages": {
+                    "en": "Sonsonate, El Salvador"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 446299774,
+            "country": 222,
+            "level1area": [
+                "svli"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Santa Tecla",
+                "hu": "Santa Tecla",
+                "ru": "Санта-Текла"
+            },
+            "place_type": 67,
+            "population": 138695,
+            "latitude": 13.6742985,
+            "longitude": -89.2880412,
+            "geocell": 3730507,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 446299774,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q723246",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 461575303,
+            "country": 222,
+            "level1area": [
+                "svus"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Jucuapa"
+            },
+            "place_type": 84,
+            "population": 25000,
+            "latitude": 13.5139331,
+            "longitude": -88.3846805,
+            "geocell": 3726916,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 461575303,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1154949",
+                "wikipedia_pages": {
+                    "es": "Jucuapa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 461959353,
+            "country": 222,
+            "level1area": [
+                "svus"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Usulután"
+            },
+            "place_type": 67,
+            "population": 73064,
+            "latitude": 13.3438204,
+            "longitude": -88.4382264,
+            "geocell": 3719715,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 461959353,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1018092",
+                "wikipedia_pages": {
+                    "en": "Usulután"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 507951907,
+            "country": 222,
+            "level1area": [
+                "svch"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Chalatenango"
+            },
+            "place_type": 67,
+            "population": 21102,
+            "latitude": 14.0413868,
+            "longitude": -88.9394082,
+            "geocell": 3744910,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 507951907,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "http://www.chalatenango.gob.sv/",
+                "wikidata_page_name": "Q2290501",
+                "wikipedia_pages": {
+                    "es": "Chalatenango"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1556556238,
+            "country": 222,
+            "level1area": [
+                "svss"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Santiago Texacuangos"
+            },
+            "place_type": 84,
+            "population": 19428,
+            "latitude": 13.6430546,
+            "longitude": -89.1171188,
+            "geocell": 3730508,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1556556238,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q679112",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2512895232,
+            "country": 222,
+            "level1area": [
+                "svca"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sensuntepeque",
+                "es": "Sensuntepeque",
+                "ru": "Сенсунтепеке"
+            },
+            "place_type": 67,
+            "population": 41000,
+            "latitude": 13.8761841,
+            "longitude": -88.6284918,
+            "geocell": 3737713,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2512895232,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2335680",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2631746431,
+            "country": 222,
+            "level1area": [
+                "svun"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Alejo"
+            },
+            "place_type": 84,
+            "population": 17598,
+            "latitude": 13.4315212,
+            "longitude": -87.9611,
+            "geocell": 3723320,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2631746431,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q927114",
+                "wikipedia_pages": {
+                    "en": "San Alejo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2648117712,
+            "country": 222,
+            "level1area": [
+                "svun"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Anamorós"
+            },
+            "place_type": 84,
+            "population": 16594,
+            "latitude": 13.7415359,
+            "longitude": -87.8715217,
+            "geocell": 3734121,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2648117712,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3615033",
+                "wikipedia_pages": {
+                    "en": "Anamorós"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4113164339,
+            "country": 222,
+            "level1area": [
+                "svsa"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Santa Ana",
+                "ru": "Санта-Ана"
+            },
+            "place_type": 67,
+            "population": 167200,
+            "latitude": 13.9947753,
+            "longitude": -89.5566069,
+            "geocell": 3741304,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4113164339,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q739664",
+                "wikipedia_pages": {
+                    "en": "Santa Ana, El Salvador"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4373274998,
+            "country": 222,
+            "level1area": [
+                "svss"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Ayutuxtepeque"
+            },
+            "place_type": 84,
+            "population": 60000,
+            "latitude": 13.7352982,
+            "longitude": -89.2000952,
+            "geocell": 3734107,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4373274998,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q793367",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5648177721,
+            "country": 222,
+            "level1area": [
+                "svpa"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Juan Nonualco"
+            },
+            "place_type": 84,
+            "population": 17256,
+            "latitude": 13.5064179,
+            "longitude": -88.8975942,
+            "geocell": 3726911,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5648177721,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "CP 1613"
+                ],
+                "wikidata_page_name": "Q3471526",
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

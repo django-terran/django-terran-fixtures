@@ -1,0 +1,2347 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27565116,
+            "country": 450,
+            "level1area": [
+                "mgt"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Antananarivo",
+                "ar": "أنتاناناريفو",
+                "ast": "Antananarivu",
+                "az": "Antananarivu",
+                "be": "Антананарыву",
+                "bg": "Антананариво",
+                "bn": "আন্তানানারিভো",
+                "br": "Antananarivo",
+                "bs": "Antananarivo",
+                "ca": "Antananarivo",
+                "ckb": "ئانتاناناریڤۆ",
+                "cs": "Antananarivo",
+                "cy": "Antananarivo",
+                "da": "Antananarivo",
+                "de": "Antananarivo",
+                "el": "Ανταναναρίβο",
+                "en": "Antananarivo",
+                "eo": "Antananarivo",
+                "es": "Antananarivo",
+                "et": "Antananarivo",
+                "eu": "Antananarivo",
+                "fa": "آنتاناناریوو",
+                "fi": "Antananarivo",
+                "fr": "Antananarivo",
+                "fy": "Antananarivo",
+                "ga": "Antananairíveo",
+                "gd": "Antananarivo",
+                "gl": "Antananarivo",
+                "he": "אנטננריבו",
+                "hi": "अन्टाननरीवो",
+                "hr": "Antananarivo",
+                "hsb": "Antananarivo",
+                "hu": "Antananarivo",
+                "hy": "Անտանանարիվու",
+                "ia": "Antananarivo",
+                "id": "Antananarivo",
+                "io": "Antananarivo",
+                "is": "Antananarívó",
+                "it": "Antananarivo",
+                "ja": "アンタナナリボ",
+                "ka": "ანტანანარივუ",
+                "kk": "Антананариву",
+                "kn": "ಅನ್ಟಾನನರೀವೋ",
+                "ko": "안타나나리보",
+                "ky": "Антананариву",
+                "lb": "Antananarivo",
+                "lt": "Antananaryvas",
+                "lv": "Antananarivu",
+                "mg": "Antananarivo",
+                "mk": "Антананариво",
+                "ml": "ആന്റനനറീവൊ",
+                "mn": "Антананариву",
+                "mr": "अंतानानारिव्हो",
+                "ms": "Antananarivo",
+                "nl": "Antananarivo",
+                "nn": "Antananarivo",
+                "os": "Антананариву",
+                "pa": "ਅੰਤਾਨਾਨਾਰੀਵੋ",
+                "pl": "Antananarywa",
+                "pt": "Antananarivo",
+                "ro": "Antananarivo",
+                "ru": "Антананариву",
+                "sk": "Antananarivo",
+                "sl": "Antananarivo",
+                "sq": "Antananarivo",
+                "sr": "Антананариво",
+                "sv": "Antananarivo",
+                "sw": "Antananarivo",
+                "ta": "அண்டனானரீவோ",
+                "tg": "Антананариву",
+                "th": "อันตานานาริโว",
+                "tr": "Antananarivo",
+                "udm": "Антананариву",
+                "uk": "Антананаріву",
+                "ur": "اینٹانانیریو",
+                "uz": "Antananarivu",
+                "vi": "Antananarivo"
+            },
+            "place_type": 67,
+            "population": 1274225,
+            "latitude": -18.9100122,
+            "longitude": 47.5255809,
+            "geocell": 2558275,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27565116,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "en": "Antananarivo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 254609408,
+            "country": 450,
+            "level1area": [
+                "mgu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Toliara",
+                "fr": "Toliara",
+                "ko": "톨리아라",
+                "mg": "Toliara",
+                "ru": "Тулиара",
+                "uk": "Туліара"
+            },
+            "place_type": 67,
+            "population": 168756,
+            "latitude": -23.354173,
+            "longitude": 43.66966,
+            "geocell": 2399836,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 254609408,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q824043",
+                "wikipedia_pages": {
+                    "fr": "Toliara"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 254615144,
+            "country": 450,
+            "level1area": [
+                "mga"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Maroantsetra",
+                "mg": "Maroantsetra",
+                "ru": "Мароантсера",
+                "uk": "Мароантсера"
+            },
+            "place_type": 84,
+            "population": 42529,
+            "latitude": -15.4348742,
+            "longitude": 49.7422912,
+            "geocell": 2684297,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 254615144,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q118175",
+                "wikipedia_pages": {
+                    "fr": "Maroantsetra"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 254616067,
+            "country": 450,
+            "level1area": [
+                "mgd"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Antsiranana",
+                "ja": "アンツィラナナ",
+                "ko": "안치라나나",
+                "mg": "Antsiranana",
+                "ru": "Анциранана"
+            },
+            "place_type": 67,
+            "population": 129320,
+            "latitude": -12.2779632,
+            "longitude": 49.2913743,
+            "geocell": 2799492,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 254616067,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "url": "https://www.youtube.com/watch?v=b9kuvfbrI38",
+                "wikidata_page_name": "Q218928",
+                "wikipedia_pages": {
+                    "en": "Antsiranana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 254616909,
+            "country": 450,
+            "level1area": [
+                "mgd"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Hell-Ville"
+            },
+            "place_type": 84,
+            "population": 50251,
+            "latitude": -13.405413,
+            "longitude": 48.274305,
+            "geocell": 2756282,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 254616909,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q492217",
+                "wikipedia_pages": {
+                    "fr": "Andoany"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 254618037,
+            "country": 450,
+            "level1area": [
+                "mgm"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Mahajanga",
+                "en": "Mahajanga",
+                "fr": "Mahajanga",
+                "it": "Mahajanga",
+                "ko": "마하장가",
+                "mg": "Mahajanga",
+                "ru": "Махадзанга",
+                "uk": "Махадзанга"
+            },
+            "place_type": 67,
+            "population": 246022,
+            "latitude": -15.7181492,
+            "longitude": 46.3172577,
+            "geocell": 2673463,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 254618037,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q218753",
+                "wikipedia_pages": {
+                    "en": "Mahajanga"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 300217995,
+            "country": 450,
+            "level1area": [
+                "mgf"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Ihosy"
+            },
+            "place_type": 84,
+            "population": 39556,
+            "latitude": -22.403183,
+            "longitude": 46.1289903,
+            "geocell": 2432261,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 300217995,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1657947",
+                "wikipedia_pages": {
+                    "en": "Ihosy"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 300272255,
+            "country": 450,
+            "level1area": [
+                "mgt"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أنتسيرابي",
+                "de": "Antsirabe",
+                "it": "Antsirabe",
+                "ja": "アンツィラベ",
+                "ko": "안치라베",
+                "mg": "Antsirabe",
+                "ru": "Анцирабе"
+            },
+            "place_type": 67,
+            "population": 246354,
+            "latitude": -19.871403,
+            "longitude": 47.034667,
+            "geocell": 2525870,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 300272255,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q583184",
+                "wikipedia_pages": {
+                    "en": "Antsirabe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 300379949,
+            "country": 450,
+            "level1area": [
+                "mgm"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Marovoay"
+            },
+            "place_type": 84,
+            "population": 39290,
+            "latitude": -16.1088044,
+            "longitude": 46.642048,
+            "geocell": 2659066,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 300379949,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1902425",
+                "wikipedia_pages": {
+                    "fr": "Marovoay"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 300382318,
+            "country": 450,
+            "level1area": [
+                "mgm"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Maevatanàna"
+            },
+            "place_type": 84,
+            "population": 25928,
+            "latitude": -16.9497038,
+            "longitude": 46.828337,
+            "geocell": 2630268,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 300382318,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1328830",
+                "wikipedia_pages": {
+                    "fr": "Maevatanana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 300385517,
+            "country": 450,
+            "level1area": [
+                "mgt"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Ankazobe"
+            },
+            "place_type": 84,
+            "population": 26845,
+            "latitude": -18.3143843,
+            "longitude": 47.1144865,
+            "geocell": 2579871,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 300385517,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2850305",
+                "wikipedia_pages": {
+                    "fr": "Ankazobe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 300387736,
+            "country": 450,
+            "level1area": [
+                "mgm"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Maintirano",
+                "mg": "Maintirano"
+            },
+            "place_type": 84,
+            "population": 22293,
+            "latitude": -18.0608947,
+            "longitude": 44.023951,
+            "geocell": 2590640,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 300387736,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2531012",
+                "wikipedia_pages": {
+                    "fr": "Maintirano"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 300388295,
+            "country": 450,
+            "level1area": [
+                "mgm"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Besalampy"
+            },
+            "place_type": 84,
+            "population": 11331,
+            "latitude": -16.7484406,
+            "longitude": 44.4908675,
+            "geocell": 2637444,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 300388295,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1099539",
+                "wikipedia_pages": {
+                    "en": "Besalampy"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 300388620,
+            "country": 450,
+            "level1area": [
+                "mgm"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Soalala"
+            },
+            "place_type": 84,
+            "population": 14328,
+            "latitude": -16.102869,
+            "longitude": 45.328472,
+            "geocell": 2659053,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 300388620,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2480172",
+                "wikipedia_pages": {
+                    "en": "Soalala"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 300388948,
+            "country": 450,
+            "level1area": [
+                "mgt"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Soavinandriana"
+            },
+            "place_type": 84,
+            "population": 40045,
+            "latitude": -19.1707551,
+            "longitude": 46.7386858,
+            "geocell": 2551067,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 300388948,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3117789",
+                "wikipedia_pages": {
+                    "fr": "Soavinandriana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 300389431,
+            "country": 450,
+            "level1area": [
+                "mgt"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Miarinarivo"
+            },
+            "place_type": 84,
+            "population": 13109,
+            "latitude": -18.956006,
+            "longitude": 46.906709,
+            "geocell": 2558269,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 300389431,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q155530",
+                "wikipedia_pages": {
+                    "fr": "Miarinarivo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 300389556,
+            "country": 450,
+            "level1area": [
+                "mgt"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Tsiroanomandidy"
+            },
+            "place_type": 84,
+            "population": 44461,
+            "latitude": -18.7698412,
+            "longitude": 46.0495226,
+            "geocell": 2565460,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 300389556,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1649287",
+                "wikipedia_pages": {
+                    "fr": "Tsiroanomandidy"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 316841166,
+            "country": 450,
+            "level1area": [
+                "mgf"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Ambositra"
+            },
+            "place_type": 84,
+            "population": 41078,
+            "latitude": -20.5328149,
+            "longitude": 47.2450521,
+            "geocell": 2500672,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 316841166,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q458440",
+                "wikipedia_pages": {
+                    "fr": "Ambositra"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 316842941,
+            "country": 450,
+            "level1area": [
+                "mgf"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Ambohimahasoa"
+            },
+            "place_type": 84,
+            "population": 11606,
+            "latitude": -21.106357,
+            "longitude": 47.214455,
+            "geocell": 2479072,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 316842941,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2778665",
+                "wikipedia_pages": {
+                    "en": "Ambohimahasoa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 316843071,
+            "country": 450,
+            "level1area": [
+                "mgf"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Fianarantsoa",
+                "it": "Fianarantsoa",
+                "ko": "피아나란초아",
+                "mg": "Fianarantsoa",
+                "ru": "Фианаранцуа"
+            },
+            "place_type": 67,
+            "population": 191776,
+            "latitude": -21.456444,
+            "longitude": 47.085149,
+            "geocell": 2468270,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 316843071,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "301"
+                ],
+                "wikidata_page_name": "Q527441",
+                "wikipedia_pages": {
+                    "fr": "Fianarantsoa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 335711690,
+            "country": 450,
+            "level1area": [
+                "mga"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أنتسيرابي",
+                "de": "Toamasina",
+                "en": "Toamasina",
+                "fr": "Toamasina",
+                "it": "Toamasina",
+                "ja": "トアマシナ",
+                "ko": "토아마시나",
+                "mg": "Toamasina",
+                "ru": "Туамасина"
+            },
+            "place_type": 67,
+            "population": 325857,
+            "latitude": -18.1553985,
+            "longitude": 49.4098352,
+            "geocell": 2587094,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 335711690,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q178067",
+                "wikipedia_pages": {
+                    "en": "Toamasina"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 340427004,
+            "country": 450,
+            "level1area": [
+                "mgm"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Port-Bergé",
+                "mg": "Port-Bergé"
+            },
+            "place_type": 84,
+            "population": 22573,
+            "latitude": -15.5668595,
+            "longitude": 47.6207245,
+            "geocell": 2680676,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 340427004,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 590835579,
+            "country": 450,
+            "level1area": [
+                "mgt"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Manjakandriana"
+            },
+            "place_type": 84,
+            "population": 22188,
+            "latitude": -18.9210585,
+            "longitude": 47.8113315,
+            "geocell": 2558278,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 590835579,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1523009",
+                "wikipedia_pages": {
+                    "fr": "Manjakandriana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 593976824,
+            "country": 450,
+            "level1area": [
+                "mga"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Brickaville"
+            },
+            "place_type": 84,
+            "population": 27865,
+            "latitude": -18.8208628,
+            "longitude": 49.0694434,
+            "geocell": 2561890,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 593976824,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q474422",
+                "wikipedia_pages": {
+                    "en": "Brickaville"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 637715770,
+            "country": 450,
+            "level1area": [
+                "mgt"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Ambohidratrimo"
+            },
+            "place_type": 84,
+            "population": 23760,
+            "latitude": -18.8186405,
+            "longitude": 47.4395021,
+            "geocell": 2561874,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 637715770,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 664492742,
+            "country": 450,
+            "level1area": [
+                "mga"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Moramanga"
+            },
+            "place_type": 84,
+            "population": 57084,
+            "latitude": -18.9471494,
+            "longitude": 48.2304269,
+            "geocell": 2558282,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 664492742,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "fr": "Moramanga"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 671507246,
+            "country": 450,
+            "level1area": [
+                "mga"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Fénérive Est",
+                "mg": "Fenoarivo Atsinanana"
+            },
+            "place_type": 84,
+            "population": 41734,
+            "latitude": -17.382029,
+            "longitude": 49.4099733,
+            "geocell": 2615894,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 671507246,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1404813",
+                "wikipedia_pages": {
+                    "fr": "Fenoarivo Atsinanana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 678832056,
+            "country": 450,
+            "level1area": [
+                "mga"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Ambodifotatra"
+            },
+            "place_type": 84,
+            "population": 26822,
+            "latitude": -16.9996379,
+            "longitude": 49.8525772,
+            "geocell": 2630298,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 678832056,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "fr": "Ambodifototra"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 701529816,
+            "country": 450,
+            "level1area": [
+                "mgf"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Ambalavao"
+            },
+            "place_type": 84,
+            "population": 43231,
+            "latitude": -21.8316233,
+            "longitude": 46.9384737,
+            "geocell": 2453869,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 701529816,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2092364",
+                "wikipedia_pages": {
+                    "fr": "Ambalavao"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 710305755,
+            "country": 450,
+            "level1area": [
+                "mgu"
+            ],
+            "level2area": null,
+            "names": {
+                "ja": "モロンダバ",
+                "ko": "모론다바",
+                "mg": "Morondava",
+                "ru": "Мурундава"
+            },
+            "place_type": 84,
+            "population": 53510,
+            "latitude": -20.2951102,
+            "longitude": 44.2786121,
+            "geocell": 2511442,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 710305755,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q864109",
+                "wikipedia_pages": {
+                    "en": "Morondava"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 711526109,
+            "country": 450,
+            "level1area": [
+                "mgt"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Ambatolampy"
+            },
+            "place_type": 84,
+            "population": 32291,
+            "latitude": -19.3858258,
+            "longitude": 47.4271559,
+            "geocell": 2543874,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 711526109,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q427722",
+                "wikipedia_pages": {
+                    "fr": "Ambatolampy"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 713524647,
+            "country": 450,
+            "level1area": [
+                "mgm"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Antsohihy"
+            },
+            "place_type": 84,
+            "population": 38253,
+            "latitude": -14.8775272,
+            "longitude": 47.98715,
+            "geocell": 2705879,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 713524647,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q609567",
+                "wikipedia_pages": {
+                    "fr": "Antsohihy"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 713527688,
+            "country": 450,
+            "level1area": [
+                "mgm"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Analalava"
+            },
+            "place_type": 84,
+            "population": 12991,
+            "latitude": -14.6320018,
+            "longitude": 47.7487026,
+            "geocell": 2713077,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 713527688,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q484581",
+                "wikipedia_pages": {
+                    "en": "Analalava"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 715574491,
+            "country": 450,
+            "level1area": [
+                "mgd"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Ambanja"
+            },
+            "place_type": 84,
+            "population": 60321,
+            "latitude": -13.6758118,
+            "longitude": 48.4527762,
+            "geocell": 2749084,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 715574491,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q456642",
+                "wikipedia_pages": {
+                    "fr": "Ambanja"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 721308145,
+            "country": 450,
+            "level1area": [
+                "mgd"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Andapa"
+            },
+            "place_type": 84,
+            "population": 34616,
+            "latitude": -14.6622706,
+            "longitude": 49.6517827,
+            "geocell": 2713096,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 721308145,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2526503",
+                "wikipedia_pages": {
+                    "fr": "Andapa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 724157435,
+            "country": 450,
+            "level1area": [
+                "mgd"
+            ],
+            "level2area": null,
+            "names": {
+                "ja": "サンババ",
+                "mg": "Sambava"
+            },
+            "place_type": 84,
+            "population": 84039,
+            "latitude": -14.254956,
+            "longitude": 50.1556533,
+            "geocell": 2727501,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 724157435,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q254480",
+                "wikipedia_pages": {
+                    "fr": "Sambava"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 726665354,
+            "country": 450,
+            "level1area": [
+                "mgd"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Ambilobe",
+                "ru": "Амбилубе"
+            },
+            "place_type": 84,
+            "population": 62346,
+            "latitude": -13.194439,
+            "longitude": 49.049956,
+            "geocell": 2767090,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 726665354,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q457534",
+                "wikipedia_pages": {
+                    "fr": "Ambilobe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 727284608,
+            "country": 450,
+            "level1area": [
+                "mgu"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Ampanihy"
+            },
+            "place_type": 84,
+            "population": 38000,
+            "latitude": -24.6926617,
+            "longitude": 44.7463882,
+            "geocell": 2353047,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 727284608,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2844105",
+                "wikipedia_pages": {
+                    "fr": "Ampanihy"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 727284617,
+            "country": 450,
+            "level1area": [
+                "mgu"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Betioka"
+            },
+            "place_type": 84,
+            "population": 25612,
+            "latitude": -23.718638,
+            "longitude": 44.3794652,
+            "geocell": 2385443,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 727284617,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "fr": "Betioky"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 727292572,
+            "country": 450,
+            "level1area": [
+                "mgf"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Farafangana",
+                "mg": "Farafangana",
+                "ru": "Фарафангана"
+            },
+            "place_type": 84,
+            "population": 34676,
+            "latitude": -22.8217524,
+            "longitude": 47.8307127,
+            "geocell": 2417878,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 727292572,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1006566",
+                "wikipedia_pages": {
+                    "fr": "Farafangana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 727292575,
+            "country": 450,
+            "level1area": [
+                "mgf"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Vohipeno"
+            },
+            "place_type": 84,
+            "population": 14751,
+            "latitude": -22.3548744,
+            "longitude": 47.8399542,
+            "geocell": 2435878,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 727292575,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2638540",
+                "wikipedia_pages": {
+                    "en": "Vohipeno"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 727292577,
+            "country": 450,
+            "level1area": [
+                "mgf"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Manakara"
+            },
+            "place_type": 84,
+            "population": 44237,
+            "latitude": -22.1449564,
+            "longitude": 48.0113527,
+            "geocell": 2443080,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 727292577,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q991066",
+                "wikipedia_pages": {
+                    "fr": "Manakara"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 727308344,
+            "country": 450,
+            "level1area": [
+                "mgt"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Betafo"
+            },
+            "place_type": 84,
+            "population": 34336,
+            "latitude": -19.8385451,
+            "longitude": 46.8562285,
+            "geocell": 2525868,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 727308344,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q167181",
+                "wikipedia_pages": {
+                    "fr": "Betafo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 727308363,
+            "country": 450,
+            "level1area": [
+                "mgu"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Miandrivazo"
+            },
+            "place_type": 84,
+            "population": 20421,
+            "latitude": -19.5312416,
+            "longitude": 45.4587681,
+            "geocell": 2536654,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 727308363,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2573754",
+                "wikipedia_pages": {
+                    "fr": "Miandrivazo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 731246774,
+            "country": 450,
+            "level1area": [
+                "mgm"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Mampikony"
+            },
+            "place_type": 84,
+            "population": 28593,
+            "latitude": -16.093117,
+            "longitude": 47.642735,
+            "geocell": 2662676,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 731246774,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1099436",
+                "wikipedia_pages": {
+                    "en": "Mampikony"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 866601087,
+            "country": 450,
+            "level1area": [
+                "mgu"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Ambovombe"
+            },
+            "place_type": 84,
+            "population": 65402,
+            "latitude": -25.178398,
+            "longitude": 46.0877489,
+            "geocell": 2335060,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 866601087,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q458507",
+                "wikipedia_pages": {
+                    "fr": "Ambovombe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 888302465,
+            "country": 450,
+            "level1area": [
+                "mgd"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Antalaha",
+                "mg": "Antalaha",
+                "ru": "Анталаха",
+                "uk": "Анталаха"
+            },
+            "place_type": 84,
+            "population": 67888,
+            "latitude": -14.9012302,
+            "longitude": 50.2810433,
+            "geocell": 2702302,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 888302465,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q570816",
+                "wikipedia_pages": {
+                    "fr": "Antalaha"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 889874221,
+            "country": 450,
+            "level1area": [
+                "mgu"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Betroka"
+            },
+            "place_type": 84,
+            "population": 17327,
+            "latitude": -23.267109,
+            "longitude": 46.096189,
+            "geocell": 2403460,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 889874221,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2900147",
+                "wikipedia_pages": {
+                    "en": "Betroka"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 972051892,
+            "country": 450,
+            "level1area": [
+                "mgf"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Vangaindrano"
+            },
+            "place_type": 84,
+            "population": 38537,
+            "latitude": -23.3498702,
+            "longitude": 47.6047642,
+            "geocell": 2399876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 972051892,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3047030",
+                "wikipedia_pages": {
+                    "fr": "Vangaindrano"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1314355275,
+            "country": 450,
+            "level1area": [
+                "mgf"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Ifanadiana"
+            },
+            "place_type": 84,
+            "population": 15681,
+            "latitude": -21.3029887,
+            "longitude": 47.6366961,
+            "geocell": 2471876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1314355275,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1099548",
+                "wikipedia_pages": {
+                    "fr": "Ifanadiana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1348423038,
+            "country": 450,
+            "level1area": [
+                "mgu"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Manja"
+            },
+            "place_type": 84,
+            "population": 20556,
+            "latitude": -21.434135,
+            "longitude": 44.3303717,
+            "geocell": 2468243,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1348423038,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3123057",
+                "wikipedia_pages": {
+                    "en": "Manja, Madagascar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1492685514,
+            "country": 450,
+            "level1area": [
+                "mga"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Ambatondrazaka"
+            },
+            "place_type": 84,
+            "population": 47649,
+            "latitude": -17.8237084,
+            "longitude": 48.4267188,
+            "geocell": 2597884,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1492685514,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q456731",
+                "wikipedia_pages": {
+                    "fr": "Ambatondrazaka"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1809417673,
+            "country": 450,
+            "level1area": [
+                "mgt"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Arivonimamo"
+            },
+            "place_type": 84,
+            "population": 28324,
+            "latitude": -19.0087687,
+            "longitude": 47.1797742,
+            "geocell": 2554671,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1809417673,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1820954",
+                "wikipedia_pages": {
+                    "fr": "Arivonimamo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1814931788,
+            "country": 450,
+            "level1area": [
+                "mgm"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Bealanana"
+            },
+            "place_type": 84,
+            "population": 30937,
+            "latitude": -14.5423728,
+            "longitude": 48.7482434,
+            "geocell": 2716687,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1814931788,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "fr": "Bealanana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1818141766,
+            "country": 450,
+            "level1area": [
+                "mga"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Vatomandry"
+            },
+            "place_type": 84,
+            "population": 15836,
+            "latitude": -19.3336272,
+            "longitude": 48.9790394,
+            "geocell": 2543889,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1818141766,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2638549",
+                "wikipedia_pages": {
+                    "fr": "Vatomandry"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1821666049,
+            "country": 450,
+            "level1area": [
+                "mgm"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Tsaratanàna"
+            },
+            "place_type": 84,
+            "population": 24971,
+            "latitude": -16.7960006,
+            "longitude": 47.6510407,
+            "geocell": 2637476,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1821666049,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "fr": "Tsaratanana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1842128749,
+            "country": 450,
+            "level1area": [
+                "mga"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Mananara Avaratra"
+            },
+            "place_type": 84,
+            "population": 35148,
+            "latitude": -16.1687557,
+            "longitude": 49.7655872,
+            "geocell": 2659097,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1842128749,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q657286",
+                "wikipedia_pages": {
+                    "fr": "Mananara Nord"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1842130062,
+            "country": 450,
+            "level1area": [
+                "mgm"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Mandritsara"
+            },
+            "place_type": 84,
+            "population": 31135,
+            "latitude": -15.844323,
+            "longitude": 48.8238884,
+            "geocell": 2669888,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1842130062,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1028283",
+                "wikipedia_pages": {
+                    "en": "Mandritsara"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1842133048,
+            "country": 450,
+            "level1area": [
+                "mgu"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Morombe"
+            },
+            "place_type": 84,
+            "population": 22625,
+            "latitude": -21.7440435,
+            "longitude": 43.3593054,
+            "geocell": 2457433,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1842133048,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1028252",
+                "wikipedia_pages": {
+                    "en": "Morombe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1862490336,
+            "country": 450,
+            "level1area": [
+                "mgf"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Ambatofinandrahana"
+            },
+            "place_type": 84,
+            "population": 37409,
+            "latitude": -20.5505835,
+            "longitude": 46.8032175,
+            "geocell": 2500668,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1862490336,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q456709",
+                "wikipedia_pages": {
+                    "fr": "Ambatofinandrahana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1907078999,
+            "country": 450,
+            "level1area": [
+                "mgm"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Ambato Boeny"
+            },
+            "place_type": 84,
+            "population": 33456,
+            "latitude": -16.4716451,
+            "longitude": 46.7148208,
+            "geocell": 2648267,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1907078999,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1912068799,
+            "country": 450,
+            "level1area": [
+                "mga"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Andilamena"
+            },
+            "place_type": 84,
+            "population": 37229,
+            "latitude": -17.0141073,
+            "longitude": 48.5725128,
+            "geocell": 2626685,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1912068799,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1099525",
+                "wikipedia_pages": {
+                    "fr": "Andilamena"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1917609577,
+            "country": 450,
+            "level1area": [
+                "mgu"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Mahabo"
+            },
+            "place_type": 84,
+            "population": 17731,
+            "latitude": -20.377742,
+            "longitude": 44.6692407,
+            "geocell": 2507846,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1917609577,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1917844504,
+            "country": 450,
+            "level1area": [
+                "mgf"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Fandriana"
+            },
+            "place_type": 84,
+            "population": 29232,
+            "latitude": -20.2387837,
+            "longitude": 47.3783614,
+            "geocell": 2511473,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1917844504,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1395492",
+                "wikipedia_pages": {
+                    "fr": "Fandriana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1918891239,
+            "country": 450,
+            "level1area": [
+                "mgt"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Anjozorobe"
+            },
+            "place_type": 84,
+            "population": 24117,
+            "latitude": -18.401176,
+            "longitude": 47.8820115,
+            "geocell": 2576278,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1918891239,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2850269",
+                "wikipedia_pages": {
+                    "fr": "Anjozorobe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1920569280,
+            "country": 450,
+            "level1area": [
+                "mgf"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Ikongo"
+            },
+            "place_type": 84,
+            "population": 36684,
+            "latitude": -21.8784467,
+            "longitude": 47.4359236,
+            "geocell": 2453874,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1920569280,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1025754",
+                "wikipedia_pages": {
+                    "fr": "Ikongo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1995273300,
+            "country": 450,
+            "level1area": [
+                "mgu"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Amboasary"
+            },
+            "place_type": 84,
+            "population": 45989,
+            "latitude": -25.0359198,
+            "longitude": 46.3853238,
+            "geocell": 2338663,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1995273300,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "fr": "Amboasary"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2121490022,
+            "country": 450,
+            "level1area": [
+                "mga"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Amparafaravola"
+            },
+            "place_type": 84,
+            "population": 33299,
+            "latitude": -17.587293,
+            "longitude": 48.2237417,
+            "geocell": 2608682,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2121490022,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q474396",
+                "wikipedia_pages": {
+                    "fr": "Amparafaravola"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2272560314,
+            "country": 450,
+            "level1area": [
+                "mgu"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Morafeno Bekily"
+            },
+            "place_type": 84,
+            "population": 20915,
+            "latitude": -24.2219316,
+            "longitude": 45.3139261,
+            "geocell": 2367453,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2272560314,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3323700",
+                "wikipedia_pages": {
+                    "en": "Morafeno Bekily"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2577165720,
+            "country": 450,
+            "level1area": [
+                "mgf"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Mananjary",
+                "ru": "Манандзари"
+            },
+            "place_type": 84,
+            "population": 25222,
+            "latitude": -21.2385393,
+            "longitude": 48.3463035,
+            "geocell": 2475483,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2577165720,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2423152",
+                "wikipedia_pages": {
+                    "fr": "Mananjary"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2959022915,
+            "country": 450,
+            "level1area": [
+                "mga"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Vavatenina"
+            },
+            "place_type": 84,
+            "population": 35750,
+            "latitude": -17.4675002,
+            "longitude": 49.19623,
+            "geocell": 2612291,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2959022915,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1939515",
+                "wikipedia_pages": {
+                    "fr": "Vavatenina"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3355969555,
+            "country": 450,
+            "level1area": [
+                "mgu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tolanaro",
+                "fr": "Fort Dauphin",
+                "ko": "톨라나로",
+                "mg": "Tolagnaro"
+            },
+            "place_type": 67,
+            "population": 67284,
+            "latitude": -25.0290132,
+            "longitude": 46.9966565,
+            "geocell": 2338669,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3355969555,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q526568",
+                "wikipedia_pages": {
+                    "en": "Tôlanaro"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4138137978,
+            "country": 450,
+            "level1area": [
+                "mgt"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Beronono"
+            },
+            "place_type": 86,
+            "population": 14148,
+            "latitude": -18.9598042,
+            "longitude": 47.346143,
+            "geocell": 2558273,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4138137978,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q22002216",
+                "wikipedia_pages": {
+                    "en": "Beronono"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4875389731,
+            "country": 450,
+            "level1area": [
+                "mgf"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Vohitrindry"
+            },
+            "place_type": 86,
+            "population": 15000,
+            "latitude": -22.376124,
+            "longitude": 47.83547,
+            "geocell": 2435878,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4875389731,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3562131",
+                "wikipedia_pages": {
+                    "en": "Vohitrindry"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5488327466,
+            "country": 450,
+            "level1area": [
+                "mga"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Mahanoro",
+                "mg": "Mahanoro"
+            },
+            "place_type": 84,
+            "population": 37800,
+            "latitude": -19.9001695,
+            "longitude": 48.8094884,
+            "geocell": 2522288,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5488327466,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2480166",
+                "wikipedia_pages": {
+                    "fr": "Mahanoro"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6411285142,
+            "country": 450,
+            "level1area": [
+                "mgd"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Vohemar"
+            },
+            "place_type": 84,
+            "population": 22047,
+            "latitude": -13.355284,
+            "longitude": 50.0070566,
+            "geocell": 2759900,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6411285142,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9621188183,
+            "country": 450,
+            "level1area": [
+                "mgm"
+            ],
+            "level2area": null,
+            "names": {
+                "mg": "Boanamary"
+            },
+            "place_type": 86,
+            "population": 10000,
+            "latitude": -15.8319447,
+            "longitude": 46.3191326,
+            "geocell": 2669863,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9621188183,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2907525",
+                "wikipedia_pages": {
+                    "en": "Boanamary"
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,611 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 288517213,
+            "country": 232,
+            "level1area": [
+                "ersk"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "مصوع",
+                "ca": "Massaua",
+                "cy": "Massawa",
+                "da": "Massaua",
+                "de": "Massaua",
+                "el": "Μασάουα",
+                "en": "Massawa",
+                "es": "Massawa",
+                "eu": "Massawa",
+                "fa": "مصوع",
+                "fi": "Massawa",
+                "fr": "Massaoua",
+                "fy": "Massawa",
+                "ga": "Massawa",
+                "gl": "Massaua",
+                "he": "מאסאווה",
+                "hr": "Massawa",
+                "id": "Massaua",
+                "it": "Massaua",
+                "ja": "マッサワ",
+                "ka": "მასაუა",
+                "ko": "마사와",
+                "lt": "Masava",
+                "mr": "मासावा",
+                "nb": "Massawa",
+                "nl": "Massawa",
+                "nn": "Massawa",
+                "pl": "Massaua",
+                "pt": "Maçuá",
+                "ro": "Massawa",
+                "ru": "Массауа",
+                "sv": "Massawa",
+                "ti": "ምጽዋዕ Massawa مصوع",
+                "tr": "Massava",
+                "uk": "Массауа",
+                "ur": "مصوع"
+            },
+            "place_type": 84,
+            "population": 45975,
+            "latitude": 15.6031828,
+            "longitude": 39.4636974,
+            "geocell": 3803794,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 288517213,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q275635",
+                "wikipedia_pages": {
+                    "en": "Massawa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 312691689,
+            "country": 232,
+            "level1area": [
+                "erdu"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "مندفرا",
+                "da": "Mendefera",
+                "de": "Mendefera",
+                "el": "Μεντεφέρα",
+                "en": "Mendefera",
+                "es": "Mendefera",
+                "fa": "مندفرا",
+                "fi": "Mendefera",
+                "fr": "Mendefera",
+                "fy": "Mendefera",
+                "hr": "Mendefera",
+                "it": "Mendefera",
+                "ja": "メンデフェラ",
+                "ka": "მენდეფერა",
+                "ko": "멘데페라",
+                "lt": "Mendefera",
+                "nb": "Mendefera",
+                "nl": "Mendefera",
+                "pl": "Mendefera",
+                "ro": "Mendefera",
+                "ru": "Мэндэфэра",
+                "sv": "Mendefera",
+                "ti": "መንደፈራ Mendefera مندفرا",
+                "uk": "Мендефера",
+                "ur": "مندیفیرا"
+            },
+            "place_type": 84,
+            "population": 30000,
+            "latitude": 14.8841153,
+            "longitude": 38.8129433,
+            "geocell": 3774988,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 312691689,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1019356",
+                "wikipedia_pages": {
+                    "en": "Mendefera"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 313795917,
+            "country": 232,
+            "level1area": [
+                "ergb"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "تسني",
+                "da": "Tesseney",
+                "de": "Tesseney",
+                "el": "Τεσενέι",
+                "en": "Teseney",
+                "es": "Teseney",
+                "fa": "تسنی",
+                "fi": "Teseney",
+                "fr": "Tesseney",
+                "he": "טסניי",
+                "hr": "Teseney",
+                "it": "Tessenei",
+                "nb": "Tesseney",
+                "pl": "Tesenej",
+                "ru": "Тэсэнэй",
+                "sv": "Teseney",
+                "ti": "ተሰነይ Teseney تسني",
+                "ur": "تسنی"
+            },
+            "place_type": 84,
+            "population": 18000,
+            "latitude": 15.109466,
+            "longitude": 36.660338,
+            "geocell": 3785766,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 313795917,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1797764",
+                "wikipedia_pages": {
+                    "ar": "تسني"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 317148383,
+            "country": 232,
+            "level1area": [
+                "ergb"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بارنتو",
+                "de": "Barentu",
+                "en": "Barentu",
+                "fi": "Barentu",
+                "fr": "Barentu",
+                "it": "Barentù",
+                "ja": "バレンツ (エリトリア)",
+                "ka": "ბარენტუ",
+                "ko": "바렌투",
+                "lb": "Barentu",
+                "lt": "Barentu",
+                "nb": "Barentu",
+                "nl": "Barentu",
+                "pl": "Barentu",
+                "pt": "Barentu",
+                "ro": "Barentu",
+                "ru": "Баренту",
+                "sv": "Barentu",
+                "ti": "ባረንቱ Barentu بارنتو",
+                "uk": "Баренту",
+                "ur": "بارینتو، ارتریا"
+            },
+            "place_type": 84,
+            "population": 18500,
+            "latitude": 15.1056714,
+            "longitude": 37.5888782,
+            "geocell": 3785775,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 317148383,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q808100",
+                "wikipedia_pages": {
+                    "ar": "بارنتو"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 317162067,
+            "country": 232,
+            "level1area": [
+                "eran"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كرن",
+                "de": "Keren",
+                "en": "Keren",
+                "es": "Keren",
+                "fa": "کرن",
+                "fr": "Keren",
+                "it": "Cheren",
+                "ko": "케렌",
+                "ru": "Керен",
+                "ti": "ከረን Keren كرن",
+                "uk": "Керен",
+                "ur": "کرن"
+            },
+            "place_type": 67,
+            "population": 86438,
+            "latitude": 15.780477,
+            "longitude": 38.453606,
+            "geocell": 3807384,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 317162067,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q534409",
+                "wikipedia_pages": {
+                    "ar": "كرن"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 321209318,
+            "country": 232,
+            "level1area": [
+                "ergb"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أغوردات",
+                "da": "Agordat",
+                "de": "Agordat",
+                "en": "Agordat",
+                "es": "Agordat",
+                "et": "Agordat",
+                "fa": "آگوردات",
+                "fi": "Akordat",
+                "fr": "Agordat",
+                "hr": "Agordat",
+                "it": "Agordat",
+                "ja": "アゴルダト",
+                "lt": "Agordatas",
+                "nb": "Agordat",
+                "pl": "Akordat",
+                "pt": "Agordat",
+                "ru": "Агордат",
+                "sv": "Ak'ordat",
+                "ti": "ኣቑርደት Akordat أغوردات",
+                "uk": "Агордат",
+                "ur": "اگوردات"
+            },
+            "place_type": 84,
+            "population": 30000,
+            "latitude": 15.5499995,
+            "longitude": 37.8863302,
+            "geocell": 3800178,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 321209318,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q395433",
+                "wikipedia_pages": {
+                    "ar": "أغوردات"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 321258615,
+            "country": 232,
+            "level1area": [
+                "erdu"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "عدي خوالا",
+                "de": "Adi Kwala",
+                "en": "Adi Quala",
+                "es": "Adi Quala",
+                "fa": "ادی کوالا",
+                "fi": "Adi Quala",
+                "fr": "Adi Quala",
+                "hr": "Adi Quala",
+                "it": "Adi Quala",
+                "nb": "Adi Quala",
+                "nl": "Adi Kwala",
+                "pl": "Addi Kuala",
+                "ru": "Ади-Куала",
+                "ti": "Adi Quala ዓዲ ዃላ عدي خوالا",
+                "uk": "Аді-Квала",
+                "ur": "ادی قوالا"
+            },
+            "place_type": 84,
+            "population": 14000,
+            "latitude": 14.633798,
+            "longitude": 38.833557,
+            "geocell": 3767788,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 321258615,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q356816",
+                "wikipedia_pages": {
+                    "en": "Adi Quala"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 321263589,
+            "country": 232,
+            "level1area": [
+                "erdk"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "عصب",
+                "de": "Assab",
+                "en": "Assab",
+                "es": "Asab",
+                "et": "Assab",
+                "fa": "عصب",
+                "fr": "Assab",
+                "ko": "아사브",
+                "ml": "അസ്സബ്",
+                "ru": "Асэб",
+                "ti": "ዓሰብ Assab عصب",
+                "uk": "Ассаб",
+                "ur": "عصب"
+            },
+            "place_type": 67,
+            "population": 74405,
+            "latitude": 13.0091289,
+            "longitude": 42.7444596,
+            "geocell": 3710227,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 321263589,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q738496",
+                "wikipedia_pages": {
+                    "ar": "عصب (مدينة)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 321268775,
+            "country": 232,
+            "level1area": [
+                "erdk"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بيلول",
+                "de": "Baylul",
+                "en": "Beilul",
+                "fa": "بیلول",
+                "fr": "Beylul",
+                "ru": "Бейлуль",
+                "ti": "Beilul በይሉል بيلول",
+                "ur": "بیئلول"
+            },
+            "place_type": 86,
+            "population": 14055,
+            "latitude": 13.2639117,
+            "longitude": 42.334844,
+            "geocell": 3717423,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 321268775,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q539154",
+                "wikipedia_pages": {
+                    "fr": "Beylul"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2207879380,
+            "country": 232,
+            "level1area": [
+                "ersk"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "مرسى فاطمة",
+                "en": "Mersa Fatma",
+                "fr": "Mersa Fatma",
+                "ti": "Marsa Fatima ማርሳ ፋጥማ مرسى فاطمة"
+            },
+            "place_type": 86,
+            "population": 11400,
+            "latitude": 14.8974649,
+            "longitude": 40.3092744,
+            "geocell": 3775003,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2207879380,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3306637",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2304484690,
+            "country": 232,
+            "level1area": [
+                "erdu"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ماء ديما",
+                "en": "Maydima",
+                "fr": "Maydima",
+                "ti": "Maydima ማይድማ ماء ديما"
+            },
+            "place_type": 84,
+            "population": 20000,
+            "latitude": 14.8981107,
+            "longitude": 38.4622645,
+            "geocell": 3774984,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2304484690,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4266676795,
+            "country": 232,
+            "level1area": [
+                "erdu"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "دقمحري",
+                "da": "Dekemhare",
+                "de": "Dekemhare",
+                "en": "Dekemhare",
+                "es": "Dekemhare",
+                "fa": "دکمهاره",
+                "fi": "Dekemhare",
+                "fr": "Dekemhare",
+                "hr": "Dekemhare",
+                "it": "Decamerè",
+                "lt": "Dekemharė",
+                "nb": "Dekemhare",
+                "nl": "Dekemhare",
+                "pl": "Dekemhare",
+                "ru": "Дэкэмхаре",
+                "sv": "Dek'emhāre",
+                "ti": "Dekemhare ደቀምሓረ دقمحري",
+                "uk": "Декемгаре",
+                "ur": "دیکیمہارے"
+            },
+            "place_type": 84,
+            "population": 30000,
+            "latitude": 15.0683207,
+            "longitude": 39.0481692,
+            "geocell": 3782190,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4266676795,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1020477",
+                "wikipedia_pages": {
+                    "en": "Dekemhare"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5621920820,
+            "country": 232,
+            "level1area": [
+                "erma"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Asmara",
+                "ar": "أسمرة",
+                "az": "Əsməra",
+                "be": "Асмара",
+                "bg": "Асмара",
+                "br": "Asmara",
+                "ckb": "ئاسمارا",
+                "cs": "Asmara",
+                "de": "Asmara",
+                "el": "Ασμάρα",
+                "en": "Asmara",
+                "eo": "Asmaro",
+                "es": "Asmara",
+                "et": "Asmara",
+                "eu": "Asmara",
+                "fa": "اسمره",
+                "fr": "Asmara",
+                "he": "אסמרה",
+                "hi": "अस्मारा",
+                "hr": "Asmera",
+                "hu": "Aszmara",
+                "hy": "Ասմարա",
+                "id": "Asmara",
+                "is": "Asmara",
+                "it": "Asmara",
+                "ja": "アスマラ",
+                "ka": "ასმერა",
+                "kab": "Asmara",
+                "kn": "ಅಸ್ಮಾರಾ",
+                "ko": "아스마라",
+                "ky": "Асмара",
+                "lv": "Asmera",
+                "mk": "Асмара",
+                "ml": "അസ്മാറ",
+                "mn": "Асмара",
+                "mr": "अस्मारा",
+                "nl": "Asmara",
+                "pa": "ਅਸਮਾਰਾ",
+                "pl": "Asmara",
+                "pt": "Asmara",
+                "ro": "Asmara",
+                "ru": "Асмэра",
+                "sk": "Asmara",
+                "sr": "Асмара",
+                "sv": "Asmara",
+                "ta": "அஸ்மாரா",
+                "tg": "Асмэра",
+                "th": "แอสมารา",
+                "ti": "ኣስመራ Asmara أسمرة",
+                "tr": "Asmara",
+                "udm": "Асмэра",
+                "uk": "Асмара",
+                "ur": "اسمارا"
+            },
+            "place_type": 67,
+            "population": 579000,
+            "latitude": 15.3389667,
+            "longitude": 38.9326763,
+            "geocell": 3792989,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5621920820,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3642",
+                "wikipedia_pages": {
+                    "ar": "أسمرة"
+                }
+            }
+        }
+    }
+]

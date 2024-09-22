@@ -1,0 +1,122 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 281537750,
+            "country": 740,
+            "level1area": [
+                "srpm"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "باراماريبو",
+                "be": "Парамарыба",
+                "bg": "Парамарибо",
+                "br": "Paramaribo",
+                "ckb": "پاراماریبۆ",
+                "de": "Paramaribo",
+                "el": "Παραμαρίμπο",
+                "en": "Paramaribo",
+                "es": "Paramaribo",
+                "fa": "پاراماریبو",
+                "fr": "Paramaribo",
+                "he": "פרמריבו",
+                "hi": "पारामरीबो",
+                "hu": "Paramaribo",
+                "hy": "Պարամարիբո",
+                "is": "Paramaríbó",
+                "ja": "パラマリボ",
+                "ka": "პარამარიბო",
+                "kn": "ಪಾರಮಾರಿಬೋ",
+                "ko": "파라마리보",
+                "lt": "Paramaribas",
+                "mk": "Парамарибо",
+                "mr": "पारामारिबो",
+                "nl": "Paramaribo",
+                "os": "Парамарибо",
+                "pl": "Paramaribo",
+                "ru": "Парамарибо",
+                "sr": "Парамарибо",
+                "sv": "Paramaribo",
+                "ta": "பரமரிபொ",
+                "uk": "Парамарибо",
+                "ur": "پاراماریبو"
+            },
+            "place_type": 67,
+            "population": 242946,
+            "latitude": 5.8247628,
+            "longitude": -55.1703941,
+            "geocell": 3450048,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 281537750,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3001",
+                "wikipedia_pages": {
+                    "de": "Paramaribo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 281543797,
+            "country": 740,
+            "level1area": [
+                "srwa"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Lelydorp",
+                "nl": "Lelydorp"
+            },
+            "place_type": 84,
+            "population": 19000,
+            "latitude": 5.6935158,
+            "longitude": -55.2139345,
+            "geocell": 3442847,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 281543797,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q935545",
+                "wikipedia_pages": {
+                    "en": "Lelydorp"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 313714478,
+            "country": 740,
+            "level1area": [
+                "srni"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Nieuw Nickerie",
+                "nl": "Nieuw Nickerie"
+            },
+            "place_type": 84,
+            "population": 13000,
+            "latitude": 5.9420605,
+            "longitude": -56.9893521,
+            "geocell": 3453630,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 313714478,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q738313",
+                "wikipedia_pages": {
+                    "en": "Nieuw Nickerie"
+                }
+            }
+        }
+    }
+]

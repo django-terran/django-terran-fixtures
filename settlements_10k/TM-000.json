@@ -1,0 +1,935 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 98072410,
+            "country": 795,
+            "level1area": [
+                "tmb"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "تركمان باشي",
+                "az": "Türkmənbaşı",
+                "de": "Türkmenbaşy",
+                "en": "Turkmenbashy",
+                "es": "Turkmenbashi",
+                "fa": "ترکمن‌باشی",
+                "fr": "Türkmenbaşy",
+                "he": "טורקמנבאשי",
+                "ja": "トルクメンバシ",
+                "kk": "Түрікменбашы",
+                "ko": "투르크멘바시",
+                "mk": "Туркменбаши",
+                "ml": "തുർക്ക്മെൻബാഷി",
+                "ru": "Туркменбашы",
+                "tg": "Туркманбошӣ",
+                "tk": "Türkmenbaşy",
+                "tr": "Türkmənbaşı",
+                "ug": "تۈركمەنباشى",
+                "uk": "Туркменбаші",
+                "uz": "Turkmanboshi"
+            },
+            "place_type": 67,
+            "population": 73803,
+            "latitude": 40.0053169,
+            "longitude": 52.9928838,
+            "geocell": 4682329,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 98072410,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q488987",
+                "wikipedia_pages": {
+                    "ru": "Туркменбашы"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 245569778,
+            "country": 795,
+            "level1area": [
+                "tml"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كيركي",
+                "az": "Kərki",
+                "en": "Kerki",
+                "fa": "کرکی",
+                "ja": "アタムラート",
+                "kk": "Керкі",
+                "ru": "Керки",
+                "tg": "Керки",
+                "tk": "Kerki",
+                "tr": "Kerki",
+                "uz": "Karki"
+            },
+            "place_type": 67,
+            "population": 38350,
+            "latitude": 37.8407881,
+            "longitude": 65.2063911,
+            "geocell": 4603252,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 245569778,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2357934",
+                "wikipedia_pages": {
+                    "ru": "Атамурат"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 245888165,
+            "country": 795,
+            "level1area": [
+                "tmd"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Daşoğuz",
+                "de": "Daschogus",
+                "en": "Dashoguz",
+                "es": "Daşoguz",
+                "fa": "داش‌اغوز",
+                "fr": "Daşoguz",
+                "he": "דשוגוז",
+                "ja": "ダショグズ",
+                "kk": "Дашоғыз",
+                "ml": "ദാഷോഗുസ്",
+                "ru": "Дашогуз",
+                "tg": "Дашоғуз",
+                "tk": "Daşoguz",
+                "tr": "Daşoğuz",
+                "ug": "داشئوغۇز",
+                "uk": "Дашоґуз",
+                "uz": "Toshoʻgʻuz"
+            },
+            "place_type": 67,
+            "population": 199500,
+            "latitude": 41.83358,
+            "longitude": 59.9590079,
+            "geocell": 4747199,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 245888165,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q487672",
+                "wikipedia_pages": {
+                    "ru": "Дашогуз"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 245888957,
+            "country": 795,
+            "level1area": [
+                "tmb"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بلخان آباد",
+                "az": "Balqanabat",
+                "de": "Balkanabat",
+                "en": "Balkanabat",
+                "es": "Balkanabat",
+                "fa": "بلخان‌آباد",
+                "fr": "Balkanabat",
+                "he": "בלקנאבט",
+                "ja": "バルカナバート",
+                "kk": "Балқанабат",
+                "ml": "ബാൽക്കനാബാദ്",
+                "ru": "Балканабад",
+                "tg": "Болқонобод",
+                "tk": "Balkanabat",
+                "tr": "Balkanabat",
+                "ug": "بالقانئابات",
+                "uk": "Балканабад",
+                "uz": "Bolqonobod"
+            },
+            "place_type": 67,
+            "population": 120149,
+            "latitude": 39.5116273,
+            "longitude": 54.3539921,
+            "geocell": 4664343,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 245888957,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q199762",
+                "wikipedia_pages": {
+                    "en": "Balkanabat"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 245889876,
+            "country": 795,
+            "level1area": [
+                "tmm"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ماري",
+                "az": "Marı",
+                "el": "Αντιόχεια της Μαργιανήs",
+                "en": "Mary",
+                "fa": "مرو",
+                "ja": "マル",
+                "lt": "Maras",
+                "ml": "മെർവ്",
+                "ru": "Мары",
+                "tg": "Марв",
+                "tk": "Mary",
+                "tr": "Marı",
+                "ug": "مارى",
+                "uk": "Мари",
+                "uz": "Mari"
+            },
+            "place_type": 67,
+            "population": 123000,
+            "latitude": 37.5940358,
+            "longitude": 61.8397935,
+            "geocell": 4592418,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 245889876,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5713",
+                "wikipedia_pages": {
+                    "en": "Mary, Turkmenistan"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 275170475,
+            "country": 795,
+            "level1area": [
+                "tmb"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بركت",
+                "az": "Bərəkət",
+                "en": "Bereket",
+                "fa": "برکت",
+                "kk": "Берекет",
+                "ml": "ബറക്കത്ത്",
+                "ru": "Берекет",
+                "tg": "Баракат",
+                "tk": "Bereket",
+                "tr": "Bereket",
+                "uz": "Barakat"
+            },
+            "place_type": 67,
+            "population": 14000,
+            "latitude": 39.2448122,
+            "longitude": 55.5213285,
+            "geocell": 4653555,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 275170475,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2578541",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 275228399,
+            "country": 795,
+            "level1area": [
+                "tma"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Baherden",
+                "en": "Baherden",
+                "fa": "بهردن",
+                "kk": "Бәһерден",
+                "ru": "Бахерден",
+                "tg": "Баҳарден",
+                "tk": "Bäherden",
+                "tr": "Baherden",
+                "uz": "Bexerden"
+            },
+            "place_type": 67,
+            "population": 16800,
+            "latitude": 38.4356565,
+            "longitude": 57.4367727,
+            "geocell": 4624774,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 275228399,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2980062",
+                "wikipedia_pages": {
+                    "en": "Baharly"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 558823744,
+            "country": 795,
+            "level1area": [
+                "tml"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Qarabəkəvül",
+                "fa": "قرابکائول",
+                "kk": "Қарабекауыл",
+                "ru": "Гарабекевюл",
+                "tk": "Garabekewül",
+                "tr": "Karabekevül"
+            },
+            "place_type": 67,
+            "population": 10000,
+            "latitude": 38.4844117,
+            "longitude": 64.1488534,
+            "geocell": 4624841,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 558823744,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5521848",
+                "wikipedia_pages": {
+                    "ru": "Гарабекевюл"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 558823806,
+            "country": 795,
+            "level1area": [
+                "tml"
+            ],
+            "level2area": null,
+            "names": {
+                "fa": "معدنلی",
+                "ru": "Магданлы",
+                "tk": "Magdanly"
+            },
+            "place_type": 67,
+            "population": 65000,
+            "latitude": 37.8072492,
+            "longitude": 66.0568816,
+            "geocell": 4603260,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 558823806,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1023619",
+                "wikipedia_pages": {
+                    "ru": "Магданлы"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1068534963,
+            "country": 795,
+            "level1area": [
+                "tmm"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Murqab",
+                "en": "Murgap",
+                "fa": "مرغاب",
+                "kk": "Мұрғап",
+                "ru": "Мургап",
+                "tg": "Мурғоб",
+                "tk": "Murgap",
+                "tr": "Murgab",
+                "uz": "Murg'ob"
+            },
+            "place_type": 67,
+            "population": 10000,
+            "latitude": 37.496389,
+            "longitude": 61.973889,
+            "geocell": 4588819,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1068534963,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4307927",
+                "wikipedia_pages": {
+                    "en": "Murgap, Turkmenistan"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1068534970,
+            "country": 795,
+            "level1area": [
+                "tmm"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سرحد آباد",
+                "fa": "سرحدآباد",
+                "ru": "Серхетабад",
+                "tk": "Serhetabat",
+                "ur": "سرحدآباد"
+            },
+            "place_type": 67,
+            "population": 14940,
+            "latitude": 35.2740062,
+            "longitude": 62.3253672,
+            "geocell": 4509623,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1068534970,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q864655",
+                "wikipedia_pages": {
+                    "de": "Serhetabat"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1068535244,
+            "country": 795,
+            "level1area": [
+                "tml"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Sayat",
+                "en": "Sayat",
+                "fa": "صیاد",
+                "kk": "Саят",
+                "tg": "Саёд",
+                "tk": "Saýat",
+                "tr": "Sayat",
+                "uz": "Sayod"
+            },
+            "place_type": 67,
+            "population": 21000,
+            "latitude": 38.7827608,
+            "longitude": 63.8830102,
+            "geocell": 4635638,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1068535244,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4409652",
+                "wikipedia_pages": {
+                    "en": "Saýat"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1106932910,
+            "country": 795,
+            "level1area": [
+                "tmd"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Koroğlu",
+                "en": "Gorogly",
+                "fa": "کوراوغلو",
+                "kk": "Көроғлы",
+                "ru": "Гёроглы",
+                "tg": "Гӯрғулӣ",
+                "tk": "Görogly",
+                "tr": "Köroğlu",
+                "uz": "Ko‘ro‘g‘li"
+            },
+            "place_type": 67,
+            "population": 19000,
+            "latitude": 41.6527013,
+            "longitude": 59.9134193,
+            "geocell": 4739999,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1106932910,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2977840",
+                "wikipedia_pages": {
+                    "ru": "Гёроглы"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1106933213,
+            "country": 795,
+            "level1area": [
+                "tmd"
+            ],
+            "level2area": null,
+            "names": {
+                "fa": "آندالیپ",
+                "ru": "Андалып",
+                "tg": "Андалип",
+                "tk": "Andalyp",
+                "uk": "Андалип"
+            },
+            "place_type": 67,
+            "population": 26000,
+            "latitude": 41.8734512,
+            "longitude": 59.6357379,
+            "geocell": 4747196,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1106933213,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4152258",
+                "wikipedia_pages": {
+                    "en": "Andalyp (city)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1811650017,
+            "country": 795,
+            "level1area": [
+                "tms"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Asjchabat",
+                "ar": "عشق آباد",
+                "az": "Aşqabad",
+                "be": "Ашхабад",
+                "bg": "Ашхабад",
+                "bn": "আশখাবাদ",
+                "bs": "Ashgabat",
+                "ckb": "عیشقاباد",
+                "cs": "Ašchabad",
+                "cy": "Ashgabat",
+                "da": "Asjkhabad",
+                "de": "Aschgabat",
+                "dsb": "Ašchabad",
+                "el": "Ασγκαμπάτ",
+                "en": "Ashgabat",
+                "eo": "Aŝgabato",
+                "es": "Asjabad",
+                "eu": "Asgabat",
+                "fa": "عشق آباد",
+                "fi": "Ašgabat",
+                "fr": "Achgabat",
+                "fy": "Asjchabad",
+                "gd": "Ashgabat",
+                "gl": "Achkhabad - Aşgabat",
+                "he": "אשגאבט",
+                "hi": "अश्क़ाबाद",
+                "hr": "Ašgabat",
+                "hsb": "Ašchabad",
+                "hu": "Asgabat",
+                "hy": "Աշխաբադ",
+                "id": "Ashgabat",
+                "io": "Ashgabat",
+                "is": "Asgabat",
+                "ja": "アシガバート",
+                "ka": "აშხაბადი",
+                "kk": "Ашғабад",
+                "kn": "ಅಶ್ಗಾಬಾತ್",
+                "ko": "아시가바트",
+                "lb": "Aschchabad",
+                "lt": "Ašchabadas",
+                "lv": "Ašgabata",
+                "mk": "Ашхабад",
+                "ml": "അഷ്ഗാബാദ്",
+                "mn": "Ашгабат",
+                "mr": "अश्गाबाद",
+                "ms": "Ashgabat",
+                "nl": "Asjchabad",
+                "nn": "Asjkhabad",
+                "os": "Ашхабад",
+                "pl": "Aszchabad",
+                "pt": "Asgabate",
+                "ru": "Ашхабад",
+                "sk": "Ašchabad",
+                "sl": "Ašhabad",
+                "sq": "Aschgabat",
+                "sr": "Ашхабад",
+                "sv": "Asjchabad",
+                "sw": "Ashgabat",
+                "ta": "அசுகாபாத்",
+                "tg": "Ишқобод",
+                "th": "อาชกาบัต",
+                "tk": "Aşgabat",
+                "tr": "Aşkabat",
+                "tt": "Ашкабад",
+                "udm": "Ашхабад",
+                "ug": "ئاشخاباد",
+                "uk": "Ашгабат",
+                "ur": "اشک آباد",
+                "uz": "Ashxobod",
+                "vi": "Ashgabat"
+            },
+            "place_type": 67,
+            "population": 909000,
+            "latitude": 37.9404648,
+            "longitude": 58.3823487,
+            "geocell": 4606783,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1811650017,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q23438",
+                "wikipedia_pages": {
+                    "en": "Ashgabat"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1990934341,
+            "country": 795,
+            "level1area": [
+                "tmd"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Köhnə Ürgənc",
+                "en": "Konye-Urgench",
+                "es": "Kunya-Urgench",
+                "fa": "کهنه‌گرگانج",
+                "fr": "Kounia-Ourguentch",
+                "ja": "クフナ・ウルゲンチ",
+                "kk": "Көнеүргеніш",
+                "ru": "Кёнеургенч",
+                "tg": "Кӯҳнаурганҷ",
+                "tk": "Köneürgenç",
+                "tr": "Köhne Ürgenç",
+                "uz": "Koʻhna Urganch"
+            },
+            "place_type": 67,
+            "population": 37000,
+            "latitude": 42.3261336,
+            "longitude": 59.1530707,
+            "geocell": 4765191,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1990934341,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q48472",
+                "wikipedia_pages": {
+                    "en": "Konye-Urgench"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2978331054,
+            "country": 795,
+            "level1area": [
+                "tmm"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بايرام علي",
+                "az": "Bayramalı",
+                "en": "Bayramaly",
+                "fa": "بایرامعلی",
+                "ja": "バイラマリ",
+                "kk": "Байрамалы",
+                "ml": "ബൈറാം അലി",
+                "ru": "Байрамали",
+                "tg": "Байрамалӣ",
+                "tk": "Baýramaly",
+                "tr": "Bayramalı",
+                "ug": "بايرام ئەلى",
+                "uz": "Bayramali"
+            },
+            "place_type": 67,
+            "population": 110545,
+            "latitude": 37.6124044,
+            "longitude": 62.17165,
+            "geocell": 4596021,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2978331054,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q812715",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3474683322,
+            "country": 795,
+            "level1area": [
+                "tmm"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Yolötən",
+                "en": "Yoloten",
+                "fa": "یول‌اوتن",
+                "ja": "ヨロテン",
+                "kk": "Йолөтен",
+                "ml": "യോലോത്തൻ",
+                "ru": "Йолотан",
+                "tg": "Ёлётен",
+                "tk": "Ýolöten",
+                "tr": "Yolöten",
+                "uz": "Yo’lo’tan"
+            },
+            "place_type": 67,
+            "population": 37705,
+            "latitude": 37.2977786,
+            "longitude": 62.359518,
+            "geocell": 4581623,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3474683322,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2985985",
+                "wikipedia_pages": {
+                    "en": "Ýolöten"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3864684657,
+            "country": 795,
+            "level1area": [
+                "tmb"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Xəzər",
+                "en": "Hazar",
+                "fa": "خزر",
+                "ru": "Хазар",
+                "tk": "Hazar"
+            },
+            "place_type": 84,
+            "population": 29131,
+            "latitude": 39.4036025,
+            "longitude": 53.1259978,
+            "geocell": 4660731,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3864684657,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2996356",
+                "wikipedia_pages": {
+                    "en": "Hazar, Turkmenistan"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4086624259,
+            "country": 795,
+            "level1area": [
+                "tml"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "تركمان أباد",
+                "az": "Türkmənabad",
+                "de": "Türkmenabat",
+                "en": "Turkmenabat",
+                "es": "Türkmenabat",
+                "fa": "ترکمن‌آباد",
+                "fr": "Türkmenabat",
+                "kk": "Түрікменабат",
+                "ml": "തുർക്ക്മെനാബാദ്",
+                "ru": "Туркменабат",
+                "tg": "Туркманобод",
+                "tk": "Türkmenabat",
+                "tr": "Türkmenabat",
+                "ug": "تۈركمەنئابات",
+                "uz": "Turkmenobod"
+            },
+            "place_type": 67,
+            "population": 830000,
+            "latitude": 39.0733839,
+            "longitude": 63.5831564,
+            "geocell": 4646435,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4086624259,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q487684",
+                "wikipedia_pages": {
+                    "tk": "Türkmenabat"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6089113482,
+            "country": 795,
+            "level1area": [
+                "tml"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Gazajak",
+                "fa": "گاز اجاق",
+                "ml": "ഗാസജാക്ക്",
+                "ru": "Газаджак",
+                "tk": "Gazojak",
+                "uz": "Gazo'choq"
+            },
+            "place_type": 67,
+            "population": 23454,
+            "latitude": 41.189246,
+            "longitude": 61.4059698,
+            "geocell": 4722014,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6089113482,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4131635",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6089138855,
+            "country": 795,
+            "level1area": [
+                "tmm"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Türkmənqala",
+                "en": "Turkmengala",
+                "fa": "ترکمن‌قلعه",
+                "kk": "Түрікменқала",
+                "tg": "Туркманқалъа",
+                "tk": "Türkmengala",
+                "tr": "Türkmenkale",
+                "uz": "Turkmanqal'a"
+            },
+            "place_type": 67,
+            "population": 12000,
+            "latitude": 37.4275715,
+            "longitude": 62.3366647,
+            "geocell": 4588823,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6089138855,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7862481",
+                "wikipedia_pages": {
+                    "en": "Türkmengala"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6089150772,
+            "country": 795,
+            "level1area": [
+                "tmm"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Saqarçəqə",
+                "en": "Sakarchage",
+                "fa": "ساکارچقه",
+                "kk": "Сақаршақ",
+                "ru": "Сакарчаге",
+                "tg": "Соқорчага",
+                "tk": "Sakarçege",
+                "tr": "Sakarçege",
+                "uz": "Soqorchaga"
+            },
+            "place_type": 67,
+            "population": 10000,
+            "latitude": 37.6635113,
+            "longitude": 61.6544607,
+            "geocell": 4596016,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6089150772,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4405362",
+                "wikipedia_pages": {
+                    "en": "Sakarçäge District"
+                }
+            }
+        }
+    }
+]

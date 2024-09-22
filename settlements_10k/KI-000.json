@@ -1,0 +1,96 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 703437318,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Suid-Tarawa",
+                "ar": "جنوب تاراوا",
+                "az": "Cənubi Tarava",
+                "be": "Паўднёвая Тарава",
+                "bg": "Южна Тарауа",
+                "bn": "দক্ষিণ তারাওয়া",
+                "ca": "Tarawa Sud",
+                "cs": "Jižní Tarawa",
+                "cy": "De Tarawa",
+                "en": "South Tarawa",
+                "eo": "Bairiko",
+                "es": "Tarawa Sur",
+                "et": "Tarawa South",
+                "fa": "تاراوای جنوبی",
+                "fr": "Tarawa-Sud",
+                "fy": "Súd-Tarawa",
+                "gl": "Tarawa Sur",
+                "he": "דרום טאראווה",
+                "hu": "South Tarawa",
+                "id": "Tarawa Selatan",
+                "it": "Tarawa Sud",
+                "ja": "サウス・タラワ",
+                "ka": "სამხრეთი ტარავა",
+                "ko": "사우스타라와",
+                "lt": "Pietų Tarava",
+                "mk": "Јужна Тарава",
+                "mr": "तरावा",
+                "nl": "Zuid-Tarawa",
+                "pl": "South Tarawa",
+                "pt": "Tarawa do Sul",
+                "ru": "Южная Тарава",
+                "sr": "Јужна Тарава",
+                "sv": "South Tarawa",
+                "ta": "தெற்கு டராவா",
+                "tr": "Güney Tarava",
+                "uk": "Південна Тарава",
+                "vi": "Nam Tarawa"
+            },
+            "place_type": 84,
+            "population": 63439,
+            "latitude": 1.3490778,
+            "longitude": 173.0386512,
+            "geocell": 3290330,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 703437318,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q131233",
+                "wikipedia_pages": {
+                    "en": "South Tarawa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2375865685,
+            "country": 296,
+            "level1area": [
+                "kig"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Betio"
+            },
+            "place_type": 84,
+            "population": 18565,
+            "latitude": 1.356854,
+            "longitude": 172.9324171,
+            "geocell": 3290329,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2375865685,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q831455",
+                "wikipedia_pages": {
+                    "en": "Betio"
+                }
+            }
+        }
+    }
+]

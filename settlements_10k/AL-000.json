@@ -1,0 +1,1168 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 33208686,
+            "country": 8,
+            "level1area": [
+                "al04"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Фіер",
+                "bg": "Фиер",
+                "de": "Fier",
+                "el": "Φίερι",
+                "en": "Fier",
+                "fr": "Fier",
+                "it": "Fier",
+                "mk": "Фиер",
+                "ru": "Фиери",
+                "sq": "Fier",
+                "sr": "Фјер",
+                "tr": "Ferecik"
+            },
+            "place_type": 67,
+            "population": 55845,
+            "latitude": 40.7251118,
+            "longitude": 19.5582079,
+            "geocell": 4707195,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 33208686,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "9301 – 9305"
+                ],
+                "wikidata_page_name": "Q190897",
+                "wikipedia_pages": {
+                    "sq": "Fieri"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 33208756,
+            "country": 8,
+            "level1area": [
+                "al12"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Vlyora",
+                "be": "Влёра",
+                "bg": "Вльора",
+                "ckb": "ڤلۆر",
+                "de": "Vlora",
+                "el": "Αυλώνας",
+                "en": "Vlora",
+                "eo": "Vlora",
+                "fa": "وِلوره",
+                "fr": "Vlora",
+                "it": "Valona",
+                "ja": "ヴロラ",
+                "mk": "Валона",
+                "pl": "Wlora",
+                "ro": "Vlorë",
+                "ru": "Влёра",
+                "sq": "Vlorë",
+                "sr": "Валона",
+                "tr": "Avlonya",
+                "uk": "Вльора"
+            },
+            "place_type": 67,
+            "population": 130827,
+            "latitude": 40.4707602,
+            "longitude": 19.4912716,
+            "geocell": 4696394,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 33208756,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "9401"
+                ],
+                "website": "https://vlora.gov.al/",
+                "wikidata_page_name": "Q159610",
+                "wikipedia_pages": {
+                    "sq": "Vlora"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 248816615,
+            "country": 8,
+            "level1area": [
+                "al12"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Саранда",
+                "el": "Άγιοι Σαράντα",
+                "en": "Saranda",
+                "eo": "Sarando",
+                "hu": "Saranda",
+                "it": "Santi Quaranta",
+                "ja": "サランダ",
+                "mk": "Саранда",
+                "pl": "Saranda",
+                "ro": "Saranda",
+                "ru": "Саранда",
+                "sq": "Sarandë",
+                "sr": "Саранда",
+                "uk": "Саранда"
+            },
+            "place_type": 84,
+            "population": 17233,
+            "latitude": 39.8752198,
+            "longitude": 20.0065258,
+            "geocell": 4674800,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 248816615,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://bashkiasarande.gov.al/",
+                "wikidata_page_name": "Q193226",
+                "wikipedia_pages": {
+                    "sq": "Saranda"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 274122533,
+            "country": 8,
+            "level1area": [
+                "al10"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "شقودرة",
+                "az": "Şkoder",
+                "bg": "Шкодра",
+                "bs": "Skadar",
+                "cs": "Skadar",
+                "de": "Skutari",
+                "el": "Σκόδρα",
+                "en": "Shkoder",
+                "es": "Shkodër",
+                "fr": "Shkodër",
+                "he": "שקודר",
+                "hr": "Skadar",
+                "hu": "Skadar",
+                "it": "Scutari",
+                "ja": "シュコドラ",
+                "lt": "Škoderis",
+                "lv": "Škodra",
+                "mk": "Скадар",
+                "ml": "ഷ്കോഡർ",
+                "nl": "Shkodër",
+                "pl": "Szkodra",
+                "ru": "Шкодер",
+                "sl": "Skader",
+                "sq": "Shkodër",
+                "sr": "Скадар",
+                "tr": "İşkodra",
+                "uk": "Шкодер",
+                "ur": "شکودر"
+            },
+            "place_type": 67,
+            "population": 96000,
+            "latitude": 42.0681371,
+            "longitude": 19.5121437,
+            "geocell": 4753995,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 274122533,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "4001-4007"
+                ],
+                "website": "https://bashkiashkoder.gov.al/",
+                "wikidata_page_name": "Q131638",
+                "wikipedia_pages": {
+                    "sq": "Shkodër"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 274323115,
+            "country": 8,
+            "level1area": [
+                "al05"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Gjirokastër",
+                "el": "Αργυρόκαστρο",
+                "en": "Gjirokastra",
+                "fr": "Gjirokastra",
+                "he": "דירוקסטרה",
+                "it": "Argirocastro",
+                "ja": "ジロカストラ",
+                "ko": "지로카스터르",
+                "lt": "Girokasteris",
+                "mk": "Ѓирокастро",
+                "pl": "Dźirokastra",
+                "ro": "Gjirokastra",
+                "ru": "Гирокастра",
+                "sq": "Gjirokastër",
+                "sr": "Ђирокастра",
+                "tr": "Ergiri",
+                "uk": "Гірокастра"
+            },
+            "place_type": 84,
+            "population": 34450,
+            "latitude": 40.0770871,
+            "longitude": 20.1393359,
+            "geocell": 4682001,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 274323115,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6001 – 6003"
+                ],
+                "website": "https://bashkiagjirokaster.gov.al/",
+                "wikidata_page_name": "Q173690",
+                "wikipedia_pages": {
+                    "en": "Gjirokastër"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 347462790,
+            "country": 8,
+            "level1area": [
+                "al11"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kavaja",
+                "it": "Cavaia",
+                "mk": "Каваја",
+                "ru": "Кавая",
+                "sq": "Kavajë"
+            },
+            "place_type": 84,
+            "population": 40094,
+            "latitude": 41.1834239,
+            "longitude": 19.5599485,
+            "geocell": 4721595,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 347462790,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q46702",
+                "wikipedia_pages": {
+                    "sq": "Kavaja"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 414076827,
+            "country": 8,
+            "level1area": [
+                "al09"
+            ],
+            "level2area": null,
+            "names": {
+                "mk": "Булчица",
+                "ru": "Булькиза",
+                "sq": "Bulqizë"
+            },
+            "place_type": 84,
+            "population": 67000,
+            "latitude": 41.4922026,
+            "longitude": 20.2183758,
+            "geocell": 4732402,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 414076827,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q463384",
+                "wikipedia_pages": {
+                    "en": "Bulqizë"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 414076828,
+            "country": 8,
+            "level1area": [
+                "al09"
+            ],
+            "level2area": null,
+            "names": {
+                "mk": "Бурел",
+                "ru": "Буррели",
+                "sq": "Burrel"
+            },
+            "place_type": 84,
+            "population": 10862,
+            "latitude": 41.610429,
+            "longitude": 20.0130651,
+            "geocell": 4739600,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 414076828,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q461313",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 414638018,
+            "country": 8,
+            "level1area": [
+                "al09"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Peshkopia",
+                "el": "Πεσκόπι",
+                "it": "Peshkopia",
+                "mk": "Пешкопеја",
+                "ru": "Пешкопия",
+                "sq": "Peshkopi",
+                "sr": "Пишкопеја"
+            },
+            "place_type": 84,
+            "population": 13251,
+            "latitude": 41.6848768,
+            "longitude": 20.4287139,
+            "geocell": 4739604,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 414638018,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://dibra.gov.al/",
+                "wikidata_page_name": "Q223154",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 415789950,
+            "country": 8,
+            "level1area": [
+                "al01"
+            ],
+            "level2area": null,
+            "names": {
+                "mk": "Кучово",
+                "ru": "Кучова",
+                "sq": "Kuçovë"
+            },
+            "place_type": 84,
+            "population": 12654,
+            "latitude": 40.804415,
+            "longitude": 19.9134448,
+            "geocell": 4710799,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 415789950,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q18774",
+                "wikipedia_pages": {
+                    "sq": "Kuçovë"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 470406312,
+            "country": 8,
+            "level1area": [
+                "al07"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Κουκές",
+                "mk": "Кукуш",
+                "ru": "Кукес",
+                "sq": "Kukës"
+            },
+            "place_type": 84,
+            "population": 16765,
+            "latitude": 42.0768978,
+            "longitude": 20.4163203,
+            "geocell": 4754004,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 470406312,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://kukesi.gov.al/",
+                "wikidata_page_name": "Q210197",
+                "wikipedia_pages": {
+                    "sq": "Kukësi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 503689082,
+            "country": 8,
+            "level1area": [
+                "al02"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kruja",
+                "hu": "Kruja",
+                "it": "Croia",
+                "mk": "Кроја",
+                "pl": "Kruja",
+                "ru": "Круя",
+                "sq": "Krujë",
+                "sr": "Кроја"
+            },
+            "place_type": 84,
+            "population": 11721,
+            "latitude": 41.511251,
+            "longitude": 19.792852,
+            "geocell": 4735997,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 503689082,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q194164",
+                "wikipedia_pages": {
+                    "sq": "Kruja"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 728417066,
+            "country": 8,
+            "level1area": [
+                "al03"
+            ],
+            "level2area": null,
+            "names": {
+                "mk": "Грамеш",
+                "ru": "Грамши",
+                "sq": "Gramsh"
+            },
+            "place_type": 84,
+            "population": 17000,
+            "latitude": 40.8654273,
+            "longitude": 20.1864495,
+            "geocell": 4710801,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 728417066,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "3301"
+                ],
+                "website": "https://www.bashkiagramsh.gov.al/",
+                "wikidata_page_name": "Q18777",
+                "wikipedia_pages": {
+                    "en": "Gramsh"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 728417102,
+            "country": 8,
+            "level1area": [
+                "al09"
+            ],
+            "level2area": null,
+            "names": {
+                "mk": "Клос",
+                "ru": "Клос",
+                "sq": "Klos"
+            },
+            "place_type": 84,
+            "population": 12172,
+            "latitude": 41.5072297,
+            "longitude": 20.0850706,
+            "geocell": 4736000,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 728417102,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 728418058,
+            "country": 8,
+            "level1area": [
+                "al05"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Πρεμετή",
+                "mk": "Премет",
+                "ru": "Пермети",
+                "sq": "Përmet"
+            },
+            "place_type": 84,
+            "population": 12700,
+            "latitude": 40.2332541,
+            "longitude": 20.3531679,
+            "geocell": 4689203,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 728418058,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "6401"
+                ],
+                "wikidata_page_name": "Q642856",
+                "wikipedia_pages": {
+                    "sq": "Përmeti"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 728418395,
+            "country": 8,
+            "level1area": [
+                "al04"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Patos",
+                "en": "Patos",
+                "fr": "Patos",
+                "mk": "Патос",
+                "ru": "Патос",
+                "sq": "Patos"
+            },
+            "place_type": 84,
+            "population": 23626,
+            "latitude": 40.6843228,
+            "longitude": 19.6159921,
+            "geocell": 4703596,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 728418395,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "9307"
+                ],
+                "wikidata_page_name": "Q18709",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 728419534,
+            "country": 8,
+            "level1area": [
+                "al08"
+            ],
+            "level2area": null,
+            "names": {
+                "mk": "Решен",
+                "ru": "Решени",
+                "sq": "Rrëshen"
+            },
+            "place_type": 84,
+            "population": 14262,
+            "latitude": 41.768084,
+            "longitude": 19.8769608,
+            "geocell": 4743198,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 728419534,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q18737",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 728422866,
+            "country": 8,
+            "level1area": [
+                "al10"
+            ],
+            "level2area": null,
+            "names": {
+                "mk": "Пука",
+                "sq": "Pukë"
+            },
+            "place_type": 84,
+            "population": 11069,
+            "latitude": 42.0443192,
+            "longitude": 19.9001376,
+            "geocell": 4753999,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 728422866,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4401"
+                ],
+                "wikidata_page_name": "Q19310",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 728424152,
+            "country": 8,
+            "level1area": [
+                "al02"
+            ],
+            "level2area": null,
+            "names": {
+                "mk": "Кројско Поле",
+                "ru": "Фуша-Круя",
+                "sq": "Fushë-Krujë",
+                "sr": "Кројско Поље"
+            },
+            "place_type": 84,
+            "population": 18477,
+            "latitude": 41.4791135,
+            "longitude": 19.7205635,
+            "geocell": 4732397,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 728424152,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q597122",
+                "wikipedia_pages": {
+                    "sq": "Fushë-Kruja"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 728426328,
+            "country": 8,
+            "level1area": [
+                "al02"
+            ],
+            "level2area": null,
+            "names": {
+                "mk": "Шијак",
+                "ru": "Шийяк",
+                "sq": "Shijak",
+                "sr": "Шијак"
+            },
+            "place_type": 84,
+            "population": 12893,
+            "latitude": 41.3434537,
+            "longitude": 19.5677358,
+            "geocell": 4728795,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 728426328,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1832288053,
+            "country": 8,
+            "level1area": [
+                "al02"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Дурэс",
+                "bg": "Дуръс",
+                "bs": "Drač",
+                "cs": "Drač",
+                "el": "Δυρράχιο",
+                "eo": "Duraso",
+                "fa": "دراج",
+                "he": "דורס",
+                "hr": "Drač",
+                "hu": "Durrës",
+                "it": "Durazzo",
+                "ja": "ドゥラス",
+                "ka": "დურესი",
+                "lt": "Duresis",
+                "lv": "Durresa",
+                "mk": "Драч",
+                "ru": "Дуррес",
+                "sk": "Drač",
+                "sl": "Drač",
+                "sq": "Durrësi",
+                "sr": "Драч",
+                "tr": "Dıraç",
+                "tt": "Дырач",
+                "uk": "Дуррес",
+                "ur": "دراج"
+            },
+            "place_type": 67,
+            "population": 130566,
+            "latitude": 41.313255,
+            "longitude": 19.4462348,
+            "geocell": 4728794,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1832288053,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://durres.gov.al/",
+                "wikidata_page_name": "Q83285",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1835254686,
+            "country": 8,
+            "level1area": [
+                "al11"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "تيرانا",
+                "ast": "Tirana",
+                "be": "Тырана",
+                "bg": "Тирана",
+                "bn": "তিরানা",
+                "br": "Tiranë",
+                "ca": "Tirana",
+                "ckb": "تیرانا",
+                "cs": "Tirana",
+                "de": "Tirana",
+                "el": "Τίρανα",
+                "en": "Tirana",
+                "eo": "Tirano",
+                "es": "Tirana",
+                "et": "Tirana",
+                "eu": "Tirana",
+                "fa": "تیرانا",
+                "fr": "Tirana",
+                "ga": "Tiorána",
+                "gl": "Tirana",
+                "he": "טירנה",
+                "hi": "तिराना",
+                "hr": "Tirana",
+                "hu": "Tirana",
+                "hy": "Տիրանա",
+                "io": "Tirane",
+                "is": "Tírana",
+                "it": "Tirana",
+                "ja": "ティラナ",
+                "ka": "ტირანა",
+                "kab": "Tirana",
+                "kk": "Тирана",
+                "ko": "티라나",
+                "lv": "Tirāna",
+                "mk": "Тирана",
+                "ml": "ടിറാന",
+                "mr": "तिराना",
+                "nl": "Tirana",
+                "os": "Тиранæ",
+                "pl": "Tirana",
+                "pt": "Tirana",
+                "ro": "Tirana",
+                "ru": "Тирана",
+                "sk": "Tirana",
+                "sq": "Tiranë",
+                "sr": "Тирана",
+                "sv": "Tirana",
+                "ta": "டிரானா",
+                "tg": "Тирана",
+                "th": "ติรานา",
+                "tr": "Tiran",
+                "tt": "Тирана",
+                "udm": "Тирана",
+                "uk": "Тирана",
+                "ur": "تیرانا"
+            },
+            "place_type": 67,
+            "population": 557422,
+            "latitude": 41.3281482,
+            "longitude": 19.8184435,
+            "geocell": 4728798,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1835254686,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://tirana.al/",
+                "wikidata_page_name": "Q19689",
+                "wikipedia_pages": {
+                    "sq": "Tirana"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2142698589,
+            "country": 8,
+            "level1area": [
+                "al03"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Эльбасан",
+                "ckb": "ئێلباسان",
+                "el": "Ελμπασάν",
+                "en": "Elbasan",
+                "eo": "Elbasano",
+                "hu": "Elbasan",
+                "mk": "Елбасан",
+                "ru": "Эльбасан",
+                "sq": "Elbasan",
+                "sr": "Елбасан",
+                "tr": "İlbasan",
+                "uk": "Ельбасан"
+            },
+            "place_type": 67,
+            "population": 78703,
+            "latitude": 41.1124939,
+            "longitude": 20.0823265,
+            "geocell": 4721600,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2142698589,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "3001 - 3006"
+                ],
+                "website": "https://elbasani.gov.al/",
+                "wikidata_page_name": "Q114257",
+                "wikipedia_pages": {
+                    "sq": "Elbasani"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2193240328,
+            "country": 8,
+            "level1area": [
+                "al04"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Lushnja",
+                "el": "Λούσνια",
+                "en": "Lushnja",
+                "eo": "Lushnje",
+                "fr": "Lushnja",
+                "it": "Lushnja",
+                "mk": "Лушње",
+                "ru": "Люшня",
+                "sq": "Lushnjë",
+                "sr": "Лушње",
+                "tr": "Loşna"
+            },
+            "place_type": 67,
+            "population": 60000,
+            "latitude": 40.9422038,
+            "longitude": 19.7059724,
+            "geocell": 4714397,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2193240328,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "9001"
+                ],
+                "wikidata_page_name": "Q212680",
+                "wikipedia_pages": {
+                    "en": "Lushnjë"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2367041545,
+            "country": 8,
+            "level1area": [
+                "al08"
+            ],
+            "level2area": null,
+            "names": {
+                "mk": "Лач",
+                "ru": "Лач",
+                "sq": "Laç"
+            },
+            "place_type": 84,
+            "population": 17086,
+            "latitude": 41.635741,
+            "longitude": 19.7123916,
+            "geocell": 4739597,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2367041545,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4701-4702"
+                ],
+                "wikidata_page_name": "Q18768",
+                "wikipedia_pages": {
+                    "sq": "Laçi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4340385989,
+            "country": 8,
+            "level1area": [
+                "al11"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Камза",
+                "de": "Kamza",
+                "en": "Kamez",
+                "mk": "Камза",
+                "ru": "Камза",
+                "sq": "Kamëz",
+                "ur": "کامزا"
+            },
+            "place_type": 67,
+            "population": 66841,
+            "latitude": 41.3835259,
+            "longitude": 19.7604224,
+            "geocell": 4728797,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4340385989,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q605160",
+                "wikipedia_pages": {
+                    "sq": "Kamza"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4742666358,
+            "country": 8,
+            "level1area": [
+                "al08"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Λέζε",
+                "it": "Alessio",
+                "mk": "Леска",
+                "ru": "Лежа",
+                "sq": "Lezhë",
+                "sr": "Љеш",
+                "tr": "Leş",
+                "uk": "Лежа"
+            },
+            "place_type": 84,
+            "population": 15510,
+            "latitude": 41.7816638,
+            "longitude": 19.6433538,
+            "geocell": 4743196,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4742666358,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "4501"
+                ],
+                "wikidata_page_name": "Q169160",
+                "wikipedia_pages": {
+                    "sq": "Lezha"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5197045817,
+            "country": 8,
+            "level1area": [
+                "al01"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Берат",
+                "bg": "Берат",
+                "de": "Berat",
+                "el": "Βεράτι",
+                "en": "Berat",
+                "fr": "Berat",
+                "ja": "ベラト",
+                "lt": "Beratis",
+                "mk": "Белград",
+                "ru": "Берат",
+                "sq": "Berat",
+                "sr": "Берат",
+                "tr": "Berat",
+                "uk": "Берат"
+            },
+            "place_type": 67,
+            "population": 65000,
+            "latitude": 40.7018636,
+            "longitude": 19.9580758,
+            "geocell": 4707199,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5197045817,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "5001"
+                ],
+                "website": "https://www.bashkiaberat.gov.al/",
+                "wikidata_page_name": "Q170244",
+                "wikipedia_pages": {
+                    "en": "Berat"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5313460940,
+            "country": 8,
+            "level1area": [
+                "al06"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Πογραδέτσι",
+                "mk": "Поградец",
+                "ru": "Поградец",
+                "sq": "Pogradec",
+                "tr": "Pogradaş"
+            },
+            "place_type": 84,
+            "population": 30000,
+            "latitude": 40.8998739,
+            "longitude": 20.6573881,
+            "geocell": 4710806,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5313460940,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "7301"
+                ],
+                "wikidata_page_name": "Q73639",
+                "wikipedia_pages": {
+                    "sq": "Pogradeci"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 10837737854,
+            "country": 8,
+            "level1area": [
+                "al06"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Корча",
+                "el": "Κορυτσά",
+                "it": "Coriza",
+                "mk": "Горица",
+                "pl": "Korcza",
+                "ru": "Корча",
+                "sq": "Korçë",
+                "sr": "Горица",
+                "tr": "Görice"
+            },
+            "place_type": 67,
+            "population": 80000,
+            "latitude": 40.6158967,
+            "longitude": 20.7772187,
+            "geocell": 4703607,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 10837737854,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "7001-7004"
+                ],
+                "website": "https://bashkiakorce.gov.al/",
+                "wikidata_page_name": "Q116341",
+                "wikipedia_pages": {
+                    "sq": "Korça"
+                }
+            }
+        }
+    }
+]

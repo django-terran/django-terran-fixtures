@@ -1,0 +1,174 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1363470272,
+            "country": 634,
+            "level1area": [
+                "qawa"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الوكرة",
+                "de": "Al Wakra",
+                "en": "Al Wakrah",
+                "es": "Al Wakrah",
+                "fr": "Al Wakrah",
+                "ml": "അൽ-വക്ര",
+                "ru": "Аль-Вакра",
+                "uk": "Аль-Вакра"
+            },
+            "place_type": 84,
+            "population": 87970,
+            "latitude": 25.1566623,
+            "longitude": 51.6013212,
+            "geocell": 4145916,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1363470272,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q310893",
+                "wikipedia_pages": {
+                    "ar": "الوكرة"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1676664890,
+            "country": 634,
+            "level1area": [
+                "qada"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Doha",
+                "ar": "الدوحة",
+                "ast": "Doḥa",
+                "az": "Doha",
+                "be": "Доха",
+                "bg": "Доха",
+                "bn": "দোহা",
+                "br": "Doha",
+                "bs": "Doha",
+                "ca": "Doha",
+                "ckb": "دەوحە",
+                "cs": "Dauhá",
+                "cy": "Doha",
+                "da": "Doha",
+                "de": "Doha",
+                "el": "Ντόχα",
+                "en": "Doha",
+                "eo": "Doho",
+                "es": "Doha",
+                "et": "Doha",
+                "eu": "Doha",
+                "fa": "دوحه",
+                "fi": "Doha",
+                "fr": "Doha",
+                "fy": "Doha",
+                "ga": "Doha",
+                "gd": "Doha",
+                "gl": "Doha",
+                "he": "דוחה",
+                "hi": "दोहा",
+                "hr": "Doha",
+                "hsb": "Doha",
+                "hu": "Doha",
+                "hy": "Դոհա",
+                "ia": "Doha",
+                "id": "Doha",
+                "is": "Doha",
+                "it": "Doha",
+                "ja": "ドーハ",
+                "ka": "დოჰა",
+                "kab": "Dawḥa",
+                "kk": "Доһа",
+                "km": "ដូហា",
+                "kn": "ದೊಹಾ",
+                "ko": "도하",
+                "ky": "Доха",
+                "lb": "Doha",
+                "lt": "Doha",
+                "lv": "Doha",
+                "mk": "Доха",
+                "ml": "ദോഹ",
+                "mn": "Доха",
+                "mr": "दोहा",
+                "ms": "Doha",
+                "my": "ဒိုဟာမြို့",
+                "ne": "दोहा",
+                "nl": "Doha",
+                "os": "Дохæ",
+                "pa": "ਦੋਹਾ",
+                "pl": "Doha",
+                "pt": "Doha",
+                "ro": "Doha",
+                "ru": "Доха",
+                "sk": "Dauha",
+                "sl": "Doha",
+                "sq": "Doha",
+                "sr": "Доха",
+                "sv": "Doha",
+                "sw": "Doha",
+                "ta": "தோகா",
+                "tg": "Доҳа",
+                "th": "โดฮา",
+                "tk": "Doha",
+                "tr": "Doha",
+                "tt": "Doha",
+                "udm": "Доха",
+                "ug": "دوھا",
+                "uk": "Доха",
+                "ur": "دوحہ",
+                "uz": "Doʻha",
+                "vi": "Doha"
+            },
+            "place_type": 67,
+            "population": 1312947,
+            "latitude": 25.2856329,
+            "longitude": 51.5264162,
+            "geocell": 4149515,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1676664890,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3861",
+                "wikipedia_pages": {
+                    "ar": "الدوحة"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3299477420,
+            "country": 634,
+            "level1area": [
+                "qawa"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "قرية كاتلوم",
+                "en": "Qatalum Village"
+            },
+            "place_type": 86,
+            "population": 10000,
+            "latitude": 25.0126041,
+            "longitude": 51.5691674,
+            "geocell": 4142315,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3299477420,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

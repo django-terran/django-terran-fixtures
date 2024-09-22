@@ -1,0 +1,942 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27547986,
+            "country": 496,
+            "level1area": [
+                "mn1"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أولان باتور",
+                "az": "Ulan-Bator",
+                "ca": "Ulan Bator",
+                "ckb": "ئولانباتۆر",
+                "cs": "Ulánbátar",
+                "cy": "Ulan Bator",
+                "da": "Ulan Bator",
+                "de": "Ulan Bator",
+                "el": "Ουλάν Μπατόρ",
+                "en": "Ulaanbaatar",
+                "eo": "Ulaanbaataro",
+                "es": "Ulán Bator",
+                "et": "Ulaanbaatar",
+                "eu": "Ulan Bator",
+                "fa": "اولان‌باتور",
+                "fi": "Ulaanbaatar",
+                "fr": "Oulan-Bator",
+                "fy": "Ulaanbaatar",
+                "ga": "Ulánbátar",
+                "gd": "Ulan Bator",
+                "gl": "Ulán Bátor",
+                "he": "אולן בטור",
+                "hi": "उलान बतोर",
+                "hr": "Ulan Bator",
+                "hu": "Ulánbátor",
+                "hy": "Ուլան Բատոր",
+                "ia": "Ulan Bator",
+                "id": "Ulan Bator",
+                "io": "Ulan Bator",
+                "is": "Úlan Bator",
+                "it": "Ulan Bator",
+                "ja": "ウランバートル",
+                "ka": "ულან-ბატორი",
+                "kk": "Ұланбатыр",
+                "km": "អ៊ូលេនបាធរ",
+                "kn": "ಉಲಾನ್ ಬತೊರ್",
+                "ko": "울란바토르",
+                "ky": "Улан-Баатыр",
+                "lb": "Ulan Bator",
+                "lt": "Ulan Batoras",
+                "lv": "Ulanbatora",
+                "mk": "Улан Батор",
+                "mn": "Улаанбаатар",
+                "mr": "उलानबातर",
+                "ms": "Ulan Bator",
+                "my": "ဦလန်ဘာတာမြို့",
+                "nl": "Ulaanbaatar",
+                "nn": "Ulan Bator",
+                "os": "Улан-Батор",
+                "pa": "ਉਲਾਨ ਬਤੋਰ",
+                "pl": "Ułan Bator",
+                "pt": "Ulan Bator",
+                "ro": "Ulaanbaatar",
+                "ru": "Улан-Батор",
+                "sk": "Ulanbátar",
+                "sl": "Ulan Bator",
+                "sq": "Ulan Bator",
+                "sr": "Улан Батор",
+                "sv": "Ulaanbaatar",
+                "sw": "Ulaanbaatar",
+                "ta": "ஊலான் பாடோர்",
+                "tg": "Улан-Батор",
+                "th": "อูลานบาตอร์",
+                "tr": "Ulan Batur",
+                "tt": "Ulan Bator",
+                "ug": "Ulanbatur",
+                "uk": "Улан-Батор",
+                "ur": "اولان‌ باتور",
+                "uz": "Ulan-Bator",
+                "vi": "Ulaanbaatar"
+            },
+            "place_type": 67,
+            "population": 1401200,
+            "latitude": 47.9184676,
+            "longitude": 106.9177016,
+            "geocell": 4967269,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27547986,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q23430",
+                "wikipedia_pages": {
+                    "mn": "Улаанбаатар"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 250944260,
+            "country": 496,
+            "level1area": [
+                "mn046"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أولانغوم",
+                "de": "Ulaangom",
+                "en": "Ulaangom",
+                "es": "Ulaangom",
+                "fr": "Ulaangom",
+                "ja": "オラーンゴム",
+                "ko": "올란곰",
+                "mn": "Улаангом",
+                "ru": "Улангом"
+            },
+            "place_type": 67,
+            "population": 22300,
+            "latitude": 49.9800327,
+            "longitude": 92.068851,
+            "geocell": 5039120,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 250944260,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q822815",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 293460811,
+            "country": 496,
+            "level1area": [
+                "mn049"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Süchbaatar",
+                "en": "Sukhbaatar",
+                "es": "Sujbaatar",
+                "fr": "Sükhbaatar",
+                "ja": "スフバータル",
+                "ko": "수흐바타르",
+                "lt": "Suche Batoras",
+                "mn": "Сүхбаатар",
+                "ru": "Сухэ-Батор"
+            },
+            "place_type": 67,
+            "population": 19662,
+            "latitude": 50.2358909,
+            "longitude": 106.2094944,
+            "geocell": 5050062,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 293460811,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q46319",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 293929556,
+            "country": 496,
+            "level1area": [
+                "mn035"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "إردنيت",
+                "ckb": "ئەردەنێت",
+                "de": "Erdenet",
+                "en": "Erdenet",
+                "es": "Erdenet",
+                "fr": "Erdenet",
+                "ja": "エルデネト",
+                "lt": "Erdenetas",
+                "mn": "Эрдэнэт",
+                "ru": "Эрдэнэт"
+            },
+            "place_type": 67,
+            "population": 86866,
+            "latitude": 49.0276045,
+            "longitude": 104.0443867,
+            "geocell": 5006840,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 293929556,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q230628",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 293932417,
+            "country": 496,
+            "level1area": [
+                "mn037"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "دارخان",
+                "az": "Darxan",
+                "de": "Darchan",
+                "en": "Darkhan",
+                "es": "Darjan",
+                "fr": "Darkhan",
+                "ja": "ダルハン",
+                "lt": "Darchanas",
+                "mn": "Дархан",
+                "ru": "Дархан",
+                "uz": "Darxan"
+            },
+            "place_type": 67,
+            "population": 74738,
+            "latitude": 49.4922428,
+            "longitude": 105.9361613,
+            "geocell": 5021259,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 293932417,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q235571",
+                "wikipedia_pages": {
+                    "en": "Darkhan (city)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 293932664,
+            "country": 496,
+            "level1area": [
+                "mn061"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "تشويبالسان",
+                "de": "Tschoibalsan",
+                "en": "Choibalsan",
+                "es": "Choybalsan",
+                "fr": "Tchoïbalsan",
+                "ja": "チョイバルサン",
+                "lt": "Čoibalsanas",
+                "mn": "Чойбалсан",
+                "ru": "Чойбалсан"
+            },
+            "place_type": 67,
+            "population": 38537,
+            "latitude": 48.0688183,
+            "longitude": 114.5241352,
+            "geocell": 4970945,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 293932664,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q318245",
+                "wikipedia_pages": {
+                    "mn": "Чойбалсан (хот)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 293940162,
+            "country": 496,
+            "level1area": [
+                "mn1"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Nalaich",
+                "en": "Nalaikh",
+                "fa": "نالایخ",
+                "he": "נאלאיח",
+                "ja": "ナライフ",
+                "mn": "Налайх",
+                "ru": "Налайх"
+            },
+            "place_type": 67,
+            "population": 30049,
+            "latitude": 47.7711646,
+            "longitude": 107.2511905,
+            "geocell": 4960072,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 293940162,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2282418",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 293941554,
+            "country": 496,
+            "level1area": [
+                "mn069"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بايانخونغور",
+                "de": "Bajanchongor",
+                "en": "Bayankhongor",
+                "es": "Bayanhongor",
+                "fr": "Bayanhongor",
+                "hu": "Bajanhongor",
+                "ja": "バヤンホンゴル",
+                "lt": "Bajanchongoras",
+                "mn": "Баянхонгор",
+                "ru": "Баянхонгор",
+                "uk": "Баянхонґор"
+            },
+            "place_type": 67,
+            "population": 29817,
+            "latitude": 46.1936649,
+            "longitude": 100.7142654,
+            "geocell": 4902407,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 293941554,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q804117",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 293942649,
+            "country": 496,
+            "level1area": [
+                "mn1"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Baganuur",
+                "fa": "باگانور",
+                "ja": "バガヌール",
+                "mn": "Багануур ᠪᠠᠭᠠᠨᠠᠭᠤᠷ",
+                "ru": "Багануур"
+            },
+            "place_type": 67,
+            "population": 22210,
+            "latitude": 47.7826686,
+            "longitude": 108.3705783,
+            "geocell": 4960083,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 293942649,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 293967732,
+            "country": 496,
+            "level1area": [
+                "mn055"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Arwaicheer",
+                "en": "Arvaikheer",
+                "es": "Arvaikheer",
+                "fr": "Arvaikheer",
+                "mn": "Арвайхээр",
+                "ru": "Арвайхээр"
+            },
+            "place_type": 67,
+            "population": 27162,
+            "latitude": 46.2681885,
+            "longitude": 102.7863148,
+            "geocell": 4906027,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 293967732,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q717684",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 293970113,
+            "country": 496,
+            "level1area": [
+                "mn065"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "التاي",
+                "de": "Altai",
+                "en": "Altai",
+                "es": "Altai",
+                "fr": "Altay",
+                "ja": "アルタイ",
+                "kk": "Алтай",
+                "lt": "Altajus",
+                "mn": "Алтай",
+                "ru": "Алтай"
+            },
+            "place_type": 67,
+            "population": 15800,
+            "latitude": 46.3643389,
+            "longitude": 96.2532498,
+            "geocell": 4909562,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 293970113,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q433861",
+                "wikipedia_pages": {
+                    "ru": "Алтай (город, Говь-Алтай)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 293971740,
+            "country": 496,
+            "level1area": [
+                "mn063"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سينشند",
+                "de": "Sainschand",
+                "en": "Sainshand",
+                "es": "Sainshand",
+                "fr": "Sainshand",
+                "ja": "サインシャンド",
+                "lt": "Sainšandas",
+                "mn": "»",
+                "ru": "Сайншанд"
+            },
+            "place_type": 67,
+            "population": 19891,
+            "latitude": 44.8883913,
+            "longitude": 110.1431263,
+            "geocell": 4855701,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 293971740,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q943290",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 293975982,
+            "country": 496,
+            "level1area": [
+                "mn057"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ألياستاي",
+                "de": "Uliastai",
+                "en": "Uliastai",
+                "es": "Uliastay",
+                "fr": "Uliastay",
+                "ja": "ウリヤスタイ",
+                "lt": "Ulijastajus",
+                "mn": "Улиастай",
+                "ru": "Улиастай"
+            },
+            "place_type": 67,
+            "population": 17468,
+            "latitude": 47.7415554,
+            "longitude": 96.8474808,
+            "geocell": 4959968,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 293975982,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q943374",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 295657197,
+            "country": 496,
+            "level1area": [
+                "mn073"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "تستسرليغ",
+                "de": "Tsetserleg",
+                "en": "Tsetserleg",
+                "es": "Tsetserleg",
+                "fr": "Tsetserleg",
+                "hu": "Cecerleg",
+                "ja": "ツェツェルレグ",
+                "lt": "Cecerlegas",
+                "mn": "Цэцэрлэг",
+                "ru": "Цэцэрлэг"
+            },
+            "place_type": 67,
+            "population": 20604,
+            "latitude": 47.476602,
+            "longitude": 101.4532887,
+            "geocell": 4949214,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 295657197,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q529834",
+                "wikipedia_pages": {
+                    "en": "Tsetserleg (city)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 297231370,
+            "country": 496,
+            "level1area": [
+                "mn053"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "دالانزاغاد",
+                "en": "Dalanzadgad",
+                "es": "Dalanzadgad",
+                "fr": "Dalanzadgad",
+                "mn": "Даланзадгад",
+                "ru": "Даланзадгад"
+            },
+            "place_type": 67,
+            "population": 18700,
+            "latitude": 43.5717042,
+            "longitude": 104.4259502,
+            "geocell": 4808844,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 297231370,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q822808",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 297275817,
+            "country": 496,
+            "level1area": [
+                "mn059"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ماندالغوفي",
+                "de": "Mandalgobi",
+                "en": "Mandalgobi",
+                "es": "Mandalgobi",
+                "fr": "Mandalgovi",
+                "it": "Mandalgov'",
+                "ja": "マンダルゴビ",
+                "lt": "Mandalgobis",
+                "mn": "Мандалговь",
+                "ru": "Мандалгоби"
+            },
+            "place_type": 67,
+            "population": 10888,
+            "latitude": 45.7630435,
+            "longitude": 106.2704145,
+            "geocell": 4888062,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 297275817,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1000373",
+                "wikipedia_pages": {
+                    "en": "Mandalgovi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 297576607,
+            "country": 496,
+            "level1area": [
+                "mn039"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أوندورخان",
+                "de": "Enderkhaan",
+                "en": "Öndörkhaan",
+                "es": "Enderkhaan",
+                "fr": "Öndörkhaan",
+                "it": "Ôndôrhaan",
+                "ja": "ウンドゥルハーン",
+                "lt": "Underchanas",
+                "mn": "Чингис хот",
+                "pl": "Enderkhaan",
+                "pt": "Enderkhaan",
+                "ru": "Ундэрхаан"
+            },
+            "place_type": 67,
+            "population": 18140,
+            "latitude": 47.3256114,
+            "longitude": 110.6649133,
+            "geocell": 4945706,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 297576607,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q297632",
+                "wikipedia_pages": {
+                    "en": "Öndörkhaan"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 308452912,
+            "country": 496,
+            "level1area": [
+                "mn043"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "خوفد",
+                "de": "Chowd",
+                "en": "Khovd",
+                "es": "Hovd",
+                "fr": "Khovd",
+                "ja": "ホブド",
+                "mn": "Ховд",
+                "ru": "Ховд",
+                "uk": "Ховд"
+            },
+            "place_type": 67,
+            "population": 28601,
+            "latitude": 48.0006353,
+            "longitude": 91.6452415,
+            "geocell": 4970716,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 308452912,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q731256",
+                "wikipedia_pages": {
+                    "en": "Khovd (city)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 308463710,
+            "country": 496,
+            "level1area": [
+                "mn067"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بولجان",
+                "de": "Bulgan",
+                "en": "Bulgan",
+                "es": "Bulgan",
+                "fa": "بولگان",
+                "fr": "Bulgan",
+                "ja": "ボルガン",
+                "lt": "Bulganas",
+                "mn": "Булган",
+                "ru": "Булган"
+            },
+            "place_type": 67,
+            "population": 11320,
+            "latitude": 48.8129203,
+            "longitude": 103.5322785,
+            "geocell": 4999635,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 308463710,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q945055",
+                "wikipedia_pages": {
+                    "en": "Bulgan (city)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 385713356,
+            "country": 496,
+            "level1area": [
+                "mn047"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "زونمود",
+                "de": "Dsuunmod",
+                "en": "Zuunmod",
+                "es": "Zuunmod",
+                "fa": "زونمود",
+                "fr": "Zuunmod",
+                "ja": "ゾーンモド",
+                "lt": "Zunmodas",
+                "mn": "Зуунмод",
+                "ru": "Зуунмод"
+            },
+            "place_type": 67,
+            "population": 13330,
+            "latitude": 47.7082682,
+            "longitude": 106.9544868,
+            "geocell": 4960069,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 385713356,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q917690",
+                "wikipedia_pages": {
+                    "en": "Zuunmod"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 459470390,
+            "country": 496,
+            "level1area": [
+                "mn063"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Zamyn-Üüd",
+                "en": "Zamiin uud",
+                "ja": "ザミンウード",
+                "mn": "Замын-Үүд",
+                "ru": "Замын-Уудэ"
+            },
+            "place_type": 84,
+            "population": 13285,
+            "latitude": 43.7180017,
+            "longitude": 111.9049227,
+            "geocell": 4816119,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 459470390,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "mn": "Замын-Үүд сум"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 512096561,
+            "country": 496,
+            "level1area": [
+                "mn049"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Zuunkharaa",
+                "ja": "ズーンハラ",
+                "mn": "Зүүнхараа",
+                "ru": "Зуунэхараа"
+            },
+            "place_type": 84,
+            "population": 18002,
+            "latitude": 48.8519187,
+            "longitude": 106.4589689,
+            "geocell": 4999664,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 512096561,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1028289",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1968281574,
+            "country": 496,
+            "level1area": [
+                "mn051"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بارون-اورت",
+                "de": "Baruun-Urt",
+                "en": "Baruun-Urt",
+                "es": "Baruun-Urt",
+                "fr": "Baruun-Urt",
+                "ja": "バローン・オルト",
+                "lt": "Barun Urtas",
+                "mn": "Баруун-Урт",
+                "ru": "Баруун-Урт"
+            },
+            "place_type": 67,
+            "population": 14089,
+            "latitude": 46.6807672,
+            "longitude": 113.2845525,
+            "geocell": 4920532,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1968281574,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q809657",
+                "wikipedia_pages": {
+                    "en": "Baruun-Urt"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1984004255,
+            "country": 496,
+            "level1area": [
+                "mn041"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Мурэн",
+                "bg": "Мьорьон",
+                "ca": "Mörön",
+                "cs": "Mörön",
+                "de": "Mörön",
+                "dsb": "Mörön",
+                "en": "Murun",
+                "es": "Mörön",
+                "et": "Mörön",
+                "eu": "Moron",
+                "fa": "مورون",
+                "fi": "Mörön",
+                "fr": "Mörön",
+                "ga": "Mörön",
+                "he": "מורון",
+                "hi": "मोरोन",
+                "hu": "Mörön",
+                "hy": "Մուրէն",
+                "it": "Môrôn",
+                "ja": "モロン",
+                "ka": "მურენი",
+                "ko": "무룽",
+                "lt": "Murenas",
+                "mk": "Морон",
+                "mn": "Мөрөн",
+                "nl": "Mörön",
+                "pl": "Mörön",
+                "pt": "Mörön",
+                "ru": "Мурэн",
+                "sv": "Mörön",
+                "tr": "Mörön",
+                "uk": "Мурен",
+                "ur": "مورون",
+                "vi": "Mörön"
+            },
+            "place_type": 67,
+            "population": 35789,
+            "latitude": 49.6284811,
+            "longitude": 100.1745571,
+            "geocell": 5028401,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1984004255,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q572951",
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

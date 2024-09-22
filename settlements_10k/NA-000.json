@@ -1,0 +1,617 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 33364833,
+            "country": 516,
+            "level1area": [
+                "nakh"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Windhoek",
+                "ar": "ويندهوك",
+                "ast": "Windḥoek",
+                "az": "Vindhuk",
+                "be": "Віндхук",
+                "bg": "Виндхук",
+                "bn": "উইন্ডহুক",
+                "br": "Windhoek",
+                "bs": "Windhoek",
+                "ca": "Windhoek",
+                "ckb": "ویندھۆک",
+                "cs": "Windhoek",
+                "cy": "Windhoek",
+                "da": "Windhoek",
+                "de": "Windhuk",
+                "dsb": "Windhoek",
+                "el": "Βίντχουκ",
+                "en": "Windhoek",
+                "eo": "Vindhuko",
+                "es": "Windhoek",
+                "et": "Windhoek",
+                "eu": "Windhoek",
+                "fa": "ویندهوک",
+                "fi": "Windhoek",
+                "fr": "Windhoek",
+                "fy": "Wynhoeke",
+                "ga": "Windhoek",
+                "gd": "Windhoek",
+                "gl": "Windhoek",
+                "he": "וינדהוק",
+                "hi": "विंडहोक",
+                "hr": "Windhoek",
+                "hu": "Windhoek",
+                "hy": "Վինդհուկ",
+                "ia": "Windhoek",
+                "id": "Windhoek",
+                "io": "Windhoek",
+                "is": "Windhoek",
+                "it": "Windhoek",
+                "ja": "ウィントフック",
+                "ka": "ვინდჰუკი",
+                "kab": "Windhoek",
+                "ko": "빈트후크",
+                "ky": "Виндхук",
+                "lb": "Windhoek",
+                "lt": "Vindhukas",
+                "lv": "Vindhuka",
+                "mk": "Виндхук",
+                "ml": "വിൻഡ്ഹോക്ക്",
+                "mn": "Виндхук",
+                "mr": "विंडहोक",
+                "ms": "Windhoek",
+                "nl": "Windhoek",
+                "nn": "Windhoek",
+                "os": "Виндхук",
+                "pa": "ਵਿੰਟਹੁਕ",
+                "pl": "Windhuk",
+                "pt": "Vinduque",
+                "ro": "Windhoek",
+                "ru": "Виндхук",
+                "sk": "Windhoek",
+                "sl": "Windhoek",
+                "sq": "Uindhuk",
+                "sr": "Виндхук",
+                "sv": "Windhoek",
+                "sw": "Windhoek",
+                "ta": "விந்தோக்",
+                "tg": "Виндхук",
+                "th": "วินด์ฮุก",
+                "tr": "Windhoek",
+                "udm": "Виндхук",
+                "uk": "Віндгук",
+                "ur": "ونڈہوک",
+                "uz": "Vindxuk",
+                "vi": "Windhoek"
+            },
+            "place_type": 67,
+            "population": 325858,
+            "latitude": -22.5776104,
+            "longitude": 17.0772739,
+            "geocell": 2428370,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 33364833,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3935",
+                "wikipedia_pages": {
+                    "en": "Windhoek"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 33364834,
+            "country": 516,
+            "level1area": [
+                "naer"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Walvisbaai",
+                "ar": "ولفس بي",
+                "be": "Уолвіс-Бэй",
+                "bg": "Уолфиш Бей",
+                "de": "Walfischbucht",
+                "en": "Walvis Bay",
+                "es": "Walvis Bay",
+                "he": "ואלוויס ביי",
+                "ja": "ウォルビスベイ",
+                "ko": "월비스베이",
+                "lt": "Volvis Bėjus",
+                "nl": "Walvisbaai",
+                "ru": "Уолфиш-Бей",
+                "sk": "Veľrybia zátoka",
+                "sr": "Валвис Беј",
+                "uk": "Волфіш-Бей"
+            },
+            "place_type": 67,
+            "population": 62096,
+            "latitude": -22.9557607,
+            "longitude": 14.5071125,
+            "geocell": 2413945,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 33364834,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q220843",
+                "wikipedia_pages": {
+                    "en": "Walvis Bay"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 33364835,
+            "country": 516,
+            "level1area": [
+                "naer"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سواكوبموند",
+                "de": "Swakopmund",
+                "en": "Swakopmund",
+                "ko": "스바코프문트",
+                "lt": "Svakopmundas",
+                "ru": "Свакопмунд"
+            },
+            "place_type": 67,
+            "population": 25000,
+            "latitude": -22.6767841,
+            "longitude": 14.5313988,
+            "geocell": 2424745,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 33364835,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q59698",
+                "wikipedia_pages": {
+                    "en": "Swakopmund"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 33364950,
+            "country": 516,
+            "level1area": [
+                "naoh"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "غوبابوس",
+                "en": "Gobabis",
+                "lt": "Gobabis",
+                "ru": "Гобабис"
+            },
+            "place_type": 67,
+            "population": 19101,
+            "latitude": -22.4495283,
+            "longitude": 18.9724666,
+            "geocell": 2431989,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 33364950,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1000609",
+                "wikipedia_pages": {
+                    "en": "Gobabis"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 82260251,
+            "country": 516,
+            "level1area": [
+                "naka"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Keetmanshoop",
+                "lt": "Ketmanshopas",
+                "ru": "Китмансхуп"
+            },
+            "place_type": 84,
+            "population": 20977,
+            "latitude": -26.5790901,
+            "longitude": 18.1341909,
+            "geocell": 2284381,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 82260251,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q160884",
+                "wikipedia_pages": {
+                    "en": "Keetmanshoop"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 243660491,
+            "country": 516,
+            "level1area": [
+                "naka"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Lüderitz",
+                "he": "לידריץ",
+                "ru": "Людериц",
+                "uk": "Людериц"
+            },
+            "place_type": 84,
+            "population": 12500,
+            "latitude": -26.6500086,
+            "longitude": 15.157266,
+            "geocell": 2280751,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 243660491,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q159325",
+                "wikipedia_pages": {
+                    "de": "Lüderitz"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 243717016,
+            "country": 516,
+            "level1area": [
+                "naod"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أوكاهانديا",
+                "en": "Okahandja",
+                "ru": "Окаханджа"
+            },
+            "place_type": 67,
+            "population": 22639,
+            "latitude": -21.979231,
+            "longitude": 16.9128172,
+            "geocell": 2449969,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 243717016,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q597491",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 245023717,
+            "country": 516,
+            "level1area": [
+                "naod"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Otjiwarongo",
+                "lt": "Očivarongas",
+                "ru": "Очиваронго"
+            },
+            "place_type": 67,
+            "population": 49022,
+            "latitude": -20.4609337,
+            "longitude": 16.651205,
+            "geocell": 2503966,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 245023717,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "12001"
+                ],
+                "wikidata_page_name": "Q993149",
+                "wikipedia_pages": {
+                    "en": "Otjiwarongo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 245024692,
+            "country": 516,
+            "level1area": [
+                "naod"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Grootfontein",
+                "ru": "Хрутфонтейн"
+            },
+            "place_type": 84,
+            "population": 16632,
+            "latitude": -19.5644204,
+            "longitude": 18.1040894,
+            "geocell": 2536381,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 245024692,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q986336",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258882740,
+            "country": 516,
+            "level1area": [
+                "naer"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Omatjete"
+            },
+            "place_type": 86,
+            "population": 12000,
+            "latitude": -21.0524638,
+            "longitude": 15.5067273,
+            "geocell": 2482355,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258882740,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7089908",
+                "wikipedia_pages": {
+                    "en": "Omatjette"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259489787,
+            "country": 516,
+            "level1area": [
+                "naon"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ondangwa",
+                "es": "Ondangua"
+            },
+            "place_type": 84,
+            "population": 30000,
+            "latitude": -17.9097449,
+            "longitude": 15.9734636,
+            "geocell": 2593959,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259489787,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2023773",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259490969,
+            "country": 516,
+            "level1area": [
+                "naon"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أوشاكاتي",
+                "en": "Oshakati",
+                "lt": "Ošakatis",
+                "ru": "Ошакати",
+                "ur": "اوشاکاتی"
+            },
+            "place_type": 67,
+            "population": 43000,
+            "latitude": -17.7826518,
+            "longitude": 15.6986,
+            "geocell": 2601156,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259490969,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "15001"
+                ],
+                "wikidata_page_name": "Q985622",
+                "wikipedia_pages": {
+                    "en": "Oshakati"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259609505,
+            "country": 516,
+            "level1area": [
+                "nake"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "روندو",
+                "en": "Rundu",
+                "fa": "روندو",
+                "ko": "룬두",
+                "lt": "Rundu",
+                "ru": "Рунду",
+                "ur": "روندو"
+            },
+            "place_type": 67,
+            "population": 63431,
+            "latitude": -17.913716,
+            "longitude": 19.7672535,
+            "geocell": 2593997,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259609505,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q662291",
+                "wikipedia_pages": {
+                    "en": "Rundu"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 331410669,
+            "country": 516,
+            "level1area": [
+                "naca"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كاتيما موليلو",
+                "en": "Katima Mulilo",
+                "ko": "카티마물릴로",
+                "lt": "Katima Mulilas",
+                "ru": "Катима-Мулило",
+                "uk": "Катіма-Муліло",
+                "ur": "کاتیما مولیلو"
+            },
+            "place_type": 67,
+            "population": 28362,
+            "latitude": -17.5073143,
+            "longitude": 24.2793522,
+            "geocell": 2608442,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 331410669,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "20001"
+                ],
+                "wikidata_page_name": "Q864100",
+                "wikipedia_pages": {
+                    "en": "Katima Mulilo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1348262190,
+            "country": 516,
+            "level1area": [
+                "naon"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ongwediva",
+                "ru": "Онгуэдива",
+                "uk": "Онгуедіва"
+            },
+            "place_type": 84,
+            "population": 20260,
+            "latitude": -17.7803257,
+            "longitude": 15.7638718,
+            "geocell": 2601157,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1348262190,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "15006"
+                ],
+                "wikidata_page_name": "Q841557",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5669837284,
+            "country": 516,
+            "level1area": [
+                "naha"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mariental"
+            },
+            "place_type": 84,
+            "population": 12478,
+            "latitude": -24.6246442,
+            "longitude": 17.9626696,
+            "geocell": 2352779,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5669837284,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7632695914,
+            "country": 516,
+            "level1area": [
+                "naot"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tsumeb"
+            },
+            "place_type": 84,
+            "population": 20000,
+            "latitude": -19.248402,
+            "longitude": 17.7087503,
+            "geocell": 2547177,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7632695914,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "en": "Tsumeb"
+                }
+            }
+        }
+    }
+]

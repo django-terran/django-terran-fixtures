@@ -1,0 +1,4580 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 21562694,
+            "country": 203,
+            "level1area": [
+                "cz63"
+            ],
+            "level2area": [
+                "cz632"
+            ],
+            "names": {
+                "ar": "يهلافا",
+                "cs": "Jihlava",
+                "de": "Iglau",
+                "el": "Γίχλαβα",
+                "fa": "ییهلاوا",
+                "hu": "Jihlava",
+                "pl": "Igława",
+                "ru": "Йиглава",
+                "ur": "ییہلاوا"
+            },
+            "place_type": 67,
+            "population": 50108,
+            "latitude": 49.396064,
+            "longitude": 15.5903065,
+            "geocell": 5016755,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 21562694,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q183111",
+                "wikipedia_pages": {
+                    "cs": "Jihlava"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 32666229,
+            "country": 203,
+            "level1area": [
+                "cz32"
+            ],
+            "level2area": [
+                "cz323"
+            ],
+            "names": {
+                "ar": "بلزن",
+                "cs": "Plzeň",
+                "de": "Pilsen",
+                "el": "Πίλζεν",
+                "en": "Pilsen",
+                "es": "Pilsen",
+                "fa": "پلزن",
+                "fr": "Pilsen",
+                "hsb": "Pilzeń",
+                "hu": "Pilzen",
+                "lt": "Pilzenas",
+                "nl": "Pilsen",
+                "pl": "Pilzno",
+                "ru": "Пльзень",
+                "sr": "Плзењ",
+                "ur": "پلزین"
+            },
+            "place_type": 67,
+            "population": 168733,
+            "latitude": 49.7477415,
+            "longitude": 13.3775249,
+            "geocell": 5031133,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 32666229,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "30100"
+                ],
+                "website": "https://www.plzen.eu/",
+                "wikidata_page_name": "Q43453",
+                "wikipedia_pages": {
+                    "cs": "Plzeň"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 314657716,
+            "country": 203,
+            "level1area": [
+                "cz72"
+            ],
+            "level2area": [
+                "cz724"
+            ],
+            "names": {
+                "cs": "Otrokovice",
+                "de": "Otrokowitz"
+            },
+            "place_type": 84,
+            "population": 19261,
+            "latitude": 49.2088284,
+            "longitude": 17.5353865,
+            "geocell": 5013175,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 314657716,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1009095",
+                "wikipedia_pages": {
+                    "cs": "Otrokovice"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 430817440,
+            "country": 203,
+            "level1area": [
+                "cz80"
+            ],
+            "level2area": [
+                "cz802"
+            ],
+            "names": {
+                "cs": "Třinec",
+                "de": "Trzynietz",
+                "pl": "Trzyniec",
+                "ru": "Тршинец"
+            },
+            "place_type": 84,
+            "population": 34222,
+            "latitude": 49.6779212,
+            "longitude": 18.6711993,
+            "geocell": 5027586,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 430817440,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q986102",
+                "wikipedia_pages": {
+                    "cs": "Třinec"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 623726010,
+            "country": 203,
+            "level1area": [
+                "cz42"
+            ],
+            "level2area": [
+                "cz422"
+            ],
+            "names": {
+                "cs": "Klášterec nad Ohří",
+                "de": "Klösterle an der Eger"
+            },
+            "place_type": 84,
+            "population": 15398,
+            "latitude": 50.3843054,
+            "longitude": 13.1710191,
+            "geocell": 5052731,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 623726010,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "43151"
+                ],
+                "wikidata_page_name": "Q158268",
+                "wikipedia_pages": {
+                    "cs": "Klášterec nad Ohří"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 672030783,
+            "country": 203,
+            "level1area": [
+                "cz63"
+            ],
+            "level2area": [
+                "cz633"
+            ],
+            "names": {
+                "cs": "Pelhřimov",
+                "de": "Pilgrams",
+                "ru": "Пельгржимов"
+            },
+            "place_type": 84,
+            "population": 16105,
+            "latitude": 49.4308737,
+            "longitude": 15.2232341,
+            "geocell": 5020352,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 672030783,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1000073",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 962544948,
+            "country": 203,
+            "level1area": [
+                "cz72"
+            ],
+            "level2area": [
+                "cz723"
+            ],
+            "names": {
+                "cs": "Pustevny",
+                "de": "Pustewny"
+            },
+            "place_type": 72,
+            "population": 16769,
+            "latitude": 49.4896099,
+            "longitude": 18.2651488,
+            "geocell": 5020382,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 962544948,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2036311",
+                "wikipedia_pages": {
+                    "cs": "Pustevny"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1584552987,
+            "country": 203,
+            "level1area": [
+                "cz53"
+            ],
+            "level2area": [
+                "cz531"
+            ],
+            "names": {
+                "cs": "Chrudim"
+            },
+            "place_type": 84,
+            "population": 23002,
+            "latitude": 49.9511458,
+            "longitude": 15.7947559,
+            "geocell": 5038357,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1584552987,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.chrudim-city.cz/",
+                "wikidata_page_name": "Q986070",
+                "wikipedia_pages": {
+                    "cs": "Chrudim"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1585113445,
+            "country": 203,
+            "level1area": [
+                "cz53"
+            ],
+            "level2area": [
+                "cz532"
+            ],
+            "names": {
+                "ar": "باردوبيتسه",
+                "cs": "Pardubice",
+                "el": "Παρντουμπίτσε",
+                "fa": "پاردوبیتسه",
+                "he": "פרדוביצה",
+                "lt": "Pardubicės",
+                "ru": "Пардубице",
+                "sr": "Пардубице",
+                "uk": "Пардубіце",
+                "ur": "پاردوبیتسے"
+            },
+            "place_type": 67,
+            "population": 88520,
+            "latitude": 50.0385812,
+            "longitude": 15.7791356,
+            "geocell": 5041957,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1585113445,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.pardubice.eu",
+                "wikidata_page_name": "Q36989",
+                "wikipedia_pages": {
+                    "cs": "Pardubice"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1586377542,
+            "country": 203,
+            "level1area": [
+                "cz52"
+            ],
+            "level2area": [
+                "cz521"
+            ],
+            "names": {
+                "ar": "هرادتس كرالوفه",
+                "cs": "Hradec Králové",
+                "el": "Χράντεκ Κράλοβε",
+                "fa": "هرادتس کرالووه",
+                "ja": "フラデツ・クラーロヴェー",
+                "lt": "Hradec Kralovė",
+                "ru": "Градец-Кралове",
+                "sk": "Hradec Kralové",
+                "sr": "Храдец Кралове",
+                "uk": "Градець-Кралове",
+                "ur": "ہرادیتس کرالوے"
+            },
+            "place_type": 67,
+            "population": 90596,
+            "latitude": 50.2092113,
+            "longitude": 15.8327512,
+            "geocell": 5049158,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1586377542,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q180139",
+                "wikipedia_pages": {
+                    "cs": "Hradec Králové"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1586392563,
+            "country": 203,
+            "level1area": [
+                "cz63"
+            ],
+            "level2area": [
+                "cz631"
+            ],
+            "names": {
+                "cs": "Havlíčkův Brod",
+                "de": "Deutschbrod",
+                "ru": "Гавличкув-Брод"
+            },
+            "place_type": 84,
+            "population": 23101,
+            "latitude": 49.606942,
+            "longitude": 15.5795748,
+            "geocell": 5027555,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1586392563,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q954596",
+                "wikipedia_pages": {
+                    "cs": "Havlíčkův Brod"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1586412044,
+            "country": 203,
+            "level1area": [
+                "cz63"
+            ],
+            "level2area": [
+                "cz635"
+            ],
+            "names": {
+                "cs": "Žďár nad Sázavou",
+                "de": "Saar",
+                "pl": "Zdziar nad Sazawą",
+                "ru": "Ждяр-над-Сазавоу",
+                "sr": "Ждар на Сазави"
+            },
+            "place_type": 84,
+            "population": 20994,
+            "latitude": 49.5629014,
+            "longitude": 15.9391924,
+            "geocell": 5023959,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1586412044,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q394453",
+                "wikipedia_pages": {
+                    "cs": "Žďár nad Sázavou"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1586412254,
+            "country": 203,
+            "level1area": [
+                "cz63"
+            ],
+            "level2area": [
+                "cz635"
+            ],
+            "names": {
+                "cs": "Velké Meziříčí",
+                "de": "Groß Meseritsch"
+            },
+            "place_type": 84,
+            "population": 11536,
+            "latitude": 49.3554996,
+            "longitude": 16.0121507,
+            "geocell": 5016760,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1586412254,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q703158",
+                "wikipedia_pages": {
+                    "cs": "Velké Meziříčí"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1586412751,
+            "country": 203,
+            "level1area": [
+                "cz63"
+            ],
+            "level2area": [
+                "cz635"
+            ],
+            "names": {
+                "cs": "Nové Město na Moravě",
+                "de": "Neustadtl in Mähren"
+            },
+            "place_type": 84,
+            "population": 10063,
+            "latitude": 49.5616916,
+            "longitude": 16.0744185,
+            "geocell": 5023960,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1586412751,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q986075",
+                "wikipedia_pages": {
+                    "cs": "Nové Město na Moravě"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1586596855,
+            "country": 203,
+            "level1area": [
+                "cz53"
+            ],
+            "level2area": [
+                "cz533"
+            ],
+            "names": {
+                "cs": "Svitavy",
+                "de": "Zwittau",
+                "ru": "Свитави",
+                "sr": "Свитави"
+            },
+            "place_type": 84,
+            "population": 16610,
+            "latitude": 49.7562053,
+            "longitude": 16.4688995,
+            "geocell": 5031164,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1586596855,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.svitavy.cz/",
+                "wikidata_page_name": "Q755698",
+                "wikipedia_pages": {
+                    "cs": "Svitavy"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1586597205,
+            "country": 203,
+            "level1area": [
+                "cz53"
+            ],
+            "level2area": [
+                "cz533"
+            ],
+            "names": {
+                "cs": "Moravská Třebová",
+                "de": "Mährisch Trübau",
+                "ru": "Моравска-Тршебова",
+                "sr": "Моравска Требова"
+            },
+            "place_type": 84,
+            "population": 10196,
+            "latitude": 49.7581546,
+            "longitude": 16.6641472,
+            "geocell": 5031166,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1586597205,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.mtrebova-city.cz",
+                "wikidata_page_name": "Q1000078",
+                "wikipedia_pages": {
+                    "cs": "Moravská Třebová"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1586645572,
+            "country": 203,
+            "level1area": [
+                "cz53"
+            ],
+            "level2area": [
+                "cz534"
+            ],
+            "names": {
+                "cs": "Česká Třebová",
+                "de": "Böhmisch Trübau",
+                "pl": "Czeska Trzebowa",
+                "ru": "Ческа-Тршебова",
+                "sr": "Чешка Требова"
+            },
+            "place_type": 84,
+            "population": 14464,
+            "latitude": 49.9021593,
+            "longitude": 16.4472039,
+            "geocell": 5038364,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1586645572,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.ceska-trebova.cz",
+                "wikidata_page_name": "Q341056",
+                "wikipedia_pages": {
+                    "cs": "Česká Třebová"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1586645646,
+            "country": 203,
+            "level1area": [
+                "cz53"
+            ],
+            "level2area": [
+                "cz534"
+            ],
+            "names": {
+                "cs": "Ústí nad Orlicí",
+                "de": "Wildenschwert",
+                "pl": "Uście nad Orlicą",
+                "ru": "Усти-над-Орлици",
+                "sr": "Усти на Орлици"
+            },
+            "place_type": 84,
+            "population": 11081,
+            "latitude": 49.9737603,
+            "longitude": 16.3941695,
+            "geocell": 5038363,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1586645646,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q330409",
+                "wikipedia_pages": {
+                    "cs": "Ústí nad Orlicí"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1586645785,
+            "country": 203,
+            "level1area": [
+                "cz53"
+            ],
+            "level2area": [
+                "cz534"
+            ],
+            "names": {
+                "cs": "Vysoké Mýto",
+                "de": "Hohenmauth",
+                "ru": "Високе-Мито",
+                "sr": "Високо Мито",
+                "uk": "Високе Мито"
+            },
+            "place_type": 84,
+            "population": 11711,
+            "latitude": 49.9534727,
+            "longitude": 16.1616455,
+            "geocell": 5038361,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1586645785,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q999916",
+                "wikipedia_pages": {
+                    "cs": "Vysoké Mýto"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1586656598,
+            "country": 203,
+            "level1area": [
+                "cz63"
+            ],
+            "level2area": [
+                "cz633"
+            ],
+            "names": {
+                "cs": "Humpolec",
+                "de": "Humpoletz"
+            },
+            "place_type": 84,
+            "population": 11333,
+            "latitude": 49.5418861,
+            "longitude": 15.3586709,
+            "geocell": 5023953,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1586656598,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1000060",
+                "wikipedia_pages": {
+                    "cs": "Humpolec"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1586662518,
+            "country": 203,
+            "level1area": [
+                "cz63"
+            ],
+            "level2area": [
+                "cz634"
+            ],
+            "names": {
+                "cs": "Třebíč",
+                "de": "Trebitsch",
+                "lt": "Tršebyčius",
+                "ru": "Тршебич",
+                "sr": "Требич",
+                "uk": "Тршебич"
+            },
+            "place_type": 84,
+            "population": 34415,
+            "latitude": 49.2151907,
+            "longitude": 15.8816091,
+            "geocell": 5013158,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1586662518,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q270704",
+                "wikipedia_pages": {
+                    "cs": "Třebíč"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1586673871,
+            "country": 203,
+            "level1area": [
+                "cz52"
+            ],
+            "level2area": [
+                "cz523"
+            ],
+            "names": {
+                "cs": "Náchod",
+                "de": "Nachod",
+                "lt": "Nachodas",
+                "ru": "Наход",
+                "uk": "Наход"
+            },
+            "place_type": 84,
+            "population": 20011,
+            "latitude": 50.4167025,
+            "longitude": 16.1622871,
+            "geocell": 5056361,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1586673871,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q591823",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1586676512,
+            "country": 203,
+            "level1area": [
+                "cz52"
+            ],
+            "level2area": [
+                "cz522"
+            ],
+            "names": {
+                "cs": "Jičín",
+                "de": "Jitschin",
+                "pl": "Jiczyn",
+                "ru": "Йичин"
+            },
+            "place_type": 84,
+            "population": 15485,
+            "latitude": 50.4370452,
+            "longitude": 15.3516528,
+            "geocell": 5056353,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1586676512,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q656603",
+                "wikipedia_pages": {
+                    "cs": "Jičín"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1587265875,
+            "country": 203,
+            "level1area": [
+                "cz52"
+            ],
+            "level2area": [
+                "cz525"
+            ],
+            "names": {
+                "cs": "Vrchlabí"
+            },
+            "place_type": 84,
+            "population": 12599,
+            "latitude": 50.6271452,
+            "longitude": 15.6095779,
+            "geocell": 5063556,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1587265875,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1008595",
+                "wikipedia_pages": {
+                    "cs": "Vrchlabí"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1587266044,
+            "country": 203,
+            "level1area": [
+                "cz52"
+            ],
+            "level2area": [
+                "cz525"
+            ],
+            "names": {
+                "ar": "ترُتنوف",
+                "cs": "Trutnov",
+                "de": "Trautenau",
+                "ru": "Трутнов",
+                "uk": "Трутнов"
+            },
+            "place_type": 84,
+            "population": 18588,
+            "latitude": 50.5608851,
+            "longitude": 15.9130498,
+            "geocell": 5059959,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1587266044,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q320950",
+                "wikipedia_pages": {
+                    "cs": "Trutnov"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1587266362,
+            "country": 203,
+            "level1area": [
+                "cz52"
+            ],
+            "level2area": [
+                "cz525"
+            ],
+            "names": {
+                "cs": "Dvůr Králové nad Labem",
+                "ru": "Двур-Кралове-над-Лабем"
+            },
+            "place_type": 84,
+            "population": 14938,
+            "latitude": 50.4319898,
+            "longitude": 15.8139714,
+            "geocell": 5056358,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1587266362,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q143664",
+                "wikipedia_pages": {
+                    "cs": "Dvůr Králové nad Labem"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1587267592,
+            "country": 203,
+            "level1area": [
+                "cz52"
+            ],
+            "level2area": [
+                "cz524"
+            ],
+            "names": {
+                "cs": "Rychnov nad Kněžnou",
+                "ru": "Рихнов-над-Кнежноу"
+            },
+            "place_type": 84,
+            "population": 10393,
+            "latitude": 50.1632537,
+            "longitude": 16.2748393,
+            "geocell": 5045562,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1587267592,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1000091",
+                "wikipedia_pages": {
+                    "cs": "Rychnov nad Kněžnou"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1587332582,
+            "country": 203,
+            "level1area": [
+                "cz51"
+            ],
+            "level2area": [
+                "cz514"
+            ],
+            "names": {
+                "cs": "Turnov",
+                "de": "Turnau",
+                "lt": "Turnovas",
+                "ru": "Турнов",
+                "uk": "Турнов"
+            },
+            "place_type": 84,
+            "population": 14334,
+            "latitude": 50.5874068,
+            "longitude": 15.1574182,
+            "geocell": 5059951,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1587332582,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q851419",
+                "wikipedia_pages": {
+                    "cs": "Turnov"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1587363366,
+            "country": 203,
+            "level1area": [
+                "cz51"
+            ],
+            "level2area": [
+                "cz513"
+            ],
+            "names": {
+                "ar": "ليبيريتس",
+                "cs": "Liberec",
+                "el": "Λίμπερετς",
+                "fa": "لیبرتس",
+                "he": "ליברץ",
+                "hsb": "Liberec",
+                "lt": "Liberecas",
+                "ru": "Либерец",
+                "sr": "Либерец",
+                "uk": "Ліберець",
+                "ur": "لیبرتس"
+            },
+            "place_type": 67,
+            "population": 102951,
+            "latitude": 50.7702648,
+            "longitude": 15.0583947,
+            "geocell": 5067150,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1587363366,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q146351",
+                "wikipedia_pages": {
+                    "cs": "Liberec"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1587389785,
+            "country": 203,
+            "level1area": [
+                "cz51"
+            ],
+            "level2area": [
+                "cz512"
+            ],
+            "names": {
+                "cs": "Jablonec nad Nisou",
+                "lt": "Jablonecas prie Nisos",
+                "pl": "Jablonec nad Nysą",
+                "ru": "Яблонец-над-Нисоу",
+                "uk": "Яблонець-над-Нисою"
+            },
+            "place_type": 84,
+            "population": 44588,
+            "latitude": 50.7240899,
+            "longitude": 15.1710958,
+            "geocell": 5067151,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1587389785,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q147607",
+                "wikipedia_pages": {
+                    "cs": "Jablonec nad Nisou"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1587521408,
+            "country": 203,
+            "level1area": [
+                "cz51"
+            ],
+            "level2area": [
+                "cz511"
+            ],
+            "names": {
+                "cs": "Česká Lípa",
+                "de": "Böhmisch Leipa",
+                "hsb": "Čěska Lipa",
+                "pl": "Czeska Lipa",
+                "ru": "Ческа-Липа"
+            },
+            "place_type": 84,
+            "population": 36740,
+            "latitude": 50.6865452,
+            "longitude": 14.5372974,
+            "geocell": 5063545,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1587521408,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q740863",
+                "wikipedia_pages": {
+                    "cs": "Česká Lípa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1587521624,
+            "country": 203,
+            "level1area": [
+                "cz51"
+            ],
+            "level2area": [
+                "cz511"
+            ],
+            "names": {
+                "cs": "Nový Bor",
+                "de": "Haida"
+            },
+            "place_type": 84,
+            "population": 11693,
+            "latitude": 50.757878,
+            "longitude": 14.5554953,
+            "geocell": 5067145,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1587521624,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1000086",
+                "wikipedia_pages": {
+                    "cs": "Nový Bor"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598391587,
+            "country": 203,
+            "level1area": [
+                "cz42"
+            ],
+            "level2area": [
+                "cz427"
+            ],
+            "names": {
+                "ar": "أوستي ناد لابم",
+                "cs": "Ústí nad Labem",
+                "de": "Aussig",
+                "el": "Ούστι ναντ Λάμπεμ",
+                "fa": "اوستی ناد لابم",
+                "hsb": "Wusće nad Łobjom",
+                "pl": "Uście nad Łabą",
+                "ru": "Усти-над-Лабем",
+                "sr": "Усти над Лабом",
+                "ur": "اوستی ناد لاہم"
+            },
+            "place_type": 67,
+            "population": 90378,
+            "latitude": 50.6603327,
+            "longitude": 14.0381357,
+            "geocell": 5063540,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598391587,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "http://www.usti-nl.cz/",
+                "wikidata_page_name": "Q156974",
+                "wikipedia_pages": {
+                    "cs": "Ústí nad Labem"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598413721,
+            "country": 203,
+            "level1area": [
+                "cz42"
+            ],
+            "level2area": [
+                "cz426"
+            ],
+            "names": {
+                "cs": "Teplice",
+                "de": "Teplitz",
+                "he": "טפליצה",
+                "lt": "Teplicė",
+                "pl": "Cieplice",
+                "ru": "Теплице",
+                "sr": "Теплице",
+                "uk": "Тепліце"
+            },
+            "place_type": 84,
+            "population": 48766,
+            "latitude": 50.6406644,
+            "longitude": 13.8244461,
+            "geocell": 5063538,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598413721,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.teplice.cz",
+                "wikidata_page_name": "Q146342",
+                "wikipedia_pages": {
+                    "cs": "Teplice"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598413771,
+            "country": 203,
+            "level1area": [
+                "cz42"
+            ],
+            "level2area": [
+                "cz426"
+            ],
+            "names": {
+                "cs": "Bílina",
+                "de": "Bilin"
+            },
+            "place_type": 84,
+            "population": 15886,
+            "latitude": 50.5486059,
+            "longitude": 13.7746622,
+            "geocell": 5059937,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598413771,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q518360",
+                "wikipedia_pages": {
+                    "cs": "Bílina (město)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598415164,
+            "country": 203,
+            "level1area": [
+                "cz42"
+            ],
+            "level2area": [
+                "cz425"
+            ],
+            "names": {
+                "cs": "Most",
+                "de": "Brüx",
+                "lt": "Mostas",
+                "ru": "Мост",
+                "sr": "Мост",
+                "uk": "Мост"
+            },
+            "place_type": 84,
+            "population": 62866,
+            "latitude": 50.5032737,
+            "longitude": 13.636112,
+            "geocell": 5059936,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598415164,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.mesto-most.cz",
+                "wikidata_page_name": "Q146363",
+                "wikipedia_pages": {
+                    "cs": "Most (město)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598415233,
+            "country": 203,
+            "level1area": [
+                "cz42"
+            ],
+            "level2area": [
+                "cz425"
+            ],
+            "names": {
+                "cs": "Litvínov",
+                "de": "Leutensdorf",
+                "lt": "Litvynovas",
+                "ru": "Литвинов",
+                "sr": "Литвинов"
+            },
+            "place_type": 84,
+            "population": 18224,
+            "latitude": 50.6009532,
+            "longitude": 13.6110485,
+            "geocell": 5063536,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598415233,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.litvinov.cz",
+                "wikidata_page_name": "Q986082",
+                "wikipedia_pages": {
+                    "cs": "Litvínov"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598419317,
+            "country": 203,
+            "level1area": [
+                "cz42"
+            ],
+            "level2area": [
+                "cz424"
+            ],
+            "names": {
+                "cs": "Žatec",
+                "de": "Saaz",
+                "ru": "Жатец",
+                "sr": "Жатец"
+            },
+            "place_type": 84,
+            "population": 19266,
+            "latitude": 50.3274423,
+            "longitude": 13.545952,
+            "geocell": 5052735,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598419317,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.mesto-zatec.cz/",
+                "wikidata_page_name": "Q393426",
+                "wikipedia_pages": {
+                    "cs": "Žatec"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598419498,
+            "country": 203,
+            "level1area": [
+                "cz42"
+            ],
+            "level2area": [
+                "cz424"
+            ],
+            "names": {
+                "cs": "Louny",
+                "de": "Laun",
+                "ru": "Лоуни",
+                "sr": "Лоуни"
+            },
+            "place_type": 84,
+            "population": 19453,
+            "latitude": 50.3572914,
+            "longitude": 13.7969195,
+            "geocell": 5052737,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598419498,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.mulouny.cz/",
+                "wikidata_page_name": "Q616877",
+                "wikipedia_pages": {
+                    "cs": "Louny"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598422369,
+            "country": 203,
+            "level1area": [
+                "cz42"
+            ],
+            "level2area": [
+                "cz422"
+            ],
+            "names": {
+                "cs": "Kadaň",
+                "de": "Kaaden",
+                "ru": "Кадань",
+                "sr": "Кадањ"
+            },
+            "place_type": 84,
+            "population": 16975,
+            "latitude": 50.3761991,
+            "longitude": 13.2710364,
+            "geocell": 5052732,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598422369,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.mesto-kadan.cz/",
+                "wikidata_page_name": "Q158274",
+                "wikipedia_pages": {
+                    "cs": "Kadaň"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598422393,
+            "country": 203,
+            "level1area": [
+                "cz42"
+            ],
+            "level2area": [
+                "cz422"
+            ],
+            "names": {
+                "cs": "Jirkov",
+                "de": "Görkau"
+            },
+            "place_type": 84,
+            "population": 20239,
+            "latitude": 50.5000597,
+            "longitude": 13.4476266,
+            "geocell": 5059934,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598422393,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q149097",
+                "wikipedia_pages": {
+                    "cs": "Jirkov"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598422439,
+            "country": 203,
+            "level1area": [
+                "cz42"
+            ],
+            "level2area": [
+                "cz422"
+            ],
+            "names": {
+                "cs": "Chomutov",
+                "de": "Komotau",
+                "lt": "Chomutovas",
+                "ru": "Хомутов",
+                "sr": "Хомутов",
+                "uk": "Хомутов"
+            },
+            "place_type": 84,
+            "population": 46263,
+            "latitude": 50.4606456,
+            "longitude": 13.4178324,
+            "geocell": 5056334,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598422439,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.chomutov-mesto.cz",
+                "wikidata_page_name": "Q146356",
+                "wikipedia_pages": {
+                    "cs": "Chomutov"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598882966,
+            "country": 203,
+            "level1area": [
+                "cz42"
+            ],
+            "level2area": [
+                "cz421"
+            ],
+            "names": {
+                "cs": "Varnsdorf",
+                "de": "Warnsdorf",
+                "hsb": "Warnoćicy",
+                "ru": "Варнсдорф",
+                "sr": "Варнсдорф"
+            },
+            "place_type": 84,
+            "population": 15808,
+            "latitude": 50.9124244,
+            "longitude": 14.6194058,
+            "geocell": 5074346,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598882966,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.varnsdorf.cz/",
+                "wikidata_page_name": "Q158275",
+                "wikipedia_pages": {
+                    "cs": "Varnsdorf"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598883061,
+            "country": 203,
+            "level1area": [
+                "cz42"
+            ],
+            "level2area": [
+                "cz421"
+            ],
+            "names": {
+                "cs": "Rumburk",
+                "de": "Rumburg",
+                "hsb": "Rumburk",
+                "ru": "Румбурк",
+                "sr": "Румбурк"
+            },
+            "place_type": 84,
+            "population": 10193,
+            "latitude": 50.9517739,
+            "longitude": 14.5569317,
+            "geocell": 5074345,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598883061,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.rumburk.cz/",
+                "wikidata_page_name": "Q149103",
+                "wikipedia_pages": {
+                    "cs": "Rumburk"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598883617,
+            "country": 203,
+            "level1area": [
+                "cz42"
+            ],
+            "level2area": [
+                "cz421"
+            ],
+            "names": {
+                "cs": "Děčín",
+                "de": "Tetschen",
+                "hsb": "Dźěćin",
+                "lt": "Dečynas",
+                "ru": "Дечин",
+                "uk": "Дечин"
+            },
+            "place_type": 84,
+            "population": 47029,
+            "latitude": 50.7824196,
+            "longitude": 14.2147221,
+            "geocell": 5067142,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598883617,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.mmdecin.cz/",
+                "wikidata_page_name": "Q146307",
+                "wikipedia_pages": {
+                    "cs": "Děčín"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598884196,
+            "country": 203,
+            "level1area": [
+                "cz42"
+            ],
+            "level2area": [
+                "cz423"
+            ],
+            "names": {
+                "cs": "Roudnice nad Labem",
+                "de": "Raudnitz an der Elbe",
+                "pl": "Rudnice nad Łabą",
+                "ru": "Роуднице-над-Лабем",
+                "sr": "Роуднице над Лабем"
+            },
+            "place_type": 84,
+            "population": 12253,
+            "latitude": 50.4244462,
+            "longitude": 14.2603824,
+            "geocell": 5056342,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598884196,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.roudnicenl.cz/",
+                "wikidata_page_name": "Q63855",
+                "wikipedia_pages": {
+                    "cs": "Roudnice nad Labem"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598884274,
+            "country": 203,
+            "level1area": [
+                "cz42"
+            ],
+            "level2area": [
+                "cz423"
+            ],
+            "names": {
+                "cs": "Litoměřice",
+                "de": "Leitmeritz",
+                "pl": "Litomierzyce",
+                "ru": "Литомержице",
+                "sr": "Литомерице",
+                "uk": "Літомержіце"
+            },
+            "place_type": 84,
+            "population": 24879,
+            "latitude": 50.5340795,
+            "longitude": 14.1317985,
+            "geocell": 5059941,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598884274,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.litomerice.cz/",
+                "wikidata_page_name": "Q384403",
+                "wikipedia_pages": {
+                    "cs": "Litoměřice"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598911116,
+            "country": 203,
+            "level1area": [
+                "cz72"
+            ],
+            "level2area": [
+                "cz721"
+            ],
+            "names": {
+                "cs": "Kroměříž",
+                "de": "Kremsier",
+                "lt": "Kromeržyžas",
+                "pl": "Kromieryż",
+                "ru": "Кромержиж",
+                "sr": "Кромјержиж"
+            },
+            "place_type": 84,
+            "population": 26954,
+            "latitude": 49.2984191,
+            "longitude": 17.3929804,
+            "geocell": 5013173,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598911116,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q158239",
+                "wikipedia_pages": {
+                    "cs": "Kroměříž"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598911131,
+            "country": 203,
+            "level1area": [
+                "cz72"
+            ],
+            "level2area": [
+                "cz721"
+            ],
+            "names": {
+                "cs": "Holešov",
+                "de": "Holleschau",
+                "he": "העלשויא"
+            },
+            "place_type": 84,
+            "population": 10669,
+            "latitude": 49.333718,
+            "longitude": 17.5786751,
+            "geocell": 5016775,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598911131,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q961325",
+                "wikipedia_pages": {
+                    "cs": "Holešov"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598944808,
+            "country": 203,
+            "level1area": [
+                "cz72"
+            ],
+            "level2area": [
+                "cz722"
+            ],
+            "names": {
+                "cs": "Uherský Brod",
+                "de": "Ungarisch Brod"
+            },
+            "place_type": 84,
+            "population": 14597,
+            "latitude": 49.0253139,
+            "longitude": 17.6464437,
+            "geocell": 5005976,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598944808,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q664895",
+                "wikipedia_pages": {
+                    "cs": "Uherský Brod"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598960900,
+            "country": 203,
+            "level1area": [
+                "cz72"
+            ],
+            "level2area": [
+                "cz723"
+            ],
+            "names": {
+                "cs": "Vsetín",
+                "de": "Wsetin",
+                "ru": "Всетин",
+                "sr": "Всетин",
+                "uk": "Всетін"
+            },
+            "place_type": 84,
+            "population": 28785,
+            "latitude": 49.3389775,
+            "longitude": 17.9961534,
+            "geocell": 5016779,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598960900,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.vsetin.cz",
+                "wikidata_page_name": "Q513417",
+                "wikipedia_pages": {
+                    "cs": "Vsetín"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598960928,
+            "country": 203,
+            "level1area": [
+                "cz72"
+            ],
+            "level2area": [
+                "cz723"
+            ],
+            "names": {
+                "cs": "Valašské Meziříčí",
+                "de": "Walachisch Meseritsch"
+            },
+            "place_type": 84,
+            "population": 25413,
+            "latitude": 49.4716056,
+            "longitude": 17.971593,
+            "geocell": 5020379,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598960928,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q375651",
+                "wikipedia_pages": {
+                    "cs": "Valašské Meziříčí"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598960952,
+            "country": 203,
+            "level1area": [
+                "cz72"
+            ],
+            "level2area": [
+                "cz723"
+            ],
+            "names": {
+                "cs": "Rožnov pod Radhoštěm",
+                "de": "Rosenau",
+                "sr": "Рожнов под Радхоштјем"
+            },
+            "place_type": 84,
+            "population": 17845,
+            "latitude": 49.4587958,
+            "longitude": 18.1429843,
+            "geocell": 5020381,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598960952,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.roznov.cz/",
+                "wikidata_page_name": "Q1008696",
+                "wikipedia_pages": {
+                    "cs": "Rožnov pod Radhoštěm"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1598988152,
+            "country": 203,
+            "level1area": [
+                "cz72"
+            ],
+            "level2area": [
+                "cz724"
+            ],
+            "names": {
+                "ar": "زلين",
+                "be": "Злін",
+                "cs": "Zlín",
+                "de": "Zlin",
+                "el": "Ζλιν",
+                "fa": "زلین",
+                "ja": "ズリーン",
+                "ru": "Злин",
+                "uk": "Злін",
+                "ur": "زلین"
+            },
+            "place_type": 67,
+            "population": 72973,
+            "latitude": 49.226766,
+            "longitude": 17.6667415,
+            "geocell": 5013176,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1598988152,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.zlin.eu/",
+                "wikidata_page_name": "Q171018",
+                "wikipedia_pages": {
+                    "cs": "Zlín"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599034437,
+            "country": 203,
+            "level1area": [
+                "cz41"
+            ],
+            "level2area": [
+                "cz411"
+            ],
+            "names": {
+                "cs": "Mariánské Lázně",
+                "de": "Marienbad",
+                "fr": "Marienbad",
+                "he": "מריאנסקה לאזנה",
+                "pl": "Mariańskie Łaźnie",
+                "ru": "Марианске-Лазне",
+                "sr": "Маријанске Лазње",
+                "uk": "Маріанські Лазні"
+            },
+            "place_type": 84,
+            "population": 14527,
+            "latitude": 49.9739518,
+            "longitude": 12.703319,
+            "geocell": 5038327,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599034437,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.marianskelazne.cz/",
+                "wikidata_page_name": "Q523469",
+                "wikipedia_pages": {
+                    "cs": "Mariánské Lázně"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599034593,
+            "country": 203,
+            "level1area": [
+                "cz41"
+            ],
+            "level2area": [
+                "cz411"
+            ],
+            "names": {
+                "cs": "Cheb",
+                "de": "Eger",
+                "fr": "Egra",
+                "lt": "Chebas",
+                "ru": "Хеб",
+                "sr": "Хеб",
+                "uk": "Хеб"
+            },
+            "place_type": 84,
+            "population": 30420,
+            "latitude": 50.0793511,
+            "longitude": 12.3703526,
+            "geocell": 5041923,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599034593,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.mestocheb.cz",
+                "wikidata_page_name": "Q193719",
+                "wikipedia_pages": {
+                    "cs": "Cheb"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599034594,
+            "country": 203,
+            "level1area": [
+                "cz41"
+            ],
+            "level2area": [
+                "cz411"
+            ],
+            "names": {
+                "cs": "Aš",
+                "de": "Asch",
+                "ru": "Аш",
+                "sr": "Аш"
+            },
+            "place_type": 84,
+            "population": 11632,
+            "latitude": 50.2216257,
+            "longitude": 12.1895886,
+            "geocell": 5049121,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599034594,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.muas.cz",
+                "wikidata_page_name": "Q583910",
+                "wikipedia_pages": {
+                    "cs": "Aš"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599050063,
+            "country": 203,
+            "level1area": [
+                "cz41"
+            ],
+            "level2area": [
+                "cz412"
+            ],
+            "names": {
+                "cs": "Ostrov",
+                "de": "Schlackenwerth",
+                "ru": "Остров",
+                "sr": "Остров"
+            },
+            "place_type": 84,
+            "population": 16885,
+            "latitude": 50.3061911,
+            "longitude": 12.9390017,
+            "geocell": 5052729,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599050063,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.ostrov.cz",
+                "wikidata_page_name": "Q987487",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599050315,
+            "country": 203,
+            "level1area": [
+                "cz41"
+            ],
+            "level2area": [
+                "cz412"
+            ],
+            "names": {
+                "ar": "كارلوفي فاري",
+                "cs": "Karlovy Vary",
+                "de": "Karlsbad",
+                "el": "Κάρλοβυ Βάρυ",
+                "en": "Karlovy Vary",
+                "fa": "کارلووی واری",
+                "fr": "Carlsbad",
+                "he": "קרלובי וארי",
+                "lt": "Karlovi Varai",
+                "nl": "Karlsbad",
+                "pl": "Karlowe Wary",
+                "ru": "Карловы Вары",
+                "sr": "Карлове Вари",
+                "uk": "Карлові Вари",
+                "ur": "کارلووی واری"
+            },
+            "place_type": 67,
+            "population": 49353,
+            "latitude": 50.2306216,
+            "longitude": 12.8701437,
+            "geocell": 5049128,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599050315,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.karlovyvary.cz/",
+                "wikidata_page_name": "Q384544",
+                "wikipedia_pages": {
+                    "cs": "Karlovy Vary"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599059049,
+            "country": 203,
+            "level1area": [
+                "cz41"
+            ],
+            "level2area": [
+                "cz413"
+            ],
+            "names": {
+                "cs": "Sokolov",
+                "ru": "Соколов",
+                "sr": "Соколов",
+                "uk": "Соколов"
+            },
+            "place_type": 84,
+            "population": 24916,
+            "latitude": 50.1809097,
+            "longitude": 12.6394986,
+            "geocell": 5045526,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599059049,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.sokolov.cz/",
+                "wikidata_page_name": "Q727383",
+                "wikipedia_pages": {
+                    "cs": "Sokolov"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599059251,
+            "country": 203,
+            "level1area": [
+                "cz41"
+            ],
+            "level2area": [
+                "cz413"
+            ],
+            "names": {
+                "cs": "Chodov",
+                "de": "Chodau",
+                "ru": "Ходов",
+                "sr": "Ходов"
+            },
+            "place_type": 84,
+            "population": 14485,
+            "latitude": 50.2390665,
+            "longitude": 12.7489079,
+            "geocell": 5049127,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599059251,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.mestochodov.cz/",
+                "wikidata_page_name": "Q999937",
+                "wikipedia_pages": {
+                    "cs": "Chodov (okres Sokolov)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599120629,
+            "country": 203,
+            "level1area": [
+                "cz31"
+            ],
+            "level2area": [
+                "cz311"
+            ],
+            "names": {
+                "ar": "تشيسكي بوديوفيتسه",
+                "bg": "Ческе Будейовице",
+                "cs": "České Budějovice",
+                "de": "Budweis",
+                "el": "Τσέσκε Μπουντεγιόβιτσε",
+                "en": "České Budějovice",
+                "fa": "چسکه بودیوویتسه",
+                "ja": "チェスケー・ブジェヨヴィツェ",
+                "lt": "Česke Budejovicai",
+                "pl": "Czeskie Budziejowice",
+                "ru": "Ческе-Будеёвице",
+                "sr": "Чешке Будјејовице",
+                "ur": "چسکے بودییوویتسے"
+            },
+            "place_type": 67,
+            "population": 93426,
+            "latitude": 48.9747357,
+            "longitude": 14.474285,
+            "geocell": 5002344,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599120629,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "37001"
+                ],
+                "website": "https://www.c-budejovice.cz/",
+                "wikidata_page_name": "Q16506",
+                "wikipedia_pages": {
+                    "cs": "České Budějovice"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599136536,
+            "country": 203,
+            "level1area": [
+                "cz31"
+            ],
+            "level2area": [
+                "cz312"
+            ],
+            "names": {
+                "cs": "Český Krumlov",
+                "de": "Krumau",
+                "ru": "Чески-Крумлов",
+                "sr": "Чешки Крумлов"
+            },
+            "place_type": 84,
+            "population": 13028,
+            "latitude": 48.8106526,
+            "longitude": 14.3150586,
+            "geocell": 4998743,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599136536,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.mu.ckrumlov.cz",
+                "wikidata_page_name": "Q188082",
+                "wikipedia_pages": {
+                    "cs": "Český Krumlov"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599164680,
+            "country": 203,
+            "level1area": [
+                "cz31"
+            ],
+            "level2area": [
+                "cz313"
+            ],
+            "names": {
+                "cs": "Jindřichův Hradec",
+                "de": "Neuhaus",
+                "pl": "Jindrzychów Gródek",
+                "ru": "Йиндржихув-Градец",
+                "sr": "Јиндрихув Храдец"
+            },
+            "place_type": 84,
+            "population": 21460,
+            "latitude": 49.1443265,
+            "longitude": 15.003354,
+            "geocell": 5009550,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599164680,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.jh.cz/",
+                "wikidata_page_name": "Q368929",
+                "wikipedia_pages": {
+                    "cs": "Jindřichův Hradec"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599176364,
+            "country": 203,
+            "level1area": [
+                "cz31"
+            ],
+            "level2area": [
+                "cz314"
+            ],
+            "names": {
+                "cs": "Písek",
+                "de": "Pisek",
+                "lt": "Pysekas",
+                "ru": "Писек",
+                "sr": "Писек",
+                "uk": "Пісек"
+            },
+            "place_type": 84,
+            "population": 29814,
+            "latitude": 49.3089887,
+            "longitude": 14.147769,
+            "geocell": 5016741,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599176364,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.icpisek.cz",
+                "wikidata_page_name": "Q158245",
+                "wikipedia_pages": {
+                    "cs": "Písek (město)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599209722,
+            "country": 203,
+            "level1area": [
+                "cz31"
+            ],
+            "level2area": [
+                "cz315"
+            ],
+            "names": {
+                "cs": "Prachatice",
+                "de": "Prachatitz",
+                "ru": "Прахатице",
+                "sr": "Прахатице"
+            },
+            "place_type": 84,
+            "population": 10917,
+            "latitude": 49.0129091,
+            "longitude": 13.997772,
+            "geocell": 5005939,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599209722,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.prachatice.cz",
+                "wikidata_page_name": "Q327764",
+                "wikipedia_pages": {
+                    "cs": "Prachatice"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599235656,
+            "country": 203,
+            "level1area": [
+                "cz31"
+            ],
+            "level2area": [
+                "cz316"
+            ],
+            "names": {
+                "cs": "Strakonice",
+                "de": "Strakonitz",
+                "ru": "Страконице",
+                "sr": "Страконице",
+                "uk": "Страконице"
+            },
+            "place_type": 84,
+            "population": 22888,
+            "latitude": 49.261277,
+            "longitude": 13.9025043,
+            "geocell": 5013139,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599235656,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.strakonice.eu/",
+                "wikidata_page_name": "Q750224",
+                "wikipedia_pages": {
+                    "cs": "Strakonice"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599258006,
+            "country": 203,
+            "level1area": [
+                "cz31"
+            ],
+            "level2area": [
+                "cz317"
+            ],
+            "names": {
+                "cs": "Tábor",
+                "de": "Tabor",
+                "lt": "Taboras",
+                "pl": "Tabor",
+                "ru": "Табор",
+                "sr": "Табор",
+                "uk": "Табор"
+            },
+            "place_type": 84,
+            "population": 33410,
+            "latitude": 49.4141533,
+            "longitude": 14.6587234,
+            "geocell": 5020346,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599258006,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.taborcz.eu",
+                "wikidata_page_name": "Q193721",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599276425,
+            "country": 203,
+            "level1area": [
+                "cz71"
+            ],
+            "level2area": [
+                "cz711"
+            ],
+            "names": {
+                "cs": "Jeseník",
+                "lt": "Jesenykas",
+                "pl": "Jesionik",
+                "ru": "Есеник",
+                "sr": "Јесеник",
+                "uk": "Єсенік"
+            },
+            "place_type": 84,
+            "population": 10838,
+            "latitude": 50.2296385,
+            "longitude": 17.2046012,
+            "geocell": 5049172,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599276425,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.jesenik.org/",
+                "wikidata_page_name": "Q954611",
+                "wikipedia_pages": {
+                    "cs": "Jeseník"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599305387,
+            "country": 203,
+            "level1area": [
+                "cz71"
+            ],
+            "level2area": [
+                "cz712"
+            ],
+            "names": {
+                "cs": "Šternberk",
+                "de": "Sternberg",
+                "pl": "Szternberk",
+                "sr": "Штернберк"
+            },
+            "place_type": 84,
+            "population": 13579,
+            "latitude": 49.730712,
+            "longitude": 17.2988474,
+            "geocell": 5031172,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599305387,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.sternberk.eu/",
+                "wikidata_page_name": "Q392429",
+                "wikipedia_pages": {
+                    "cs": "Šternberk"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599305492,
+            "country": 203,
+            "level1area": [
+                "cz71"
+            ],
+            "level2area": [
+                "cz712"
+            ],
+            "names": {
+                "cs": "Uničov",
+                "de": "Mährisch-Neustadt"
+            },
+            "place_type": 84,
+            "population": 11077,
+            "latitude": 49.7711837,
+            "longitude": 17.1213944,
+            "geocell": 5031171,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599305492,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q682361",
+                "wikipedia_pages": {
+                    "cs": "Uničov"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599305717,
+            "country": 203,
+            "level1area": [
+                "cz71"
+            ],
+            "level2area": [
+                "cz712"
+            ],
+            "names": {
+                "ar": "أولوموتس",
+                "cs": "Olomouc",
+                "de": "Olmütz",
+                "el": "Όλομουτς",
+                "fa": "اولوموتس",
+                "hu": "Alamóc",
+                "ko": "올로모우츠",
+                "lt": "Olomoucas",
+                "pl": "Ołomuniec",
+                "ru": "Оломоуц",
+                "sr": "Оломоуц",
+                "uk": "Оломоуц",
+                "ur": "اولوموتس"
+            },
+            "place_type": 67,
+            "population": 99496,
+            "latitude": 49.5940567,
+            "longitude": 17.251143,
+            "geocell": 5023972,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599305717,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.olomouc.eu/",
+                "wikidata_page_name": "Q81137",
+                "wikipedia_pages": {
+                    "cs": "Olomouc"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599347527,
+            "country": 203,
+            "level1area": [
+                "cz71"
+            ],
+            "level2area": [
+                "cz713"
+            ],
+            "names": {
+                "cs": "Prostějov",
+                "de": "Proßnitz in Mähren",
+                "he": "פרוסטיוב",
+                "lt": "Prostejovas",
+                "pl": "Prościejów",
+                "ru": "Простеёв",
+                "sr": "Простјејов",
+                "uk": "Простейов"
+            },
+            "place_type": 84,
+            "population": 43055,
+            "latitude": 49.4721467,
+            "longitude": 17.1117979,
+            "geocell": 5020371,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599347527,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.mestopv.cz/",
+                "wikidata_page_name": "Q470445",
+                "wikipedia_pages": {
+                    "cs": "Prostějov"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599377065,
+            "country": 203,
+            "level1area": [
+                "cz71"
+            ],
+            "level2area": [
+                "cz714"
+            ],
+            "names": {
+                "cs": "Přerov",
+                "de": "Prerau",
+                "pl": "Przerów",
+                "ru": "Пршеров",
+                "sr": "Преров",
+                "uk": "Пршеров"
+            },
+            "place_type": 84,
+            "population": 41404,
+            "latitude": 49.4553775,
+            "longitude": 17.4508621,
+            "geocell": 5020374,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599377065,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.mu-prerov.cz",
+                "wikidata_page_name": "Q470380",
+                "wikipedia_pages": {
+                    "cs": "Přerov"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599377381,
+            "country": 203,
+            "level1area": [
+                "cz71"
+            ],
+            "level2area": [
+                "cz714"
+            ],
+            "names": {
+                "cs": "Hranice",
+                "de": "Mährisch Weißkirchen"
+            },
+            "place_type": 84,
+            "population": 17125,
+            "latitude": 49.5481764,
+            "longitude": 17.7347407,
+            "geocell": 5023977,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599377381,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q638306",
+                "wikipedia_pages": {
+                    "cs": "Hranice (okres Přerov)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599401190,
+            "country": 203,
+            "level1area": [
+                "cz71"
+            ],
+            "level2area": [
+                "cz715"
+            ],
+            "names": {
+                "cs": "Šumperk",
+                "pl": "Szumperk",
+                "ru": "Шумперк",
+                "sr": "Шумперк"
+            },
+            "place_type": 84,
+            "population": 29490,
+            "latitude": 49.9655521,
+            "longitude": 16.9705651,
+            "geocell": 5038369,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599401190,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.sumperk.cz/",
+                "wikidata_page_name": "Q392692",
+                "wikipedia_pages": {
+                    "cs": "Šumperk"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599401227,
+            "country": 203,
+            "level1area": [
+                "cz71"
+            ],
+            "level2area": [
+                "cz715"
+            ],
+            "names": {
+                "cs": "Zábřeh",
+                "sr": "Забрех"
+            },
+            "place_type": 84,
+            "population": 14043,
+            "latitude": 49.88287,
+            "longitude": 16.8721836,
+            "geocell": 5034768,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599401227,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.muzabreh.cz",
+                "wikidata_page_name": "Q246634",
+                "wikipedia_pages": {
+                    "cs": "Zábřeh"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599437736,
+            "country": 203,
+            "level1area": [
+                "cz32"
+            ],
+            "level2area": [
+                "cz321"
+            ],
+            "names": {
+                "cs": "Domažlice",
+                "de": "Taus",
+                "ru": "Домажлице",
+                "sr": "Домажлице"
+            },
+            "place_type": 84,
+            "population": 10897,
+            "latitude": 49.4407069,
+            "longitude": 12.9298338,
+            "geocell": 5020329,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599437736,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.domazlice.info",
+                "wikidata_page_name": "Q986068",
+                "wikipedia_pages": {
+                    "cs": "Domažlice"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599445975,
+            "country": 203,
+            "level1area": [
+                "cz32"
+            ],
+            "level2area": [
+                "cz322"
+            ],
+            "names": {
+                "cs": "Sušice",
+                "de": "Schüttenhofen",
+                "pl": "Suszyca",
+                "ru": "Сушице",
+                "sr": "Сушице"
+            },
+            "place_type": 84,
+            "population": 11146,
+            "latitude": 49.2313907,
+            "longitude": 13.5204076,
+            "geocell": 5013135,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599445975,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.sumavanet.cz/susice",
+                "wikidata_page_name": "Q1000056",
+                "wikipedia_pages": {
+                    "cs": "Sušice"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599446262,
+            "country": 203,
+            "level1area": [
+                "cz32"
+            ],
+            "level2area": [
+                "cz322"
+            ],
+            "names": {
+                "cs": "Klatovy",
+                "de": "Klattau",
+                "ru": "Клатови",
+                "sr": "Клатови"
+            },
+            "place_type": 84,
+            "population": 22288,
+            "latitude": 49.3951183,
+            "longitude": 13.2935954,
+            "geocell": 5016732,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599446262,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.klatovy.cz",
+                "wikidata_page_name": "Q602976",
+                "wikipedia_pages": {
+                    "cs": "Klatovy"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599471414,
+            "country": 203,
+            "level1area": [
+                "cz32"
+            ],
+            "level2area": [
+                "cz326"
+            ],
+            "names": {
+                "cs": "Rokycany",
+                "de": "Rokitzan",
+                "ru": "Рокицани"
+            },
+            "place_type": 84,
+            "population": 14074,
+            "latitude": 49.7428813,
+            "longitude": 13.594778,
+            "geocell": 5031135,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599471414,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q986072",
+                "wikipedia_pages": {
+                    "cs": "Rokycany"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599474217,
+            "country": 203,
+            "level1area": [
+                "cz32"
+            ],
+            "level2area": [
+                "cz327"
+            ],
+            "names": {
+                "cs": "Tachov",
+                "de": "Tachau",
+                "el": "Τάχοφ",
+                "lt": "Tachovas",
+                "ru": "Тахов",
+                "sr": "Тахов",
+                "uk": "Тахов"
+            },
+            "place_type": 84,
+            "population": 12156,
+            "latitude": 49.7955449,
+            "longitude": 12.6329861,
+            "geocell": 5031126,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599474217,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.tachov-mesto.cz/",
+                "wikidata_page_name": "Q191097",
+                "wikipedia_pages": {
+                    "cs": "Tachov"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1600656034,
+            "country": 203,
+            "level1area": [
+                "cz20"
+            ],
+            "level2area": [
+                "cz201"
+            ],
+            "names": {
+                "cs": "Vlašim",
+                "de": "Wlaschim",
+                "ru": "Влашим",
+                "sr": "Влашим"
+            },
+            "place_type": 84,
+            "population": 11594,
+            "latitude": 49.7065924,
+            "longitude": 14.8987513,
+            "geocell": 5031148,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1600656034,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.mesto-vlasim.cz/",
+                "wikidata_page_name": "Q1000101",
+                "wikipedia_pages": {
+                    "cs": "Vlašim"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1600657508,
+            "country": 203,
+            "level1area": [
+                "cz20"
+            ],
+            "level2area": [
+                "cz201"
+            ],
+            "names": {
+                "cs": "Benešov",
+                "de": "Beneschau",
+                "lt": "Benešovas",
+                "ru": "Бенешов",
+                "sr": "Бенешов",
+                "uk": "Бенешов"
+            },
+            "place_type": 84,
+            "population": 16522,
+            "latitude": 49.7818921,
+            "longitude": 14.6869121,
+            "geocell": 5031146,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1600657508,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.benesov-city.cz",
+                "wikidata_page_name": "Q470394",
+                "wikipedia_pages": {
+                    "cs": "Benešov"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1600666022,
+            "country": 203,
+            "level1area": [
+                "cz20"
+            ],
+            "level2area": [
+                "cz202"
+            ],
+            "names": {
+                "cs": "Beroun",
+                "de": "Beraun",
+                "ru": "Бероун",
+                "sr": "Бероун"
+            },
+            "place_type": 84,
+            "population": 19439,
+            "latitude": 49.9640292,
+            "longitude": 14.0733907,
+            "geocell": 5038340,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1600666022,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.mesto-beroun.cz/",
+                "wikidata_page_name": "Q827041",
+                "wikipedia_pages": {
+                    "cs": "Beroun"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1600669255,
+            "country": 203,
+            "level1area": [
+                "cz20"
+            ],
+            "level2area": [
+                "cz203"
+            ],
+            "names": {
+                "cs": "Slaný",
+                "de": "Schlan"
+            },
+            "place_type": 84,
+            "population": 15613,
+            "latitude": 50.2306933,
+            "longitude": 14.0868501,
+            "geocell": 5049140,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1600669255,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1013909",
+                "wikipedia_pages": {
+                    "cs": "Slaný"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1600669349,
+            "country": 203,
+            "level1area": [
+                "cz20"
+            ],
+            "level2area": [
+                "cz203"
+            ],
+            "names": {
+                "cs": "Kladno",
+                "de": "Kladen",
+                "lt": "Kladnas",
+                "ru": "Кладно",
+                "sr": "Кладно",
+                "uk": "Кладно"
+            },
+            "place_type": 84,
+            "population": 66903,
+            "latitude": 50.1478497,
+            "longitude": 14.1025379,
+            "geocell": 5045541,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1600669349,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.mestokladno.cz",
+                "wikidata_page_name": "Q155993",
+                "wikipedia_pages": {
+                    "cs": "Kladno"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1600675617,
+            "country": 203,
+            "level1area": [
+                "cz20"
+            ],
+            "level2area": [
+                "cz204"
+            ],
+            "names": {
+                "ar": "كولين",
+                "cs": "Kolín",
+                "de": "Kolin",
+                "lt": "Kolynas",
+                "ru": "Колин",
+                "sr": "Колин"
+            },
+            "place_type": 84,
+            "population": 32046,
+            "latitude": 50.0288894,
+            "longitude": 15.2011571,
+            "geocell": 5041952,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1600675617,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.mukolin.cz",
+                "wikidata_page_name": "Q470369",
+                "wikipedia_pages": {
+                    "cs": "Kolín"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1600680539,
+            "country": 203,
+            "level1area": [
+                "cz20"
+            ],
+            "level2area": [
+                "cz205"
+            ],
+            "names": {
+                "cs": "Čáslav",
+                "de": "Tschaslau"
+            },
+            "place_type": 84,
+            "population": 10397,
+            "latitude": 49.9109171,
+            "longitude": 15.3913205,
+            "geocell": 5038353,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1600680539,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q341777",
+                "wikipedia_pages": {
+                    "cs": "Čáslav"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1600680841,
+            "country": 203,
+            "level1area": [
+                "cz20"
+            ],
+            "level2area": [
+                "cz205"
+            ],
+            "names": {
+                "cs": "Kutná Hora",
+                "de": "Kuttenberg",
+                "he": "קוטנה הורה",
+                "lt": "Kutna Hora",
+                "ru": "Кутна-Гора",
+                "sr": "Кутна Хора",
+                "uk": "Кутна Гора"
+            },
+            "place_type": 84,
+            "population": 20536,
+            "latitude": 49.9486561,
+            "longitude": 15.2681123,
+            "geocell": 5038352,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1600680841,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.kutnahora.cz/",
+                "wikidata_page_name": "Q155975",
+                "wikipedia_pages": {
+                    "cs": "Kutná Hora"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1600879737,
+            "country": 203,
+            "level1area": [
+                "cz20"
+            ],
+            "level2area": [
+                "cz206"
+            ],
+            "names": {
+                "cs": "Mělník",
+                "de": "Melnik",
+                "pl": "Mielnik",
+                "ru": "Мельник",
+                "sr": "Мелник"
+            },
+            "place_type": 84,
+            "population": 20350,
+            "latitude": 50.3520785,
+            "longitude": 14.4748281,
+            "geocell": 5052744,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1600879737,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.melnik.info",
+                "wikidata_page_name": "Q320939",
+                "wikipedia_pages": {
+                    "cs": "Mělník"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1600879849,
+            "country": 203,
+            "level1area": [
+                "cz20"
+            ],
+            "level2area": [
+                "cz206"
+            ],
+            "names": {
+                "cs": "Kralupy nad Vltavou",
+                "de": "Kralup an der Moldau",
+                "pl": "Kralupy nad Wełtawą",
+                "ru": "Кралупи-над-Влтавой",
+                "sr": "Кралупи на Влтави",
+                "uk": "Кралупи-на-Влтаві"
+            },
+            "place_type": 84,
+            "population": 18100,
+            "latitude": 50.2421243,
+            "longitude": 14.3118883,
+            "geocell": 5049143,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1600879849,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.mestokralupy.cz/",
+                "wikidata_page_name": "Q987496",
+                "wikipedia_pages": {
+                    "cs": "Kralupy nad Vltavou"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601122321,
+            "country": 203,
+            "level1area": [
+                "cz20"
+            ],
+            "level2area": [
+                "cz207"
+            ],
+            "names": {
+                "cs": "Mladá Boleslav",
+                "de": "Jungbunzlau",
+                "lt": "Mlada Boleslavas",
+                "ru": "Млада-Болеслав",
+                "sr": "Млада Болеслав",
+                "uk": "Млада-Болеслав"
+            },
+            "place_type": 84,
+            "population": 41868,
+            "latitude": 50.4116187,
+            "longitude": 14.9031301,
+            "geocell": 5056349,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601122321,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.mb-net.cz",
+                "wikidata_page_name": "Q191805",
+                "wikipedia_pages": {
+                    "cs": "Mladá Boleslav"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601148511,
+            "country": 203,
+            "level1area": [
+                "cz20"
+            ],
+            "level2area": [
+                "cz208"
+            ],
+            "names": {
+                "cs": "Poděbrady",
+                "de": "Podiebrad",
+                "lt": "Podebradai",
+                "pl": "Podiebrady",
+                "ru": "Подебрады",
+                "sr": "Подјебради",
+                "uk": "Подєбради"
+            },
+            "place_type": 84,
+            "population": 14142,
+            "latitude": 50.1430072,
+            "longitude": 15.1191453,
+            "geocell": 5045551,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601148511,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.mesto-podebrady.cz",
+                "wikidata_page_name": "Q683165",
+                "wikipedia_pages": {
+                    "cs": "Poděbrady"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601148540,
+            "country": 203,
+            "level1area": [
+                "cz20"
+            ],
+            "level2area": [
+                "cz208"
+            ],
+            "names": {
+                "cs": "Nymburk",
+                "de": "Nimburg",
+                "ru": "Нимбурк",
+                "sr": "Нимбурк"
+            },
+            "place_type": 84,
+            "population": 13965,
+            "latitude": 50.186331,
+            "longitude": 15.0417306,
+            "geocell": 5045550,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601148540,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.mesto-nymburk.cz",
+                "wikidata_page_name": "Q430864",
+                "wikipedia_pages": {
+                    "cs": "Nymburk"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601194895,
+            "country": 203,
+            "level1area": [
+                "cz20"
+            ],
+            "level2area": [
+                "cz209"
+            ],
+            "names": {
+                "cs": "Čelákovice",
+                "de": "Czelakowitz",
+                "ru": "Челаковице",
+                "sr": "Челаковице"
+            },
+            "place_type": 84,
+            "population": 12273,
+            "latitude": 50.1607829,
+            "longitude": 14.7500022,
+            "geocell": 5045547,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601194895,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.celakovice.cz/",
+                "wikidata_page_name": "Q338616",
+                "wikipedia_pages": {
+                    "cs": "Čelákovice"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601196683,
+            "country": 203,
+            "level1area": [
+                "cz20"
+            ],
+            "level2area": [
+                "cz209"
+            ],
+            "names": {
+                "cs": "Brandýs nad Labem-Stará Boleslav",
+                "de": "Brandeis an der Elbe-Altbunzlau",
+                "ru": "Брандис-над-Лабем-Стара-Болеслав",
+                "sr": "Брандис на Лаби-Стара Болеслав",
+                "uk": "Брандіс-над-Лабем-Стара-Болеслав"
+            },
+            "place_type": 84,
+            "population": 15227,
+            "latitude": 50.1912412,
+            "longitude": 14.6649786,
+            "geocell": 5045546,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601196683,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.brandysko.cz/",
+                "wikidata_page_name": "Q898468",
+                "wikipedia_pages": {
+                    "cs": "Brandýs nad Labem-Stará Boleslav"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601287903,
+            "country": 203,
+            "level1area": [
+                "cz20"
+            ],
+            "level2area": [
+                "cz20b"
+            ],
+            "names": {
+                "cs": "Příbram",
+                "de": "Pribram",
+                "lt": "Pršybramas",
+                "pl": "Przybram",
+                "ru": "Пршибрам",
+                "sr": "Прибрам",
+                "uk": "Пршибрам"
+            },
+            "place_type": 84,
+            "population": 31651,
+            "latitude": 49.6901444,
+            "longitude": 14.0103663,
+            "geocell": 5027540,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601287903,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.pribram-city.cz",
+                "wikidata_page_name": "Q841296",
+                "wikipedia_pages": {
+                    "cs": "Příbram"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601330967,
+            "country": 203,
+            "level1area": [
+                "cz20"
+            ],
+            "level2area": [
+                "cz20c"
+            ],
+            "names": {
+                "cs": "Rakovník",
+                "de": "Rakonitz",
+                "lt": "Rakovnykas",
+                "ru": "Раковник",
+                "sr": "Раковник"
+            },
+            "place_type": 84,
+            "population": 16695,
+            "latitude": 50.1041136,
+            "longitude": 13.7310462,
+            "geocell": 5045537,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601330967,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.mesto-rakovnik.cz/",
+                "wikidata_page_name": "Q985465",
+                "wikipedia_pages": {
+                    "cs": "Rakovník"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601394207,
+            "country": 203,
+            "level1area": [
+                "cz80"
+            ],
+            "level2area": [
+                "cz801"
+            ],
+            "names": {
+                "cs": "Krnov",
+                "pl": "Karniów",
+                "ru": "Крнов",
+                "sr": "Крнов",
+                "uk": "Крнов"
+            },
+            "place_type": 84,
+            "population": 25211,
+            "latitude": 50.089894,
+            "longitude": 17.7040842,
+            "geocell": 5041977,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601394207,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.krnov.cz",
+                "wikidata_page_name": "Q1789604",
+                "wikipedia_pages": {
+                    "cs": "Krnov"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601394326,
+            "country": 203,
+            "level1area": [
+                "cz80"
+            ],
+            "level2area": [
+                "cz801"
+            ],
+            "names": {
+                "cs": "Bruntál",
+                "pl": "Bruntal",
+                "ru": "Брунталь",
+                "sr": "Брунтал"
+            },
+            "place_type": 84,
+            "population": 17453,
+            "latitude": 49.9885113,
+            "longitude": 17.4652901,
+            "geocell": 5038374,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601394326,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.mubruntal.cz",
+                "wikidata_page_name": "Q994280",
+                "wikipedia_pages": {
+                    "cs": "Bruntál"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601416166,
+            "country": 203,
+            "level1area": [
+                "cz80"
+            ],
+            "level2area": [
+                "cz802"
+            ],
+            "names": {
+                "cs": "Frýdek-Místek",
+                "de": "Friedeck-Mistek",
+                "lt": "Frydek Mystekas",
+                "pl": "Frydek-Mistek",
+                "ru": "Фридек-Мистек",
+                "sr": "Фридек-Мистек",
+                "uk": "Фрідек-Містек"
+            },
+            "place_type": 84,
+            "population": 53899,
+            "latitude": 49.685635,
+            "longitude": 18.3483416,
+            "geocell": 5027583,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601416166,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.frydek-mistek.cz",
+                "wikidata_page_name": "Q48194",
+                "wikipedia_pages": {
+                    "cs": "Frýdek-Místek"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601422775,
+            "country": 203,
+            "level1area": [
+                "cz80"
+            ],
+            "level2area": [
+                "cz803"
+            ],
+            "names": {
+                "cs": "Český Těšín",
+                "de": "Tschechisch Teschen",
+                "pl": "Czeski Cieszyn",
+                "ru": "Чески-Тешин",
+                "sk": "Český Tešín",
+                "sr": "Чешки Тјешин"
+            },
+            "place_type": 84,
+            "population": 22347,
+            "latitude": 49.7464018,
+            "longitude": 18.6260976,
+            "geocell": 5031186,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601422775,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.tesin.cz/",
+                "wikidata_page_name": "Q278877",
+                "wikipedia_pages": {
+                    "cs": "Český Těšín"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601422844,
+            "country": 203,
+            "level1area": [
+                "cz80"
+            ],
+            "level2area": [
+                "cz803"
+            ],
+            "names": {
+                "cs": "Orlová",
+                "de": "Orlau",
+                "pl": "Orłowa"
+            },
+            "place_type": 84,
+            "population": 28206,
+            "latitude": 49.8459427,
+            "longitude": 18.4309274,
+            "geocell": 5034784,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601422844,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q386026",
+                "wikipedia_pages": {
+                    "cs": "Orlová"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601422907,
+            "country": 203,
+            "level1area": [
+                "cz80"
+            ],
+            "level2area": [
+                "cz803"
+            ],
+            "names": {
+                "cs": "Karviná",
+                "de": "Karwin",
+                "lt": "Karvina",
+                "pl": "Karwina",
+                "ru": "Карвина",
+                "sr": "Карвина",
+                "uk": "Карвіна"
+            },
+            "place_type": 84,
+            "population": 49881,
+            "latitude": 49.8542719,
+            "longitude": 18.5416556,
+            "geocell": 5034785,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601422907,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.karvina.cz",
+                "wikidata_page_name": "Q191793",
+                "wikipedia_pages": {
+                    "cs": "Karviná"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601422954,
+            "country": 203,
+            "level1area": [
+                "cz80"
+            ],
+            "level2area": [
+                "cz803"
+            ],
+            "names": {
+                "cs": "Havířov",
+                "de": "Hawirzow",
+                "lt": "Haviržovas",
+                "pl": "Hawierzów",
+                "ru": "Гавиржов",
+                "sr": "Хавиржов",
+                "uk": "Гавіржов"
+            },
+            "place_type": 84,
+            "population": 69084,
+            "latitude": 49.7801136,
+            "longitude": 18.4368451,
+            "geocell": 5031184,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601422954,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.havirov-city.cz/",
+                "wikidata_page_name": "Q192904",
+                "wikipedia_pages": {
+                    "cs": "Havířov"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601423016,
+            "country": 203,
+            "level1area": [
+                "cz80"
+            ],
+            "level2area": [
+                "cz803"
+            ],
+            "names": {
+                "cs": "Bohumín",
+                "de": "Oderberg",
+                "pl": "Bogumin",
+                "ru": "Богумин",
+                "sr": "Бохумин"
+            },
+            "place_type": 84,
+            "population": 18914,
+            "latitude": 49.9041537,
+            "longitude": 18.3574288,
+            "geocell": 5038383,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601423016,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.mesto-bohumin.cz/",
+                "wikidata_page_name": "Q890949",
+                "wikipedia_pages": {
+                    "cs": "Bohumín"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601461194,
+            "country": 203,
+            "level1area": [
+                "cz80"
+            ],
+            "level2area": [
+                "cz804"
+            ],
+            "names": {
+                "cs": "Nový Jičín",
+                "de": "Neutitschein",
+                "pl": "Nowy Jiczyn",
+                "ru": "Нови-Йичин",
+                "sr": "Нови Јичин"
+            },
+            "place_type": 84,
+            "population": 20644,
+            "latitude": 49.594881,
+            "longitude": 18.0102584,
+            "geocell": 5023980,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601461194,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.novy-jicin.cz/",
+                "wikidata_page_name": "Q3584",
+                "wikipedia_pages": {
+                    "cs": "Nový Jičín"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601461325,
+            "country": 203,
+            "level1area": [
+                "cz80"
+            ],
+            "level2area": [
+                "cz804"
+            ],
+            "names": {
+                "cs": "Kopřivnice",
+                "de": "Nesselsdorf",
+                "pl": "Koprzywnica",
+                "ru": "Копршивнице",
+                "sr": "Копривнице",
+                "uk": "Копрівніце"
+            },
+            "place_type": 84,
+            "population": 21160,
+            "latitude": 49.598913,
+            "longitude": 18.1452134,
+            "geocell": 5023981,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601461325,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.koprivnice.cz/",
+                "wikidata_page_name": "Q849439",
+                "wikipedia_pages": {
+                    "cs": "Kopřivnice"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601461460,
+            "country": 203,
+            "level1area": [
+                "cz80"
+            ],
+            "level2area": [
+                "cz804"
+            ],
+            "names": {
+                "cs": "Frenštát pod Radhoštěm",
+                "de": "Frankstadt unter dem Radhoscht",
+                "pl": "Frensztat pod Radhoszczem",
+                "sr": "Френштат под Радхоштјем"
+            },
+            "place_type": 84,
+            "population": 10850,
+            "latitude": 49.5474224,
+            "longitude": 18.2117067,
+            "geocell": 5023982,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601461460,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.frenstat.info/",
+                "wikidata_page_name": "Q668695",
+                "wikipedia_pages": {
+                    "cs": "Frenštát pod Radhoštěm"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601511326,
+            "country": 203,
+            "level1area": [
+                "cz80"
+            ],
+            "level2area": [
+                "cz805"
+            ],
+            "names": {
+                "cs": "Opava",
+                "de": "Troppau",
+                "lt": "Opava",
+                "pl": "Opawa",
+                "ru": "Опава",
+                "sr": "Опава",
+                "uk": "Опава"
+            },
+            "place_type": 84,
+            "population": 54840,
+            "latitude": 49.9389004,
+            "longitude": 17.9024174,
+            "geocell": 5038379,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601511326,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.opava-city.cz/",
+                "wikidata_page_name": "Q156080",
+                "wikipedia_pages": {
+                    "cs": "Opava"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601511476,
+            "country": 203,
+            "level1area": [
+                "cz80"
+            ],
+            "level2area": [
+                "cz805"
+            ],
+            "names": {
+                "cs": "Hlučín",
+                "de": "Hultschin",
+                "pl": "Hulczyn",
+                "ru": "Глучин",
+                "sr": "Хлучин"
+            },
+            "place_type": 84,
+            "population": 13988,
+            "latitude": 49.896755,
+            "longitude": 18.1870424,
+            "geocell": 5034781,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601511476,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.hlucin.cz/",
+                "wikidata_page_name": "Q158257",
+                "wikipedia_pages": {
+                    "cs": "Hlučín"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601523251,
+            "country": 203,
+            "level1area": [
+                "cz80"
+            ],
+            "level2area": [
+                "cz806"
+            ],
+            "names": {
+                "ar": "أوسترافا",
+                "cs": "Ostrava",
+                "de": "Ostrau",
+                "el": "Οστράβα",
+                "fa": "استراوا",
+                "pl": "Ostrawa",
+                "ru": "Острава",
+                "sr": "Острава",
+                "uk": "Острава",
+                "ur": "اوستراوا"
+            },
+            "place_type": 67,
+            "population": 279791,
+            "latitude": 49.8349139,
+            "longitude": 18.2820084,
+            "geocell": 5034782,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601523251,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "http://www.ostrava.cz",
+                "wikidata_page_name": "Q8385",
+                "wikipedia_pages": {
+                    "cs": "Ostrava"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601563355,
+            "country": 203,
+            "level1area": [
+                "cz64"
+            ],
+            "level2area": [
+                "cz641"
+            ],
+            "names": {
+                "cs": "Boskovice",
+                "de": "Boskowitz",
+                "ru": "Босковице",
+                "sr": "Босковице"
+            },
+            "place_type": 84,
+            "population": 10679,
+            "latitude": 49.4877983,
+            "longitude": 16.66016,
+            "geocell": 5020366,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601563355,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.boskovice.cz/",
+                "wikidata_page_name": "Q894440",
+                "wikipedia_pages": {
+                    "cs": "Boskovice"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601563389,
+            "country": 203,
+            "level1area": [
+                "cz64"
+            ],
+            "level2area": [
+                "cz641"
+            ],
+            "names": {
+                "cs": "Blansko",
+                "de": "Blanz",
+                "ru": "Бланско",
+                "sr": "Бланско"
+            },
+            "place_type": 84,
+            "population": 17920,
+            "latitude": 49.3636494,
+            "longitude": 16.6442394,
+            "geocell": 5016766,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601563389,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "email": "epodatelna@blansko.cz",
+                "phone": "+420 516 775 111",
+                "website": "https://www.blansko.cz/",
+                "wikidata_page_name": "Q850676",
+                "wikipedia_pages": {
+                    "cs": "Blansko"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601566699,
+            "country": 203,
+            "level1area": [
+                "cz64"
+            ],
+            "level2area": [
+                "cz642"
+            ],
+            "names": {
+                "ar": "برنو",
+                "cs": "Brno",
+                "de": "Brünn",
+                "el": "Μπρνο",
+                "hu": "Berény",
+                "kn": "ಬೃನೋ",
+                "lt": "Brno",
+                "ru": "Брно",
+                "sk": "Brno",
+                "sr": "Брно",
+                "uk": "Брно"
+            },
+            "place_type": 67,
+            "population": 379466,
+            "latitude": 49.1922443,
+            "longitude": 16.6113382,
+            "geocell": 5009566,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601566699,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q14960",
+                "wikipedia_pages": {
+                    "cs": "Brno"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601617325,
+            "country": 203,
+            "level1area": [
+                "cz64"
+            ],
+            "level2area": [
+                "cz643"
+            ],
+            "names": {
+                "cs": "Kuřim",
+                "de": "Gurein"
+            },
+            "place_type": 84,
+            "population": 10981,
+            "latitude": 49.2987857,
+            "longitude": 16.531396,
+            "geocell": 5013165,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601617325,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1000046",
+                "wikipedia_pages": {
+                    "cs": "Kuřim"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601662907,
+            "country": 203,
+            "level1area": [
+                "cz64"
+            ],
+            "level2area": [
+                "cz644"
+            ],
+            "names": {
+                "cs": "Břeclav",
+                "de": "Lundenburg",
+                "pl": "Brzecław",
+                "ru": "Бржецлав",
+                "sr": "Брецлав",
+                "uk": "Бржецлав"
+            },
+            "place_type": 84,
+            "population": 19502,
+            "latitude": 48.7594008,
+            "longitude": 16.8813137,
+            "geocell": 4995168,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601662907,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.breclav.org",
+                "wikidata_page_name": "Q581478",
+                "wikipedia_pages": {
+                    "cs": "Břeclav"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601694597,
+            "country": 203,
+            "level1area": [
+                "cz64"
+            ],
+            "level2area": [
+                "cz645"
+            ],
+            "names": {
+                "cs": "Veselí nad Moravou",
+                "de": "Wessely an der March"
+            },
+            "place_type": 84,
+            "population": 10410,
+            "latitude": 48.9540796,
+            "longitude": 17.379034,
+            "geocell": 5002373,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601694597,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q105198",
+                "wikipedia_pages": {
+                    "cs": "Veselí nad Moravou"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601694787,
+            "country": 203,
+            "level1area": [
+                "cz64"
+            ],
+            "level2area": [
+                "cz645"
+            ],
+            "names": {
+                "cs": "Kyjov",
+                "de": "Gaya",
+                "sr": "Кијов",
+                "uk": "Кийов"
+            },
+            "place_type": 84,
+            "population": 11774,
+            "latitude": 49.0104456,
+            "longitude": 17.1224867,
+            "geocell": 5005971,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601694787,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.mestokyjov.cz/",
+                "wikidata_page_name": "Q104587",
+                "wikipedia_pages": {
+                    "cs": "Kyjov"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601724221,
+            "country": 203,
+            "level1area": [
+                "cz64"
+            ],
+            "level2area": [
+                "cz646"
+            ],
+            "names": {
+                "cs": "Vyškov",
+                "de": "Wischau",
+                "ru": "Вишков",
+                "sr": "Вишков"
+            },
+            "place_type": 84,
+            "population": 13758,
+            "latitude": 49.2778194,
+            "longitude": 16.9994446,
+            "geocell": 5013169,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601724221,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.vyskov-mesto.cz",
+                "wikidata_page_name": "Q954569",
+                "wikipedia_pages": {
+                    "cs": "Vyškov"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601754750,
+            "country": 203,
+            "level1area": [
+                "cz64"
+            ],
+            "level2area": [
+                "cz647"
+            ],
+            "names": {
+                "cs": "Znojmo",
+                "de": "Znaim",
+                "ru": "Зноймо"
+            },
+            "place_type": 84,
+            "population": 33370,
+            "latitude": 48.8554341,
+            "longitude": 16.0489457,
+            "geocell": 4998760,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601754750,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "66902"
+                ],
+                "website": "http://www.znojmocity.cz/",
+                "wikidata_page_name": "Q214956",
+                "wikipedia_pages": {
+                    "cs": "Znojmo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1601837931,
+            "country": 203,
+            "level1area": [
+                "cz10"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Praag",
+                "ar": "براغ",
+                "ast": "Praga",
+                "az": "Praqa",
+                "be": "Прага",
+                "bg": "Прага",
+                "bn": "প্রাগ",
+                "br": "Praha",
+                "bs": "Prag",
+                "ca": "Praga",
+                "ckb": "پراگ",
+                "cs": "Praha",
+                "cy": "Prag",
+                "da": "Prag",
+                "de": "Prag",
+                "dsb": "Praha",
+                "el": "Πράγα",
+                "en": "Prague",
+                "eo": "Prago",
+                "es": "Praga",
+                "et": "Praha",
+                "eu": "Praga",
+                "fa": "پراگ",
+                "fi": "Praha",
+                "fr": "Prague",
+                "fy": "Praach",
+                "ga": "Prág",
+                "gd": "Pràg",
+                "gl": "Praga",
+                "he": "פראג",
+                "hi": "प्राग",
+                "hr": "Prag",
+                "hsb": "Praha",
+                "hu": "Prága",
+                "hy": "Պրահա",
+                "ia": "Praga",
+                "id": "Praha",
+                "io": "Praha",
+                "is": "Prag",
+                "it": "Praga",
+                "ja": "プラハ",
+                "ka": "პრაღა",
+                "kk": "Прага",
+                "kn": "ಪ್ರಾಗ",
+                "ko": "프라하",
+                "ky": "Прага",
+                "lb": "Prag",
+                "lt": "Praha",
+                "lv": "Prāga",
+                "mk": "Прага",
+                "ml": "പ്രാഗ്",
+                "mn": "Прага",
+                "mr": "प्राग",
+                "ms": "Praha",
+                "my": "ပရက်ဂ်မြို့",
+                "nl": "Praag",
+                "nn": "Praha",
+                "os": "Прагæ",
+                "pl": "Praga",
+                "pt": "Praga",
+                "ro": "Praga",
+                "ru": "Прага",
+                "sk": "Praha",
+                "sl": "Praga",
+                "sq": "Praga",
+                "sr": "Праг",
+                "sv": "Prag",
+                "sw": "Praha",
+                "ta": "பிராகா",
+                "tg": "Прага",
+                "th": "ปราก",
+                "tr": "Prag",
+                "tt": "Праһа",
+                "udm": "Прага",
+                "ug": "پراگا",
+                "uk": "Прага",
+                "ur": "پراگ",
+                "uz": "Praga",
+                "vi": "Praha"
+            },
+            "place_type": 67,
+            "population": 1275406,
+            "latitude": 50.0874654,
+            "longitude": 14.4212535,
+            "geocell": 5041944,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1601837931,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.praha.eu/",
+                "wikidata_page_name": "Q1085",
+                "wikipedia_pages": {
+                    "cs": "Praha"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2343424942,
+            "country": 203,
+            "level1area": [
+                "cz72"
+            ],
+            "level2area": [
+                "cz722"
+            ],
+            "names": {
+                "cs": "Uherské Hradiště",
+                "de": "Ungarisch Hradisch",
+                "hu": "Magyarhradis"
+            },
+            "place_type": 84,
+            "population": 21737,
+            "latitude": 49.0681018,
+            "longitude": 17.4663899,
+            "geocell": 5005974,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2343424942,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q502993",
+                "wikipedia_pages": {
+                    "cs": "Uherské Hradiště"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4000441657,
+            "country": 203,
+            "level1area": [
+                "cz20"
+            ],
+            "level2area": [
+                "cz206"
+            ],
+            "names": {
+                "cs": "Neratovice",
+                "de": "Neratowitz"
+            },
+            "place_type": 84,
+            "population": 15865,
+            "latitude": 50.2598479,
+            "longitude": 14.5175086,
+            "geocell": 5049145,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4000441657,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q239597",
+                "wikipedia_pages": {
+                    "cs": "Neratovice"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8929081105,
+            "country": 203,
+            "level1area": [
+                "cz64"
+            ],
+            "level2area": [
+                "cz645"
+            ],
+            "names": {
+                "cs": "Hodonín",
+                "de": "Göding",
+                "ru": "Годонин",
+                "sr": "Ходоњин",
+                "uk": "Годонін"
+            },
+            "place_type": 84,
+            "population": 27361,
+            "latitude": 48.8563914,
+            "longitude": 17.1234655,
+            "geocell": 4998771,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8929081105,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.hodonin.eu",
+                "wikidata_page_name": "Q321778",
+                "wikipedia_pages": {
+                    "cs": "Hodonín"
+                }
+            }
+        }
+    }
+]

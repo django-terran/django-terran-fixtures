@@ -1,0 +1,129 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 385761740,
+            "country": 584,
+            "level1area": [
+                "mht"
+            ],
+            "level2area": [
+                "mhmaj"
+            ],
+            "names": {
+                "af": "Majuro",
+                "ar": "ماجورو",
+                "ast": "Mayuru",
+                "az": "Macuro",
+                "be": "Маджура",
+                "bg": "Маджуро",
+                "bn": "মাজুরো",
+                "br": "Majuro",
+                "bs": "Majuro",
+                "ca": "Majuro",
+                "cs": "Majuro",
+                "cy": "Majuro",
+                "da": "Majuro",
+                "de": "Majuro",
+                "el": "Ματζούρο",
+                "en": "Majuro",
+                "eo": "Majuro",
+                "es": "Majuro",
+                "et": "Majuro atoll",
+                "eu": "Majuro",
+                "fa": "ماجورو",
+                "fi": "Majuro",
+                "fr": "Majuro",
+                "fy": "Majuro",
+                "gd": "Majuro",
+                "gl": "Majuro",
+                "he": "מג'ורו",
+                "hi": "माजुरो",
+                "hr": "Majuro",
+                "hu": "Majuro",
+                "hy": "Մաջուրո",
+                "id": "Majuro",
+                "io": "Majuro",
+                "is": "Majúró",
+                "it": "Majuro",
+                "ja": "マジュロ",
+                "ka": "მაჯურო",
+                "kk": "Маджуро",
+                "ko": "마주로",
+                "ky": "Мажeро",
+                "lb": "Majuro",
+                "lt": "Madžūras",
+                "lv": "Madžuro",
+                "mk": "Маџуро",
+                "ml": "മാജുറോ",
+                "mr": "माजुरो",
+                "ms": "Majuro",
+                "nl": "Majuro",
+                "nn": "Majuro",
+                "os": "Маджуро",
+                "pa": "ਮਾਜੁਰੋ",
+                "pl": "Majuro",
+                "pt": "Majuro",
+                "ro": "Majuro",
+                "ru": "Маджуро",
+                "sk": "Dalap-Uliga-Darrit",
+                "sl": "Majuro",
+                "sq": "Majuro",
+                "sr": "Маџуро",
+                "sv": "Majuro",
+                "sw": "Majuro",
+                "ta": "மாசூரோ",
+                "tg": "Маҷуро",
+                "th": "มาจูโร",
+                "tr": "Majuro",
+                "uk": "Маджуро",
+                "ur": "ماجورو",
+                "uz": "Majuro",
+                "vi": "Majuro"
+            },
+            "place_type": 67,
+            "population": 26000,
+            "latitude": 7.0909924,
+            "longitude": 171.3816354,
+            "geocell": 3495513,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 385761740,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q12919",
+                "wikipedia_pages": {
+                    "en": "Majuro"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2683511029,
+            "country": 584,
+            "level1area": [
+                "mhl"
+            ],
+            "level2area": [
+                "mhkwa"
+            ],
+            "names": {
+                "en": "Ebeye"
+            },
+            "place_type": 84,
+            "population": 13000,
+            "latitude": 8.7841317,
+            "longitude": 167.7369226,
+            "geocell": 3556677,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2683511029,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

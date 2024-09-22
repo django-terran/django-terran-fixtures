@@ -1,0 +1,580 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 243819778,
+            "country": 480,
+            "level1area": [
+                "mupl"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Port Louis",
+                "ar": "بورت لويس",
+                "ast": "Puertu Lluis",
+                "az": "Port Luiz",
+                "be": "Порт-Луі",
+                "bg": "Порт Луи",
+                "bn": "পোর্ট লুইস",
+                "br": "Port Louis",
+                "bs": "Port Louis",
+                "ca": "Port Louis",
+                "ckb": "پۆرت لویس",
+                "cs": "Port Louis",
+                "cy": "Port Louis",
+                "da": "Port Louis",
+                "de": "Port Louis",
+                "el": "Πορ Λουί",
+                "en": "Port Louis",
+                "eo": "Port-Luiso",
+                "es": "Port Louis",
+                "et": "Port Louis",
+                "eu": "Port Louis",
+                "fa": "پورت‌لوئیس",
+                "fi": "Port Louis",
+                "fr": "Port-Louis",
+                "fy": "Port Louis",
+                "ga": "Port Louis",
+                "gd": "Port Louis",
+                "gl": "Port Louis",
+                "he": "פור לואי",
+                "hi": "पोर्ट लुई",
+                "hr": "Port Louis",
+                "hu": "Port Louis",
+                "hy": "Պորտ Լուի",
+                "ia": "Port Louis",
+                "id": "Port Louis",
+                "io": "Port Louis",
+                "is": "Port Louis",
+                "it": "Port Louis",
+                "ja": "ポートルイス",
+                "ka": "პორტ-ლუი",
+                "kk": "Порт-Луи",
+                "ko": "포트루이스",
+                "ky": "Порт-Луи",
+                "lb": "Port Louis",
+                "lt": "Port Luisas",
+                "lv": "Portluī",
+                "mk": "Порт Луј",
+                "ml": "പോർട്ട് ലൂയിസ്",
+                "mn": "Порт-Луи",
+                "mr": "पोर्ट लुईस",
+                "ms": "Port Louis",
+                "nl": "Port Louis",
+                "nn": "Port Louis",
+                "os": "Порт-Луи",
+                "pa": "ਪੋਰਟ ਲੂਈ",
+                "pl": "Port Louis",
+                "pt": "Porto Luís",
+                "ro": "Port Louis",
+                "ru": "Порт-Луи",
+                "sk": "Port Louis",
+                "sl": "Port Louis",
+                "sq": "Port Louis",
+                "sr": "Порт Луис",
+                "sv": "Port Louis",
+                "sw": "Port Louis",
+                "ta": "போர்ட் லூயிஸ்",
+                "tg": "Порт-Луи",
+                "th": "พอร์ตหลุยส์",
+                "tr": "Port Louis",
+                "tt": "Порт-Луи",
+                "udm": "Порт-Луи",
+                "uk": "Порт-Луї",
+                "ur": "پورٹ لوئس",
+                "uz": "Port-lui",
+                "vi": "Port Louis"
+            },
+            "place_type": 67,
+            "population": 147688,
+            "latitude": -20.1624522,
+            "longitude": 57.5028044,
+            "geocell": 2515175,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 243819778,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "www.mccpl.mu",
+                "wikidata_page_name": "Q3929",
+                "wikipedia_pages": {
+                    "en": "Port Louis"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 245557798,
+            "country": 480,
+            "level1area": [
+                "mupw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Quatre Bornes"
+            },
+            "place_type": 67,
+            "population": 81773,
+            "latitude": -20.2643015,
+            "longitude": 57.4800061,
+            "geocell": 2511574,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 245557798,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1341194",
+                "wikipedia_pages": {
+                    "en": "Quatre Bornes"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 247166946,
+            "country": 480,
+            "level1area": [
+                "mugp"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mahebourg",
+                "fr": "Mahébourg",
+                "lt": "Majeburas",
+                "mk": "Маебур"
+            },
+            "place_type": 84,
+            "population": 15500,
+            "latitude": -20.4111041,
+            "longitude": 57.7060616,
+            "geocell": 2504377,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 247166946,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1291379",
+                "wikipedia_pages": {
+                    "en": "Mahébourg"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 365764030,
+            "country": 480,
+            "level1area": [
+                "mupw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Vacoas-Phoenix",
+                "fr": "Vacoas-Phœnix",
+                "lt": "Vakoasas-Finiksas"
+            },
+            "place_type": 67,
+            "population": 107678,
+            "latitude": -20.2933761,
+            "longitude": 57.4978036,
+            "geocell": 2511574,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 365764030,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q676724",
+                "wikipedia_pages": {
+                    "en": "Vacoas-Phoenix"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 889907441,
+            "country": 480,
+            "level1area": [
+                "mubl"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bambous",
+                "fr": "Bambous"
+            },
+            "place_type": 84,
+            "population": 15300,
+            "latitude": -20.2571348,
+            "longitude": 57.4176639,
+            "geocell": 2511574,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 889907441,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q431990",
+                "wikipedia_pages": {
+                    "fr": "Bambous"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1133837566,
+            "country": 480,
+            "level1area": [
+                "murr"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Rivière du Rempart",
+                "fr": "Rivière du Rempart"
+            },
+            "place_type": 84,
+            "population": 10800,
+            "latitude": -20.1081529,
+            "longitude": 57.6927461,
+            "geocell": 2515176,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1133837566,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24045907",
+                "wikipedia_pages": {
+                    "fr": "Rivière du Rempart (Maurice)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1663012341,
+            "country": 480,
+            "level1area": [
+                "murr"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Grand Baie",
+                "fr": "Grand Baie"
+            },
+            "place_type": 84,
+            "population": 11900,
+            "latitude": -20.0130199,
+            "longitude": 57.584627,
+            "geocell": 2518775,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1663012341,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q992154",
+                "wikipedia_pages": {
+                    "fr": "Grand Baie"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1815113111,
+            "country": 480,
+            "level1area": [
+                "mupa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Triolet",
+                "fr": "Triolet"
+            },
+            "place_type": 84,
+            "population": 23386,
+            "latitude": -20.0574743,
+            "longitude": 57.5521877,
+            "geocell": 2518775,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1815113111,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q641130",
+                "wikipedia_pages": {
+                    "en": "Triolet, Mauritius"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1835771720,
+            "country": 480,
+            "level1area": [
+                "mumo"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Saint Pierre",
+                "fr": "Saint-Pierre"
+            },
+            "place_type": 84,
+            "population": 16000,
+            "latitude": -20.2249021,
+            "longitude": 57.5383776,
+            "geocell": 2511575,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1835771720,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1154985",
+                "wikipedia_pages": {
+                    "en": "Saint Pierre, Mauritius"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1845967777,
+            "country": 480,
+            "level1area": [
+                "mufl"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Central Flacq",
+                "fr": "Centre de Flacq"
+            },
+            "place_type": 84,
+            "population": 16000,
+            "latitude": -20.1948891,
+            "longitude": 57.7229652,
+            "geocell": 2515177,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1845967777,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2166853543,
+            "country": 480,
+            "level1area": [
+                "mupw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Beau Bassin-Rose Hill",
+                "fr": "Beau Bassin-Rose Hill"
+            },
+            "place_type": 67,
+            "population": 96000,
+            "latitude": -20.234269,
+            "longitude": 57.4693447,
+            "geocell": 2511574,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2166853543,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q813337",
+                "wikipedia_pages": {
+                    "en": "Beau Bassin-Rose Hill"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2583955840,
+            "country": 480,
+            "level1area": [
+                "mugp"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Rose Belle",
+                "fr": "Rose Belle"
+            },
+            "place_type": 84,
+            "population": 12000,
+            "latitude": -20.4031031,
+            "longitude": 57.6024143,
+            "geocell": 2504376,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2583955840,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q550056",
+                "wikipedia_pages": {
+                    "fr": "Rose-Belle"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2642246014,
+            "country": 480,
+            "level1area": [
+                "mupw"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Curepipe",
+                "fr": "Curepipe"
+            },
+            "place_type": 67,
+            "population": 81600,
+            "latitude": -20.3150516,
+            "longitude": 57.5211497,
+            "geocell": 2507975,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2642246014,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1002525",
+                "wikipedia_pages": {
+                    "fr": "Curepipe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3106323323,
+            "country": 480,
+            "level1area": [
+                "mufl"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bel Air Rivière Sèche"
+            },
+            "place_type": 84,
+            "population": 17600,
+            "latitude": -20.2559669,
+            "longitude": 57.7570727,
+            "geocell": 2511577,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3106323323,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4881723",
+                "wikipedia_pages": {
+                    "en": "Bel Air Rivière Sèche"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5938167147,
+            "country": 480,
+            "level1area": [
+                "musa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Surinam",
+                "fr": "Surinam"
+            },
+            "place_type": 84,
+            "population": 10500,
+            "latitude": -20.5122913,
+            "longitude": 57.5096834,
+            "geocell": 2500775,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5938167147,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q9348370",
+                "wikipedia_pages": {
+                    "en": "Surinam, Mauritius"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9280540369,
+            "country": 480,
+            "level1area": [
+                "musa"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Chemin Grenier",
+                "fr": "Chemin-Grenier"
+            },
+            "place_type": 84,
+            "population": 12200,
+            "latitude": -20.4920408,
+            "longitude": 57.4713418,
+            "geocell": 2504374,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9280540369,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2962294",
+                "wikipedia_pages": {
+                    "fr": "Chemin Grenier"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 10690283240,
+            "country": 480,
+            "level1area": [
+                "mugp"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "New Grove"
+            },
+            "place_type": 86,
+            "population": 11000,
+            "latitude": -20.412331,
+            "longitude": 57.6185264,
+            "geocell": 2504376,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 10690283240,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

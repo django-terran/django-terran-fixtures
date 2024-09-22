@@ -1,0 +1,102 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 295342933,
+            "country": 678,
+            "level1area": [
+                "st01"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ساو تومي",
+                "az": "San Tome",
+                "be": "Сан-Тамэ",
+                "bg": "Сао Томе",
+                "br": "São Tomé",
+                "ckb": "سائۆتۆمێ",
+                "de": "São Tomé",
+                "el": "Σάο Τομέ",
+                "en": "São Tomé",
+                "eo": "Sao-Tomeo",
+                "es": "Santo Tomé",
+                "fa": "سائوتومه",
+                "fr": "Sao Tomé",
+                "fy": "Sao Tomee",
+                "gl": "San Tomé",
+                "he": "סאו טומה",
+                "hr": "São Tomé",
+                "hu": "Sao Tomé",
+                "hy": "Սան Տոմե",
+                "io": "Sao Tome",
+                "is": "São Tomé",
+                "ja": "サントメ",
+                "ka": "სან-ტომე",
+                "ko": "상투메",
+                "ky": "Сан-Томе",
+                "lt": "San Tomė",
+                "lv": "Santome",
+                "mk": "Сао Томе",
+                "ml": "സാവോ ടോം",
+                "mr": "साओ टोमे",
+                "nl": "Sao Tomé",
+                "pl": "São Tomé",
+                "pt": "São Tomé",
+                "ro": "São Tomé",
+                "ru": "Сан-Томе",
+                "sk": "Svätý Tomáš",
+                "sr": "Сао Томе",
+                "sv": "São Tomé",
+                "sw": "Sao Tome",
+                "ta": "சாவோ தொமே",
+                "tg": "Сан-Томе",
+                "th": "เซาตูเม",
+                "udm": "Сан-Томе",
+                "uk": "Сан-Томе",
+                "ur": "ساؤ ٹومے"
+            },
+            "place_type": 67,
+            "population": 53300,
+            "latitude": 0.3389242,
+            "longitude": 6.7313031,
+            "geocell": 3252667,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 295342933,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3932",
+                "wikipedia_pages": {
+                    "pt": "São Tomé (São Tomé e Príncipe)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2176861929,
+            "country": 678,
+            "level1area": [
+                "st02"
+            ],
+            "level2area": null,
+            "names": {
+                "pt": "Santana"
+            },
+            "place_type": 84,
+            "population": 10290,
+            "latitude": 0.2572249,
+            "longitude": 6.7428137,
+            "geocell": 3249067,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2176861929,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1552353",
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

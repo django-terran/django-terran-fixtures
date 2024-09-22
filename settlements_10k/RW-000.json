@@ -1,0 +1,210 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60485579,
+            "country": 646,
+            "level1area": [
+                "rw01"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كيغالي",
+                "az": "Kiqali",
+                "be": "Кігалі",
+                "bg": "Кигали",
+                "br": "Kigali",
+                "ckb": "کیگالی",
+                "de": "Kigali",
+                "el": "Κιγκάλι",
+                "en": "Kigali",
+                "eo": "Kigalo",
+                "fa": "کیگالی",
+                "fr": "Kigali",
+                "fy": "Kigaly",
+                "he": "קיגאלי",
+                "hi": "किगाली",
+                "hu": "Kigali",
+                "hy": "Կիգալի",
+                "is": "Kígalí",
+                "ja": "キガリ",
+                "ka": "კიგალი",
+                "kn": "ಕಿಗಾಲೀ",
+                "ko": "키갈리",
+                "ky": "Кигали",
+                "lt": "Kigalis",
+                "mk": "Кигали",
+                "mr": "किगाली",
+                "os": "Кигали",
+                "pl": "Kigali",
+                "pt": "Kigali",
+                "ru": "Кигали",
+                "rw": "Kigali",
+                "sr": "Кигали",
+                "sv": "Kigali",
+                "ta": "கிகாலி",
+                "tg": "Кигали",
+                "th": "คิกาลี",
+                "udm": "Кигали",
+                "uk": "Кігалі",
+                "ur": "کیگالی"
+            },
+            "place_type": 67,
+            "population": 1132686,
+            "latitude": -1.950851,
+            "longitude": 30.061507,
+            "geocell": 3170100,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60485579,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3859",
+                "wikipedia_pages": {
+                    "fr": "Kigali"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 282222437,
+            "country": 646,
+            "level1area": [
+                "rw03"
+            ],
+            "level2area": null,
+            "names": {
+                "rw": "Byumba"
+            },
+            "place_type": 67,
+            "population": 70593,
+            "latitude": -1.5792052,
+            "longitude": 30.0677684,
+            "geocell": 3184500,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 282222437,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2424750",
+                "wikipedia_pages": {
+                    "en": "Byumba"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2038426576,
+            "country": 646,
+            "level1area": [
+                "rw05"
+            ],
+            "level2area": null,
+            "names": {
+                "rw": "Kivumu"
+            },
+            "place_type": 86,
+            "population": 30000,
+            "latitude": -2.0487624,
+            "longitude": 29.8041467,
+            "geocell": 3166498,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2038426576,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3895030415,
+            "country": 646,
+            "level1area": [
+                "rw04"
+            ],
+            "level2area": null,
+            "names": {
+                "rw": "Ngororero"
+            },
+            "place_type": 84,
+            "population": 34559,
+            "latitude": -1.854725,
+            "longitude": 29.632534,
+            "geocell": 3173696,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3895030415,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7022579",
+                "wikipedia_pages": {
+                    "en": "Ngororero"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9095245635,
+            "country": 646,
+            "level1area": [
+                "rw04"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Bugarama",
+                "fr": "Bugarama",
+                "rw": "Bugarama"
+            },
+            "place_type": 84,
+            "population": 25000,
+            "latitude": -2.6948888,
+            "longitude": 29.0072671,
+            "geocell": 3144890,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9095245635,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4986134",
+                "wikipedia_pages": {
+                    "fr": "Bugarama"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11379237296,
+            "country": 646,
+            "level1area": [
+                "rw04"
+            ],
+            "level2area": null,
+            "names": {
+                "rw": "Kibuye"
+            },
+            "place_type": 84,
+            "population": 12325,
+            "latitude": -2.0603776,
+            "longitude": 29.348604,
+            "geocell": 3166493,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11379237296,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

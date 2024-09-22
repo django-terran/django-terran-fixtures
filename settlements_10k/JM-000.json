@@ -1,0 +1,148 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 53371112,
+            "country": 388,
+            "level1area": [
+                "jm01"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كينغستون",
+                "az": "Kinqston",
+                "be": "Кінгстан",
+                "bg": "Кингстън",
+                "br": "Kingston",
+                "de": "Kingston",
+                "el": "Κίνγκστον",
+                "en": "Kingston",
+                "eo": "Kingstono",
+                "es": "Kingston",
+                "fa": "کینگستون",
+                "fr": "Kingston",
+                "gd": "Kingston",
+                "he": "קינגסטון",
+                "hu": "Kingston",
+                "hy": "Քինգստոն",
+                "is": "Kingston",
+                "ja": "キングストン",
+                "ka": "კინგსტონი",
+                "ko": "킹스턴",
+                "lt": "Kingstonas",
+                "lv": "Kingstona",
+                "mk": "Кингстон",
+                "mr": "किंग्स्टन",
+                "os": "Кингстон",
+                "pl": "Kingstone",
+                "ru": "Кингстон",
+                "sr": "Кингстон",
+                "sv": "Kingston",
+                "ta": "கிங்ஸ்டன்",
+                "th": "คิงส์ตัน",
+                "uk": "Кінгстон",
+                "ur": "کنگسٹن"
+            },
+            "place_type": 67,
+            "population": 660000,
+            "latitude": 17.9712148,
+            "longitude": -76.7928128,
+            "geocell": 3885432,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 53371112,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q34692",
+                "wikipedia_pages": {
+                    "de": "Kingston (Jamaika)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 247716893,
+            "country": 388,
+            "level1area": [
+                "jm14"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Spanish Town",
+                "es": "Ciudad Española",
+                "hu": "Spanish Towns",
+                "ru": "Спаниш-Таун"
+            },
+            "place_type": 67,
+            "population": 131056,
+            "latitude": 17.9956926,
+            "longitude": -76.9540831,
+            "geocell": 3885430,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 247716893,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q846939",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 290803535,
+            "country": 388,
+            "level1area": [
+                "jm14"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Portmore",
+                "hu": "Portmore"
+            },
+            "place_type": 67,
+            "population": 170000,
+            "latitude": 17.9717917,
+            "longitude": -76.8738048,
+            "geocell": 3885431,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 290803535,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q644663",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3766105257,
+            "country": 388,
+            "level1area": [
+                "jm08"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Montego Bay"
+            },
+            "place_type": 67,
+            "population": 110115,
+            "latitude": 18.4724603,
+            "longitude": -77.9217357,
+            "geocell": 3903420,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3766105257,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q637555",
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

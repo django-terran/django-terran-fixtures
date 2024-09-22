@@ -1,0 +1,3349 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 74099711,
+            "country": 704,
+            "level1area": [
+                "vn44"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Châu Đốc",
+                "ja": "チャウドック",
+                "km": "ក្រុងមាត់ជ្រូក",
+                "ko": "쩌우독",
+                "ru": "Тяудок",
+                "th": "เจิวด๊ก",
+                "vi": "Châu Đốc"
+            },
+            "place_type": 67,
+            "population": 157298,
+            "latitude": 10.7101815,
+            "longitude": 105.1188675,
+            "geocell": 3628051,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 74099711,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q373214",
+                "wikipedia_pages": {
+                    "vi": "Châu Đốc (thành phố)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 74132064,
+            "country": 704,
+            "level1area": [
+                "vnhn"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "هانوي",
+                "ast": "Hà Nội",
+                "az": "Hanoy",
+                "be": "Ханой",
+                "bg": "Ханой",
+                "bn": "হ্যানয়",
+                "br": "Ha Noi",
+                "ca": "Hanoi",
+                "ckb": "ھانۆی",
+                "cs": "Hanoj",
+                "da": "Hanoi",
+                "de": "Hanoi",
+                "el": "Ανόι",
+                "en": "Hanoi",
+                "eo": "Hanojo",
+                "es": "Hanói",
+                "et": "Hanoi",
+                "eu": "Hanoi",
+                "fa": "هانوی",
+                "fi": "Hanoi",
+                "fr": "Hanoï",
+                "ga": "Ha Noi",
+                "gl": "Hanoi",
+                "he": "האנוי",
+                "hi": "हनोई",
+                "hr": "Hanoi",
+                "hu": "Hanoi",
+                "hy": "Հանոյ",
+                "id": "Hanoi",
+                "is": "Hanoí",
+                "it": "Hanoi",
+                "ja": "ハノイ",
+                "ka": "ჰანოი",
+                "kk": "Ханой",
+                "km": "ទីក្រុងហានូយ",
+                "kn": "ಹಾನೊಯ್",
+                "ko": "하노이",
+                "lt": "Hanojus",
+                "lv": "Hanoja",
+                "mk": "Ханој",
+                "ml": "ഹാനോയ്",
+                "mn": "Ханой",
+                "mr": "हनोई",
+                "my": "ဟနွိုင်းမြို့",
+                "nl": "Hanoi",
+                "os": "Ханой",
+                "pl": "Hanoi",
+                "pt": "Hanói",
+                "ru": "Ханой",
+                "sk": "Hanoj",
+                "sl": "Hanoj",
+                "sr": "Ханој",
+                "sv": "Hanoi",
+                "ta": "ஹனோய்",
+                "tg": "Ханой",
+                "th": "ฮานอย",
+                "ug": "خانوي",
+                "uk": "Ханой",
+                "ur": "ہنوئی",
+                "vi": "Hà Nội"
+            },
+            "place_type": 67,
+            "population": 8435700,
+            "latitude": 21.0283334,
+            "longitude": 105.854041,
+            "geocell": 3998858,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 74132064,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "http://www.hanoi.gov.vn/",
+                "wikidata_page_name": "Q1858",
+                "wikipedia_pages": {
+                    "vi": "Hà Nội"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 110506070,
+            "country": 704,
+            "level1area": [
+                "vn27"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "هوي أن",
+                "cs": "Hoi An",
+                "de": "Hoi An",
+                "en": "Hội An",
+                "he": "הוי אן",
+                "ja": "ホイアン",
+                "ka": "ჰოი-ანი",
+                "ko": "호이안",
+                "lt": "Hojanas",
+                "mn": "Хой Ань",
+                "ms": "Hoi An",
+                "ne": "होइ एन प्राचीन सहर",
+                "nl": "Hội An",
+                "pt": "Hoi An",
+                "ru": "Хойан",
+                "sr": "Хој Ан",
+                "sv": "Hoi An",
+                "th": "ฮอยอัน",
+                "uk": "Хоян",
+                "ur": "ہؤئی آن",
+                "vi": "Hội An"
+            },
+            "place_type": 67,
+            "population": 120000,
+            "latitude": 15.8795863,
+            "longitude": 108.3319406,
+            "geocell": 3811683,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 110506070,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q36160",
+                "wikipedia_pages": {
+                    "vi": "Hội An"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369469617,
+            "country": 704,
+            "level1area": [
+                "vn21"
+            ],
+            "level2area": null,
+            "names": {
+                "be": "Тханьхаа",
+                "bg": "Тхан Хоа",
+                "da": "Thanh Hoa",
+                "en": "Thanh Hóa",
+                "eo": "Thanh Hoa",
+                "eu": "Thanh Hoa",
+                "fa": "تان هوا",
+                "ia": "Thanh Hoa",
+                "ig": "Thanh Hoa",
+                "ja": "タインホア",
+                "ko": "타인호아",
+                "lt": "Tanhoa",
+                "lv": "Thaņhoa",
+                "ms": "Thanh Hoa",
+                "nl": "Thanh Hóa",
+                "ru": "Тханьхоа",
+                "sr": "Тањ Хоа",
+                "sv": "Thanh Hoa",
+                "sw": "Thanh Hoa",
+                "tg": "Тан Ноа",
+                "th": "ทัญฮว้า",
+                "uk": "Тханхоа",
+                "ur": "تھان ہوا",
+                "vi": "Thanh Hóa"
+            },
+            "place_type": 67,
+            "population": 249012,
+            "latitude": 19.8076814,
+            "longitude": 105.7767437,
+            "geocell": 3955657,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369469617,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q36175",
+                "wikipedia_pages": {
+                    "en": "Thanh Hóa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369486734,
+            "country": 704,
+            "level1area": [
+                "vnsg"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "مدينة هو تشي منه",
+                "ckb": "هۆشی‌مین",
+                "cs": "Ho Či Minovo Město",
+                "de": "Ho-Chi-Minh-Stadt",
+                "el": "Χο Τσι Μιν",
+                "en": "Ho Chi Minh City",
+                "es": "Ciudad Ho Chi Minh",
+                "et": "Hồ Chí Minh",
+                "eu": "Ho Chi Minh Hiria",
+                "fa": "هوشی‌مین",
+                "fr": "Hô Chi Minh-Ville",
+                "he": "הו צ'י מין סיטי",
+                "hr": "Grad Ho Chi Minh",
+                "id": "Kota Ho Chi Minh",
+                "it": "Città di Ho Chi Minh",
+                "ja": "ホーチミン市",
+                "km": "ទីក្រុង​ហូ​ជី​មិញ",
+                "ko": "호찌민",
+                "lv": "Hočimina",
+                "ml": "ഹോ ചി മിൻ നഗരം",
+                "ms": "Bandaraya Ho Chi Minh",
+                "nl": "Ho Chi Minhstad",
+                "ru": "Хошимин",
+                "sk": "Hočiminovo Mesto",
+                "th": "นครโฮจิมินห์",
+                "vi": "Thành phố Hồ Chí Minh"
+            },
+            "place_type": 67,
+            "population": 9166800,
+            "latitude": 10.7763897,
+            "longitude": 106.7011391,
+            "geocell": 3628067,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369486734,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.hochiminhcity.gov.vn/",
+                "wikidata_page_name": "Q1854",
+                "wikipedia_pages": {
+                    "vi": "Thành phố Hồ Chí Minh"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369486903,
+            "country": 704,
+            "level1area": [
+                "vn03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hà Giang",
+                "ja": "ハザン",
+                "ko": "하장시",
+                "ru": "Хазянг",
+                "th": "ห่าซาง",
+                "uk": "Хазянґ",
+                "vi": "Hà Giang"
+            },
+            "place_type": 67,
+            "population": 42962,
+            "latitude": 22.8264592,
+            "longitude": 104.9846342,
+            "geocell": 4063649,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369486903,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q36519",
+                "wikipedia_pages": {
+                    "en": "Hà Giang"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369486909,
+            "country": 704,
+            "level1area": [
+                "vn28"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kon Tum",
+                "fa": "کون توم",
+                "ja": "コントゥム",
+                "ko": "꼰뚬시",
+                "nl": "Kon Tum",
+                "ru": "Контум",
+                "sr": "Кон Тум",
+                "tg": "Вилояти Кон Тум",
+                "th": "กอนตูม",
+                "ur": "کون تم",
+                "vi": "Kon Tum"
+            },
+            "place_type": 67,
+            "population": 172712,
+            "latitude": 14.3615256,
+            "longitude": 108.0039102,
+            "geocell": 3757680,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369486909,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q36493",
+                "wikipedia_pages": {
+                    "en": "Kon Tum"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369486911,
+            "country": 704,
+            "level1area": [
+                "vn45"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Cao Lãnh",
+                "fr": "Cao Lãnh",
+                "ko": "까올라인",
+                "ru": "Каулань",
+                "th": "กาวหลัญ",
+                "vi": "Cao Lãnh"
+            },
+            "place_type": 67,
+            "population": 161292,
+            "latitude": 10.4620322,
+            "longitude": 105.6357948,
+            "geocell": 3617256,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369486911,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q35656",
+                "wikipedia_pages": {
+                    "en": "Cao Lãnh"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369486919,
+            "country": 704,
+            "level1area": [
+                "vn18"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Ninh Bình",
+                "en": "Ninh Bình",
+                "ja": "ニンビン",
+                "ko": "닌빈",
+                "ru": "Ниньбинь",
+                "th": "นิญบิ่ญ",
+                "uk": "Ніньбінь",
+                "vi": "Ninh Bình"
+            },
+            "place_type": 67,
+            "population": 130000,
+            "latitude": 20.2545421,
+            "longitude": 105.9764854,
+            "geocell": 3970059,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369486919,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q33929",
+                "wikipedia_pages": {
+                    "en": "Ninh Bình"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369486922,
+            "country": 704,
+            "level1area": [
+                "vn04"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Cao Bằng",
+                "ja": "カオバン",
+                "ko": "까오방",
+                "lt": "Kaobangas",
+                "ru": "Каобанг",
+                "th": "กาวบั่ง",
+                "uk": "Каобанг",
+                "vi": "Cao Bằng"
+            },
+            "place_type": 67,
+            "population": 61955,
+            "latitude": 22.6657612,
+            "longitude": 106.2588307,
+            "geocell": 4056462,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369486922,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1034096",
+                "wikipedia_pages": {
+                    "en": "Cao Bằng"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369486928,
+            "country": 704,
+            "level1area": [
+                "vn32"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tuy Hòa",
+                "fa": "توی هوئا",
+                "it": "Tuy Hoa",
+                "ja": "トゥイホア",
+                "ko": "뚜이호아",
+                "pt": "Tuy Hoa",
+                "ru": "Туихоа",
+                "sr": "Туи Хоа",
+                "sv": "Tuy Hoa",
+                "th": "ตวีฮหว่า",
+                "uk": "Туїхоа",
+                "ur": "توئے ہوا",
+                "vi": "Tuy Hòa"
+            },
+            "place_type": 67,
+            "population": 202030,
+            "latitude": 13.0877226,
+            "longitude": 109.2993584,
+            "geocell": 3710892,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369486928,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q35747",
+                "wikipedia_pages": {
+                    "vi": "Tuy Hòa"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369486930,
+            "country": 704,
+            "level1area": [
+                "vn02"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Lào Cai",
+                "ja": "ラオカイ",
+                "ko": "라오까이",
+                "lt": "Laokajus",
+                "ru": "Лаокай",
+                "th": "หล่าวกาย",
+                "uk": "Лаокай",
+                "vi": "Lào Cai"
+            },
+            "place_type": 67,
+            "population": 100017,
+            "latitude": 22.4997452,
+            "longitude": 103.9656924,
+            "geocell": 4049239,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369486930,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q33373",
+                "wikipedia_pages": {
+                    "vi": "Lào Cai (thành phố)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369486936,
+            "country": 704,
+            "level1area": [
+                "vn68"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Việt Trì",
+                "ja": "ベトチ",
+                "ko": "비엣찌",
+                "lt": "Vietči",
+                "ru": "Вьетчи",
+                "vi": "Việt Trì"
+            },
+            "place_type": 67,
+            "population": 140935,
+            "latitude": 21.324231,
+            "longitude": 105.3881392,
+            "geocell": 4009653,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369486936,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q36082",
+                "wikipedia_pages": {
+                    "en": "Việt Trì"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369486939,
+            "country": 704,
+            "level1area": [
+                "vn07"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tuyên Quang",
+                "fr": "Tuyên-Quang",
+                "ja": "トゥエンクアン",
+                "ko": "뚜옌꽝",
+                "ru": "Туенкуанг",
+                "uk": "Туєнкуанг",
+                "vi": "Tuyên Quang"
+            },
+            "place_type": 67,
+            "population": 62375,
+            "latitude": 21.7879695,
+            "longitude": 105.217387,
+            "geocell": 4024052,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369486939,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q33389",
+                "wikipedia_pages": {
+                    "vi": "Tuyên Quang (thành phố)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369486941,
+            "country": 704,
+            "level1area": [
+                "vn55"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bạc Liêu",
+                "ja": "バクリエウ",
+                "ko": "박리에우",
+                "ru": "Бакльеу",
+                "th": "บักเลียว",
+                "vi": "Bạc Liêu"
+            },
+            "place_type": 67,
+            "population": 115508,
+            "latitude": 9.2824882,
+            "longitude": 105.7260685,
+            "geocell": 3574057,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369486941,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q36142",
+                "wikipedia_pages": {
+                    "en": "Bạc Liêu"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369486944,
+            "country": 704,
+            "level1area": [
+                "vn44"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Long Xuyên",
+                "ja": "ロンスエン",
+                "ko": "롱쑤옌",
+                "ru": "Лонгсюен",
+                "th": "ล็องเซวียน",
+                "uk": "Лонгсюєн",
+                "vi": "Long Xuyên"
+            },
+            "place_type": 67,
+            "population": 40000,
+            "latitude": 10.3905437,
+            "longitude": 105.4337523,
+            "geocell": 3613654,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369486944,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q33421",
+                "wikipedia_pages": {
+                    "en": "Long Xuyên"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369486946,
+            "country": 704,
+            "level1area": [
+                "vn70"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Vĩnh Yên",
+                "fr": "Vinh-Yên",
+                "ja": "ヴィンイエン",
+                "ko": "빈옌",
+                "ru": "Виньйен",
+                "vi": "Vĩnh Yên"
+            },
+            "place_type": 67,
+            "population": 99273,
+            "latitude": 21.3088479,
+            "longitude": 105.5916322,
+            "geocell": 4009655,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369486946,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q36088",
+                "wikipedia_pages": {
+                    "en": "Vĩnh Yên"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369486949,
+            "country": 704,
+            "level1area": [
+                "vn66"
+            ],
+            "level2area": null,
+            "names": {
+                "ja": "フンイエン",
+                "ko": "흥옌시",
+                "ru": "Хынгйен",
+                "th": "ฮึงเอียน",
+                "uk": "Хинґ'єн",
+                "vi": "Hưng Yên"
+            },
+            "place_type": 67,
+            "population": 53241,
+            "latitude": 20.6568406,
+            "longitude": 106.054036,
+            "geocell": 3984460,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369486949,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q36485",
+                "wikipedia_pages": {
+                    "en": "Hưng Yên"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369486983,
+            "country": 704,
+            "level1area": [
+                "vn69"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Thái Nguyên",
+                "ja": "タイグエン",
+                "ko": "타이응우옌",
+                "ru": "Тхайнгуен",
+                "uk": "Тхайнгуєн",
+                "vi": "Thái Nguyên"
+            },
+            "place_type": 67,
+            "population": 249004,
+            "latitude": 21.592477,
+            "longitude": 105.8435398,
+            "geocell": 4016858,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369486983,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q26581",
+                "wikipedia_pages": {
+                    "vi": "Thái Nguyên"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487012,
+            "country": 704,
+            "level1area": [
+                "vn20"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Thái Bình",
+                "ja": "タイビン",
+                "ko": "타이빈",
+                "ru": "Тхайбинь",
+                "uk": "Тхайбінь",
+                "vi": "Thái Bình"
+            },
+            "place_type": 67,
+            "population": 124332,
+            "latitude": 20.449288,
+            "longitude": 106.3424893,
+            "geocell": 3977263,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487012,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q36497",
+                "wikipedia_pages": {
+                    "en": "Thái Bình"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487028,
+            "country": 704,
+            "level1area": [
+                "vndn"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Da Nang",
+                "eo": "Danango",
+                "ja": "ダナン",
+                "km": "ដាណាំង",
+                "ko": "다낭",
+                "pt": "Da Nang",
+                "ru": "Дананг",
+                "th": "ดานัง",
+                "vi": "Đà Nẵng"
+            },
+            "place_type": 67,
+            "population": 1007400,
+            "latitude": 16.068,
+            "longitude": 108.212,
+            "geocell": 3818882,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487028,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q25282",
+                "wikipedia_pages": {
+                    "en": "Da Nang"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487030,
+            "country": 704,
+            "level1area": [
+                "vn54"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bắc Giang",
+                "ja": "バクザン",
+                "ko": "박장",
+                "lt": "Bakziangas",
+                "ru": "Бакзянг",
+                "uk": "Бакзянґ",
+                "vi": "Bắc Giang"
+            },
+            "place_type": 67,
+            "population": 109367,
+            "latitude": 21.2795479,
+            "longitude": 106.2038074,
+            "geocell": 4006062,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487030,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q36736",
+                "wikipedia_pages": {
+                    "en": "Bắc Giang"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487033,
+            "country": 704,
+            "level1area": [
+                "vn06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Yên Bái",
+                "ja": "イエンバイ",
+                "ko": "옌바이",
+                "ru": "Йенбай",
+                "uk": "Єнбай",
+                "vi": "Yên Bái"
+            },
+            "place_type": 67,
+            "population": 75822,
+            "latitude": 21.69611,
+            "longitude": 104.8752392,
+            "geocell": 4020448,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487033,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q26019",
+                "wikipedia_pages": {
+                    "vi": "Yên Bái (thành phố)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487036,
+            "country": 704,
+            "level1area": [
+                "vn63"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Phủ Lý",
+                "ja": "フーリー",
+                "ko": "풀리",
+                "ru": "Фули",
+                "th": "ฝูลี้",
+                "vi": "Phủ Lý"
+            },
+            "place_type": 67,
+            "population": 95907,
+            "latitude": 20.5447207,
+            "longitude": 105.915517,
+            "geocell": 3980859,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487036,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q35659",
+                "wikipedia_pages": {
+                    "vi": "Phủ Lý"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487044,
+            "country": 704,
+            "level1area": [
+                "vn43"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "نج تاو",
+                "en": "Vũng Tàu",
+                "ja": "ブンタウ",
+                "km": "វ៉ុងថោ",
+                "ko": "붕따우",
+                "ru": "Вунгтау",
+                "th": "หวุงเต่า",
+                "uk": "Вунгтау",
+                "vi": "Vũng Tàu"
+            },
+            "place_type": 67,
+            "population": 380000,
+            "latitude": 10.3486485,
+            "longitude": 107.0765028,
+            "geocell": 3613670,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487044,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q21194",
+                "wikipedia_pages": {
+                    "en": "Vũng Tàu"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487046,
+            "country": 704,
+            "level1area": [
+                "vn56"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bắc Ninh",
+                "ja": "バクニン",
+                "ko": "박닌",
+                "ru": "Бакнинь",
+                "vi": "Bắc Ninh"
+            },
+            "place_type": 67,
+            "population": 200285,
+            "latitude": 21.1781515,
+            "longitude": 106.0710078,
+            "geocell": 4002460,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487046,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q33381",
+                "wikipedia_pages": {
+                    "en": "Bắc Ninh"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487048,
+            "country": 704,
+            "level1area": [
+                "vn57"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Thủ Dầu Một",
+                "id": "Thu Dau Mot",
+                "ko": "투저우못",
+                "th": "ถูเสิ่วหมต",
+                "vi": "Thủ Dầu Một"
+            },
+            "place_type": 67,
+            "population": 244277,
+            "latitude": 10.9808435,
+            "longitude": 106.6537483,
+            "geocell": 3635266,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487048,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q524553",
+                "wikipedia_pages": {
+                    "vi": "Thủ Dầu Một"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487058,
+            "country": 704,
+            "level1area": [
+                "vn25"
+            ],
+            "level2area": null,
+            "names": {
+                "cs": "Đông Hà",
+                "da": "Đông Hà",
+                "en": "Đông Hà",
+                "fa": "دونگ‌ها",
+                "fr": "Dông Hà",
+                "gl": "Dong Ha",
+                "ja": "ドンハ",
+                "ko": "동하",
+                "nl": "Đông Hà",
+                "pt": "Dong Ha",
+                "ru": "Донгха",
+                "sr": "Донг Ха",
+                "sv": "Dong Ha",
+                "th": "ดงห่า",
+                "uk": "Донгха",
+                "ur": "دونگ ہا",
+                "vi": "Đông Hà"
+            },
+            "place_type": 67,
+            "population": 95658,
+            "latitude": 16.8172845,
+            "longitude": 107.1010378,
+            "geocell": 3847671,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487058,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q33343",
+                "wikipedia_pages": {
+                    "vi": "Đông Hà"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487061,
+            "country": 704,
+            "level1area": [
+                "vn01"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Lai Châu",
+                "ja": "ライチャウ",
+                "ko": "라이쩌우",
+                "ru": "Лайтяу",
+                "th": "ลายเจิว",
+                "uk": "Лайтяу",
+                "vi": "Lai Châu"
+            },
+            "place_type": 67,
+            "population": 34474,
+            "latitude": 22.3996612,
+            "longitude": 103.4516882,
+            "geocell": 4045634,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487061,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2428273",
+                "wikipedia_pages": {
+                    "en": "Lai Châu"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487067,
+            "country": 704,
+            "level1area": [
+                "vn14"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hòa Bình",
+                "ja": "ホアビン",
+                "ko": "호아빈",
+                "ru": "Хоабинь",
+                "vi": "Hòa Bình"
+            },
+            "place_type": 67,
+            "population": 73847,
+            "latitude": 20.8252056,
+            "longitude": 105.3431291,
+            "geocell": 3991653,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487067,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q130324",
+                "wikipedia_pages": {
+                    "en": "Hòa Bình"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487077,
+            "country": 704,
+            "level1area": [
+                "vn22"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Vinh",
+                "ja": "ヴィン",
+                "ko": "빈",
+                "ru": "Винь",
+                "th": "วิญ",
+                "uk": "Вінь",
+                "vi": "Vinh"
+            },
+            "place_type": 67,
+            "population": 230469,
+            "latitude": 18.6698528,
+            "longitude": 105.6840371,
+            "geocell": 3912456,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487077,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q33428",
+                "wikipedia_pages": {
+                    "vi": "Vinh"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487083,
+            "country": 704,
+            "level1area": [
+                "vnhp"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Hải Phòng",
+                "en": "Hải Phòng",
+                "fr": "Haïphong",
+                "ja": "ハイフォン",
+                "kn": "ಹಾಯ್ ಫೋಂಗ್",
+                "ko": "하이퐁",
+                "lt": "Haifongas",
+                "ml": "ഹായ്ഫോങ്",
+                "ru": "Хайфон",
+                "th": "ไฮฟอง",
+                "uk": "Хайфонг",
+                "vi": "Hải Phòng"
+            },
+            "place_type": 67,
+            "population": 934000,
+            "latitude": 20.858864,
+            "longitude": 106.6749591,
+            "geocell": 3991666,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487083,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q72818",
+                "wikipedia_pages": {
+                    "vi": "Hải Phòng"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487086,
+            "country": 704,
+            "level1area": [
+                "vn23"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hà Tĩnh",
+                "fa": "ها تین",
+                "ja": "ハティン",
+                "ko": "하띤시",
+                "nl": "Hà Tĩnh",
+                "ru": "Хатинь",
+                "sr": "Ха Тин",
+                "sv": "Ha Tinh",
+                "th": "ห่าติ๋ญ",
+                "uk": "Хатінь",
+                "ur": "ہا تنہ",
+                "vi": "Hà Tĩnh"
+            },
+            "place_type": 67,
+            "population": 72792,
+            "latitude": 18.3452745,
+            "longitude": 105.9019482,
+            "geocell": 3901659,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487086,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q33996",
+                "wikipedia_pages": {
+                    "en": "Hà Tĩnh"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487088,
+            "country": 704,
+            "level1area": [
+                "vn05"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sơn La",
+                "ja": "ソンラ",
+                "ko": "선라",
+                "ru": "Шонла",
+                "th": "เซินลา",
+                "uk": "Шонла",
+                "vi": "Sơn La"
+            },
+            "place_type": 67,
+            "population": 70362,
+            "latitude": 21.3274048,
+            "longitude": 103.9151701,
+            "geocell": 4009639,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487088,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q33415",
+                "wikipedia_pages": {
+                    "vi": "Sơn La (thành phố)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487091,
+            "country": 704,
+            "level1area": [
+                "vn30"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Pleiku",
+                "fa": "پلیکو",
+                "ja": "プレイク",
+                "ko": "쁠래이꾸",
+                "ru": "Плейку",
+                "sr": "Плеику",
+                "th": "เปล็ยกู",
+                "uk": "Плейку",
+                "ur": "پلیکو",
+                "vi": "Pleiku"
+            },
+            "place_type": 67,
+            "population": 191684,
+            "latitude": 13.9715982,
+            "longitude": 108.0143597,
+            "geocell": 3743280,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487091,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q30599",
+                "wikipedia_pages": {
+                    "en": "Pleiku"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487094,
+            "country": 704,
+            "level1area": [
+                "vn24"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "دونج هوي",
+                "az": "Dong Hoi",
+                "be": "Горад Дангхоі",
+                "bg": "Донгхой",
+                "ca": "Dong Hoi",
+                "cs": "Dong Hoi",
+                "da": "Dong Hoi",
+                "el": "Ντονγκ Χόι",
+                "en": "Đồng Hới",
+                "eo": "Dong Hoi",
+                "fa": "دونگ هوی",
+                "fr": "Dong Hoi",
+                "fy": "Dong Hoi",
+                "ga": "Dong Hoi",
+                "he": "דונג הוי",
+                "hy": "Դոնգհոյ",
+                "ia": "Dong Hoi",
+                "io": "Dong Hoi",
+                "it": "Dong Hoi",
+                "ja": "ドンホイ",
+                "ka": "დონგჰოი",
+                "kk": "Донгхой",
+                "ko": "동허이",
+                "ky": "Донгхой",
+                "lt": "Donghojus",
+                "lv": "Donhoja",
+                "mk": "Донгхоj",
+                "mn": "Донгхой",
+                "ms": "Dong Hoi",
+                "my": "ဒေါင်ဟွိုင်း",
+                "nn": "Dong Hoi",
+                "os": "Донгхой",
+                "pa": "ਡੋਂਗ ਹੋਈ",
+                "pt": "Dong Hoi",
+                "ru": "Донгхой",
+                "sq": "Dong Hoi",
+                "sr": "Донг Хој",
+                "sv": "Dong Hoi",
+                "sw": "Dong Hoi",
+                "tg": "Донг Хой",
+                "th": "ด่งเฮ้ย",
+                "tk": "Dong Hoi",
+                "tt": "Донгхой",
+                "uk": "Донгхой",
+                "ur": "دونگ ہوئی",
+                "vi": "Đồng Hới"
+            },
+            "place_type": 67,
+            "population": 91601,
+            "latitude": 17.4659566,
+            "longitude": 106.5984715,
+            "geocell": 3869265,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487094,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1877",
+                "wikipedia_pages": {
+                    "vi": "Đồng Hới"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487099,
+            "country": 704,
+            "level1area": [
+                "vn26"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Хюе",
+                "cs": "Hue",
+                "da": "Hué",
+                "de": "Hue",
+                "el": "Χουέ",
+                "en": "Huế",
+                "eo": "Hue",
+                "es": "Hué",
+                "eu": "Hue",
+                "fa": "هوئه",
+                "fr": "Hué",
+                "ga": "Hué",
+                "he": "הואה",
+                "ja": "フエ",
+                "ka": "ჰუე",
+                "ko": "후에",
+                "lt": "Hujė",
+                "mk": "Хуе",
+                "mn": "Хюэ",
+                "ru": "Хюэ",
+                "sr": "Хуе",
+                "th": "เว้",
+                "uk": "Хюе",
+                "ur": "ہوائے",
+                "uz": "Xyue",
+                "vi": "Huế"
+            },
+            "place_type": 67,
+            "population": 351456,
+            "latitude": 16.4639321,
+            "longitude": 107.5863388,
+            "geocell": 3833275,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487099,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q36167",
+                "wikipedia_pages": {
+                    "vi": "Huế"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487110,
+            "country": 704,
+            "level1area": [
+                "vn67"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nam Định",
+                "ja": "ナムディン",
+                "ko": "남딘",
+                "ru": "Намдинь",
+                "th": "นามดิ่ญ",
+                "uk": "Намдін",
+                "vi": "Nam Định"
+            },
+            "place_type": 67,
+            "population": 179229,
+            "latitude": 20.4232641,
+            "longitude": 106.1688515,
+            "geocell": 3977261,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487110,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q33682",
+                "wikipedia_pages": {
+                    "vi": "Nam Định (thành phố)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487113,
+            "country": 704,
+            "level1area": [
+                "vn13"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hạ Long",
+                "ja": "ハロン",
+                "ko": "할롱",
+                "lt": "Halongas",
+                "ru": "Халонг",
+                "th": "หะล็อง",
+                "vi": "Hạ Long"
+            },
+            "place_type": 67,
+            "population": 270054,
+            "latitude": 20.9528365,
+            "longitude": 107.0800003,
+            "geocell": 3995270,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487113,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q36077",
+                "wikipedia_pages": {
+                    "vi": "Hạ Long"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487115,
+            "country": 704,
+            "level1area": [
+                "vn61"
+            ],
+            "level2area": null,
+            "names": {
+                "ja": "ハイズオン",
+                "ko": "하이즈엉",
+                "ru": "Хайзыонг",
+                "uk": "Хайзионґ",
+                "vi": "Hải Dương"
+            },
+            "place_type": 67,
+            "population": 215593,
+            "latitude": 20.9430878,
+            "longitude": 106.3225388,
+            "geocell": 3995263,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487115,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q36354",
+                "wikipedia_pages": {
+                    "en": "Hải Dương"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487118,
+            "country": 704,
+            "level1area": [
+                "vn72"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Gia Nghĩa",
+                "ko": "자응이어",
+                "th": "ซาเหงีย",
+                "vi": "Gia Nghĩa"
+            },
+            "place_type": 67,
+            "population": 61413,
+            "latitude": 12.0005094,
+            "longitude": 107.6961359,
+            "geocell": 3674876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487118,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1822996",
+                "wikipedia_pages": {
+                    "vi": "Gia Nghĩa (Việt Nam)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369487998,
+            "country": 704,
+            "level1area": [
+                "vn35"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bảo Lộc",
+                "ja": "バオロク",
+                "ko": "바오록",
+                "ru": "Баолок",
+                "th": "บ๋าวหลก",
+                "uk": "Баолок",
+                "vi": "Bảo Lộc"
+            },
+            "place_type": 67,
+            "population": 99961,
+            "latitude": 11.5506941,
+            "longitude": 107.8092511,
+            "geocell": 3656878,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369487998,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q35620",
+                "wikipedia_pages": {
+                    "en": "Bảo Lộc"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369490181,
+            "country": 704,
+            "level1area": [
+                "vn13"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Đông Triều",
+                "ko": "동찌에우",
+                "vi": "Đông Triều"
+            },
+            "place_type": 84,
+            "population": 72923,
+            "latitude": 21.0837903,
+            "longitude": 106.5133609,
+            "geocell": 3998865,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369490181,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q10840878",
+                "wikipedia_pages": {
+                    "vi": "Đông Triều"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369490771,
+            "country": 704,
+            "level1area": [
+                "vn68"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Phú Thọ",
+                "ko": "푸토",
+                "vi": "Phú Thọ"
+            },
+            "place_type": 84,
+            "population": 25308,
+            "latitude": 21.4000047,
+            "longitude": 105.2238899,
+            "geocell": 4013252,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369490771,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369490931,
+            "country": 704,
+            "level1area": [
+                "vn06"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Nghĩa Lộ",
+                "ko": "응이어로",
+                "pt": "Nghia Lo",
+                "ru": "Нгиало",
+                "vi": "Nghĩa Lộ"
+            },
+            "place_type": 84,
+            "population": 22253,
+            "latitude": 21.6064201,
+            "longitude": 104.5036951,
+            "geocell": 4020445,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369490931,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7022345",
+                "wikipedia_pages": {
+                    "vi": "Nghĩa Lộ"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369490995,
+            "country": 704,
+            "level1area": [
+                "vnhn"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sơn Tây",
+                "ko": "선떠이",
+                "ru": "Шонтай",
+                "vi": "Sơn Tây"
+            },
+            "place_type": 84,
+            "population": 76956,
+            "latitude": 21.1386671,
+            "longitude": 105.5056335,
+            "geocell": 4002455,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369490995,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1365138",
+                "wikipedia_pages": {
+                    "vi": "Sơn Tây (thị xã)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369491110,
+            "country": 704,
+            "level1area": [
+                "vn13"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Cẩm Phả",
+                "ja": "カムファ",
+                "ko": "껌파시",
+                "ru": "Камфа",
+                "uk": "Камфа",
+                "vi": "Cẩm Phả"
+            },
+            "place_type": 67,
+            "population": 182137,
+            "latitude": 21.004432,
+            "longitude": 107.278029,
+            "geocell": 3998872,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369491110,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1031051",
+                "wikipedia_pages": {
+                    "vi": "Cẩm Phả"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369491140,
+            "country": 704,
+            "level1area": [
+                "vn13"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Uông Bí",
+                "ja": "ウオンビ",
+                "ko": "우옹비",
+                "ru": "Уонгби",
+                "th": "อวงบี๊",
+                "vi": "Uông Bí"
+            },
+            "place_type": 67,
+            "population": 113416,
+            "latitude": 21.0414692,
+            "longitude": 106.7740261,
+            "geocell": 3998867,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369491140,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7897883",
+                "wikipedia_pages": {
+                    "vi": "Uông Bí"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369491333,
+            "country": 704,
+            "level1area": [
+                "vn21"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bỉm Sơn",
+                "ko": "빔선",
+                "vi": "Bỉm Sơn"
+            },
+            "place_type": 84,
+            "population": 49919,
+            "latitude": 20.0834534,
+            "longitude": 105.8589756,
+            "geocell": 3962858,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369491333,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369491358,
+            "country": 704,
+            "level1area": [
+                "vn18"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tam Điệp",
+                "ko": "땀디엡",
+                "th": "ตามเดียป",
+                "vi": "Tam Điệp"
+            },
+            "place_type": 67,
+            "population": 62866,
+            "latitude": 20.1565628,
+            "longitude": 105.9180352,
+            "geocell": 3966459,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369491358,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369491404,
+            "country": 704,
+            "level1area": [
+                "vn69"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sông Công",
+                "ko": "송꽁",
+                "vi": "Sông Công"
+            },
+            "place_type": 67,
+            "population": 48007,
+            "latitude": 21.4734139,
+            "longitude": 105.8424243,
+            "geocell": 4013258,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369491404,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369491888,
+            "country": 704,
+            "level1area": [
+                "vn22"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Thái Hòa",
+                "ko": "타이호아",
+                "vi": "Thái Hòa"
+            },
+            "place_type": 84,
+            "population": 29079,
+            "latitude": 19.3140811,
+            "longitude": 105.4280377,
+            "geocell": 3937654,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369491888,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369492974,
+            "country": 704,
+            "level1area": [
+                "vn24"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ba Don",
+                "ko": "바돈 시사",
+                "vi": "Ba Đồn"
+            },
+            "place_type": 84,
+            "population": 106711,
+            "latitude": 17.7558925,
+            "longitude": 106.420438,
+            "geocell": 3880064,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369492974,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://badon.quangbinh.gov.vn/",
+                "wikidata_page_name": "Q83385",
+                "wikipedia_pages": {
+                    "vi": "Ba Đồn"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369493196,
+            "country": 704,
+            "level1area": [
+                "vn39"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Gia Kiệm",
+                "ko": "자끼엠",
+                "ru": "Закьем",
+                "vi": "Gia Kiệm"
+            },
+            "place_type": 86,
+            "population": 20000,
+            "latitude": 11.0288796,
+            "longitude": 107.1747447,
+            "geocell": 3638871,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369493196,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2023472",
+                "wikipedia_pages": {
+                    "vi": "Gia Kiệm"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369493275,
+            "country": 704,
+            "level1area": [
+                "vn56"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Từ Sơn",
+                "ko": "뚜선",
+                "ru": "Тысон",
+                "vi": "Từ Sơn"
+            },
+            "place_type": 67,
+            "population": 101755,
+            "latitude": 21.113309,
+            "longitude": 105.9568611,
+            "geocell": 4002459,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369493275,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1924271",
+                "wikipedia_pages": {
+                    "en": "Từ Sơn"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369493378,
+            "country": 704,
+            "level1area": [
+                "vn23"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hong Linh town",
+                "ko": "홍린 시사",
+                "vi": "Hồng Lĩnh"
+            },
+            "place_type": 84,
+            "population": 34628,
+            "latitude": 18.5282056,
+            "longitude": 105.7063862,
+            "geocell": 3908857,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369493378,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369493496,
+            "country": 704,
+            "level1area": [
+                "vn21"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sầm Sơn",
+                "ja": "サムソン",
+                "ko": "섬선",
+                "th": "เสิ่มเซิน",
+                "vi": "Sầm Sơn"
+            },
+            "place_type": 67,
+            "population": 109208,
+            "latitude": 19.7364901,
+            "longitude": 105.8989974,
+            "geocell": 3952058,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369493496,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4358513",
+                "wikipedia_pages": {
+                    "vi": "Sầm Sơn"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369493611,
+            "country": 704,
+            "level1area": [
+                "vn13"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Quảng Yên",
+                "ko": "꽝옌",
+                "uk": "Куанґ'єн",
+                "vi": "Quảng Yên"
+            },
+            "place_type": 84,
+            "population": 85868,
+            "latitude": 20.9417401,
+            "longitude": 106.7983941,
+            "geocell": 3995267,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369493611,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369493852,
+            "country": 704,
+            "level1area": [
+                "vn30"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "An Khê",
+                "ko": "안케",
+                "vi": "An Khê"
+            },
+            "place_type": 84,
+            "population": 44746,
+            "latitude": 13.9504742,
+            "longitude": 108.6608142,
+            "geocell": 3743286,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369493852,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369494049,
+            "country": 704,
+            "level1area": [
+                "vn30"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ayun Pa",
+                "ko": "아윤빠",
+                "vi": "Ayun Pa"
+            },
+            "place_type": 84,
+            "population": 22424,
+            "latitude": 13.4005198,
+            "longitude": 108.4467165,
+            "geocell": 3725284,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369494049,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369494204,
+            "country": 704,
+            "level1area": [
+                "vn33"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Buôn Hồ",
+                "ko": "부온호",
+                "vi": "Buôn Hồ"
+            },
+            "place_type": 84,
+            "population": 54766,
+            "latitude": 12.9187424,
+            "longitude": 108.2668299,
+            "geocell": 3707282,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369494204,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4998003",
+                "wikipedia_pages": {
+                    "vi": "Buôn Hồ"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369494819,
+            "country": 704,
+            "level1area": [
+                "vn25"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Quang Tri",
+                "ru": "Куангчи",
+                "vi": "Quảng Trị"
+            },
+            "place_type": 84,
+            "population": 19390,
+            "latitude": 16.7546907,
+            "longitude": 107.1895518,
+            "geocell": 3844071,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369494819,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1320413",
+                "wikipedia_pages": {
+                    "vi": "Quảng Trị (thị xã)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369495077,
+            "country": 704,
+            "level1area": [
+                "vn23"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ky Anh",
+                "ko": "끼아인",
+                "vi": "Kỳ Anh"
+            },
+            "place_type": 84,
+            "population": 49654,
+            "latitude": 18.0665114,
+            "longitude": 106.3001346,
+            "geocell": 3890863,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369495077,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q20025826",
+                "wikipedia_pages": {
+                    "vi": "Kỳ Anh (thị xã)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369496102,
+            "country": 704,
+            "level1area": [
+                "vn39"
+            ],
+            "level2area": null,
+            "names": {
+                "vi": "Dầu Giây"
+            },
+            "place_type": 84,
+            "population": 23309,
+            "latitude": 10.9429603,
+            "longitude": 107.1398562,
+            "geocell": 3635271,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369496102,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1888610",
+                "wikipedia_pages": {
+                    "vi": "Dầu Giây"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369503144,
+            "country": 704,
+            "level1area": [
+                "vn70"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Phúc Yên",
+                "ko": "푹옌",
+                "vi": "Phúc Yên"
+            },
+            "place_type": 67,
+            "population": 82687,
+            "latitude": 21.2332705,
+            "longitude": 105.7035505,
+            "geocell": 4006057,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369503144,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7188288",
+                "wikipedia_pages": {
+                    "en": "Phúc Yên"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369503214,
+            "country": 704,
+            "level1area": [
+                "vn45"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Sa Dez",
+                "en": "Sa Đéc",
+                "fr": "Sadek",
+                "ja": "サデーク",
+                "ko": "사덱시",
+                "th": "ซาแด๊ก",
+                "uk": "Шадек",
+                "vi": "Sa Đéc"
+            },
+            "place_type": 67,
+            "population": 162713,
+            "latitude": 10.2943716,
+            "longitude": 105.7588147,
+            "geocell": 3610057,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369503214,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2987563",
+                "wikipedia_pages": {
+                    "vi": "Sa Đéc"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 369504080,
+            "country": 704,
+            "level1area": [
+                "vn39"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Long Thành",
+                "ko": "롱타인",
+                "vi": "Long Thành"
+            },
+            "place_type": 84,
+            "population": 27084,
+            "latitude": 10.7866853,
+            "longitude": 106.9515404,
+            "geocell": 3628069,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 369504080,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2625196",
+                "wikipedia_pages": {
+                    "vi": "Long Thành (thị trấn Đồng Nai)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 428504674,
+            "country": 704,
+            "level1area": [
+                "vn71"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Điện Biên Phủ",
+                "fr": "Điện Biên Phủ",
+                "ja": "ディエンビエンフー",
+                "ko": "디엔비엔푸",
+                "ru": "Дьенбьенфу",
+                "th": "เดียนเบียนฟู",
+                "vi": "Điện Biên Phủ"
+            },
+            "place_type": 67,
+            "population": 80366,
+            "latitude": 21.3874893,
+            "longitude": 103.0185,
+            "geocell": 4009630,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 428504674,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q36027",
+                "wikipedia_pages": {
+                    "vi": "Điện Biên Phủ"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 622293422,
+            "country": 704,
+            "level1area": [
+                "vn13"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Móng Cái",
+                "ja": "モンカイ",
+                "ko": "몽까이",
+                "ru": "Монгкай",
+                "th": "ม้องก๊าย",
+                "vi": "TP. Móng Cái"
+            },
+            "place_type": 67,
+            "population": 66434,
+            "latitude": 21.5290279,
+            "longitude": 107.9691594,
+            "geocell": 4016879,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 622293422,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q33204",
+                "wikipedia_pages": {
+                    "vi": "Móng Cái"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1527965399,
+            "country": 704,
+            "level1area": [
+                "vn49"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Vĩnh Long",
+                "ja": "ヴィンロン",
+                "ko": "빈롱",
+                "ru": "Виньлонг",
+                "vi": "Vĩnh Long"
+            },
+            "place_type": 67,
+            "population": 200120,
+            "latitude": 10.252039,
+            "longitude": 105.9735715,
+            "geocell": 3610059,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1527965399,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q34789",
+                "wikipedia_pages": {
+                    "vi": "Vĩnh Long (thành phố)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1539810898,
+            "country": 704,
+            "level1area": [
+                "vn53"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bắc Kạn",
+                "ja": "バックカン",
+                "ko": "박깐",
+                "lt": "Bakkanas",
+                "ru": "Баккан",
+                "th": "บั๊กกั่น",
+                "vi": "Bắc Kạn"
+            },
+            "place_type": 67,
+            "population": 38510,
+            "latitude": 22.1494915,
+            "longitude": 105.837248,
+            "geocell": 4038458,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1539810898,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q75700",
+                "wikipedia_pages": {
+                    "vi": "Bắc Kạn (thành phố)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1674285764,
+            "country": 704,
+            "level1area": [
+                "vn31"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Phú Phong",
+                "ko": "푸퐁",
+                "vi": "Phú Phong"
+            },
+            "place_type": 84,
+            "population": 25000,
+            "latitude": 13.9108292,
+            "longitude": 108.9215469,
+            "geocell": 3743289,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1674285764,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1320837",
+                "wikipedia_pages": {
+                    "vi": "Tây Sơn, Bình Định"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1754728286,
+            "country": 704,
+            "level1area": [
+                "vn34"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Cam Ranh",
+                "ja": "カムラン",
+                "ko": "깜라인",
+                "lt": "Kamranis",
+                "ru": "Камрань",
+                "sr": "Кам Ран",
+                "th": "กามซัญ",
+                "uk": "Камрань",
+                "ur": "کام رنھ",
+                "vi": "Cam Ranh"
+            },
+            "place_type": 67,
+            "population": 220630,
+            "latitude": 11.9166696,
+            "longitude": 109.14861,
+            "geocell": 3671291,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1754728286,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q33116",
+                "wikipedia_pages": {
+                    "vi": "Cam Ranh"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2502425156,
+            "country": 704,
+            "level1area": [
+                "vn33"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بون ما توت",
+                "en": "Buôn Ma Thuột",
+                "fa": "بون ما توت",
+                "he": "בון מא טאוט",
+                "ja": "バンメトート",
+                "ko": "부온마투옷",
+                "ru": "Буонметхуот",
+                "th": "บวนมาถ็วต",
+                "uk": "Буонметхуот",
+                "vi": "Buôn Ma Thuột"
+            },
+            "place_type": 67,
+            "population": 245951,
+            "latitude": 12.6796827,
+            "longitude": 108.0447368,
+            "geocell": 3696480,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2502425156,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q33469",
+                "wikipedia_pages": {
+                    "vi": "Buôn Ma Thuột"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2955883544,
+            "country": 704,
+            "level1area": [
+                "vnsg"
+            ],
+            "level2area": null,
+            "names": {
+                "ja": "トゥドゥック",
+                "ko": "트득시",
+                "th": "ถูดึ๊ก",
+                "vi": "Thủ Đức"
+            },
+            "place_type": 67,
+            "population": 1013795,
+            "latitude": 10.8298295,
+            "longitude": 106.7617899,
+            "geocell": 3631667,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2955883544,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://tpthuduc.hochiminhcity.gov.vn/",
+                "wikidata_page_name": "Q104050371",
+                "wikipedia_pages": {
+                    "vi": "Thủ Đức"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3140507587,
+            "country": 704,
+            "level1area": [
+                "vn40"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Phan Thiết",
+                "ja": "ファンティエット",
+                "ko": "판티엣",
+                "ru": "Фантхьет",
+                "th": "ฟานเที้ยต",
+                "vi": "Phan Thiết"
+            },
+            "place_type": 67,
+            "population": 255000,
+            "latitude": 10.9311514,
+            "longitude": 108.1015919,
+            "geocell": 3635281,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3140507587,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q25315",
+                "wikipedia_pages": {
+                    "en": "Phan Thiết"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3252685429,
+            "country": 704,
+            "level1area": [
+                "vn09"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Đồng Mỏ",
+                "ko": "동모",
+                "vi": "Đồng Mỏ"
+            },
+            "place_type": 84,
+            "population": 14275,
+            "latitude": 21.6575679,
+            "longitude": 106.5774412,
+            "geocell": 4020465,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3252685429,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q10841962",
+                "wikipedia_pages": {
+                    "vi": "Đồng Mỏ"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3988619004,
+            "country": 704,
+            "level1area": [
+                "vn63"
+            ],
+            "level2area": null,
+            "names": {
+                "ko": "년틴",
+                "vi": "Nhân Thịnh"
+            },
+            "place_type": 84,
+            "population": 10000,
+            "latitude": 20.5512963,
+            "longitude": 106.1493182,
+            "geocell": 3980861,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3988619004,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4055201266,
+            "country": 704,
+            "level1area": [
+                "vn09"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Lạng Sơn",
+                "ko": "랑선",
+                "ru": "Лангшон",
+                "th": "หลั่งเซิน",
+                "uk": "Ланґшон",
+                "vi": "Lạng Sơn"
+            },
+            "place_type": 67,
+            "population": 74492,
+            "latitude": 21.8528759,
+            "longitude": 106.7597458,
+            "geocell": 4027667,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4055201266,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q33383",
+                "wikipedia_pages": {
+                    "vi": "Lạng Sơn (thành phố)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4610197483,
+            "country": 704,
+            "level1area": [
+                "vn09"
+            ],
+            "level2area": null,
+            "names": {
+                "ko": "후울룽",
+                "vi": "Hữu Lũng"
+            },
+            "place_type": 84,
+            "population": 12335,
+            "latitude": 21.5021391,
+            "longitude": 106.345456,
+            "geocell": 4016863,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4610197483,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q10772430",
+                "wikipedia_pages": {
+                    "vi": "Hữu Lũng (thị trấn)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4637309712,
+            "country": 704,
+            "level1area": [
+                "vn54"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Thắng",
+                "ko": "탕",
+                "vi": "Thắng"
+            },
+            "place_type": 84,
+            "population": 18883,
+            "latitude": 21.3556279,
+            "longitude": 105.9793302,
+            "geocell": 4009659,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4637309712,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2830072",
+                "wikipedia_pages": {
+                    "vi": "Thắng (thị trấn)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4710018624,
+            "country": 704,
+            "level1area": [
+                "vn21"
+            ],
+            "level2area": null,
+            "names": {
+                "vi": "Rừng Thông"
+            },
+            "place_type": 84,
+            "population": 10878,
+            "latitude": 19.8156409,
+            "longitude": 105.7270837,
+            "geocell": 3955657,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4710018624,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q10812105",
+                "wikipedia_pages": {
+                    "vi": "Rừng Thông"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4754066901,
+            "country": 704,
+            "level1area": [
+                "vn09"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Đồng Đăng",
+                "ko": "동당",
+                "vi": "Đồng Đăng"
+            },
+            "place_type": 84,
+            "population": 10584,
+            "latitude": 21.9500877,
+            "longitude": 106.6982344,
+            "geocell": 4031266,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4754066901,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1285379",
+                "wikipedia_pages": {
+                    "vi": "Đồng Đăng"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4784547652,
+            "country": 704,
+            "level1area": [
+                "vn45"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tràm Chim",
+                "ko": "짬찜",
+                "vi": "Tràm Chim"
+            },
+            "place_type": 84,
+            "population": 10167,
+            "latitude": 10.670013,
+            "longitude": 105.564687,
+            "geocell": 3624455,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4784547652,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q10828567",
+                "wikipedia_pages": {
+                    "vi": "Tràm Chim (thị trấn)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4784550785,
+            "country": 704,
+            "level1area": [
+                "vn45"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sa Rài",
+                "km": "សារាយណ៍",
+                "ko": "사라이",
+                "vi": "Sa Rài"
+            },
+            "place_type": 84,
+            "population": 11360,
+            "latitude": 10.8732222,
+            "longitude": 105.4623666,
+            "geocell": 3631654,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4784550785,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4887811512,
+            "country": 704,
+            "level1area": [
+                "vn63"
+            ],
+            "level2area": null,
+            "names": {
+                "ko": "싸쩐리",
+                "vi": "Chân Lý"
+            },
+            "place_type": 86,
+            "population": 10001,
+            "latitude": 20.6066703,
+            "longitude": 106.1019298,
+            "geocell": 3984461,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4887811512,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4903108773,
+            "country": 704,
+            "level1area": [
+                "vnhn"
+            ],
+            "level2area": null,
+            "names": {
+                "vi": "Xuân Canh"
+            },
+            "place_type": 86,
+            "population": 15246,
+            "latitude": 21.0951031,
+            "longitude": 105.8524871,
+            "geocell": 3998858,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4903108773,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4986624899,
+            "country": 704,
+            "level1area": [
+                "vn66"
+            ],
+            "level2area": null,
+            "names": {
+                "vi": "Thôn Ngọc Loan"
+            },
+            "place_type": 72,
+            "population": 30000,
+            "latitude": 20.9726874,
+            "longitude": 105.9731566,
+            "geocell": 3995259,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4986624899,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5157826922,
+            "country": 704,
+            "level1area": [
+                "vn27"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Dien Ban",
+                "ko": "디엔반 시사",
+                "vi": "Điện Bàn"
+            },
+            "place_type": 84,
+            "population": 235013,
+            "latitude": 15.8848033,
+            "longitude": 108.2517836,
+            "geocell": 3811682,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5157826922,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6466270897,
+            "country": 704,
+            "level1area": [
+                "vn47"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Phú Quốc",
+                "fr": "Phú Quốc",
+                "ja": "フーコック市",
+                "km": "ក្រុងភូគួច",
+                "ko": "푸꾸옥시",
+                "th": "ฟู้โกว๊ก",
+                "vi": "Phú Quốc"
+            },
+            "place_type": 67,
+            "population": 144460,
+            "latitude": 10.2162807,
+            "longitude": 103.9875395,
+            "geocell": 3610039,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6466270897,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q146695",
+                "wikipedia_pages": {
+                    "vi": "Phú Quốc"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7275726513,
+            "country": 704,
+            "level1area": [
+                "vn26"
+            ],
+            "level2area": null,
+            "names": {
+                "uk": "Хионґтхой",
+                "vi": "Hương Thủy"
+            },
+            "place_type": 84,
+            "population": 67376,
+            "latitude": 16.4115408,
+            "longitude": 107.671579,
+            "geocell": 3833276,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7275726513,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5965323",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7276149269,
+            "country": 704,
+            "level1area": [
+                "vn26"
+            ],
+            "level2area": null,
+            "names": {
+                "vi": "Hương Trà"
+            },
+            "place_type": 84,
+            "population": 57188,
+            "latitude": 16.5188734,
+            "longitude": 107.4840029,
+            "geocell": 3836874,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7276149269,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8244515038,
+            "country": 704,
+            "level1area": [
+                "vn69"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Hoa Thuong",
+                "vi": "Hóa Thượng"
+            },
+            "place_type": 84,
+            "population": 13693,
+            "latitude": 21.6405226,
+            "longitude": 105.8393489,
+            "geocell": 4020458,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8244515038,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://hoathuong.donghy.thainguyen.gov.vn/",
+                "wikidata_page_name": "Q10771191",
+                "wikipedia_pages": {
+                    "vi": "Hóa Thượng"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9480282602,
+            "country": 704,
+            "level1area": [
+                "vn22"
+            ],
+            "level2area": null,
+            "names": {
+                "vi": "Hoàng Mai"
+            },
+            "place_type": 84,
+            "population": 59517,
+            "latitude": 19.2684676,
+            "longitude": 105.7163991,
+            "geocell": 3934057,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9480282602,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q10768961",
+                "wikipedia_pages": {
+                    "vi": "Hoàng Mai (thị xã)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9528717644,
+            "country": 704,
+            "level1area": [
+                "vn45"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tan Thanh",
+                "ko": "떤타인",
+                "vi": "Tân Thành"
+            },
+            "place_type": 86,
+            "population": 23109,
+            "latitude": 10.2560305,
+            "longitude": 105.5931629,
+            "geocell": 3610055,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9528717644,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q10830834",
+                "wikipedia_pages": {
+                    "vi": "Tân Thành, Lai Vung"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9655661027,
+            "country": 704,
+            "level1area": [
+                "vn21"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Lam Sơn",
+                "ja": "ラムソン",
+                "ko": "람선",
+                "vi": "Lam Sơn"
+            },
+            "place_type": 84,
+            "population": 10890,
+            "latitude": 19.9055558,
+            "longitude": 105.4055566,
+            "geocell": 3959254,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9655661027,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9946380258,
+            "country": 704,
+            "level1area": [
+                "vn58"
+            ],
+            "level2area": null,
+            "names": {
+                "ko": "쩐타시사",
+                "vi": "Chơn Thành"
+            },
+            "place_type": 84,
+            "population": 107350,
+            "latitude": 11.4199483,
+            "longitude": 106.616017,
+            "geocell": 3653266,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9946380258,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

@@ -1,0 +1,985 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 544060405,
+            "country": 414,
+            "level1area": [
+                "kwku"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Koeweit",
+                "ar": "مدينة الكويت",
+                "az": "Küveyt",
+                "be": "Кувейт",
+                "bg": "Кувейт",
+                "bn": "কুয়েত সিটি",
+                "br": "Koweit",
+                "bs": "Kuvajt",
+                "ca": "Al-Kuwait",
+                "ckb": "کووەیت",
+                "cs": "Kuvajt",
+                "cy": "Dinas Kuwait",
+                "da": "Kuwait City",
+                "de": "Kuwait-Stadt",
+                "el": "Πόλη του Κουβέιτ",
+                "en": "Kuwait City",
+                "eo": "Kuvajturbo",
+                "es": "Kuwait",
+                "et": "Al-Kuwayt",
+                "eu": "Kuwait",
+                "fa": "کویت",
+                "fi": "Kuwait",
+                "fr": "Koweït",
+                "fy": "Koeweit",
+                "gd": "Cubhait",
+                "gl": "Kuwait",
+                "he": "העיר כווית",
+                "hi": "कुवैत नगर",
+                "hr": "Kuvajt",
+                "hu": "Kuvaitváros",
+                "hy": "Էլ Քուվեյթ",
+                "id": "Kuwait City",
+                "io": "Kuwait-Urbo",
+                "it": "Città del Kuwait",
+                "ja": "クウェート市",
+                "ka": "ელ-ქუვეითი",
+                "ko": "쿠웨이트시티",
+                "lt": "Kuveitas",
+                "lv": "Kuveita",
+                "mk": "Кувајт",
+                "ml": "കുവൈറ്റ് സിറ്റി",
+                "mn": "Кувейт хот",
+                "mr": "कुवेत शहर",
+                "ms": "Bandar Kuwait",
+                "nl": "Koeweit",
+                "nn": "Kuwait by",
+                "os": "Эль-Кувейт",
+                "pl": "Kuwejt",
+                "pt": "Kuwait",
+                "ro": "Kuweit",
+                "ru": "Эль-Кувейт",
+                "sk": "Kuvajt",
+                "sr": "Кувајт",
+                "sv": "Kuwait City",
+                "sw": "Jiji la Kuwait",
+                "ta": "குவைத் நகரம்",
+                "te": "కువైట్ సిటీ",
+                "tg": "Ал-Кувейт",
+                "th": "คูเวตซิตี",
+                "tr": "Kuveyt",
+                "ug": "كۇۋائىت شەھىرى",
+                "uk": "Ель-Кувейт",
+                "ur": "کویت شہر",
+                "vi": "Thành phố Kuwait"
+            },
+            "place_type": 67,
+            "population": 637411,
+            "latitude": 29.3796532,
+            "longitude": 47.9734174,
+            "geocell": 4297079,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 544060405,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q35178",
+                "wikipedia_pages": {
+                    "de": "Kuwait-Stadt"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1278188834,
+            "country": 414,
+            "level1area": [
+                "kwja"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الجهراء",
+                "de": "al-Dschahra",
+                "en": "Al Jahra",
+                "es": "Jahra",
+                "et": "Al-Jahrā’",
+                "fr": "Al Jahra",
+                "ja": "ジャハラー",
+                "ml": "അൽ-ജഹറ",
+                "ru": "Эль-Джахра"
+            },
+            "place_type": 67,
+            "population": 393432,
+            "latitude": 29.3474636,
+            "longitude": 47.6722054,
+            "geocell": 4297076,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1278188834,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1077024",
+                "wikipedia_pages": {
+                    "en": "Al Jahra"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1759971858,
+            "country": 414,
+            "level1area": [
+                "kwku"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الروضة",
+                "en": "Rawda",
+                "ml": "റൗധ"
+            },
+            "place_type": 67,
+            "population": 40245,
+            "latitude": 29.3299239,
+            "longitude": 47.9984225,
+            "geocell": 4297079,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1759971858,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1759971859,
+            "country": 414,
+            "level1area": [
+                "kwku"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "السرة",
+                "en": "Surra",
+                "ml": "സുറ"
+            },
+            "place_type": 67,
+            "population": 38492,
+            "latitude": 29.3144991,
+            "longitude": 48.0069616,
+            "geocell": 4297080,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1759971859,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4116292",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1759971888,
+            "country": 414,
+            "level1area": [
+                "kwku"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "قرطبة",
+                "en": "Qurtuba",
+                "ml": "ഖുർതുബ"
+            },
+            "place_type": 67,
+            "population": 35814,
+            "latitude": 29.3119409,
+            "longitude": 47.9872723,
+            "geocell": 4297079,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1759971888,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1760623214,
+            "country": 414,
+            "level1area": [
+                "kwah"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الأحمدي",
+                "de": "Al Ahmadi",
+                "en": "Ahmadi",
+                "es": "Al Ahmadi",
+                "fr": "Al Ahmadi",
+                "ja": "アハマディ",
+                "ml": "അൽ-അഹമ്മദി",
+                "ru": "Эль-Ахмади"
+            },
+            "place_type": 67,
+            "population": 31422,
+            "latitude": 29.0890687,
+            "longitude": 48.0610236,
+            "geocell": 4286280,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1760623214,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q980396",
+                "wikipedia_pages": {
+                    "ar": "الأحمدي"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4602123773,
+            "country": 414,
+            "level1area": [
+                "kwku"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الدعية",
+                "en": "Da'iya",
+                "ml": "ദായ്യ"
+            },
+            "place_type": 67,
+            "population": 19636,
+            "latitude": 29.3569034,
+            "longitude": 48.0117679,
+            "geocell": 4297080,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4602123773,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4602123775,
+            "country": 414,
+            "level1area": [
+                "kwku"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "القادسية",
+                "en": "Qadsiya",
+                "ml": "ഖാദ്സിയ"
+            },
+            "place_type": 67,
+            "population": 24457,
+            "latitude": 29.3487761,
+            "longitude": 48.0030653,
+            "geocell": 4297080,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4602123775,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4602123776,
+            "country": 414,
+            "level1area": [
+                "kwku"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "النزهة",
+                "en": "Nuzha",
+                "ml": "അൽ നുസ്ഹ"
+            },
+            "place_type": 67,
+            "population": 14489,
+            "latitude": 29.3416311,
+            "longitude": 47.9915104,
+            "geocell": 4297079,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4602123776,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4602123777,
+            "country": 414,
+            "level1area": [
+                "kwku"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الفيحاء",
+                "en": "Faiha",
+                "ml": "ഫൈഹ"
+            },
+            "place_type": 67,
+            "population": 22991,
+            "latitude": 29.3384809,
+            "longitude": 47.9795444,
+            "geocell": 4297079,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4602123777,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4602123778,
+            "country": 414,
+            "level1area": [
+                "kwku"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كيفان",
+                "en": "Kaifan",
+                "ml": "കൈഫാൻ"
+            },
+            "place_type": 67,
+            "population": 28843,
+            "latitude": 29.3385681,
+            "longitude": 47.9618183,
+            "geocell": 4297079,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4602123778,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4602123780,
+            "country": 414,
+            "level1area": [
+                "kwku"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الشامية",
+                "en": "Shamiya"
+            },
+            "place_type": 67,
+            "population": 18078,
+            "latitude": 29.3541641,
+            "longitude": 47.9683478,
+            "geocell": 4297079,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4602123780,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4602123782,
+            "country": 414,
+            "level1area": [
+                "kwku"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "جابر الأحمد",
+                "de": "Jaber Al-Ahmad",
+                "en": "Jaber Al-Ahmad",
+                "es": "Jaber Al-Ahmad",
+                "fr": "Jaber Al-Ahmad",
+                "ml": "ജാബിർ അൽ-അഹമ്മദ്"
+            },
+            "place_type": 67,
+            "population": 64205,
+            "latitude": 29.3427117,
+            "longitude": 47.7639361,
+            "geocell": 4297077,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4602123782,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4602123783,
+            "country": 414,
+            "level1area": [
+                "kwku"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ضاحية عبد الله السالم (الضاحية)",
+                "en": "Abdullah Al-Salem (Dahya)"
+            },
+            "place_type": 67,
+            "population": 22150,
+            "latitude": 29.3535991,
+            "longitude": 47.9802873,
+            "geocell": 4297079,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4602123783,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4602123785,
+            "country": 414,
+            "level1area": [
+                "kwku"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الدسمة",
+                "en": "Dasma",
+                "ml": "ദസ്മ"
+            },
+            "place_type": 67,
+            "population": 18656,
+            "latitude": 29.3656987,
+            "longitude": 48.0006648,
+            "geocell": 4297080,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4602123785,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4603691773,
+            "country": 414,
+            "level1area": [
+                "kwfa"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "صباح الناصر",
+                "en": "Sabah Al Nasser",
+                "ml": "സബാഹ് അൽ നാസർ"
+            },
+            "place_type": 67,
+            "population": 51070,
+            "latitude": 29.2709529,
+            "longitude": 47.8858181,
+            "geocell": 4293478,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4603691773,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4603691779,
+            "country": 414,
+            "level1area": [
+                "kwfa"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "إشبيلية",
+                "en": "Ishbilya",
+                "ml": "ഇഷ്ബിലിയ"
+            },
+            "place_type": 67,
+            "population": 37842,
+            "latitude": 29.2740582,
+            "longitude": 47.9390916,
+            "geocell": 4293479,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4603691779,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4603691781,
+            "country": 414,
+            "level1area": [
+                "kwfa"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "جليب الشيوخ",
+                "en": "Jileeb Al-Shiyukh",
+                "ml": "അബ്ബാസിയ"
+            },
+            "place_type": 67,
+            "population": 274026,
+            "latitude": 29.2596016,
+            "longitude": 47.9336667,
+            "geocell": 4293479,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4603691781,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4603691783,
+            "country": 414,
+            "level1area": [
+                "kwku"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "اليرموك",
+                "en": "Yarmouk",
+                "ml": "യർമൂക്ക്"
+            },
+            "place_type": 67,
+            "population": 25771,
+            "latitude": 29.3112015,
+            "longitude": 47.9694907,
+            "geocell": 4297079,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4603691783,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q8049376",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4603691786,
+            "country": 414,
+            "level1area": [
+                "kwha"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "حطين",
+                "en": "Hitteen",
+                "ml": "ഹിത്തീൻ"
+            },
+            "place_type": 67,
+            "population": 26187,
+            "latitude": 29.282662,
+            "longitude": 48.0206507,
+            "geocell": 4293480,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4603691786,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4603691787,
+            "country": 414,
+            "level1area": [
+                "kwha"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الزهراء",
+                "en": "Zahra",
+                "ml": "സഹ്റ"
+            },
+            "place_type": 67,
+            "population": 39433,
+            "latitude": 29.2758259,
+            "longitude": 48.0017895,
+            "geocell": 4293480,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4603691787,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4603691891,
+            "country": 414,
+            "level1area": [
+                "kwha"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الرميثية",
+                "en": "Rumaithiya",
+                "ml": "റുമൈതിയ"
+            },
+            "place_type": 67,
+            "population": 58127,
+            "latitude": 29.3160203,
+            "longitude": 48.0711695,
+            "geocell": 4297080,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4603691891,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4603691892,
+            "country": 414,
+            "level1area": [
+                "kwha"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الجابرية",
+                "en": "Jabriya",
+                "ml": "ജാബ്രിയ"
+            },
+            "place_type": 67,
+            "population": 76698,
+            "latitude": 29.3192521,
+            "longitude": 48.0329577,
+            "geocell": 4297080,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4603691892,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4115240",
+                "wikipedia_pages": {
+                    "en": "Jabriya"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4603691893,
+            "country": 414,
+            "level1area": [
+                "kwha"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "السالمية",
+                "en": "Salmiya",
+                "ml": "സാൽമിയ"
+            },
+            "place_type": 67,
+            "population": 309960,
+            "latitude": 29.3328242,
+            "longitude": 48.0684884,
+            "geocell": 4297080,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4603691893,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3505782",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4603691895,
+            "country": 414,
+            "level1area": [
+                "kwha"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "حولي",
+                "en": "Hawally",
+                "ml": "ഹവല്ലി",
+                "ru": "Хавалли"
+            },
+            "place_type": 67,
+            "population": 221249,
+            "latitude": 29.3378678,
+            "longitude": 48.0235507,
+            "geocell": 4297080,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4603691895,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3235220",
+                "wikipedia_pages": {
+                    "en": "Hawally, Kuwait"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4603691896,
+            "country": 414,
+            "level1area": [
+                "kwku"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "العديلية",
+                "en": "Adailiya",
+                "ml": "അദൈലിയ"
+            },
+            "place_type": 67,
+            "population": 21987,
+            "latitude": 29.3263351,
+            "longitude": 47.9814749,
+            "geocell": 4297079,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4603691896,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4603691897,
+            "country": 414,
+            "level1area": [
+                "kwku"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الخالدية",
+                "en": "Khaldiya",
+                "ml": "ഖാലിദിയ"
+            },
+            "place_type": 67,
+            "population": 19318,
+            "latitude": 29.3266251,
+            "longitude": 47.9630857,
+            "geocell": 4297079,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4603691897,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4721453939,
+            "country": 414,
+            "level1area": [
+                "kwha"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "السلام",
+                "en": "Salam"
+            },
+            "place_type": 67,
+            "population": 31775,
+            "latitude": 29.2970331,
+            "longitude": 48.0143201,
+            "geocell": 4293480,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4721453939,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 10840179098,
+            "country": 414,
+            "level1area": [
+                "kwku"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "شمال غرب الصليبخات",
+                "en": "North West Sulaibikhat"
+            },
+            "place_type": 67,
+            "population": 14865,
+            "latitude": 29.328167,
+            "longitude": 47.8068916,
+            "geocell": 4297078,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 10840179098,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11166002698,
+            "country": 414,
+            "level1area": [
+                "kwku"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الدوحة",
+                "en": "Doha"
+            },
+            "place_type": 67,
+            "population": 31056,
+            "latitude": 29.3165511,
+            "longitude": 47.8179812,
+            "geocell": 4297078,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11166002698,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11850261210,
+            "country": 414,
+            "level1area": [
+                "kwku"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الصليبخات",
+                "en": "Sulaibikhat"
+            },
+            "place_type": 67,
+            "population": 34563,
+            "latitude": 29.3147329,
+            "longitude": 47.847002,
+            "geocell": 4297078,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11850261210,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12143388697,
+            "country": 414,
+            "level1area": [
+                "kwku"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "غرناطة",
+                "en": "Granada"
+            },
+            "place_type": 67,
+            "population": 10677,
+            "latitude": 29.3134852,
+            "longitude": 47.8655881,
+            "geocell": 4297078,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12143388697,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    }
+]

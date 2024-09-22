@@ -1,0 +1,106 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1376501203,
+            "country": 64,
+            "level1area": [
+                "bt15"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "تيمفو",
+                "be": "Тхімпху",
+                "bg": "Тхимпху",
+                "bn": "থিম্পু",
+                "ckb": "تیمفوو",
+                "cs": "Thimbú",
+                "da": "Thimphu",
+                "de": "Thimphu",
+                "dz": "ཐིམ་ཕུ",
+                "el": "Τιμπού",
+                "en": "Thimphu",
+                "eo": "Timbuo",
+                "es": "Timbu",
+                "eu": "Thimphu",
+                "fa": "تیمفو",
+                "fr": "Thimphou",
+                "fy": "Timpû",
+                "he": "טהימפהו",
+                "hi": "थिम्फू",
+                "hu": "Timpu",
+                "hy": "Թհիմփհու",
+                "is": "Timfú",
+                "it": "Thimphu",
+                "ja": "ティンプー",
+                "ka": "თიმფუ",
+                "kn": "ಥಿಂಫು",
+                "ko": "팀부",
+                "lt": "Timpu",
+                "mk": "Тимбу",
+                "ml": "തിംഫു",
+                "mn": "Тхимпху",
+                "mr": "थिंफू",
+                "nl": "Thimphu",
+                "os": "Тхимпху",
+                "pa": "ਥਿੰਫੂ",
+                "pl": "Thimphu",
+                "pt": "Thimbu",
+                "ru": "Тхимпху",
+                "sr": "Тимбу",
+                "ta": "திம்பு",
+                "te": "థింపూ",
+                "tg": "Тхимпху",
+                "th": "ทิมพู",
+                "ug": "تىمپۇ",
+                "uk": "Тхімпху",
+                "ur": "تھمپو"
+            },
+            "place_type": 67,
+            "population": 98676,
+            "latitude": 27.4713546,
+            "longitude": 89.6336729,
+            "geocell": 4229096,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1376501203,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q9270",
+                "wikipedia_pages": {
+                    "dz": "dz:ཐིམ་ཕུག།"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4742742201,
+            "country": 64,
+            "level1area": [
+                "bt45"
+            ],
+            "level2area": null,
+            "names": {
+                "dz": "བསམ་གྲུབ་ལྗོངས་མཁར་",
+                "en": "Samdrup Jongkhar"
+            },
+            "place_type": 84,
+            "population": 10545,
+            "latitude": 26.7979904,
+            "longitude": 91.5042263,
+            "geocell": 4203915,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4742742201,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2380103",
+                "wikipedia_pages": {
+                    "dz": "dz:བསམ་གྲུབ་ལྗོངས་མཁར་"
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,2774 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52218309,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ieww"
+            ],
+            "names": {
+                "en": "Arklow",
+                "ga": "An tInbhear Mór",
+                "ru": "Арклоу",
+                "sr": "Арклоу"
+            },
+            "place_type": 84,
+            "population": 13399,
+            "latitude": 52.798221,
+            "longitude": -6.1540035,
+            "geocell": 5138938,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52218309,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q673662",
+                "wikipedia_pages": {
+                    "en": "Arklow"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52219009,
+            "country": 372,
+            "level1area": [
+                "iem"
+            ],
+            "level2area": [
+                "iece"
+            ],
+            "names": {
+                "en": "Shannon",
+                "ga": "Sionainn"
+            },
+            "place_type": 84,
+            "population": 10256,
+            "latitude": 52.7104544,
+            "longitude": -8.8788366,
+            "geocell": 5138911,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52219009,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q611919",
+                "wikipedia_pages": {
+                    "en": "Shannon, County Clare"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52219455,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": [
+                "iedl"
+            ],
+            "names": {
+                "en": "Letterkenny",
+                "ga": "Leitir Ceanainn",
+                "ru": "Леттеркенни"
+            },
+            "place_type": 84,
+            "population": 22549,
+            "latitude": 54.9517941,
+            "longitude": -7.7354368,
+            "geocell": 5218122,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52219455,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q952497",
+                "wikipedia_pages": {
+                    "en": "Letterkenny"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52220609,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "iewh"
+            ],
+            "names": {
+                "en": "Mullingar",
+                "ga": "An Muileann gCearr",
+                "gd": "Am Muileann Ceàrr",
+                "lt": "Malingaras",
+                "ru": "Маллингар"
+            },
+            "place_type": 84,
+            "population": 22667,
+            "latitude": 53.525822,
+            "longitude": -7.341304,
+            "geocell": 5167726,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52220609,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q55308",
+                "wikipedia_pages": {
+                    "en": "Mullingar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52227101,
+            "country": 372,
+            "level1area": [
+                "iec"
+            ],
+            "level2area": [
+                "iemo"
+            ],
+            "names": {
+                "en": "Ballina",
+                "ga": "Béal An Átha",
+                "ru": "Баллина",
+                "sr": "Балина"
+            },
+            "place_type": 84,
+            "population": 10556,
+            "latitude": 54.1143359,
+            "longitude": -9.1532099,
+            "geocell": 5189308,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52227101,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q384721",
+                "wikipedia_pages": {
+                    "en": "Ballina, County Mayo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52231061,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ied"
+            ],
+            "names": {
+                "en": "Skerries",
+                "ga": "Na Sceirí",
+                "ru": "Скеррис"
+            },
+            "place_type": 84,
+            "population": 10743,
+            "latitude": 53.5806379,
+            "longitude": -6.1066867,
+            "geocell": 5167738,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52231061,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52231176,
+            "country": 372,
+            "level1area": [
+                "iem"
+            ],
+            "level2area": [
+                "ieco"
+            ],
+            "names": {
+                "en": "Ballincollig",
+                "ga": "Baile an Chollaigh"
+            },
+            "place_type": 84,
+            "population": 17368,
+            "latitude": 51.8883371,
+            "longitude": -8.5894006,
+            "geocell": 5106514,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52231176,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2528844",
+                "wikipedia_pages": {
+                    "en": "Ballincollig"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52231249,
+            "country": 372,
+            "level1area": [
+                "iec"
+            ],
+            "level2area": [
+                "iemo"
+            ],
+            "names": {
+                "en": "Castlebar",
+                "ga": "Caisleán an Bharraigh",
+                "ru": "Каслбар"
+            },
+            "place_type": 84,
+            "population": 13054,
+            "latitude": 53.8568418,
+            "longitude": -9.297967,
+            "geocell": 5178507,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52231249,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q749196",
+                "wikipedia_pages": {
+                    "en": "Castlebar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52231383,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ieke"
+            ],
+            "names": {
+                "en": "Maynooth",
+                "ga": "Maigh Nuad",
+                "ru": "Мейнут"
+            },
+            "place_type": 84,
+            "population": 17259,
+            "latitude": 53.3830239,
+            "longitude": -6.5922806,
+            "geocell": 5160534,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52231383,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q750265",
+                "wikipedia_pages": {
+                    "en": "Maynooth"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52240129,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ieoy"
+            ],
+            "names": {
+                "en": "Edenderry",
+                "ga": "Éadan Doire",
+                "ru": "Идендерри"
+            },
+            "place_type": 84,
+            "population": 10490,
+            "latitude": 53.3433656,
+            "longitude": -7.0488576,
+            "geocell": 5160529,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52240129,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1016311",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52241483,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ieke"
+            ],
+            "names": {
+                "en": "Kildare",
+                "ga": "Cill Dara",
+                "ru": "Килдэр"
+            },
+            "place_type": 84,
+            "population": 10302,
+            "latitude": 53.1568465,
+            "longitude": -6.9117199,
+            "geocell": 5153330,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52241483,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q917865",
+                "wikipedia_pages": {
+                    "en": "Kildare"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52241895,
+            "country": 372,
+            "level1area": [
+                "iem"
+            ],
+            "level2area": [
+                "iewd"
+            ],
+            "names": {
+                "br": "Dún Garbhán",
+                "en": "Dungarvan",
+                "ga": "Dún Garbhán",
+                "ru": "Дангарван"
+            },
+            "place_type": 84,
+            "population": 10081,
+            "latitude": 52.0897488,
+            "longitude": -7.6210306,
+            "geocell": 5113723,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52241895,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q581790",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52241975,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ieww"
+            ],
+            "names": {
+                "en": "Bray",
+                "ga": "Bré",
+                "ru": "Брей",
+                "sr": "Бреј"
+            },
+            "place_type": 84,
+            "population": 33512,
+            "latitude": 53.2014604,
+            "longitude": -6.1105049,
+            "geocell": 5156938,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52241975,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q652000",
+                "wikipedia_pages": {
+                    "en": "Bray, County Wicklow"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52242241,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ieke"
+            ],
+            "names": {
+                "en": "Leixlip",
+                "ga": "Léim an Bhradáin",
+                "ru": "Лейкслип"
+            },
+            "place_type": 84,
+            "population": 16733,
+            "latitude": 53.3644766,
+            "longitude": -6.4897438,
+            "geocell": 5160535,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52242241,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q987797",
+                "wikipedia_pages": {
+                    "en": "Leixlip"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52242301,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "iemh"
+            ],
+            "names": {
+                "en": "Navan",
+                "ga": "An Uaimh",
+                "gd": "An Uaimh",
+                "ru": "Ан-Уавь"
+            },
+            "place_type": 84,
+            "population": 33886,
+            "latitude": 53.651908,
+            "longitude": -6.6833615,
+            "geocell": 5171333,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52242301,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q217845",
+                "wikipedia_pages": {
+                    "en": "Navan"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52243602,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ied"
+            ],
+            "names": {
+                "en": "Malahide",
+                "ga": "Mullach Íde",
+                "ru": "Малахайд"
+            },
+            "place_type": 84,
+            "population": 18608,
+            "latitude": 53.4508401,
+            "longitude": -6.15367,
+            "geocell": 5164138,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52243602,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q987748",
+                "wikipedia_pages": {
+                    "en": "Malahide"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52243812,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ieke"
+            ],
+            "names": {
+                "en": "Celbridge",
+                "ga": "Cill Droichid"
+            },
+            "place_type": 84,
+            "population": 20601,
+            "latitude": 53.3383004,
+            "longitude": -6.5396223,
+            "geocell": 5160534,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52243812,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q629881",
+                "wikipedia_pages": {
+                    "en": "Celbridge"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52245055,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "iewx"
+            ],
+            "names": {
+                "cy": "Loch Garman",
+                "en": "Wexford",
+                "ga": "Loch Garman",
+                "ru": "Уэксфорд"
+            },
+            "place_type": 84,
+            "population": 163919,
+            "latitude": 52.3367671,
+            "longitude": -6.4601397,
+            "geocell": 5124535,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52245055,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q209126",
+                "wikipedia_pages": {
+                    "en": "Wexford"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52245817,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "iels"
+            ],
+            "names": {
+                "br": "Portlaoise",
+                "en": "Portlaoise",
+                "ga": "Portlaoise"
+            },
+            "place_type": 84,
+            "population": 23494,
+            "latitude": 53.0340093,
+            "longitude": -7.3000591,
+            "geocell": 5149726,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52245817,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q822871",
+                "wikipedia_pages": {
+                    "en": "Portlaoise"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52246394,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ielh"
+            ],
+            "names": {
+                "en": "Drogheda",
+                "ga": "Droichead Átha",
+                "gd": "Drochaid Àtha",
+                "ru": "Дроэда",
+                "sr": "Дрогеда"
+            },
+            "place_type": 84,
+            "population": 44135,
+            "latitude": 53.7149877,
+            "longitude": -6.3524183,
+            "geocell": 5174936,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52246394,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q207223",
+                "wikipedia_pages": {
+                    "en": "Drogheda"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52246714,
+            "country": 372,
+            "level1area": [
+                "iem"
+            ],
+            "level2area": [
+                "ieky"
+            ],
+            "names": {
+                "br": "Cill Airne",
+                "en": "Killarney",
+                "ga": "Cill Airne",
+                "gd": "Cill Àirne",
+                "ru": "Килларни"
+            },
+            "place_type": 84,
+            "population": 14412,
+            "latitude": 52.0595746,
+            "longitude": -9.505322,
+            "geocell": 5113704,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52246714,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q623382",
+                "wikipedia_pages": {
+                    "en": "Killarney"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52250706,
+            "country": 372,
+            "level1area": [
+                "iem"
+            ],
+            "level2area": [
+                "iece"
+            ],
+            "names": {
+                "en": "Ennis",
+                "ga": "Inis",
+                "ru": "Эннис"
+            },
+            "place_type": 84,
+            "population": 27923,
+            "latitude": 52.8435152,
+            "longitude": -8.983747,
+            "geocell": 5142510,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52250706,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q209128",
+                "wikipedia_pages": {
+                    "en": "Ennis"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52251670,
+            "country": 372,
+            "level1area": [
+                "iem"
+            ],
+            "level2area": [
+                "iewd"
+            ],
+            "names": {
+                "en": "Tramore",
+                "ga": "Trá Mhór",
+                "ru": "Трамор"
+            },
+            "place_type": 84,
+            "population": 11277,
+            "latitude": 52.1606951,
+            "longitude": -7.1494391,
+            "geocell": 5117328,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52251670,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q507924",
+                "wikipedia_pages": {
+                    "en": "Tramore"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52252757,
+            "country": 372,
+            "level1area": [
+                "iem"
+            ],
+            "level2area": [
+                "ieco"
+            ],
+            "names": {
+                "en": "Glanmire",
+                "ga": "Gleann Maghair"
+            },
+            "place_type": 84,
+            "population": 15498,
+            "latitude": 51.9192272,
+            "longitude": -8.3959789,
+            "geocell": 5110116,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52252757,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2084265",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52253632,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "iecw"
+            ],
+            "names": {
+                "en": "Carlow",
+                "ga": "Ceatharlach",
+                "gd": "Ceatharlach",
+                "ru": "Карлоу"
+            },
+            "place_type": 84,
+            "population": 27351,
+            "latitude": 52.8408344,
+            "longitude": -6.9261131,
+            "geocell": 5142530,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52253632,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q211703",
+                "wikipedia_pages": {
+                    "en": "Carlow"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52254526,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ieke"
+            ],
+            "names": {
+                "en": "Newbridge",
+                "ga": "Droichead Nua"
+            },
+            "place_type": 84,
+            "population": 24366,
+            "latitude": 53.1801492,
+            "longitude": -6.7981931,
+            "geocell": 5153332,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52254526,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q958397",
+                "wikipedia_pages": {
+                    "en": "Newbridge, County Kildare"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52254672,
+            "country": 372,
+            "level1area": [
+                "iem"
+            ],
+            "level2area": [
+                "ieky"
+            ],
+            "names": {
+                "en": "Tralee",
+                "ga": "Trá Lí",
+                "gd": "Tràigh Lì",
+                "ru": "Трали"
+            },
+            "place_type": 84,
+            "population": 26079,
+            "latitude": 52.2692116,
+            "longitude": -9.7057047,
+            "geocell": 5120902,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52254672,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q213358",
+                "wikipedia_pages": {
+                    "en": "Tralee"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52256336,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "iewx"
+            ],
+            "names": {
+                "en": "Enniscorthy",
+                "ga": "Inis Córthaidh",
+                "ru": "Эннискорти"
+            },
+            "place_type": 84,
+            "population": 12310,
+            "latitude": 52.5011493,
+            "longitude": -6.5674944,
+            "geocell": 5131734,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52256336,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q987759",
+                "wikipedia_pages": {
+                    "en": "Enniscorthy"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52256353,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ied"
+            ],
+            "names": {
+                "en": "Rathfarnham",
+                "ga": "Ráth Fearnáin"
+            },
+            "place_type": 86,
+            "population": 17333,
+            "latitude": 53.2988099,
+            "longitude": -6.2855388,
+            "geocell": 5156937,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52256353,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1317787",
+                "wikipedia_pages": {
+                    "en": "Rathfarnham"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52260991,
+            "country": 372,
+            "level1area": [
+                "iem"
+            ],
+            "level2area": [
+                "ieco"
+            ],
+            "names": {
+                "br": "An Cóbh",
+                "en": "Cobh",
+                "ga": "An Cóbh",
+                "ru": "Ков"
+            },
+            "place_type": 84,
+            "population": 14148,
+            "latitude": 51.8500947,
+            "longitude": -8.294279,
+            "geocell": 5106517,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52260991,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q733093",
+                "wikipedia_pages": {
+                    "en": "Cobh"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52261610,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "iemh"
+            ],
+            "names": {
+                "en": "Ashbourne",
+                "ga": "Cill Dhéagláin",
+                "ru": "Ашборн"
+            },
+            "place_type": 84,
+            "population": 15680,
+            "latitude": 53.5116146,
+            "longitude": -6.3981743,
+            "geocell": 5167736,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52261610,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1766143",
+                "wikipedia_pages": {
+                    "en": "Ashbourne, County Meath"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52261675,
+            "country": 372,
+            "level1area": [
+                "iem"
+            ],
+            "level2area": [
+                "ieta"
+            ],
+            "names": {
+                "en": "Clonmel",
+                "ga": "Cluain Meala"
+            },
+            "place_type": 84,
+            "population": 18369,
+            "latitude": 52.355,
+            "longitude": -7.703889,
+            "geocell": 5124522,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52261675,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q217057",
+                "wikipedia_pages": {
+                    "en": "Clonmel"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52261916,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ieww"
+            ],
+            "names": {
+                "en": "Wicklow",
+                "ga": "Cill Mhantáin",
+                "ru": "Уиклоу"
+            },
+            "place_type": 84,
+            "population": 12957,
+            "latitude": 52.9802376,
+            "longitude": -6.0414184,
+            "geocell": 5146139,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52261916,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q652101",
+                "wikipedia_pages": {
+                    "en": "Wicklow"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52263292,
+            "country": 372,
+            "level1area": [
+                "iem"
+            ],
+            "level2area": [
+                "iewd"
+            ],
+            "names": {
+                "af": "Waterford, Ierland",
+                "ar": "وترفورد",
+                "be": "Ўотэрфард",
+                "bg": "Уотърфорд",
+                "br": "Port Láirge",
+                "ca": "Waterford",
+                "cs": "Waterford",
+                "cy": "Porth Láirge",
+                "da": "Waterford",
+                "de": "Waterford",
+                "el": "Γουότερφορντ",
+                "en": "Waterford",
+                "es": "Waterford",
+                "eu": "Waterford",
+                "fa": "واترفورد",
+                "fi": "Waterford",
+                "fr": "Waterford",
+                "fy": "Waterford",
+                "ga": "Port Láirge",
+                "gd": "Port Làirge",
+                "gl": "Waterford",
+                "hr": "Waterford",
+                "hu": "Waterford",
+                "hy": "Ուոթերֆորտ",
+                "id": "Waterford",
+                "is": "Waterford",
+                "it": "Waterford",
+                "ja": "ウォーターフォード",
+                "ka": "უოტერფორდი",
+                "ko": "워터퍼드",
+                "lt": "Voterfordas",
+                "mk": "Вотерфорд",
+                "nl": "Waterford",
+                "nn": "Waterford",
+                "pl": "Waterford",
+                "pt": "Waterford",
+                "ru": "Уотерфорд",
+                "sk": "Waterford",
+                "sr": "Вотерфорд",
+                "sv": "Waterford",
+                "sw": "Waterford",
+                "tr": "Waterford",
+                "tt": "Вотерфорд",
+                "uk": "Вотерфорд",
+                "ur": "واٹرفرڈ",
+                "vi": "Waterford"
+            },
+            "place_type": 67,
+            "population": 60079,
+            "latitude": 52.2609997,
+            "longitude": -7.1119081,
+            "geocell": 5120928,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52263292,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q183551",
+                "wikipedia_pages": {
+                    "en": "Waterford"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52263471,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ied"
+            ],
+            "names": {
+                "en": "Balbriggan",
+                "ga": "Baile Brigín",
+                "ru": "Балбригган",
+                "sr": "Балбриган"
+            },
+            "place_type": 84,
+            "population": 24322,
+            "latitude": 53.609832,
+            "longitude": -6.1861964,
+            "geocell": 5171338,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52263471,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52268929,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ied"
+            ],
+            "names": {
+                "en": "Swords",
+                "ga": "Sord",
+                "ru": "Сордс"
+            },
+            "place_type": 84,
+            "population": 40776,
+            "latitude": 53.4594799,
+            "longitude": -6.219175,
+            "geocell": 5164137,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52268929,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q987745",
+                "wikipedia_pages": {
+                    "en": "Swords, Dublin"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52269252,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ied"
+            ],
+            "names": {
+                "en": "Clondalkin",
+                "ga": "Cluain Dolcáin"
+            },
+            "place_type": 84,
+            "population": 45165,
+            "latitude": 53.3219624,
+            "longitude": -6.3942689,
+            "geocell": 5160536,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52269252,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1102232",
+                "wikipedia_pages": {
+                    "en": "Clondalkin"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52269553,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "iemh"
+            ],
+            "names": {
+                "en": "Ratoath",
+                "ga": "Ráth Tó"
+            },
+            "place_type": 84,
+            "population": 10077,
+            "latitude": 53.5072716,
+            "longitude": -6.4640687,
+            "geocell": 5167735,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52269553,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1016286",
+                "wikipedia_pages": {
+                    "en": "Ratoath"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52269859,
+            "country": 372,
+            "level1area": [
+                "iem"
+            ],
+            "level2area": [
+                "ieco"
+            ],
+            "names": {
+                "en": "Carrigaline",
+                "ga": "Carraig Uí Leighin"
+            },
+            "place_type": 84,
+            "population": 18239,
+            "latitude": 51.8149556,
+            "longitude": -8.3922675,
+            "geocell": 5106516,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52269859,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1756344",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52270304,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ied"
+            ],
+            "names": {
+                "en": "Blanchardstown",
+                "ga": "Baile Bhlainséir"
+            },
+            "place_type": 84,
+            "population": 68156,
+            "latitude": 53.3844588,
+            "longitude": -6.3829415,
+            "geocell": 5160536,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52270304,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q496387",
+                "wikipedia_pages": {
+                    "en": "Blanchardstown"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52270591,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "iewx"
+            ],
+            "names": {
+                "en": "Gorey",
+                "ga": "Guaire",
+                "ru": "Гори"
+            },
+            "place_type": 84,
+            "population": 11517,
+            "latitude": 52.676135,
+            "longitude": -6.292752,
+            "geocell": 5135337,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52270591,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1004664",
+                "wikipedia_pages": {
+                    "en": "Gorey"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267762434,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Dundonald",
+                "ga": "Dún Dónaill",
+                "mk": "Дандоналд"
+            },
+            "place_type": 84,
+            "population": 16098,
+            "latitude": 54.5947412,
+            "longitude": -5.8105342,
+            "geocell": 5203741,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267762434,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q116756",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267762485,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Antrim",
+                "ga": "Aontroim",
+                "mk": "Антрим"
+            },
+            "place_type": 84,
+            "population": 20001,
+            "latitude": 54.715139,
+            "longitude": -6.2192038,
+            "geocell": 5210937,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267762485,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q609235",
+                "wikipedia_pages": {
+                    "en": "Antrim, County Antrim"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267762522,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ديري",
+                "br": "Doire",
+                "cy": "Derry",
+                "en": "Derry/Londonderry",
+                "fr": "Londonderry/Derry",
+                "ga": "Doire",
+                "gd": "Doire",
+                "ko": "데리",
+                "mk": "Дери",
+                "ru": "Дерри",
+                "sr": "Дери",
+                "uk": "Деррі",
+                "ur": "ڈیری"
+            },
+            "place_type": 67,
+            "population": 85016,
+            "latitude": 54.9978678,
+            "longitude": -7.3213056,
+            "geocell": 5218126,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267762522,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q163584",
+                "wikipedia_pages": {
+                    "en": "Derry"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267762533,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Strabane",
+                "ga": "An Srath Bán",
+                "gd": "An Srath Bàn",
+                "mk": "Страбан"
+            },
+            "place_type": 84,
+            "population": 16670,
+            "latitude": 54.826115,
+            "longitude": -7.4627993,
+            "geocell": 5214525,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267762533,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1027659",
+                "wikipedia_pages": {
+                    "en": "Strabane"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267762560,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Banbridge",
+                "ga": "Droichead na Banna",
+                "mk": "Бенбриџ"
+            },
+            "place_type": 84,
+            "population": 16653,
+            "latitude": 54.3514168,
+            "longitude": -6.2714623,
+            "geocell": 5196537,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267762560,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q58270",
+                "wikipedia_pages": {
+                    "en": "Banbridge"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267762588,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Cookstown",
+                "ga": "An Chorr Chríochach",
+                "mk": "Кукстаун"
+            },
+            "place_type": 84,
+            "population": 10646,
+            "latitude": 54.6436734,
+            "longitude": -6.7416008,
+            "geocell": 5207332,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267762588,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1129639",
+                "wikipedia_pages": {
+                    "en": "Cookstown"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267762608,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Portadown",
+                "mk": "Портадаун"
+            },
+            "place_type": 84,
+            "population": 22000,
+            "latitude": 54.4242284,
+            "longitude": -6.4412133,
+            "geocell": 5200135,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267762608,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q768714",
+                "wikipedia_pages": {
+                    "en": "Portadown"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267762683,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Bangor",
+                "ga": "Beannchar",
+                "gd": "Beannchar",
+                "mk": "Бангор",
+                "sr": "Бангор"
+            },
+            "place_type": 67,
+            "population": 58368,
+            "latitude": 54.662595,
+            "longitude": -5.6679127,
+            "geocell": 5207343,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267762683,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q806551",
+                "wikipedia_pages": {
+                    "en": "Bangor, County Down"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267762719,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Downpatrick",
+                "ga": "Dún Pádraig",
+                "gd": "Dùn Phàdraig",
+                "mk": "Даунпатрик"
+            },
+            "place_type": 84,
+            "population": 10822,
+            "latitude": 54.3279335,
+            "longitude": -5.71649,
+            "geocell": 5196542,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267762719,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1024917",
+                "wikipedia_pages": {
+                    "en": "Downpatrick"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267762733,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Limavady",
+                "ga": "Léim an Mhadaidh",
+                "gd": "Leum a' Mhadaidh",
+                "mk": "Лимавади"
+            },
+            "place_type": 84,
+            "population": 12043,
+            "latitude": 55.0504857,
+            "longitude": -6.9505134,
+            "geocell": 5221730,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267762733,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1002115",
+                "wikipedia_pages": {
+                    "en": "Limavady"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267762843,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Carrickfergus",
+                "bg": "Карикфъргъс",
+                "ca": "Carrickfergus",
+                "cs": "Carrickfergus",
+                "da": "Carrickfergus",
+                "de": "Carrickfergus",
+                "en": "Carrickfergus",
+                "es": "Carrickfergus",
+                "eu": "Carrickfergus",
+                "fa": "کاریکفرگوس",
+                "fr": "Carrickfergus",
+                "ga": "Carraig Fhearghais",
+                "gd": "Carraig Fhearghais",
+                "it": "Carrickfergus",
+                "ko": "캐릭퍼거스",
+                "lt": "Karikfergusas",
+                "mk": "Карикфергус",
+                "ms": "Carrickfergus",
+                "nl": "Carrickfergus",
+                "nn": "Carrickfergus",
+                "pl": "Carrickfergus",
+                "ru": "Каррикфергус",
+                "sv": "Carrickfergus",
+                "ur": "کیرکفیرگس"
+            },
+            "place_type": 84,
+            "population": 27903,
+            "latitude": 54.7136165,
+            "longitude": -5.8073112,
+            "geocell": 5210941,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267762843,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1020354",
+                "wikipedia_pages": {
+                    "en": "Carrickfergus"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267762846,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Larne",
+                "ga": "Latharna",
+                "gd": "Latharna na h-Èireann",
+                "mk": "Ларн"
+            },
+            "place_type": 84,
+            "population": 32180,
+            "latitude": 54.8508458,
+            "longitude": -5.8183116,
+            "geocell": 5214541,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267762846,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q935686",
+                "wikipedia_pages": {
+                    "en": "Larne"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267762878,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Dungannon",
+                "ga": "Dún Geanainn",
+                "mk": "Данганон"
+            },
+            "place_type": 84,
+            "population": 15889,
+            "latitude": 54.5039088,
+            "longitude": -6.7703622,
+            "geocell": 5203732,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267762878,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1025602",
+                "wikipedia_pages": {
+                    "en": "Dungannon"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267763055,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ballymena",
+                "ga": "Baile Meánach",
+                "mk": "Балимена"
+            },
+            "place_type": 84,
+            "population": 31205,
+            "latitude": 54.8662966,
+            "longitude": -6.2760159,
+            "geocell": 5214537,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267763055,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q805451",
+                "wikipedia_pages": {
+                    "en": "Ballymena"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267763060,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Coleraine",
+                "ga": "Cúil Raithin",
+                "gd": "Cùil Raithin",
+                "mk": "Колрејн"
+            },
+            "place_type": 84,
+            "population": 24630,
+            "latitude": 55.1315912,
+            "longitude": -6.671861,
+            "geocell": 5225333,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267763060,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1108185",
+                "wikipedia_pages": {
+                    "en": "Coleraine"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267763062,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Armagh",
+                "ga": "Ard Mhacha",
+                "gd": "Àird Mhacha",
+                "ko": "아마",
+                "lt": "Arma",
+                "mk": "Арма",
+                "ru": "Арма",
+                "sr": "Арма",
+                "uk": "Арма",
+                "ur": "آرما"
+            },
+            "place_type": 67,
+            "population": 14590,
+            "latitude": 54.3481977,
+            "longitude": -6.6540432,
+            "geocell": 5196533,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267763062,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q193452",
+                "wikipedia_pages": {
+                    "en": "Armagh"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267763084,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Craigavon",
+                "mk": "Крејгавон"
+            },
+            "place_type": 84,
+            "population": 57651,
+            "latitude": 54.4507201,
+            "longitude": -6.3921622,
+            "geocell": 5200136,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267763084,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1004085",
+                "wikipedia_pages": {
+                    "en": "Craigavon"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267763090,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Omagh",
+                "ga": "An Ómaigh",
+                "mk": "Ома"
+            },
+            "place_type": 84,
+            "population": 21297,
+            "latitude": 54.5992486,
+            "longitude": -7.3029907,
+            "geocell": 5203726,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267763090,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q510513",
+                "wikipedia_pages": {
+                    "en": "Omagh"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267763099,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Newtownabbey",
+                "bg": "Нютаунаби",
+                "ca": "Newtownabbey",
+                "de": "Newtownabbey",
+                "en": "Newtownabbey",
+                "es": "Newtownabbey",
+                "eu": "Newtownabbey",
+                "fa": "نیوتاون‌ابی",
+                "fr": "Newtownabbey",
+                "ga": "Baile na Mainistreach",
+                "gd": "Baile na Mainistreach",
+                "it": "Newtownabbey",
+                "ko": "뉴튼애비",
+                "mk": "Њутонеби",
+                "ms": "Newtownabbey",
+                "nl": "Newtownabbey",
+                "nn": "Newtownabbey",
+                "pl": "Newtownabbey",
+                "ru": "Ньютаунабби",
+                "sr": "Њутонаби",
+                "sv": "Newtownabbey",
+                "tt": "Ньютаунәбби",
+                "ur": "نیو ٹاؤن ایبی"
+            },
+            "place_type": 84,
+            "population": 62022,
+            "latitude": 54.6778816,
+            "longitude": -5.9249199,
+            "geocell": 5207340,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267763099,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q918947",
+                "wikipedia_pages": {
+                    "en": "Newtownabbey"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 267763152,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Enniskillen",
+                "ga": "Inis Ceithlann",
+                "mk": "Енискилен"
+            },
+            "place_type": 84,
+            "population": 13757,
+            "latitude": 54.3448538,
+            "longitude": -7.6389365,
+            "geocell": 5196523,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 267763152,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q990109",
+                "wikipedia_pages": {
+                    "en": "Enniskillen"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 428339453,
+            "country": 372,
+            "level1area": [
+                "iem"
+            ],
+            "level2area": null,
+            "names": {
+                "br": "Limnac'h",
+                "en": "Limerick",
+                "ga": "Luimneach",
+                "gd": "Luimneach",
+                "ko": "리머릭",
+                "mk": "Лимерик",
+                "ru": "Лимерик",
+                "sr": "Лимерик"
+            },
+            "place_type": 67,
+            "population": 58319,
+            "latitude": 52.661252,
+            "longitude": -8.6301239,
+            "geocell": 5135313,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 428339453,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q133315",
+                "wikipedia_pages": {
+                    "en": "Limerick"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 428339466,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "iekk"
+            ],
+            "names": {
+                "en": "Kilkenny",
+                "ga": "Cill Chainnigh",
+                "gd": "Cill Chainnigh",
+                "sr": "Килкени"
+            },
+            "place_type": 67,
+            "population": 27184,
+            "latitude": 52.6506255,
+            "longitude": -7.2514438,
+            "geocell": 5135327,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 428339466,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q109092",
+                "wikipedia_pages": {
+                    "en": "Kilkenny"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 582043319,
+            "country": 372,
+            "level1area": [
+                "iec"
+            ],
+            "level2area": [
+                "ieg"
+            ],
+            "names": {
+                "br": "Galliv",
+                "da": "Galway",
+                "en": "Galway",
+                "ga": "Gaillimh",
+                "gd": "A' Ghailmhinn",
+                "he": "גולווי",
+                "ko": "골웨이",
+                "mk": "Голвеј",
+                "ru": "Голуэй",
+                "sr": "Голвеј",
+                "ur": "گالوئے"
+            },
+            "place_type": 67,
+            "population": 85910,
+            "latitude": 53.2744122,
+            "longitude": -9.0490601,
+            "geocell": 5156909,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 582043319,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q129610",
+                "wikipedia_pages": {
+                    "en": "Galway"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 663428001,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Newry",
+                "ga": "An tIúr",
+                "gd": "An t-Iubhar",
+                "ko": "뉴리",
+                "lt": "Niūris",
+                "mk": "Њури",
+                "ru": "Ньюри",
+                "uk": "Ньюрі",
+                "ur": "نیوری"
+            },
+            "place_type": 67,
+            "population": 29946,
+            "latitude": 54.1775283,
+            "longitude": -6.337506,
+            "geocell": 5189336,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 663428001,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q269980",
+                "wikipedia_pages": {
+                    "en": "Newry"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 765382428,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ieww"
+            ],
+            "names": {
+                "en": "Greystones",
+                "ga": "Na Clocha Liatha",
+                "ru": "Грейстонс"
+            },
+            "place_type": 84,
+            "population": 22009,
+            "latitude": 53.1448901,
+            "longitude": -6.0632184,
+            "geocell": 5153339,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 765382428,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q938017",
+                "wikipedia_pages": {
+                    "en": "Greystones"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1418701024,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Belfast",
+                "ar": "بلفاست",
+                "ast": "Belfast",
+                "az": "Belfast",
+                "be": "Белфаст",
+                "bg": "Белфаст",
+                "bn": "বেলফাস্ট",
+                "br": "Béal Feirste",
+                "bs": "Belfast",
+                "ca": "Belfast",
+                "ckb": "بێلفاست",
+                "cs": "Belfast",
+                "cy": "Belffast",
+                "da": "Belfast",
+                "de": "Belfast",
+                "el": "Μπέλφαστ",
+                "en": "Belfast",
+                "eo": "Belfasto",
+                "es": "Belfast",
+                "et": "Belfast",
+                "eu": "Belfast",
+                "fa": "بلفاست",
+                "fi": "Belfast",
+                "fr": "Belfast",
+                "fy": "Belfast",
+                "ga": "Béal Feirste",
+                "gd": "Beul Feirste",
+                "gl": "Belfast",
+                "he": "בלפסט",
+                "hi": "बेलफ़ास्ट",
+                "hr": "Belfast",
+                "hsb": "Belfast",
+                "hu": "Belfast",
+                "hy": "Բելֆաստ",
+                "ia": "Belfast",
+                "id": "Belfast",
+                "io": "Belfast",
+                "is": "Belfast",
+                "it": "Belfast",
+                "ja": "ベルファスト",
+                "ka": "ბელფასტი",
+                "kab": "Belfast",
+                "kk": "Белфаст",
+                "kn": "ಬೆಲ್‌ಫಾಸ್ಟ್‌",
+                "ko": "벨파스트",
+                "ky": "Белфаст",
+                "lt": "Belfastas",
+                "lv": "Belfāsta",
+                "mk": "Белфаст",
+                "ml": "ബെൽഫാസ്റ്റ്",
+                "mn": "Белфаст",
+                "mr": "बेलफास्ट",
+                "ms": "Belfast",
+                "my": "ဗဲလဖတ်မြို့",
+                "nl": "Belfast",
+                "nn": "Belfast",
+                "os": "Белфаст",
+                "pl": "Belfast",
+                "pt": "Belfast",
+                "ro": "Belfast",
+                "ru": "Белфаст",
+                "sk": "Belfast",
+                "sl": "Belfast",
+                "sq": "Belfast",
+                "sr": "Белфаст",
+                "sv": "Belfast",
+                "sw": "Belfast",
+                "ta": "பெல்பாஸ்ட்",
+                "tg": "Белфаст",
+                "tr": "Belfast",
+                "tt": "Белфаст",
+                "udm": "Белфаст",
+                "ug": "Bélfast",
+                "uk": "Белфаст",
+                "ur": "بیلفاسٹ",
+                "uz": "Belfast",
+                "vi": "Belfast"
+            },
+            "place_type": 67,
+            "population": 333000,
+            "latitude": 54.596391,
+            "longitude": -5.9301829,
+            "geocell": 5203740,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1418701024,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q10686",
+                "wikipedia_pages": {
+                    "en": "Belfast"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1420913325,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ied"
+            ],
+            "names": {
+                "en": "Tallaght",
+                "ga": "Tamhlacht"
+            },
+            "place_type": 84,
+            "population": 101055,
+            "latitude": 53.2878082,
+            "longitude": -6.362355,
+            "geocell": 5156936,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1420913325,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q990099",
+                "wikipedia_pages": {
+                    "en": "Tallaght"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1422314245,
+            "country": 372,
+            "level1area": [
+                "iem"
+            ],
+            "level2area": [
+                "ieco"
+            ],
+            "names": {
+                "bn": "কর্ক",
+                "br": "Korkig",
+                "cy": "Corc",
+                "en": "Cork",
+                "ga": "Corcaigh",
+                "gd": "Corcaigh",
+                "ja": "コーク",
+                "ko": "코크",
+                "ru": "Корк",
+                "sr": "Корк"
+            },
+            "place_type": 67,
+            "population": 222526,
+            "latitude": 51.897077,
+            "longitude": -8.4654674,
+            "geocell": 5106515,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1422314245,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q36647",
+                "wikipedia_pages": {
+                    "en": "Cork (city)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1430234960,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ielh"
+            ],
+            "names": {
+                "br": "Dún Dealgan",
+                "en": "Dundalk",
+                "ga": "Dún Dealgan",
+                "gd": "Dùn Dealgan",
+                "ru": "Дандолк"
+            },
+            "place_type": 84,
+            "population": 43112,
+            "latitude": 54.0046033,
+            "longitude": -6.4008879,
+            "geocell": 5185735,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1430234960,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q204956",
+                "wikipedia_pages": {
+                    "en": "Dundalk"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1460517034,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Lisburn",
+                "ga": "Lios na gCearrbhach",
+                "gd": "Lios nan Cearrbhach",
+                "ko": "리즈번구",
+                "lt": "Lisbernas",
+                "mk": "Лизберн",
+                "ru": "Лисберн",
+                "uk": "Лісберн",
+                "ur": "لزبرن"
+            },
+            "place_type": 67,
+            "population": 71403,
+            "latitude": 54.5112856,
+            "longitude": -6.046717,
+            "geocell": 5203739,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1460517034,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1828035",
+                "wikipedia_pages": {
+                    "en": "Lisburn"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1604307220,
+            "country": 372,
+            "level1area": [
+                "ieu"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ballymoney",
+                "ga": "Baile Monaidh",
+                "mk": "Балимони"
+            },
+            "place_type": 84,
+            "population": 10393,
+            "latitude": 55.0702727,
+            "longitude": -6.5172758,
+            "geocell": 5221734,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1604307220,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q805450",
+                "wikipedia_pages": {
+                    "en": "Ballymoney"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1681533435,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ieke"
+            ],
+            "names": {
+                "en": "Naas",
+                "ga": "An Nás",
+                "ru": "Нейс"
+            },
+            "place_type": 84,
+            "population": 26180,
+            "latitude": 53.2214677,
+            "longitude": -6.6574093,
+            "geocell": 5156933,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1681533435,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q216038",
+                "wikipedia_pages": {
+                    "en": "Naas"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1681534704,
+            "country": 372,
+            "level1area": [
+                "iec"
+            ],
+            "level2area": [
+                "ieso"
+            ],
+            "names": {
+                "en": "Sligo",
+                "ga": "Sligeach",
+                "ru": "Слайго"
+            },
+            "place_type": 84,
+            "population": 20608,
+            "latitude": 54.2720696,
+            "longitude": -8.4751357,
+            "geocell": 5192915,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1681534704,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q190002",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3473474851,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ied"
+            ],
+            "names": {
+                "af": "Dublin",
+                "ar": "دبلن",
+                "ast": "Ciudá de Dublín",
+                "az": "Dublin",
+                "be": "Дублін",
+                "bg": "Дъблин",
+                "bn": "ডাবলিন",
+                "br": "Dulenn",
+                "bs": "Dublin",
+                "ca": "Dublín",
+                "ckb": "دەبڵین",
+                "cs": "Dublin",
+                "cy": "Dulyn",
+                "da": "Dublin",
+                "de": "Dublin",
+                "dsb": "Dublin",
+                "el": "Δουβλίνο",
+                "en": "Dublin",
+                "eo": "Dublino",
+                "es": "Dublín",
+                "et": "Dublin",
+                "eu": "Dublin",
+                "fa": "دوبلین",
+                "fi": "Dublin",
+                "fr": "Dublin",
+                "fy": "Dublin",
+                "ga": "Baile Átha Cliath",
+                "gd": "Baile Àtha Cliath",
+                "gl": "Dublín - Baile Átha Cliath",
+                "he": "דבלין",
+                "hi": "डबलिन",
+                "hr": "Dublin",
+                "hsb": "Dublin",
+                "hu": "Dublin",
+                "hy": "Դուբլին",
+                "ia": "Dublin",
+                "id": "Dublin",
+                "io": "Dublin",
+                "is": "Dyflinn",
+                "it": "Dublino",
+                "ja": "ダブリン",
+                "ka": "დუბლინი",
+                "kab": "Dublin",
+                "kk": "Дублин",
+                "ko": "더블린",
+                "ky": "Дублин",
+                "lb": "Dublin",
+                "lt": "Dublinas",
+                "lv": "Dublina",
+                "mk": "Даблин",
+                "ml": "ഡബ്ലിൻ",
+                "mn": "Дублин",
+                "mr": "डब्लिन",
+                "ms": "Dublin",
+                "my": "ဒပ်ဗလင်မြို့",
+                "nl": "Dublin",
+                "nn": "Dublin",
+                "os": "Дублин",
+                "pa": "ਡਬਲਿਨ",
+                "pl": "Dublin",
+                "pt": "Dublin",
+                "ro": "Dublin",
+                "ru": "Дублин",
+                "sk": "Dublin",
+                "sl": "Dublin",
+                "sq": "Dublini",
+                "sr": "Даблин",
+                "sv": "Dublin",
+                "sw": "Dublin",
+                "ta": "டப்லின்",
+                "te": "డబ్లిన్",
+                "tg": "Дублин",
+                "th": "ดับลิน",
+                "tr": "Dublin",
+                "tt": "Дублин",
+                "udm": "Дублин",
+                "ug": "دۇبلىن",
+                "uk": "Дублін",
+                "ur": "ڈبلن",
+                "uz": "Dublin",
+                "vi": "Dublin"
+            },
+            "place_type": 67,
+            "population": 554554,
+            "latitude": 53.3493795,
+            "longitude": -6.2605593,
+            "geocell": 5160537,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3473474851,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "http://www.dublincity.ie/",
+                "wikidata_page_name": "Q1761",
+                "wikipedia_pages": {
+                    "en": "Dublin"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3563872395,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ied"
+            ],
+            "names": {
+                "en": "Dún Laoghaire",
+                "ga": "Dún Laoghaire",
+                "ru": "Дун-Лэаре"
+            },
+            "place_type": 84,
+            "population": 38761,
+            "latitude": 53.2922794,
+            "longitude": -6.1360079,
+            "geocell": 5156938,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3563872395,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.dunlaoghaire.ie/",
+                "wikidata_page_name": "Q745989",
+                "wikipedia_pages": {
+                    "en": "Dún Laoghaire"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4100735094,
+            "country": 372,
+            "level1area": [
+                "iel"
+            ],
+            "level2area": [
+                "ieke"
+            ],
+            "names": {
+                "en": "Athy",
+                "ga": "Baile Átha Í",
+                "ru": "Атай"
+            },
+            "place_type": 84,
+            "population": 11035,
+            "latitude": 52.9923938,
+            "longitude": -6.9835926,
+            "geocell": 5146130,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4100735094,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q251091",
+                "wikipedia_pages": {
+                    "en": "Athy"
+                }
+            }
+        }
+    }
+]

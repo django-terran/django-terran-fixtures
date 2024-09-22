@@ -1,0 +1,1288 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 58950371,
+            "country": 218,
+            "level1area": [
+                "ecp"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كيتو",
+                "az": "Kito",
+                "be": "Кіта",
+                "bg": "Кито",
+                "de": "Quito",
+                "el": "Κίτο",
+                "en": "Quito",
+                "eo": "Kito",
+                "es": "Quito",
+                "fa": "کیتو",
+                "fr": "Quito",
+                "fy": "Kito",
+                "he": "קיטו",
+                "hi": "क्वीटो",
+                "hu": "Quito",
+                "hy": "Կիտո",
+                "is": "Quito",
+                "ja": "キト",
+                "ka": "კიტო",
+                "kk": "Кито",
+                "ko": "키토",
+                "lt": "Kitas",
+                "lv": "Kito",
+                "mk": "Кито",
+                "mr": "क्वितो",
+                "os": "Кито",
+                "pa": "ਕੀਤੋ",
+                "pl": "Quito",
+                "ru": "Кито",
+                "sq": "Kuito",
+                "sr": "Кито",
+                "sv": "Quito",
+                "th": "กีโต",
+                "ug": "كىتو",
+                "uk": "Кіто",
+                "ur": "کیٹو"
+            },
+            "place_type": 67,
+            "population": 2671191,
+            "latitude": -0.2201641,
+            "longitude": -78.5123274,
+            "geocell": 3230214,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 58950371,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.quito.gob.ec/",
+                "wikidata_page_name": "Q2900",
+                "wikipedia_pages": {
+                    "en": "Quito"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249420687,
+            "country": 218,
+            "level1area": [
+                "ecsd"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Alluriquín"
+            },
+            "place_type": 86,
+            "population": 19000,
+            "latitude": -0.3222239,
+            "longitude": -78.9964972,
+            "geocell": 3226610,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249420687,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6119029",
+                "wikipedia_pages": {
+                    "es": "San José de Alluriquín"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249420749,
+            "country": 218,
+            "level1area": [
+                "ect"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Ambato"
+            },
+            "place_type": 67,
+            "population": 165185,
+            "latitude": -1.2422413,
+            "longitude": -78.6287594,
+            "geocell": 3194213,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249420749,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q210161",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249420949,
+            "country": 218,
+            "level1area": [
+                "ecr"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Babahoyo",
+                "es": "Babahoyo",
+                "ru": "Бабаойо"
+            },
+            "place_type": 67,
+            "population": 84164,
+            "latitude": -1.8009022,
+            "longitude": -79.5338214,
+            "geocell": 3172604,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249420949,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q797568",
+                "wikipedia_pages": {
+                    "en": "Babahoyo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249420968,
+            "country": 218,
+            "level1area": [
+                "ecm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Bahía de Caráquez",
+                "ru": "Баия-де-Каракес"
+            },
+            "place_type": 84,
+            "population": 24963,
+            "latitude": -0.5999649,
+            "longitude": -80.423572,
+            "geocell": 3219395,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249420968,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.bahiadecaraquez.com/",
+                "wikidata_page_name": "Q2749246",
+                "wikipedia_pages": {
+                    "en": "Bahía de Caráquez"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249421944,
+            "country": 218,
+            "level1area": [
+                "ecr"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Jacinto de Buena Fe"
+            },
+            "place_type": 84,
+            "population": 17248,
+            "latitude": -0.8966368,
+            "longitude": -79.4913411,
+            "geocell": 3208605,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249421944,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://buenafe.gob.ec/",
+                "wikidata_page_name": "Q4985397",
+                "wikipedia_pages": {
+                    "es": "Buena Fe (ciudad)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249422669,
+            "country": 218,
+            "level1area": [
+                "ecb"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Chillanes"
+            },
+            "place_type": 84,
+            "population": 17406,
+            "latitude": -1.9432708,
+            "longitude": -79.0660695,
+            "geocell": 3169009,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249422669,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://www.chillanes.com/",
+                "wikidata_page_name": "Q2466598",
+                "wikipedia_pages": {
+                    "es": "Cantón Chillanes"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249423310,
+            "country": 218,
+            "level1area": [
+                "ecg"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Durán"
+            },
+            "place_type": 67,
+            "population": 178714,
+            "latitude": -2.1688548,
+            "longitude": -79.8340647,
+            "geocell": 3161801,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249423310,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "url": "www.duran.gov.ec/",
+                "wikidata_page_name": "Q1120810",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249423578,
+            "country": 218,
+            "level1area": [
+                "ece"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Esmeraldas"
+            },
+            "place_type": 67,
+            "population": 95216,
+            "latitude": 0.9668153,
+            "longitude": -79.6523847,
+            "geocell": 3273403,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249423578,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "url": "http://municipioesmeraldas.gov.ec/portal/",
+                "wikidata_page_name": "Q149955",
+                "wikipedia_pages": {
+                    "es": "Esmeraldas (ciudad)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249424015,
+            "country": 218,
+            "level1area": [
+                "ecg"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "غواياكيل",
+                "es": "Guayaquil",
+                "fa": "گوایاکیل",
+                "mk": "Гвајакил",
+                "ru": "Гуаякиль",
+                "ur": "گوایاکل"
+            },
+            "place_type": 67,
+            "population": 3500000,
+            "latitude": -2.1900563,
+            "longitude": -79.8868741,
+            "geocell": 3161801,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249424015,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "http://www.guayaquil.gov.ec",
+                "wikidata_page_name": "Q43509",
+                "wikipedia_pages": {
+                    "en": "Guayaquil"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249424122,
+            "country": 218,
+            "level1area": [
+                "ecb"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Guaranda"
+            },
+            "place_type": 84,
+            "population": 27866,
+            "latitude": -1.5922898,
+            "longitude": -79.0015614,
+            "geocell": 3183409,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249424122,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q264464",
+                "wikipedia_pages": {
+                    "en": "Guaranda"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249429156,
+            "country": 218,
+            "level1area": [
+                "ecu"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Nueva Loja"
+            },
+            "place_type": 84,
+            "population": 34106,
+            "latitude": 0.0850591,
+            "longitude": -76.8834932,
+            "geocell": 3241031,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249429156,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q683938",
+                "wikipedia_pages": {
+                    "es": "Nueva Loja"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249429310,
+            "country": 218,
+            "level1area": [
+                "ecsd"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Concordia"
+            },
+            "place_type": 84,
+            "population": 60000,
+            "latitude": 0.0074804,
+            "longitude": -79.3955526,
+            "geocell": 3241006,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249429310,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q16587384",
+                "wikipedia_pages": {
+                    "es": "La Concordia (Ecuador)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249429318,
+            "country": 218,
+            "level1area": [
+                "ecm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Jipijapa",
+                "ru": "Хипихапа"
+            },
+            "place_type": 84,
+            "population": 39816,
+            "latitude": -1.3482956,
+            "longitude": -80.579195,
+            "geocell": 3190594,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249429318,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q11249733",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249429504,
+            "country": 218,
+            "level1area": [
+                "ecx"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Latacunga"
+            },
+            "place_type": 67,
+            "population": 57127,
+            "latitude": -0.9340311,
+            "longitude": -78.6145758,
+            "geocell": 3205013,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249429504,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "url": "http://www.latacunga.gov.ec/",
+                "wikidata_page_name": "Q379338",
+                "wikipedia_pages": {
+                    "es": "Latacunga"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249596111,
+            "country": 218,
+            "level1area": [
+                "ecs"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Macas",
+                "lt": "Makasas",
+                "ru": "Макас"
+            },
+            "place_type": 84,
+            "population": 20000,
+            "latitude": -2.3046252,
+            "longitude": -78.1175466,
+            "geocell": 3154618,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249596111,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1014554",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249596683,
+            "country": 218,
+            "level1area": [
+                "ecg"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Milagro"
+            },
+            "place_type": 67,
+            "population": 140103,
+            "latitude": -2.1289136,
+            "longitude": -79.5935005,
+            "geocell": 3161804,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249596683,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "url": "http://www.milagro.gov.ec",
+                "wikidata_page_name": "Q773238",
+                "wikipedia_pages": {
+                    "es": "Milagro (Ecuador)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249597016,
+            "country": 218,
+            "level1area": [
+                "ecy"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Puyo"
+            },
+            "place_type": 84,
+            "population": 37600,
+            "latitude": -1.4854777,
+            "longitude": -77.9969666,
+            "geocell": 3187020,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249597016,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q676931",
+                "wikipedia_pages": {
+                    "es": "Puyo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249597057,
+            "country": 218,
+            "level1area": [
+                "ecr"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Quevedo"
+            },
+            "place_type": 67,
+            "population": 300000,
+            "latitude": -1.0243508,
+            "longitude": -79.4663323,
+            "geocell": 3201405,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249597057,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q773225",
+                "wikipedia_pages": {
+                    "en": "Quevedo, Ecuador"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249597119,
+            "country": 218,
+            "level1area": [
+                "ech"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Riobamba",
+                "es": "Riobamba",
+                "ru": "Риобамба",
+                "uk": "Ріобамба"
+            },
+            "place_type": 67,
+            "population": 170000,
+            "latitude": -1.6732765,
+            "longitude": -78.6482479,
+            "geocell": 3179813,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249597119,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q478675",
+                "wikipedia_pages": {
+                    "es": "Riobamba"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249597621,
+            "country": 218,
+            "level1area": [
+                "ecm"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Portoviejo",
+                "es": "Portoviejo",
+                "ru": "Портовьехо"
+            },
+            "place_type": 67,
+            "population": 180641,
+            "latitude": -1.05282,
+            "longitude": -80.4534134,
+            "geocell": 3201395,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249597621,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "url": "http://www.portoviejo.gov.ec/default.php",
+                "wikidata_page_name": "Q990716",
+                "wikipedia_pages": {
+                    "es": "Portoviejo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249597775,
+            "country": 218,
+            "level1area": [
+                "ecw"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Puerto Baquerizo Moreno",
+                "mk": "Пуерто Бакерисо Морено",
+                "ru": "Пуэрто-Бакерисо-Морено"
+            },
+            "place_type": 84,
+            "population": 18640,
+            "latitude": -0.902599,
+            "longitude": -89.610191,
+            "geocell": 3204903,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249597775,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q694109",
+                "wikipedia_pages": {
+                    "es": "Puerto Baquerizo Moreno"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249597847,
+            "country": 218,
+            "level1area": [
+                "ecsd"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Puerto Limón"
+            },
+            "place_type": 86,
+            "population": 12588,
+            "latitude": -0.3874581,
+            "longitude": -79.3729393,
+            "geocell": 3226606,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249597847,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6092096",
+                "wikipedia_pages": {
+                    "es": "Puerto Limón (Ecuador)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249598712,
+            "country": 218,
+            "level1area": [
+                "ecse"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Santa Elena"
+            },
+            "place_type": 84,
+            "population": 26586,
+            "latitude": -2.2270098,
+            "longitude": -80.8576945,
+            "geocell": 3158191,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249598712,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "url": "http://www.imse.gov.ec/",
+                "wikidata_page_name": "Q135864",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249598984,
+            "country": 218,
+            "level1area": [
+                "ecse"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Salinas"
+            },
+            "place_type": 67,
+            "population": 29294,
+            "latitude": -2.2079292,
+            "longitude": -80.967163,
+            "geocell": 3158190,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249598984,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "url": "http://www.salinas.gov.ec/",
+                "wikidata_page_name": "Q1026284",
+                "wikipedia_pages": {
+                    "es": "Salinas (Santa Elena)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249599402,
+            "country": 218,
+            "level1area": [
+                "ecc"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tulcán",
+                "es": "Tulcán",
+                "ko": "툴칸터미널",
+                "ru": "Тулькан",
+                "uk": "Тулькан"
+            },
+            "place_type": 84,
+            "population": 82734,
+            "latitude": 0.8114572,
+            "longitude": -77.7172256,
+            "geocell": 3269822,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249599402,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q752113",
+                "wikipedia_pages": {
+                    "en": "Tulcán"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249599781,
+            "country": 218,
+            "level1area": [
+                "ecsd"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Santo Domingo de los Tsachilas",
+                "es": "Santo Domingo de los Tsachilas"
+            },
+            "place_type": 67,
+            "population": 270875,
+            "latitude": -0.2546212,
+            "longitude": -79.1686724,
+            "geocell": 3230208,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249599781,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1015654",
+                "wikipedia_pages": {
+                    "es": "Santo Domingo (Ecuador)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 370221289,
+            "country": 218,
+            "level1area": [
+                "ecsd"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Valle Hermoso"
+            },
+            "place_type": 84,
+            "population": 10000,
+            "latitude": -0.0873259,
+            "longitude": -79.2804064,
+            "geocell": 3237407,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 370221289,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6159041",
+                "wikipedia_pages": {
+                    "es": "Valle Hermoso (Ecuador)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 529913610,
+            "country": 218,
+            "level1area": [
+                "ecsd"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Luz de America",
+                "es": "Luz de America"
+            },
+            "place_type": 86,
+            "population": 12529,
+            "latitude": -0.4056162,
+            "longitude": -79.3020059,
+            "geocell": 3223006,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 529913610,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5985027",
+                "wikipedia_pages": {
+                    "es": "Luz de América"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 662694079,
+            "country": 218,
+            "level1area": [
+                "eci"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Ibarra"
+            },
+            "place_type": 67,
+            "population": 108666,
+            "latitude": 0.3520459,
+            "longitude": -78.1199716,
+            "geocell": 3251818,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 662694079,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "www.ibarra.gov.ec",
+                "wikidata_page_name": "Q946384",
+                "wikipedia_pages": {
+                    "en": "Ibarra, Ecuador"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1208294297,
+            "country": 218,
+            "level1area": [
+                "ecr"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Patricia Pilar"
+            },
+            "place_type": 84,
+            "population": 12278,
+            "latitude": -0.5734548,
+            "longitude": -79.3698338,
+            "geocell": 3219406,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1208294297,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1569558818,
+            "country": 218,
+            "level1area": [
+                "ecsd"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Monterrey"
+            },
+            "place_type": 84,
+            "population": 10000,
+            "latitude": -0.0299025,
+            "longitude": -79.4950261,
+            "geocell": 3237405,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1569558818,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1832500248,
+            "country": 218,
+            "level1area": [
+                "eci"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Pimampiro"
+            },
+            "place_type": 84,
+            "population": 12970,
+            "latitude": 0.393298,
+            "longitude": -77.9402742,
+            "geocell": 3251820,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1832500248,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://pimampiro.gob.ec/",
+                "wikidata_page_name": "Q1528983",
+                "wikipedia_pages": {
+                    "es": "Cantón Pimampiro"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1886192024,
+            "country": 218,
+            "level1area": [
+                "ecl"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Cariamanga"
+            },
+            "place_type": 84,
+            "population": 21301,
+            "latitude": -4.326038,
+            "longitude": -79.5559525,
+            "geocell": 3082604,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1886192024,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54884",
+                "wikipedia_pages": {
+                    "es": "Cariamanga"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2163462352,
+            "country": 218,
+            "level1area": [
+                "ecm"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Manta",
+                "es": "Manta",
+                "ru": "Манта",
+                "uk": "Манта"
+            },
+            "place_type": 67,
+            "population": 217553,
+            "latitude": -0.9485461,
+            "longitude": -80.719265,
+            "geocell": 3204992,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2163462352,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q990738",
+                "wikipedia_pages": {
+                    "en": "Manta, Ecuador"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2506430541,
+            "country": 218,
+            "level1area": [
+                "ecsd"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Santa Maria del Toachi"
+            },
+            "place_type": 86,
+            "population": 10000,
+            "latitude": -0.6399242,
+            "longitude": -79.2299801,
+            "geocell": 3215807,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2506430541,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6120626",
+                "wikipedia_pages": {
+                    "es": "Santa María del Toachi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4729574707,
+            "country": 218,
+            "level1area": [
+                "ecl"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Loja"
+            },
+            "place_type": 67,
+            "population": 180617,
+            "latitude": -3.996845,
+            "longitude": -79.2016661,
+            "geocell": 3097007,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4729574707,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q944697",
+                "wikipedia_pages": {
+                    "es": "Loja (Ecuador)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4941304087,
+            "country": 218,
+            "level1area": [
+                "ecl"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Macará"
+            },
+            "place_type": 84,
+            "population": 15730,
+            "latitude": -4.3795699,
+            "longitude": -79.9431953,
+            "geocell": 3082600,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4941304087,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6722685",
+                "wikipedia_pages": {
+                    "es": "Macará"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5124939549,
+            "country": 218,
+            "level1area": [
+                "ecg"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Guayas"
+            },
+            "place_type": 86,
+            "population": 17579,
+            "latitude": -0.9839645,
+            "longitude": -79.571558,
+            "geocell": 3205004,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5124939549,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5738045771,
+            "country": 218,
+            "level1area": [
+                "eco"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Portovelo"
+            },
+            "place_type": 84,
+            "population": 12200,
+            "latitude": -3.7152273,
+            "longitude": -79.6172038,
+            "geocell": 3104203,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5738045771,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "071153"
+                ],
+                "website": "https://www.portovelo.gob.ec",
+                "wikidata_page_name": "Q661446",
+                "wikipedia_pages": {
+                    "es": "Cantón Portovelo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6303548216,
+            "country": 218,
+            "level1area": [
+                "ecsd"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Jacinto del Búa"
+            },
+            "place_type": 86,
+            "population": 11000,
+            "latitude": -0.1478542,
+            "longitude": -79.3940334,
+            "geocell": 3233806,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6303548216,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9911249241,
+            "country": 218,
+            "level1area": [
+                "eca"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كوينكا",
+                "be": "Куэнка",
+                "es": "Cuenca",
+                "he": "קואנקה",
+                "ja": "クエンカ",
+                "ka": "კუენკა",
+                "ko": "쿠엥카",
+                "lt": "Kuenka",
+                "os": "Куэнкæ",
+                "ru": "Куэнка",
+                "th": "เกวงกา",
+                "uk": "Куенка"
+            },
+            "place_type": 67,
+            "population": 495776,
+            "latitude": -2.8974072,
+            "longitude": -79.0041726,
+            "geocell": 3136609,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9911249241,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q54886",
+                "wikipedia_pages": {
+                    "es": "Cuenca (Ecuador)"
+                }
+            }
+        }
+    }
+]

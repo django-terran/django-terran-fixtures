@@ -1,0 +1,33 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 280981759,
+            "country": 674,
+            "level1area": [
+                "sm09"
+            ],
+            "level2area": null,
+            "names": {
+                "it": "Serravalle"
+            },
+            "place_type": 84,
+            "population": 10601,
+            "latitude": 43.9699026,
+            "longitude": 12.4802946,
+            "geocell": 4822324,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 280981759,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "47899"
+                ],
+                "wikidata_page_name": "Q185412",
+                "wikipedia_pages": {
+                    "it": "Serravalle (San Marino)"
+                }
+            }
+        }
+    }
+]

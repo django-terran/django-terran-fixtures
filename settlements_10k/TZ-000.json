@@ -1,0 +1,2730 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 27565027,
+            "country": 834,
+            "level1area": [
+                "tz02"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "دار السلام",
+                "cs": "Dar es Salaam",
+                "da": "Dar es-Salaam",
+                "de": "Daressalam",
+                "el": "Νταρ ες Σαλάμ",
+                "en": "Dar es-Salaam",
+                "eo": "Daresalamo",
+                "es": "Dar es-Salaam",
+                "fr": "Dar es Salam",
+                "he": "דאר א-סלאם",
+                "hi": "दार अस सलाम",
+                "it": "Dar es Salaam",
+                "kn": "ದಾರ್ ಅಸ್ ಸಲಾಮ್",
+                "ko": "다르에스살람",
+                "lt": "Dar es Salamas",
+                "nl": "Dar es Salaam",
+                "pl": "Dar es Salaam",
+                "pt": "Dar es Salaam",
+                "ru": "Дар-эс-Салам",
+                "sr": "Дар ес Салам",
+                "sv": "Dar es-Salaam",
+                "sw": "Dar es-Salaam",
+                "tr": "Darüsselam",
+                "uk": "Дар-ес-Салам"
+            },
+            "place_type": 67,
+            "population": 5383728,
+            "latitude": -6.8160837,
+            "longitude": 39.2803583,
+            "geocell": 2993792,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27565027,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1960",
+                "wikipedia_pages": {
+                    "en": "Dar es Salaam"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 87841198,
+            "country": 834,
+            "level1area": [
+                "tz03"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "دودوما",
+                "be": "Дадома",
+                "bg": "Додома",
+                "br": "Dodoma",
+                "ckb": "دۆدۆما",
+                "cs": "Dodoma",
+                "de": "Dodoma",
+                "el": "Ντοντόμα",
+                "en": "Dodoma",
+                "eo": "Dodomao",
+                "es": "Dodoma",
+                "fa": "دودوما",
+                "fr": "Dodoma",
+                "he": "דודומה",
+                "hi": "दोदोमा",
+                "hu": "Dodoma",
+                "hy": "Դոդոմա",
+                "is": "Dódóma",
+                "it": "Dodoma",
+                "ja": "ドドマ",
+                "ka": "დოდომა",
+                "kk": "Додома",
+                "ko": "도도마",
+                "ky": "Додома",
+                "lt": "Dodoma",
+                "mk": "Додома",
+                "ml": "ഡോഡോമ",
+                "mr": "डोडोमा",
+                "nl": "Dodoma",
+                "pl": "Dodoma",
+                "pt": "Dodoma",
+                "ru": "Додома",
+                "sr": "Додома",
+                "sv": "Dodoma",
+                "sw": "Dodoma",
+                "ta": "டொடோமா",
+                "tg": "Додома",
+                "th": "โดโดมา",
+                "tr": "Dodoma",
+                "udm": "Додома",
+                "uk": "Додома",
+                "ur": "ڈوڈوما"
+            },
+            "place_type": 67,
+            "population": 765179,
+            "latitude": -6.1791181,
+            "longitude": 35.7468174,
+            "geocell": 3018957,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 87841198,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3866",
+                "wikipedia_pages": {
+                    "en": "Dodoma"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 252592807,
+            "country": 834,
+            "level1area": [
+                "tz16"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "موروغورو",
+                "en": "Morogoro",
+                "ko": "모로고로",
+                "lt": "Morogoras",
+                "ru": "Морогоро",
+                "sw": "Morogoro",
+                "uk": "Морогоро"
+            },
+            "place_type": 67,
+            "population": 471409,
+            "latitude": -6.8161626,
+            "longitude": 37.6693891,
+            "geocell": 2993776,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 252592807,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q243319",
+                "wikipedia_pages": {
+                    "en": "Morogoro"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 255589318,
+            "country": 834,
+            "level1area": [
+                "tz28"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Мпанда",
+                "sw": "Mpanda",
+                "uk": "Мпанда"
+            },
+            "place_type": 67,
+            "population": 204338,
+            "latitude": -6.3429524,
+            "longitude": 31.0729871,
+            "geocell": 3011710,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 255589318,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q391599",
+                "wikipedia_pages": {
+                    "en": "Mpanda"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 255590043,
+            "country": 834,
+            "level1area": [
+                "tz24"
+            ],
+            "level2area": null,
+            "names": {
+                "ko": "타보라",
+                "lt": "Tabora",
+                "ru": "Табора",
+                "sw": "Tabora",
+                "uk": "Табора"
+            },
+            "place_type": 67,
+            "population": 221466,
+            "latitude": -5.0202431,
+            "longitude": 32.8097724,
+            "geocell": 3058528,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 255590043,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q643112",
+                "wikipedia_pages": {
+                    "en": "Tabora"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 255590322,
+            "country": 834,
+            "level1area": [
+                "tz18"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Mvanza",
+                "ru": "Мванза",
+                "sw": "Mwanza",
+                "uk": "Мванза"
+            },
+            "place_type": 67,
+            "population": 1104521,
+            "latitude": -2.5196915,
+            "longitude": 32.9014417,
+            "geocell": 3148529,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 255590322,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q110218",
+                "wikipedia_pages": {
+                    "en": "Mwanza"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 255591375,
+            "country": 834,
+            "level1area": [
+                "tz22"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "شينيانغا",
+                "ko": "시니앙가",
+                "lt": "Šinjanga",
+                "ru": "Шиньянга",
+                "sw": "Shinyanga",
+                "uk": "Шиньянґа"
+            },
+            "place_type": 67,
+            "population": 139727,
+            "latitude": -3.6562049,
+            "longitude": 33.4271153,
+            "geocell": 3108934,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 255591375,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q818765",
+                "wikipedia_pages": {
+                    "en": "Shinyanga"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 255591716,
+            "country": 834,
+            "level1area": [
+                "tz23"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Сингида",
+                "sw": "Singida",
+                "uk": "Сінгіда"
+            },
+            "place_type": 67,
+            "population": 165492,
+            "latitude": -4.8195746,
+            "longitude": 34.7498283,
+            "geocell": 3065747,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 255591716,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q153331",
+                "wikipedia_pages": {
+                    "de": "Singida (Tansania)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 255594923,
+            "country": 834,
+            "level1area": [
+                "tz14"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mbeya",
+                "ko": "므베야",
+                "lt": "Mbeja",
+                "ru": "Мбея",
+                "sw": "Mbeya",
+                "uk": "Мбея"
+            },
+            "place_type": 67,
+            "population": 541603,
+            "latitude": -8.906508,
+            "longitude": 33.468672,
+            "geocell": 2918134,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 255594923,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q335548",
+                "wikipedia_pages": {
+                    "en": "Mbeya"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 255602805,
+            "country": 834,
+            "level1area": [
+                "tz09"
+            ],
+            "level2area": null,
+            "names": {
+                "el": "Μόσι (Τανζανία)",
+                "ko": "모시",
+                "lt": "Mošis",
+                "ru": "Моши",
+                "sw": "Moshi",
+                "tr": "Moshi",
+                "uk": "Моші"
+            },
+            "place_type": 67,
+            "population": 221733,
+            "latitude": -3.3486456,
+            "longitude": 37.3435249,
+            "geocell": 3119773,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 255602805,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q271733",
+                "wikipedia_pages": {
+                    "en": "Moshi, Tanzania"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 255603098,
+            "country": 834,
+            "level1area": [
+                "tz01"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Arusha",
+                "en": "Arusha",
+                "hu": "Arusha",
+                "ko": "아루샤",
+                "lt": "Aruša",
+                "ru": "Аруша",
+                "sw": "Arusha",
+                "uk": "Аруша"
+            },
+            "place_type": 67,
+            "population": 617631,
+            "latitude": -3.3696827,
+            "longitude": 36.6880794,
+            "geocell": 3119766,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 255603098,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4301",
+                "wikipedia_pages": {
+                    "en": "Arusha"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 255615843,
+            "country": 834,
+            "level1area": [
+                "tz25"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tanga",
+                "ko": "탕가",
+                "lt": "Tanga",
+                "ru": "Танга",
+                "sw": "Tanga",
+                "uk": "Танга"
+            },
+            "place_type": 67,
+            "population": 393429,
+            "latitude": -5.0721976,
+            "longitude": 39.0993457,
+            "geocell": 3058590,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 255615843,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q152902",
+                "wikipedia_pages": {
+                    "en": "Tanga, Tanzania"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 255620128,
+            "country": 834,
+            "level1area": [
+                "tz01"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Mto wa Mbu"
+            },
+            "place_type": 84,
+            "population": 11405,
+            "latitude": -3.3767101,
+            "longitude": 35.8558004,
+            "geocell": 3119758,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 255620128,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 255655635,
+            "country": 834,
+            "level1area": [
+                "tz25"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Корогве",
+                "sw": "Korogwe",
+                "uk": "Корогве"
+            },
+            "place_type": 84,
+            "population": 62032,
+            "latitude": -5.1592095,
+            "longitude": 38.4522634,
+            "geocell": 3054984,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 255655635,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1027843",
+                "wikipedia_pages": {
+                    "en": "Korogwe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258117759,
+            "country": 834,
+            "level1area": [
+                "tz29"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Makambako"
+            },
+            "place_type": 67,
+            "population": 116232,
+            "latitude": -8.8439753,
+            "longitude": 34.8229945,
+            "geocell": 2921748,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258117759,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q49106147",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258135360,
+            "country": 834,
+            "level1area": [
+                "tz16"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Ифакара",
+                "sw": "Ifakara",
+                "uk": "Іфакара"
+            },
+            "place_type": 67,
+            "population": 205843,
+            "latitude": -8.1321004,
+            "longitude": 36.6848455,
+            "geocell": 2946966,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258135360,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q995454",
+                "wikipedia_pages": {
+                    "en": "Ifakara"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258155223,
+            "country": 834,
+            "level1area": [
+                "tz19"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Багамойо",
+                "sw": "Bagamoyo",
+                "uk": "Багамойо"
+            },
+            "place_type": 84,
+            "population": 55000,
+            "latitude": -6.4422075,
+            "longitude": 38.9062189,
+            "geocell": 3008189,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258155223,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q799843",
+                "wikipedia_pages": {
+                    "en": "Bagamoyo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258160432,
+            "country": 834,
+            "level1area": [
+                "tz21"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Songea",
+                "ko": "송게아",
+                "lt": "Songea",
+                "ru": "Сонгеа",
+                "sw": "Songea",
+                "uk": "Сонгеа"
+            },
+            "place_type": 67,
+            "population": 286285,
+            "latitude": -10.6787282,
+            "longitude": 35.6483576,
+            "geocell": 2856956,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258160432,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q794813",
+                "wikipedia_pages": {
+                    "en": "Songea"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258162316,
+            "country": 834,
+            "level1area": [
+                "tz17"
+            ],
+            "level2area": null,
+            "names": {
+                "ko": "므트와라",
+                "lt": "Mtvara",
+                "ru": "Мтвара",
+                "sw": "Mtwara",
+                "uk": "Мтвара"
+            },
+            "place_type": 67,
+            "population": 140793,
+            "latitude": -10.2838146,
+            "longitude": 40.1789136,
+            "geocell": 2871401,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258162316,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q646684",
+                "wikipedia_pages": {
+                    "en": "Mtwara"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258162403,
+            "country": 834,
+            "level1area": [
+                "tz12"
+            ],
+            "level2area": null,
+            "names": {
+                "lt": "Lindis",
+                "ru": "Линди",
+                "sw": "Lindi",
+                "uk": "Лінді"
+            },
+            "place_type": 84,
+            "population": 95096,
+            "latitude": -9.9989181,
+            "longitude": 39.7137313,
+            "geocell": 2882197,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258162403,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q829886",
+                "wikipedia_pages": {
+                    "en": "Lindi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258165920,
+            "country": 834,
+            "level1area": [
+                "tz05"
+            ],
+            "level2area": null,
+            "names": {
+                "ko": "부코바",
+                "lt": "Bukoba",
+                "ru": "Букоба",
+                "sw": "Bukoba",
+                "uk": "Букоба"
+            },
+            "place_type": 67,
+            "population": 144938,
+            "latitude": -1.3311508,
+            "longitude": 31.8125605,
+            "geocell": 3191718,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258165920,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q654259",
+                "wikipedia_pages": {
+                    "en": "Bukoba"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258168998,
+            "country": 834,
+            "level1area": [
+                "tz19"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Кибаха",
+                "sw": "Kibaha",
+                "uk": "Кібага"
+            },
+            "place_type": 67,
+            "population": 265360,
+            "latitude": -6.7864318,
+            "longitude": 38.9920175,
+            "geocell": 2997389,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258168998,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q195492",
+                "wikipedia_pages": {
+                    "en": "Kibaha"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258170602,
+            "country": 834,
+            "level1area": [
+                "tz13"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Bunda"
+            },
+            "place_type": 67,
+            "population": 182970,
+            "latitude": -2.0232321,
+            "longitude": 33.8719347,
+            "geocell": 3166538,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258170602,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258307668,
+            "country": 834,
+            "level1area": [
+                "tz27"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Геита",
+                "sw": "Geita",
+                "uk": "Ґеіта"
+            },
+            "place_type": 67,
+            "population": 318006,
+            "latitude": -2.8707573,
+            "longitude": 32.2340831,
+            "geocell": 3137722,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258307668,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4622385",
+                "wikipedia_pages": {
+                    "en": "Geita"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258502528,
+            "country": 834,
+            "level1area": [
+                "tz17"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Масаси",
+                "sw": "Masasi",
+                "uk": "Масасі"
+            },
+            "place_type": 84,
+            "population": 89700,
+            "latitude": -10.7283309,
+            "longitude": 38.8052732,
+            "geocell": 2853388,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258502528,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1003089",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258505599,
+            "country": 834,
+            "level1area": [
+                "tz04"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Mafinga"
+            },
+            "place_type": 84,
+            "population": 99305,
+            "latitude": -8.3015336,
+            "longitude": 35.2989116,
+            "geocell": 2939752,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258505599,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258511419,
+            "country": 834,
+            "level1area": [
+                "tz30"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Бариади",
+                "sw": "Bariadi",
+                "uk": "Баріаді"
+            },
+            "place_type": 67,
+            "population": 260927,
+            "latitude": -2.8035487,
+            "longitude": 33.9869932,
+            "geocell": 3137739,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258511419,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4624506",
+                "wikipedia_pages": {
+                    "en": "Bariadi"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258511874,
+            "country": 834,
+            "level1area": [
+                "tz29"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Нджомбе",
+                "sw": "Njombe",
+                "uk": "Нджомбе"
+            },
+            "place_type": 84,
+            "population": 92537,
+            "latitude": -9.3380477,
+            "longitude": 34.7694862,
+            "geocell": 2903747,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258511874,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q24283486",
+                "wikipedia_pages": {
+                    "en": "Njombe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258512646,
+            "country": 834,
+            "level1area": [
+                "tz24"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Нзега",
+                "sw": "Nzega",
+                "uk": "Нзеґа"
+            },
+            "place_type": 67,
+            "population": 125193,
+            "latitude": -4.2194936,
+            "longitude": 33.18898,
+            "geocell": 3087331,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258512646,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q25932601",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258513630,
+            "country": 834,
+            "level1area": [
+                "tz13"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Tarime"
+            },
+            "place_type": 67,
+            "population": 133043,
+            "latitude": -1.3424053,
+            "longitude": 34.3803747,
+            "geocell": 3191743,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258513630,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q12741940",
+                "wikipedia_pages": {
+                    "en": "Tarime"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258514275,
+            "country": 834,
+            "level1area": [
+                "tz21"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Mbinga"
+            },
+            "place_type": 84,
+            "population": 60868,
+            "latitude": -10.9498503,
+            "longitude": 34.996754,
+            "geocell": 2846149,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258514275,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258589880,
+            "country": 834,
+            "level1area": [
+                "tz03"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kondoa"
+            },
+            "place_type": 84,
+            "population": 80443,
+            "latitude": -4.9065127,
+            "longitude": 35.7796312,
+            "geocell": 3062157,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258589880,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258926603,
+            "country": 834,
+            "level1area": [
+                "tz21"
+            ],
+            "level2area": null,
+            "names": {
+                "ru": "Тундуру",
+                "sw": "Tunduru",
+                "uk": "Тундуру"
+            },
+            "place_type": 84,
+            "population": 50054,
+            "latitude": -11.0422376,
+            "longitude": 37.3350655,
+            "geocell": 2842573,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258926603,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1514015",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 258932063,
+            "country": 834,
+            "level1area": [
+                "tz27"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Katoro"
+            },
+            "place_type": 84,
+            "population": 75000,
+            "latitude": -3.0048496,
+            "longitude": 31.927419,
+            "geocell": 3130519,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 258932063,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259066734,
+            "country": 834,
+            "level1area": [
+                "tz18"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Misungwi"
+            },
+            "place_type": 84,
+            "population": 30728,
+            "latitude": -2.8429665,
+            "longitude": 33.0866061,
+            "geocell": 3137730,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259066734,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6880637",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259704149,
+            "country": 834,
+            "level1area": [
+                "tz05"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Rulenge"
+            },
+            "place_type": 84,
+            "population": 11444,
+            "latitude": -2.7188717,
+            "longitude": 30.6323283,
+            "geocell": 3141306,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259704149,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259709135,
+            "country": 834,
+            "level1area": [
+                "tz18"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kisesa 'A'"
+            },
+            "place_type": 84,
+            "population": 21707,
+            "latitude": -2.5546303,
+            "longitude": 33.0450063,
+            "geocell": 3148530,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259709135,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259711489,
+            "country": 834,
+            "level1area": [
+                "tz13"
+            ],
+            "level2area": null,
+            "names": {
+                "ko": "무소마",
+                "lt": "Musoma",
+                "ru": "Мусома",
+                "sw": "Musoma",
+                "uk": "Мусома"
+            },
+            "place_type": 67,
+            "population": 164172,
+            "latitude": -1.4998186,
+            "longitude": 33.8083018,
+            "geocell": 3188138,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259711489,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q847315",
+                "wikipedia_pages": {
+                    "en": "Musoma"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 259713894,
+            "country": 834,
+            "level1area": [
+                "tz27"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Masumbwe"
+            },
+            "place_type": 84,
+            "population": 50000,
+            "latitude": -3.6461603,
+            "longitude": 32.164209,
+            "geocell": 3108921,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 259713894,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 261964012,
+            "country": 834,
+            "level1area": [
+                "tz22"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kahama"
+            },
+            "place_type": 67,
+            "population": 453654,
+            "latitude": -3.8289877,
+            "longitude": 32.6011558,
+            "geocell": 3101726,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 261964012,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6346798",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 262031206,
+            "country": 834,
+            "level1area": [
+                "tz25"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Handeni"
+            },
+            "place_type": 67,
+            "population": 108968,
+            "latitude": -5.4283292,
+            "longitude": 38.0211414,
+            "geocell": 3044180,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 262031206,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 262095995,
+            "country": 834,
+            "level1area": [
+                "tz20"
+            ],
+            "level2area": null,
+            "names": {
+                "ko": "숨바왕가",
+                "lt": "Sumbavanga",
+                "ru": "Сумбаванга",
+                "sw": "Sumbawanga",
+                "uk": "Сумбаванґа"
+            },
+            "place_type": 67,
+            "population": 182970,
+            "latitude": -7.9523861,
+            "longitude": 31.6231898,
+            "geocell": 2954116,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 262095995,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q115323",
+                "wikipedia_pages": {
+                    "en": "Sumbawanga"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 262107786,
+            "country": 834,
+            "level1area": [
+                "tz31"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Vwawa"
+            },
+            "place_type": 84,
+            "population": 85000,
+            "latitude": -9.1139548,
+            "longitude": 32.9429463,
+            "geocell": 2910929,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 262107786,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 262107914,
+            "country": 834,
+            "level1area": [
+                "tz31"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Tunduma"
+            },
+            "place_type": 67,
+            "population": 219309,
+            "latitude": -9.3101642,
+            "longitude": 32.767525,
+            "geocell": 2903727,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 262107914,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q7852915",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 331456915,
+            "country": 834,
+            "level1area": [
+                "tz14"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Tukuyu"
+            },
+            "place_type": 84,
+            "population": 50000,
+            "latitude": -9.2558985,
+            "longitude": 33.6458601,
+            "geocell": 2907336,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 331456915,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q995249",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 566128650,
+            "country": 834,
+            "level1area": [
+                "tz18"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Magu"
+            },
+            "place_type": 84,
+            "population": 23822,
+            "latitude": -2.5899613,
+            "longitude": 33.4445308,
+            "geocell": 3148534,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 566128650,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q20746280",
+                "wikipedia_pages": {
+                    "en": "Magu, Tanzania"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 622514835,
+            "country": 834,
+            "level1area": [
+                "tz10"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Chake-Chake"
+            },
+            "place_type": 84,
+            "population": 52047,
+            "latitude": -5.2440346,
+            "longitude": 39.7685075,
+            "geocell": 3051397,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 622514835,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q993159",
+                "wikipedia_pages": {
+                    "en": "Chake-Chake"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 846799029,
+            "country": 834,
+            "level1area": [
+                "tz01"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Mbuguni"
+            },
+            "place_type": 86,
+            "population": 14880,
+            "latitude": -3.55156,
+            "longitude": 36.916492,
+            "geocell": 3112569,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 846799029,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q6799799",
+                "wikipedia_pages": {
+                    "en": "Mbuguni"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 943235403,
+            "country": 834,
+            "level1area": [
+                "tz03"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kongwa"
+            },
+            "place_type": 84,
+            "population": 309973,
+            "latitude": -6.1925662,
+            "longitude": 36.4072433,
+            "geocell": 3018964,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 943235403,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5318130",
+                "wikipedia_pages": {
+                    "en": "Kongwa (Tanzanian ward)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 965844399,
+            "country": 834,
+            "level1area": [
+                "tz03"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kibakwe"
+            },
+            "place_type": 84,
+            "population": 10000,
+            "latitude": -6.713716,
+            "longitude": 36.371526,
+            "geocell": 2997363,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 965844399,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.kibakwe-schoepft-hoffnung.de/english/",
+                "wikidata_page_name": "Q6403941",
+                "wikipedia_pages": {
+                    "en": "Kibakwe"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 965844821,
+            "country": 834,
+            "level1area": [
+                "tz27"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Lwamgasa"
+            },
+            "place_type": 86,
+            "population": 16357,
+            "latitude": -3.1172973,
+            "longitude": 32.0428027,
+            "geocell": 3126920,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 965844821,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2619615640,
+            "country": 834,
+            "level1area": [
+                "tz05"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kayanga"
+            },
+            "place_type": 84,
+            "population": 16590,
+            "latitude": -1.5302676,
+            "longitude": 31.1511361,
+            "geocell": 3184511,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2619615640,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3247454356,
+            "country": 834,
+            "level1area": [
+                "tz26"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "باباتي",
+                "lt": "Babatis",
+                "ru": "Бабати",
+                "sw": "Babati",
+                "uk": "Бабаті"
+            },
+            "place_type": 84,
+            "population": 67445,
+            "latitude": -4.2100638,
+            "longitude": 35.7491485,
+            "geocell": 3087357,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3247454356,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q276746",
+                "wikipedia_pages": {
+                    "en": "Babati"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3320526612,
+            "country": 834,
+            "level1area": [
+                "tz15"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "مدينة زنجبار",
+                "cs": "Zanzibar",
+                "de": "Sansibar-Stadt",
+                "en": "Zanzibar City",
+                "es": "Zanzíbar",
+                "fa": "زنگبار",
+                "fi": "Sansibar",
+                "fr": "Zanzibar",
+                "hi": "ज़ांज़ीबार",
+                "ko": "잔지바르",
+                "ml": "സാൻസിബാർ നഗരം",
+                "ru": "Занзибар",
+                "sr": "Занзибар",
+                "sw": "Jiji la Zanzibar",
+                "ur": "زنجبار شہر"
+            },
+            "place_type": 67,
+            "population": 709809,
+            "latitude": -6.1664908,
+            "longitude": 39.2074312,
+            "geocell": 3018992,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3320526612,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2222874",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3403706592,
+            "country": 834,
+            "level1area": [
+                "tz27"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Ushirombo"
+            },
+            "place_type": 84,
+            "population": 23428,
+            "latitude": -3.4693125,
+            "longitude": 31.8981028,
+            "geocell": 3116118,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3403706592,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q13125129",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4192747832,
+            "country": 834,
+            "level1area": [
+                "tz08"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Rungwe mpya"
+            },
+            "place_type": 86,
+            "population": 12012,
+            "latitude": -4.7842766,
+            "longitude": 30.2091149,
+            "geocell": 3069302,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4192747832,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5518611959,
+            "country": 834,
+            "level1area": [
+                "tz08"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kalinzi"
+            },
+            "place_type": 86,
+            "population": 10302,
+            "latitude": -4.608922,
+            "longitude": 29.7336791,
+            "geocell": 3072897,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5518611959,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5592676869,
+            "country": 834,
+            "level1area": [
+                "tz05"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Ngando"
+            },
+            "place_type": 86,
+            "population": 10054,
+            "latitude": -1.1767212,
+            "longitude": 31.3879812,
+            "geocell": 3198913,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5592676869,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5658281935,
+            "country": 834,
+            "level1area": [
+                "tz08"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Murubona"
+            },
+            "place_type": 86,
+            "population": 21788,
+            "latitude": -4.568643,
+            "longitude": 30.0962635,
+            "geocell": 3076500,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5658281935,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5658281942,
+            "country": 834,
+            "level1area": [
+                "tz08"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Rusaba"
+            },
+            "place_type": 86,
+            "population": 11908,
+            "latitude": -4.6224027,
+            "longitude": 29.7937608,
+            "geocell": 3072897,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5658281942,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5658281944,
+            "country": 834,
+            "level1area": [
+                "tz08"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Mwayaya"
+            },
+            "place_type": 86,
+            "population": 10411,
+            "latitude": -4.4759092,
+            "longitude": 29.8385583,
+            "geocell": 3080098,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5658281944,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5658281945,
+            "country": 834,
+            "level1area": [
+                "tz08"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kibwigwa"
+            },
+            "place_type": 86,
+            "population": 10005,
+            "latitude": -4.4232705,
+            "longitude": 29.8416809,
+            "geocell": 3080098,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5658281945,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5658281966,
+            "country": 834,
+            "level1area": [
+                "tz08"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Mvugwe"
+            },
+            "place_type": 86,
+            "population": 13221,
+            "latitude": -4.2017974,
+            "longitude": 30.4928792,
+            "geocell": 3087304,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5658281966,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5658281970,
+            "country": 834,
+            "level1area": [
+                "tz08"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kitagata"
+            },
+            "place_type": 86,
+            "population": 48852,
+            "latitude": -4.3654507,
+            "longitude": 30.3769969,
+            "geocell": 3083703,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5658281970,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5658281971,
+            "country": 834,
+            "level1area": [
+                "tz08"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Shunga"
+            },
+            "place_type": 86,
+            "population": 25420,
+            "latitude": -4.3432511,
+            "longitude": 30.2249062,
+            "geocell": 3083702,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5658281971,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5658281973,
+            "country": 834,
+            "level1area": [
+                "tz08"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Muhunga"
+            },
+            "place_type": 86,
+            "population": 10034,
+            "latitude": -4.6183387,
+            "longitude": 30.0299067,
+            "geocell": 3072900,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5658281973,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5658281977,
+            "country": 834,
+            "level1area": [
+                "tz08"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kigina"
+            },
+            "place_type": 86,
+            "population": 10455,
+            "latitude": -3.8938699,
+            "longitude": 30.4792682,
+            "geocell": 3101704,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5658281977,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5676362385,
+            "country": 834,
+            "level1area": [
+                "tz27"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Nkome"
+            },
+            "place_type": 86,
+            "population": 11672,
+            "latitude": -2.5009554,
+            "longitude": 32.007873,
+            "geocell": 3148520,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5676362385,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5798762228,
+            "country": 834,
+            "level1area": [
+                "tz18"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kasisa"
+            },
+            "place_type": 86,
+            "population": 10712,
+            "latitude": -2.4891206,
+            "longitude": 32.5123328,
+            "geocell": 3152125,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5798762228,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5799703305,
+            "country": 834,
+            "level1area": [
+                "tz18"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Nyehunge"
+            },
+            "place_type": 86,
+            "population": 11083,
+            "latitude": -2.5246864,
+            "longitude": 32.2983595,
+            "geocell": 3148522,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5799703305,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5816238850,
+            "country": 834,
+            "level1area": [
+                "tz18"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Chifunfu"
+            },
+            "place_type": 86,
+            "population": 15178,
+            "latitude": -2.4020814,
+            "longitude": 32.654515,
+            "geocell": 3152126,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5816238850,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5825892543,
+            "country": 834,
+            "level1area": [
+                "tz16"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Chita"
+            },
+            "place_type": 86,
+            "population": 15367,
+            "latitude": -8.5189176,
+            "longitude": 35.9452563,
+            "geocell": 2932559,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5825892543,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5827891752,
+            "country": 834,
+            "level1area": [
+                "tz16"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Lipangalala"
+            },
+            "place_type": 86,
+            "population": 10825,
+            "latitude": -8.1503935,
+            "longitude": 36.6842143,
+            "geocell": 2946966,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5827891752,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5827892579,
+            "country": 834,
+            "level1area": [
+                "tz16"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Viwanja Sitini"
+            },
+            "place_type": 86,
+            "population": 17008,
+            "latitude": -8.1248294,
+            "longitude": 36.682915,
+            "geocell": 2946966,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5827892579,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5827892580,
+            "country": 834,
+            "level1area": [
+                "tz16"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Mlabani"
+            },
+            "place_type": 86,
+            "population": 10943,
+            "latitude": -8.1469655,
+            "longitude": 36.6904947,
+            "geocell": 2946966,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5827892580,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5830589946,
+            "country": 834,
+            "level1area": [
+                "tz16"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "kiberege"
+            },
+            "place_type": 86,
+            "population": 10968,
+            "latitude": -7.9555867,
+            "longitude": 36.8570882,
+            "geocell": 2954168,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5830589946,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5830649874,
+            "country": 834,
+            "level1area": [
+                "tz16"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Mkamba"
+            },
+            "place_type": 86,
+            "population": 16809,
+            "latitude": -7.6825967,
+            "longitude": 36.9676652,
+            "geocell": 2964969,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5830649874,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5837047685,
+            "country": 834,
+            "level1area": [
+                "tz16"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Ruaha"
+            },
+            "place_type": 86,
+            "population": 21459,
+            "latitude": -7.6565781,
+            "longitude": 36.9828555,
+            "geocell": 2964969,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5837047685,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5842321392,
+            "country": 834,
+            "level1area": [
+                "tz16"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Msowero"
+            },
+            "place_type": 86,
+            "population": 10749,
+            "latitude": -6.5272519,
+            "longitude": 37.2181372,
+            "geocell": 3004572,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5842321392,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5842338018,
+            "country": 834,
+            "level1area": [
+                "tz16"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Madizini"
+            },
+            "place_type": 86,
+            "population": 14168,
+            "latitude": -6.1371304,
+            "longitude": 37.6373616,
+            "geocell": 3018976,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5842338018,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5897105380,
+            "country": 834,
+            "level1area": [
+                "tz22"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kakola"
+            },
+            "place_type": 86,
+            "population": 11740,
+            "latitude": -3.24464,
+            "longitude": 32.4603828,
+            "geocell": 3123324,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5897105380,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5944453515,
+            "country": 834,
+            "level1area": [
+                "tz22"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Majengo"
+            },
+            "place_type": 86,
+            "population": 15917,
+            "latitude": -3.8180219,
+            "longitude": 32.6064849,
+            "geocell": 3101726,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5944453515,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5944463316,
+            "country": 834,
+            "level1area": [
+                "tz22"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Malunga"
+            },
+            "place_type": 86,
+            "population": 10225,
+            "latitude": -3.8141466,
+            "longitude": 32.5979657,
+            "geocell": 3101725,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5944463316,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5952324967,
+            "country": 834,
+            "level1area": [
+                "tz22"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Majengo Mapya"
+            },
+            "place_type": 86,
+            "population": 10834,
+            "latitude": -3.6502398,
+            "longitude": 33.4183849,
+            "geocell": 3108934,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5952324967,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6035106980,
+            "country": 834,
+            "level1area": [
+                "tz26"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Ndirigishi"
+            },
+            "place_type": 86,
+            "population": 10115,
+            "latitude": -5.5693565,
+            "longitude": 36.55726,
+            "geocell": 3040565,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6035106980,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 6121776942,
+            "country": 834,
+            "level1area": [
+                "tz19"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Vikindu"
+            },
+            "place_type": 84,
+            "population": 70000,
+            "latitude": -7.0068581,
+            "longitude": 39.308264,
+            "geocell": 2986593,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6121776942,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7047147401,
+            "country": 834,
+            "level1area": [
+                "tz26"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Magugu"
+            },
+            "place_type": 86,
+            "population": 13064,
+            "latitude": -3.9953996,
+            "longitude": 35.7817237,
+            "geocell": 3098157,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7047147401,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7056577851,
+            "country": 834,
+            "level1area": [
+                "tz09"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Mabogini"
+            },
+            "place_type": 86,
+            "population": 11855,
+            "latitude": -3.4124857,
+            "longitude": 37.3671184,
+            "geocell": 3116173,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7056577851,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7057183308,
+            "country": 834,
+            "level1area": [
+                "tz09"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Hedaru"
+            },
+            "place_type": 86,
+            "population": 14986,
+            "latitude": -4.5015329,
+            "longitude": 37.9144474,
+            "geocell": 3076579,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7057183308,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7151164325,
+            "country": 834,
+            "level1area": [
+                "tz08"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kasulu"
+            },
+            "place_type": 67,
+            "population": 238321,
+            "latitude": -4.5773996,
+            "longitude": 30.099234,
+            "geocell": 3076500,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7151164325,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q15554012",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7512187505,
+            "country": 834,
+            "level1area": [
+                "tz01"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Tloma, Ganako"
+            },
+            "place_type": 86,
+            "population": 10996,
+            "latitude": -3.3083854,
+            "longitude": 35.6664861,
+            "geocell": 3119756,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7512187505,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 8019568559,
+            "country": 834,
+            "level1area": [
+                "tz05"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Muhweza"
+            },
+            "place_type": 86,
+            "population": 10557259,
+            "latitude": -2.6246652,
+            "longitude": 30.4807261,
+            "geocell": 3144904,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 8019568559,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9623805792,
+            "country": 834,
+            "level1area": [
+                "tz18"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Sengerema"
+            },
+            "place_type": 67,
+            "population": 110000,
+            "latitude": -2.6502964,
+            "longitude": 32.6433865,
+            "geocell": 3144926,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9623805792,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {
+                    "en": "Sengerema"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11070723589,
+            "country": 834,
+            "level1area": [
+                "tz04"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Iringa"
+            },
+            "place_type": 67,
+            "population": 202490,
+            "latitude": -7.778902,
+            "longitude": 35.6970649,
+            "geocell": 2961356,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11070723589,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q735609",
+                "wikipedia_pages": {
+                    "en": "Iringa"
+                }
+            }
+        }
+    }
+]

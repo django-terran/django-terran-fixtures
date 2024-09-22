@@ -1,0 +1,2974 @@
+[
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 59735022,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs06"
+            ],
+            "names": {
+                "af": "Novi Sad",
+                "ar": "نوفي ساد",
+                "ast": "Novi Sad",
+                "be": "Нові-Сад",
+                "bg": "Нови Сад",
+                "br": "Novi Sad",
+                "bs": "Novi Sad",
+                "ca": "Novi Sad",
+                "cs": "Nový Sad",
+                "da": "Novi Sad",
+                "de": "Novi Sad",
+                "el": "Νόβι Σαντ",
+                "en": "Novi Sad",
+                "eo": "Novi Sad",
+                "es": "Novi Sad",
+                "et": "Novi Sad",
+                "eu": "Novi Sad",
+                "fa": "نووی ساد",
+                "fi": "Novi Sad",
+                "fr": "Novi Sad",
+                "ga": "Novi Sad",
+                "gl": "Novi Sad",
+                "he": "נובי סאד",
+                "hr": "Novi Sad",
+                "hu": "Újvidék",
+                "hy": "Նովի Սադ",
+                "id": "Novi Sad",
+                "io": "Novi Sad",
+                "it": "Novi Sad",
+                "ja": "ノヴィ・サド",
+                "ka": "ნოვი-სადი",
+                "ko": "노비사드",
+                "lt": "Novi Sadas",
+                "lv": "Novisada",
+                "ml": "നോവി സാദ്",
+                "mr": "नोव्ही साद",
+                "ms": "Novi Sad",
+                "nb": "Novi Sad",
+                "nl": "Novi Sad",
+                "nn": "Novi Sad",
+                "os": "Нови-Сад",
+                "pl": "Nowy Sad",
+                "pt": "Novi Sad",
+                "ro": "Novi Sad",
+                "ru": "Нови-Сад",
+                "sk": "Nový Sad",
+                "sl": "Novi Sad",
+                "sq": "Novi Sad",
+                "sr": "Нови Сад",
+                "sv": "Novi Sad",
+                "sw": "Novi Sad",
+                "th": "นอวีซาด",
+                "tr": "Novi Sad",
+                "tt": "Нови-Сад",
+                "uk": "Новий Сад",
+                "ur": "نووی ساد",
+                "vi": "Novi Sad"
+            },
+            "place_type": 67,
+            "population": 260438,
+            "latitude": 45.2551338,
+            "longitude": 19.8451756,
+            "geocell": 4869198,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 59735022,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "21000"
+                ],
+                "wikidata_page_name": "Q55630",
+                "wikipedia_pages": {
+                    "sr": "Нови Сад"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 59735024,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs06"
+            ],
+            "names": {
+                "bg": "Петроварадин",
+                "de": "Peterwardein",
+                "en": "Petrovaradin",
+                "fa": "پترو وارادین",
+                "hr": "Petrovaradin",
+                "hu": "Pétervárad",
+                "ja": "ペトロヴァラディン",
+                "ka": "პეტროვარადინი",
+                "ko": "페트로바라딘",
+                "ru": "Петроварадин",
+                "sr": "Петроварадин",
+                "tt": "Петроварадин",
+                "uk": "Петроварадин"
+            },
+            "place_type": 84,
+            "population": 15621,
+            "latitude": 45.2426175,
+            "longitude": 19.8820073,
+            "geocell": 4869198,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 59735024,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q19429",
+                "wikipedia_pages": {
+                    "sr": "Петроварадин"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60349665,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs07"
+            ],
+            "names": {
+                "bg": "Инджия",
+                "en": "Indjija",
+                "hu": "Ingyia",
+                "ru": "Инджия",
+                "sr": "Инђија"
+            },
+            "place_type": 84,
+            "population": 24450,
+            "latitude": 45.0478559,
+            "longitude": 20.0807338,
+            "geocell": 4862000,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60349665,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "22320"
+                ],
+                "wikidata_page_name": "Q309341",
+                "wikipedia_pages": {
+                    "sr": "Инђија"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60352987,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs06"
+            ],
+            "names": {
+                "bg": "Бечей",
+                "de": "Altbetsche",
+                "en": "Becej",
+                "hu": "Óbecse",
+                "sr": "Бечеј"
+            },
+            "place_type": 84,
+            "population": 19492,
+            "latitude": 45.6153745,
+            "longitude": 20.0490085,
+            "geocell": 4883600,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60352987,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q477142",
+                "wikipedia_pages": {
+                    "sr": "Бечеј"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60571493,
+            "country": 688,
+            "level1area": [
+                "rs00"
+            ],
+            "level2area": null,
+            "names": {
+                "af": "Belgrado",
+                "ar": "بلغراد",
+                "ast": "Belgráu",
+                "az": "Belqrad",
+                "be": "Бялград",
+                "bg": "Белград",
+                "bn": "বেলগ্রেড",
+                "br": "Beograd",
+                "bs": "Beograd",
+                "ca": "Belgrad",
+                "ckb": "بێلگراد",
+                "cs": "Bělehrad",
+                "cy": "Beograd",
+                "da": "Beograd",
+                "de": "Belgrad",
+                "dsb": "Běłogrod",
+                "el": "Βελιγράδι",
+                "en": "Belgrade",
+                "eo": "Beogrado",
+                "es": "Belgrado",
+                "et": "Belgrad",
+                "eu": "Belgrad",
+                "fa": "بلگراد",
+                "fi": "Belgrad",
+                "fr": "Belgrade",
+                "fy": "Belgrado",
+                "ga": "Béalgrád",
+                "gd": "Belgrade",
+                "gl": "Belgrado",
+                "he": "בלגרד",
+                "hi": "बॅलग्रेड",
+                "hr": "Beograd",
+                "hsb": "Běłohród",
+                "hu": "Belgrád",
+                "hy": "Բելգրադ",
+                "id": "Beograd",
+                "io": "Belgrade",
+                "is": "Belgrad",
+                "it": "Belgrado",
+                "ja": "ベオグラード",
+                "ka": "ბელგრადი",
+                "kk": "Белград",
+                "kn": "ಬೆಲ್ಗ್ರಾದ್",
+                "ko": "베오그라드",
+                "lb": "Belgrad",
+                "lt": "Belgradas",
+                "lv": "Belgrada",
+                "mk": "Белград",
+                "ml": "ബെൽഗ്രേഡ്",
+                "mn": "Белград",
+                "mr": "बेलग्रेड",
+                "ms": "Belgrade",
+                "nl": "Belgrado",
+                "nn": "Beograd",
+                "os": "Белград",
+                "pl": "Belgrad",
+                "pt": "Belgrado",
+                "ro": "Belgrad",
+                "ru": "Белград",
+                "sk": "Belehrad",
+                "sl": "Beograd",
+                "sr": "Београд",
+                "sv": "Belgrad",
+                "ta": "பெல்கிறேட்",
+                "tg": "Белград",
+                "th": "เบลเกรด",
+                "tr": "Belgrad",
+                "tt": "Белград",
+                "udm": "Белград",
+                "ug": "بېلگراد",
+                "uk": "Белград",
+                "ur": "بلغراد",
+                "vi": "Beograd"
+            },
+            "place_type": 67,
+            "population": 1197714,
+            "latitude": 44.8178131,
+            "longitude": 20.4568974,
+            "geocell": 4854804,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60571493,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "11000"
+                ],
+                "wikidata_page_name": "Q3711",
+                "wikipedia_pages": {
+                    "sr": "Београд"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60580248,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs06"
+            ],
+            "names": {
+                "de": "Thomasberg",
+                "en": "Srbobran",
+                "hu": "Szenttamás",
+                "ru": "Србобран",
+                "sr": "Србобран"
+            },
+            "place_type": 84,
+            "population": 10496,
+            "latitude": 45.5484758,
+            "longitude": 19.7911219,
+            "geocell": 4879997,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60580248,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q259612",
+                "wikipedia_pages": {
+                    "sr": "Србобран"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 60583019,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs07"
+            ],
+            "names": {
+                "en": "Ruma",
+                "hu": "Ruma",
+                "ru": "Рума",
+                "sr": "Рума"
+            },
+            "place_type": 84,
+            "population": 27747,
+            "latitude": 45.0078322,
+            "longitude": 19.8187834,
+            "geocell": 4861998,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 60583019,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q144973",
+                "wikipedia_pages": {
+                    "sr": "Рума"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 61721018,
+            "country": 688,
+            "level1area": [
+                "rs00"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Obrenowatz",
+                "en": "Obrenovac",
+                "lt": "Obrenovacas",
+                "pl": "Obrenovac",
+                "ru": "Обреновац",
+                "sr": "Обреновац"
+            },
+            "place_type": 84,
+            "population": 25380,
+            "latitude": 44.654833,
+            "longitude": 20.2014318,
+            "geocell": 4847602,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 61721018,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q714650",
+                "wikipedia_pages": {
+                    "sr": "Обреновац"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 61721547,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs02"
+            ],
+            "names": {
+                "ar": "زرنجانین",
+                "be": "Зрэнянін",
+                "bg": "Зренянин",
+                "bs": "Zrenjanin",
+                "ca": "Zrenjanin",
+                "cs": "Zrenjanin",
+                "da": "Zrenjanin",
+                "de": "Großbetschkerek",
+                "el": "Ζρένιανιν",
+                "en": "Zrenjanin",
+                "eo": "Zrenjanin",
+                "es": "Zrenjanin",
+                "et": "Zrenjanin",
+                "fa": "زرنجانین",
+                "fr": "Zrenjanin",
+                "he": "זרניאנין",
+                "hr": "Zrenjanin",
+                "hu": "Nagybecskerek",
+                "id": "Zrenjanin",
+                "it": "Zrenjanin",
+                "ja": "ズレニャニン",
+                "ka": "ზრენიანინი",
+                "ko": "즈레냐닌",
+                "lt": "Zrenianinas",
+                "lv": "Zreņanina",
+                "ml": "സ്രെൻയാനിൻ",
+                "mn": "Зренянин",
+                "ms": "Zrenjanin",
+                "nb": "Zrenjanin",
+                "nl": "Zrenjanin",
+                "nn": "Zrenjanin",
+                "os": "Зренянин",
+                "pl": "Zrenjanin",
+                "pt": "Zrenjanin",
+                "ro": "Zrenianin",
+                "ru": "Зренянин",
+                "sk": "Zreňanin",
+                "sl": "Zrenjanin",
+                "sq": "Zrenjanin",
+                "sr": "Зрењанин",
+                "sv": "Zrenjanin",
+                "tr": "Zrenjanin",
+                "tt": "Зренянин",
+                "uk": "Зренянин",
+                "ur": "زرینیانین",
+                "vi": "Zrenjanin"
+            },
+            "place_type": 67,
+            "population": 67129,
+            "latitude": 45.3802683,
+            "longitude": 20.3907614,
+            "geocell": 4872803,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 61721547,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q201125",
+                "wikipedia_pages": {
+                    "sr": "Зрењанин"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 100890898,
+            "country": 688,
+            "level1area": [
+                "rs20"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "نيش",
+                "bg": "Ниш",
+                "da": "Niš",
+                "de": "Niš",
+                "el": "Νις",
+                "en": "Niš",
+                "es": "Niš",
+                "et": "Niš",
+                "fr": "Niš",
+                "he": "ניש",
+                "hr": "Niš",
+                "it": "Niš",
+                "lt": "Nišas",
+                "lv": "Niša",
+                "ml": "നിഷ്",
+                "nl": "Niš",
+                "pl": "Nisz",
+                "pt": "Nish",
+                "ro": "Niș",
+                "ru": "Ниш",
+                "sl": "Niš",
+                "sq": "Nishi",
+                "sr": "Ниш",
+                "tr": "Niş"
+            },
+            "place_type": 67,
+            "population": 178976,
+            "latitude": 43.3211301,
+            "longitude": 21.8959232,
+            "geocell": 4800818,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 100890898,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q129259",
+                "wikipedia_pages": {
+                    "sr": "Ниш"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 185538499,
+            "country": 688,
+            "level1area": [
+                "rs23"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ليسكوفاتس",
+                "de": "Leskovac",
+                "el": "Λέσκοβατς",
+                "en": "Leskovac",
+                "es": "Leskovac",
+                "et": "Leskovac",
+                "fr": "Leskovac",
+                "lt": "Leskovacas",
+                "ml": "ലെസ്കോവാക്",
+                "ru": "Лесковац",
+                "sr": "Лесковац"
+            },
+            "place_type": 67,
+            "population": 54091,
+            "latitude": 42.9951304,
+            "longitude": 21.9464271,
+            "geocell": 4786419,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 185538499,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q192606",
+                "wikipedia_pages": {
+                    "sr": "Лесковац"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 185549608,
+            "country": 688,
+            "level1area": [
+                "rs24"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Враня",
+                "de": "Vranje",
+                "el": "Βράνιε",
+                "en": "Vranje",
+                "hr": "Vranje",
+                "ml": "വ്രാണിയേ",
+                "ru": "Вране",
+                "sr": "Врање",
+                "tr": "İvranya"
+            },
+            "place_type": 67,
+            "population": 50954,
+            "latitude": 42.5558337,
+            "longitude": 21.8976673,
+            "geocell": 4772018,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 185549608,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q211645",
+                "wikipedia_pages": {
+                    "sr": "Врање"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249475675,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs06"
+            ],
+            "names": {
+                "en": "Kać",
+                "hu": "Káty",
+                "sr": "Каћ"
+            },
+            "place_type": 86,
+            "population": 11067,
+            "latitude": 45.3000459,
+            "longitude": 19.9420836,
+            "geocell": 4872799,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249475675,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q572237",
+                "wikipedia_pages": {
+                    "sr": "Каћ"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 249478464,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs02"
+            ],
+            "names": {
+                "bg": "Нови Бечей",
+                "de": "Neu-Betsche",
+                "en": "Novi Becej",
+                "hu": "Törökbecse",
+                "pl": "Novi Beczej",
+                "ru": "Нови-Бечей",
+                "sr": "Нови Бечеј"
+            },
+            "place_type": 84,
+            "population": 10967,
+            "latitude": 45.5952571,
+            "longitude": 20.1343581,
+            "geocell": 4880001,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 249478464,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q138474",
+                "wikipedia_pages": {
+                    "sr": "Нови Бечеј"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 250045632,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs06"
+            ],
+            "names": {
+                "en": "Futog",
+                "hu": "Futak",
+                "sr": "Футог"
+            },
+            "place_type": 84,
+            "population": 18011,
+            "latitude": 45.2373534,
+            "longitude": 19.7064376,
+            "geocell": 4869197,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 250045632,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q368374",
+                "wikipedia_pages": {
+                    "sr": "Футог"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 253736569,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs04"
+            ],
+            "names": {
+                "ar": "بانتشيفو",
+                "cs": "Pančevo",
+                "da": "Pančevo",
+                "de": "Pantschowa",
+                "en": "Pančevo",
+                "es": "Pančevo",
+                "et": "Pančevo",
+                "fr": "Pančevo",
+                "hu": "Pancsova",
+                "lt": "Pančevas",
+                "ro": "Panciova",
+                "ru": "Панчево",
+                "sr": "Панчево"
+            },
+            "place_type": 67,
+            "population": 73401,
+            "latitude": 44.8705686,
+            "longitude": 20.6399643,
+            "geocell": 4854806,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 253736569,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q205432",
+                "wikipedia_pages": {
+                    "sr": "Панчево"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 254036931,
+            "country": 688,
+            "level1area": [
+                "rs08"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "شاباتس",
+                "be": "Шабац",
+                "bg": "Шабац",
+                "de": "Schabatz",
+                "el": "Σάμπατς",
+                "en": "Šabac",
+                "es": "Šabac",
+                "et": "Šabac",
+                "fa": "شاباتس",
+                "fr": "Šabac",
+                "he": "שאבאץ",
+                "hr": "Šabac",
+                "hu": "Szabács",
+                "ja": "シャバツ",
+                "ko": "샤바츠",
+                "lt": "Šabacas",
+                "mk": "Шабац",
+                "ml": "ഷബാക്ക്",
+                "ru": "Шабац",
+                "sl": "Šabac",
+                "sq": "Sabaku",
+                "sr": "Шабац",
+                "tt": "Шабац",
+                "uk": "Шабаць",
+                "ur": "شاباتس"
+            },
+            "place_type": 67,
+            "population": 51163,
+            "latitude": 44.7571535,
+            "longitude": 19.6953972,
+            "geocell": 4851196,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 254036931,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://sabac.rs/",
+                "wikidata_page_name": "Q204472",
+                "wikipedia_pages": {
+                    "sr": "Шабац"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 254036974,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs07"
+            ],
+            "names": {
+                "el": "Σρέμσκα Μιτρόβιτσα",
+                "en": "Sremska Mitrovica",
+                "hr": "Srijemska Mitrovica",
+                "hu": "Szávaszentdemeter",
+                "lt": "Sremska Mitrovica",
+                "pl": "Sremska Mitrovica",
+                "ru": "Сремска-Митровица",
+                "sr": "Сремска Митровица"
+            },
+            "place_type": 67,
+            "population": 36764,
+            "latitude": 44.9701654,
+            "longitude": 19.6124132,
+            "geocell": 4858396,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 254036974,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q242733",
+                "wikipedia_pages": {
+                    "sr": "Сремска Митровица"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 254036981,
+            "country": 688,
+            "level1area": [
+                "rs08"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Loznica",
+                "en": "Loznica",
+                "ml": "ലോസ്നിക",
+                "ru": "Лозница",
+                "sr": "Лозница"
+            },
+            "place_type": 67,
+            "population": 19515,
+            "latitude": 44.5309221,
+            "longitude": 19.2237478,
+            "geocell": 4843992,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 254036981,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q648489",
+                "wikipedia_pages": {
+                    "sr": "Лозница"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 254037025,
+            "country": 688,
+            "level1area": [
+                "rs17"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "تشاتشاك",
+                "be": "Чачак",
+                "bg": "Чачак",
+                "ckb": "چاچاک",
+                "de": "Čačak",
+                "el": "Τσάτσακ",
+                "en": "Čačak",
+                "es": "Čačak",
+                "et": "Čačak",
+                "fa": "چاچاک",
+                "fr": "Čačak",
+                "he": "צ'אצ'אק",
+                "ja": "チャチャク",
+                "ko": "차차크",
+                "lt": "Čačakas",
+                "lv": "Čačaka",
+                "mk": "Чачак",
+                "ml": "ചാച്ചാക്",
+                "mn": "Чачак",
+                "os": "Чачак",
+                "ru": "Чачак",
+                "sk": "Čačak",
+                "sl": "Čačak",
+                "sq": "Çaçaku",
+                "sr": "Чачак",
+                "th": "ชาชัก",
+                "tr": "Caçka",
+                "tt": "Чачак",
+                "uk": "Чачак",
+                "ur": "چاچاک"
+            },
+            "place_type": 67,
+            "population": 69598,
+            "latitude": 43.8914332,
+            "longitude": 20.3491624,
+            "geocell": 4818803,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 254037025,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "32000"
+                ],
+                "website": "https://www.cacak.org.rs/Cacak-1-1",
+                "wikidata_page_name": "Q208038",
+                "wikipedia_pages": {
+                    "sr": "Чачак"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 254037064,
+            "country": 688,
+            "level1area": [
+                "rs16"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Požega",
+                "hr": "Požega",
+                "ru": "Пожега",
+                "sl": "Požega",
+                "sr": "Пожега"
+            },
+            "place_type": 84,
+            "population": 12362,
+            "latitude": 43.845981,
+            "longitude": 20.0356852,
+            "geocell": 4818800,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 254037064,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1013322",
+                "wikipedia_pages": {
+                    "sr": "Пожега"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 281664933,
+            "country": 688,
+            "level1area": [
+                "rs15"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Зайчар",
+                "de": "Zaječar",
+                "en": "Zaječar",
+                "ml": "സായേച്ചാർ",
+                "ro": "Zăiceari",
+                "ru": "Заечар",
+                "sr": "Зајечар"
+            },
+            "place_type": 67,
+            "population": 32448,
+            "latitude": 43.9030925,
+            "longitude": 22.2785536,
+            "geocell": 4822422,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 281664933,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q144495",
+                "wikipedia_pages": {
+                    "sr": "Зајечар"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 288815352,
+            "country": 688,
+            "level1area": [
+                "rs00"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ripanj",
+                "sr": "Рипањ"
+            },
+            "place_type": 86,
+            "population": 10084,
+            "latitude": 44.6390298,
+            "longitude": 20.5204337,
+            "geocell": 4847605,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 288815352,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3176717",
+                "wikipedia_pages": {
+                    "sr": "Рипањ"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 292550323,
+            "country": 688,
+            "level1area": [
+                "rs16"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Приеполе",
+                "bs": "Prijepolje",
+                "de": "Prijepolje",
+                "en": "Prijepolje",
+                "hr": "Prijepolje",
+                "ru": "Приеполье",
+                "sr": "Пријепоље"
+            },
+            "place_type": 84,
+            "population": 11928,
+            "latitude": 43.389209,
+            "longitude": 19.6493525,
+            "geocell": 4800796,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 292550323,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q797036",
+                "wikipedia_pages": {
+                    "sr": "Пријепоље"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 292556435,
+            "country": 688,
+            "level1area": [
+                "rs16"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Сеница",
+                "en": "Sjenica",
+                "ru": "Сьеница",
+                "sr": "Сјеница"
+            },
+            "place_type": 84,
+            "population": 12989,
+            "latitude": 43.2729348,
+            "longitude": 19.9991727,
+            "geocell": 4797199,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 292556435,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q994217",
+                "wikipedia_pages": {
+                    "sr": "Сјеница"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 292556852,
+            "country": 688,
+            "level1area": [
+                "rs18"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tutin",
+                "ru": "Тутин",
+                "sr": "Тутин"
+            },
+            "place_type": 84,
+            "population": 11169,
+            "latitude": 42.9903848,
+            "longitude": 20.3366918,
+            "geocell": 4786403,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 292556852,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q835000",
+                "wikipedia_pages": {
+                    "sr": "Тутин"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 293191488,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs01"
+            ],
+            "names": {
+                "de": "Batschka Topola",
+                "en": "Bačka Topola",
+                "hu": "Topolya",
+                "ru": "Бачка-Топола",
+                "sr": "Бачка Топола"
+            },
+            "place_type": 84,
+            "population": 11930,
+            "latitude": 45.8121657,
+            "longitude": 19.6304705,
+            "geocell": 4890796,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 293191488,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q597513",
+                "wikipedia_pages": {
+                    "sr": "Бачка Топола"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 307649772,
+            "country": 688,
+            "level1area": [
+                "rs09"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "فاليفو",
+                "bg": "Валево",
+                "de": "Valjevo",
+                "el": "Βάλιεβο",
+                "en": "Valjevo",
+                "es": "Valjevo",
+                "et": "Valjevo",
+                "fr": "Valjevo",
+                "hr": "Valjevo",
+                "lt": "Valjevas",
+                "ml": "വാലിയേവോ",
+                "ru": "Валево",
+                "sl": "Valjevo",
+                "sr": "Ваљево",
+                "tr": "Valyeva"
+            },
+            "place_type": 67,
+            "population": 56059,
+            "latitude": 44.2708719,
+            "longitude": 19.8863297,
+            "geocell": 4833198,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 307649772,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "14000"
+                ],
+                "wikidata_page_name": "Q208015",
+                "wikipedia_pages": {
+                    "sr": "Ваљево"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 312150016,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs05"
+            ],
+            "names": {
+                "en": "Apatin",
+                "hu": "Apatin",
+                "lt": "Apatinas",
+                "ru": "Апатин",
+                "sr": "Апатин"
+            },
+            "place_type": 84,
+            "population": 14613,
+            "latitude": 45.6712544,
+            "longitude": 18.9817862,
+            "geocell": 4883589,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 312150016,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q372110",
+                "wikipedia_pages": {
+                    "sr": "Апатин"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 312166681,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs05"
+            ],
+            "names": {
+                "en": "Kula",
+                "hu": "Kúla",
+                "ru": "Кула",
+                "sr": "Кула"
+            },
+            "place_type": 84,
+            "population": 14873,
+            "latitude": 45.6101491,
+            "longitude": 19.5301174,
+            "geocell": 4883595,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 312166681,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q544109",
+                "wikipedia_pages": {
+                    "sr": "Кула (град)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 313853846,
+            "country": 688,
+            "level1area": [
+                "rs12"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كراغوييفاتس",
+                "bg": "Крагуевац",
+                "da": "Kragujevac",
+                "de": "Kragujevac",
+                "el": "Κραγκούγιεβατς",
+                "en": "Kragujevac",
+                "es": "Kragujevac",
+                "et": "Kragujevac",
+                "fr": "Kragujevac",
+                "he": "קרגוייבץ",
+                "hr": "Kragujevac",
+                "lt": "Kragujevacas",
+                "lv": "Kragujevaca",
+                "ml": "ക്രാഗുയേവാക്",
+                "nl": "Kragujevac",
+                "ru": "Крагуевац",
+                "sl": "Kragujevac",
+                "sr": "Крагујевац",
+                "uk": "Крагуєваць"
+            },
+            "place_type": 67,
+            "population": 146315,
+            "latitude": 44.0130251,
+            "longitude": 20.91925,
+            "geocell": 4826009,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 313853846,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q167394",
+                "wikipedia_pages": {
+                    "sr": "Крагујевац"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 317236520,
+            "country": 688,
+            "level1area": [
+                "rs14"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Negotin",
+                "ro": "Nigotin",
+                "ru": "Неготин",
+                "sr": "Неготин"
+            },
+            "place_type": 84,
+            "population": 14647,
+            "latitude": 44.2271199,
+            "longitude": 22.5308921,
+            "geocell": 4833225,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 317236520,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.negotin.rs/",
+                "wikidata_page_name": "Q649168",
+                "wikipedia_pages": {
+                    "sr": "Неготин"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 319343322,
+            "country": 688,
+            "level1area": [
+                "rs15"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Княжевац",
+                "en": "Knjaževac",
+                "ru": "Князевац",
+                "sr": "Књажевац"
+            },
+            "place_type": 84,
+            "population": 16350,
+            "latitude": 43.5675155,
+            "longitude": 22.2556547,
+            "geocell": 4808022,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 319343322,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1011275",
+                "wikipedia_pages": {
+                    "sr": "Књажевац"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 338659082,
+            "country": 688,
+            "level1area": [
+                "rs18"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "نوفي بازار",
+                "be": "Нові-Пазар",
+                "bg": "Нови пазар",
+                "bs": "Novi Pazar",
+                "ckb": "نۆڤی پازار",
+                "de": "Novi Pazar",
+                "el": "Νόβι Πάζαρ",
+                "en": "Novi Pazar",
+                "es": "Novi Pazar",
+                "et": "Novi Pazar",
+                "fa": "نووی پازار",
+                "fr": "Novi Pazar",
+                "he": "נובי פאזאר",
+                "hr": "Novi Pazar",
+                "ja": "ノヴィ・パザル",
+                "ko": "노비파자르",
+                "lt": "Novi Pazaras",
+                "lv": "Novi Pazara",
+                "mk": "Нови Пазар",
+                "ml": "നോവി പസാർ",
+                "mn": "Нови-Пазар",
+                "ru": "Нови-Пазар",
+                "sl": "Novi Pazar",
+                "sq": "Pazari i Ri",
+                "sr": "Нови Пазар",
+                "tr": "Yeni Pazar",
+                "tt": "Нови-Пазар",
+                "uk": "Новий Пазар",
+                "ur": "نووی پازار"
+            },
+            "place_type": 67,
+            "population": 71462,
+            "latitude": 43.1363535,
+            "longitude": 20.5112273,
+            "geocell": 4793605,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 338659082,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.novipazar.rs/",
+                "wikidata_page_name": "Q202453",
+                "wikipedia_pages": {
+                    "sr": "Нови Пазар"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 347730618,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs03"
+            ],
+            "names": {
+                "de": "Zenta",
+                "en": "Senta",
+                "hu": "Zenta",
+                "ru": "Сента",
+                "sr": "Сента"
+            },
+            "place_type": 84,
+            "population": 14452,
+            "latitude": 45.9312407,
+            "longitude": 20.0901597,
+            "geocell": 4894400,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 347730618,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q571136",
+                "wikipedia_pages": {
+                    "sr": "Сента"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 353439335,
+            "country": 688,
+            "level1area": [
+                "rs18"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كرالييفو",
+                "bg": "Кралево",
+                "de": "Kraljevo",
+                "el": "Κράλιεβο",
+                "en": "Kraljevo",
+                "es": "Kraljevo",
+                "et": "Kraljevo",
+                "fr": "Kraljevo",
+                "hr": "Kraljevo",
+                "lt": "Kraljevas",
+                "ml": "ക്രാലിയേവോ",
+                "ru": "Кралево",
+                "sl": "Kraljevo",
+                "sr": "Краљево"
+            },
+            "place_type": 67,
+            "population": 57432,
+            "latitude": 43.7234519,
+            "longitude": 20.6870792,
+            "geocell": 4815206,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 353439335,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "url": "http://www.kraljevo.com/",
+                "wikidata_page_name": "Q206317",
+                "wikipedia_pages": {
+                    "sr": "Краљево"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 353467823,
+            "country": 688,
+            "level1area": [
+                "rs00"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "بورتشا",
+                "bg": "Борча",
+                "ckb": "بۆرچا",
+                "el": "Μπόρτσα",
+                "en": "Borca",
+                "fa": "بورچا",
+                "hr": "Borča",
+                "hu": "Borcsa",
+                "ro": "Borcea",
+                "ru": "Борча",
+                "sl": "Borča",
+                "sr": "Борча"
+            },
+            "place_type": 84,
+            "population": 51862,
+            "latitude": 44.8773292,
+            "longitude": 20.4570078,
+            "geocell": 4854804,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 353467823,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q712322",
+                "wikipedia_pages": {
+                    "sr": "Борча"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 355055009,
+            "country": 688,
+            "level1area": [
+                "rs17"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Горни Милановац",
+                "en": "Gornji Milanovac",
+                "lt": "Gorni Milanovacas",
+                "ru": "Горни-Милановац",
+                "sr": "Горњи Милановац"
+            },
+            "place_type": 84,
+            "population": 23109,
+            "latitude": 44.0243159,
+            "longitude": 20.4600377,
+            "geocell": 4826004,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 355055009,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://gornjimilanovac.rs/",
+                "wikidata_page_name": "Q714668",
+                "wikipedia_pages": {
+                    "sr": "Горњи Милановац"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 359219458,
+            "country": 688,
+            "level1area": [
+                "rs10"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سميديريفو",
+                "de": "Semendria",
+                "en": "Smederevo",
+                "es": "Smederevo",
+                "et": "Smederevo",
+                "fr": "Smederevo",
+                "hr": "Smederevo",
+                "hu": "Szendrő",
+                "ml": "സ്മെദെരെവൊ",
+                "ru": "Смедерево",
+                "sr": "Смедерево",
+                "tr": "Semendire"
+            },
+            "place_type": 67,
+            "population": 59261,
+            "latitude": 44.6651048,
+            "longitude": 20.9271115,
+            "geocell": 4847609,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 359219458,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "11300"
+                ],
+                "wikidata_page_name": "Q190774",
+                "wikipedia_pages": {
+                    "sr": "Смедерево"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 361573409,
+            "country": 688,
+            "level1area": [
+                "rs16"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Прибой",
+                "en": "Priboj",
+                "ml": "പ്രിബോയ്",
+                "ru": "Прибой",
+                "sr": "Прибој"
+            },
+            "place_type": 84,
+            "population": 13172,
+            "latitude": 43.5828497,
+            "longitude": 19.5258167,
+            "geocell": 4807995,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 361573409,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1256993",
+                "wikipedia_pages": {
+                    "sr": "Прибој"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 364942011,
+            "country": 688,
+            "level1area": [
+                "rs00"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mladenovac",
+                "ru": "Младеновац",
+                "sr": "Младеновац"
+            },
+            "place_type": 84,
+            "population": 22346,
+            "latitude": 44.4401166,
+            "longitude": 20.6941535,
+            "geocell": 4840406,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 364942011,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q12637166",
+                "wikipedia_pages": {
+                    "sr": "Младеновац"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 367764183,
+            "country": 688,
+            "level1area": [
+                "rs13"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ياغودينا",
+                "de": "Jagodina",
+                "en": "Jagodina",
+                "es": "Jagodina",
+                "et": "Jagodina",
+                "fr": "Jagodina",
+                "hr": "Jagodina",
+                "ml": "യാഗോദിന",
+                "ru": "Ягодина",
+                "sl": "Jagodina",
+                "sr": "Јагодина"
+            },
+            "place_type": 67,
+            "population": 34892,
+            "latitude": 43.9794256,
+            "longitude": 21.2607688,
+            "geocell": 4822412,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 367764183,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q390358",
+                "wikipedia_pages": {
+                    "sr": "Јагодина"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 370352698,
+            "country": 688,
+            "level1area": [
+                "rs22"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Пирот",
+                "de": "Pirot",
+                "en": "Pirot",
+                "ml": "പിറോട്ട്",
+                "nl": "Pirot",
+                "ru": "Пирот",
+                "sr": "Пирот"
+            },
+            "place_type": 67,
+            "population": 34942,
+            "latitude": 43.1547342,
+            "longitude": 22.5865039,
+            "geocell": 4793625,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 370352698,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q309343",
+                "wikipedia_pages": {
+                    "sr": "Пирот"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 419138241,
+            "country": 688,
+            "level1area": [
+                "rs12"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Аранджеловац",
+                "en": "Arandjelovac",
+                "hr": "Aranđelovac",
+                "ru": "Аранджеловац",
+                "sl": "Aranđelovac",
+                "sr": "Аранђеловац"
+            },
+            "place_type": 84,
+            "population": 22881,
+            "latitude": 44.3072663,
+            "longitude": 20.5570451,
+            "geocell": 4836805,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 419138241,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q583161",
+                "wikipedia_pages": {
+                    "sr": "Аранђеловац"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 429180325,
+            "country": 688,
+            "level1area": [
+                "rs17"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Иваница",
+                "en": "Ivanjica",
+                "hr": "Ivanjica",
+                "ru": "Иваница",
+                "sl": "Ivanjica",
+                "sr": "Ивањица"
+            },
+            "place_type": 84,
+            "population": 11240,
+            "latitude": 43.5816675,
+            "longitude": 20.2304548,
+            "geocell": 4808002,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 429180325,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1002841",
+                "wikipedia_pages": {
+                    "sr": "Ивањица"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 449625244,
+            "country": 688,
+            "level1area": [
+                "rs21"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Прокупле",
+                "de": "Prokuplje",
+                "el": "Προκούπλιε",
+                "en": "Prokuplje",
+                "hr": "Prokuplje",
+                "ml": "പ്രൊകുപ്ലെ",
+                "ru": "Прокупле",
+                "sl": "Prokuplje",
+                "sr": "Прокупље"
+            },
+            "place_type": 67,
+            "population": 24627,
+            "latitude": 43.2343484,
+            "longitude": 21.5884422,
+            "geocell": 4797215,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 449625244,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q729524",
+                "wikipedia_pages": {
+                    "sr": "Прокупље"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 449750290,
+            "country": 688,
+            "level1area": [
+                "rs21"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Куршумлия",
+                "el": "Κουρσούμλια",
+                "en": "Kursumlija",
+                "hr": "Kuršumlija",
+                "ru": "Куршумлия",
+                "sl": "Kuršumlija",
+                "sr": "Куршумлија"
+            },
+            "place_type": 84,
+            "population": 11765,
+            "latitude": 43.1380502,
+            "longitude": 21.2717791,
+            "geocell": 4793612,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 449750290,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q995031",
+                "wikipedia_pages": {
+                    "sr": "Куршумлија"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 469278751,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs07"
+            ],
+            "names": {
+                "bs": "Šid",
+                "de": "Schid",
+                "en": "Šid",
+                "hr": "Šid",
+                "hu": "Sid",
+                "ru": "Шид",
+                "sr": "Шид"
+            },
+            "place_type": 84,
+            "population": 12618,
+            "latitude": 45.126371,
+            "longitude": 19.2291509,
+            "geocell": 4865592,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 469278751,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q391545",
+                "wikipedia_pages": {
+                    "sr": "Шид"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 561313083,
+            "country": 688,
+            "level1area": [
+                "rs00"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Zenobitz",
+                "en": "Lazarevac",
+                "ru": "Лазаревац",
+                "sr": "Лазаревац"
+            },
+            "place_type": 84,
+            "population": 27635,
+            "latitude": 44.3815176,
+            "longitude": 20.261033,
+            "geocell": 4836802,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 561313083,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q714606",
+                "wikipedia_pages": {
+                    "sr": "Лазаревац"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 599719132,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs07"
+            ],
+            "names": {
+                "en": "Nova Pazova",
+                "hu": "Újpázova",
+                "ru": "Нова-Пазова",
+                "sr": "Нова Пазова"
+            },
+            "place_type": 86,
+            "population": 16115,
+            "latitude": 44.9444762,
+            "longitude": 20.2191291,
+            "geocell": 4858402,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 599719132,
+                "open_street_map_place": "village",
+                "postal_codes": [
+                    "22330"
+                ],
+                "wikidata_page_name": "Q917500",
+                "wikipedia_pages": {
+                    "sr": "Нова Пазова"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 600576574,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs07"
+            ],
+            "names": {
+                "de": "Alt-Pasua",
+                "en": "Stara Pazova",
+                "hu": "Ópazova",
+                "ru": "Стара-Пазова",
+                "sk": "Stará Pazova",
+                "sr": "Стара Пазова"
+            },
+            "place_type": 84,
+            "population": 18522,
+            "latitude": 44.9846077,
+            "longitude": 20.1588763,
+            "geocell": 4858401,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 600576574,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "22300"
+                ],
+                "wikidata_page_name": "Q584694",
+                "wikipedia_pages": {
+                    "sr": "Стара Пазова"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 611036744,
+            "country": 688,
+            "level1area": [
+                "rs00"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ugrinovci",
+                "sr": "Угриновци"
+            },
+            "place_type": 86,
+            "population": 11859,
+            "latitude": 44.8757344,
+            "longitude": 20.1867706,
+            "geocell": 4854801,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 611036744,
+                "open_street_map_place": "village",
+                "postal_codes": [
+                    "11277"
+                ],
+                "wikidata_page_name": "Q1977243",
+                "wikipedia_pages": {
+                    "sr": "Угриновци (Земун)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 622323437,
+            "country": 688,
+            "level1area": [
+                "rs14"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Bor",
+                "en": "Bor",
+                "ml": "ബോർ",
+                "ro": "Bor",
+                "ru": "Бор",
+                "sr": "Бор"
+            },
+            "place_type": 67,
+            "population": 28822,
+            "latitude": 44.0778456,
+            "longitude": 22.0991779,
+            "geocell": 4826020,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 622323437,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q462461",
+                "wikipedia_pages": {
+                    "sr": "Бор (град)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 646984720,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs06"
+            ],
+            "names": {
+                "de": "Kamenitz",
+                "en": "Sremska Kamenica",
+                "hu": "Kamanc",
+                "ru": "Сремска-Каменица",
+                "sr": "Сремска Каменица"
+            },
+            "place_type": 84,
+            "population": 12632,
+            "latitude": 45.2232006,
+            "longitude": 19.8434089,
+            "geocell": 4869198,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 646984720,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q598018",
+                "wikipedia_pages": {
+                    "sr": "Сремска Каменица"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 848084912,
+            "country": 688,
+            "level1area": [
+                "rs16"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "أوزيتسه",
+                "be": "Ужыцкае",
+                "bn": "উজিস",
+                "de": "Užice",
+                "el": "Ούζιτσε",
+                "en": "Uzice",
+                "es": "Užice",
+                "fr": "Užice",
+                "lt": "Užicė",
+                "ml": "ഉജിത്സെ",
+                "ru": "Ужице",
+                "sk": "Užice",
+                "sr": "Ужице",
+                "tr": "Öziçe"
+            },
+            "place_type": 67,
+            "population": 48539,
+            "latitude": 43.8564957,
+            "longitude": 19.840273,
+            "geocell": 4818798,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 848084912,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "31000"
+                ],
+                "website": "http://www.graduzice.org/",
+                "wikidata_page_name": "Q59473",
+                "wikipedia_pages": {
+                    "sr": "Ужице"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 848393787,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs04"
+            ],
+            "names": {
+                "cs": "Kovin",
+                "en": "Kovin",
+                "hu": "Kevevára",
+                "ru": "Ковин",
+                "sr": "Ковин"
+            },
+            "place_type": 84,
+            "population": 11623,
+            "latitude": 44.7412405,
+            "longitude": 20.9781361,
+            "geocell": 4851209,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 848393787,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "http://www.kovin.org.rs/",
+                "wikidata_page_name": "Q617416",
+                "wikipedia_pages": {
+                    "sr": "Ковин"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 907047175,
+            "country": 688,
+            "level1area": [
+                "rs19"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Trstenik",
+                "ru": "Трстеник",
+                "sr": "Трстеник"
+            },
+            "place_type": 84,
+            "population": 13476,
+            "latitude": 43.620214,
+            "longitude": 20.9984448,
+            "geocell": 4811609,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 907047175,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "37240"
+                ],
+                "website": "http://www.trstenik.rs/",
+                "wikidata_page_name": "Q1013189",
+                "wikipedia_pages": {
+                    "sr": "Трстеник"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 955603411,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs03"
+            ],
+            "names": {
+                "be": "Кікінда",
+                "bg": "Кикинда",
+                "ckb": "کیکیندا",
+                "el": "Κίκιντα",
+                "en": "Kikinda",
+                "fa": "کیکیندا",
+                "he": "קיקינדה",
+                "hu": "Nagykikinda",
+                "ja": "キキンダ",
+                "ko": "키킨다",
+                "lt": "Kikinda",
+                "mk": "Кикинда",
+                "ml": "കികിന്ദ",
+                "nl": "Kikinda",
+                "ro": "Chichinda Mare",
+                "ru": "Кикинда",
+                "sk": "Kikinda",
+                "sr": "Кикинда",
+                "tt": "Кикинда",
+                "uk": "Кикинда",
+                "ur": "کیکیندا"
+            },
+            "place_type": 67,
+            "population": 32084,
+            "latitude": 45.8300065,
+            "longitude": 20.4653054,
+            "geocell": 4890804,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 955603411,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q309355",
+                "wikipedia_pages": {
+                    "sr": "Кикинда"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1145970042,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs05"
+            ],
+            "names": {
+                "ar": "سومبور",
+                "be": "Сомбар",
+                "bg": "Сомбор",
+                "ckb": "سۆمبۆر",
+                "el": "Σόμπορ",
+                "en": "Sombor",
+                "fa": "سومبور",
+                "he": "סומבור",
+                "hr": "Sombor",
+                "hu": "Zombor",
+                "hy": "Սոմբոր",
+                "ja": "ソンボル",
+                "ko": "솜보르",
+                "lv": "Sombora",
+                "mk": "Сомбор",
+                "ml": "സോംബോർ",
+                "ru": "Сомбор",
+                "sr": "Сомбор",
+                "tt": "Сомбор",
+                "uk": "Сомбор",
+                "ur": "سومبور"
+            },
+            "place_type": 67,
+            "population": 41814,
+            "latitude": 45.7727397,
+            "longitude": 19.1147036,
+            "geocell": 4887191,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1145970042,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "website": "https://www.sombor.rs/",
+                "wikidata_page_name": "Q204475",
+                "wikipedia_pages": {
+                    "sr": "Сомбор"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1340352822,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs04"
+            ],
+            "names": {
+                "bg": "Вършац",
+                "cs": "Vršac",
+                "en": "Vršac",
+                "he": "ורשאץ",
+                "hu": "Versec",
+                "ml": "വിർഷാക്ക്",
+                "ro": "Vârșeț",
+                "ru": "Вршац",
+                "sr": "Вршац"
+            },
+            "place_type": 67,
+            "population": 31946,
+            "latitude": 45.1211263,
+            "longitude": 21.2960485,
+            "geocell": 4865612,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1340352822,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q209329",
+                "wikipedia_pages": {
+                    "sr": "Вршац"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1531134087,
+            "country": 688,
+            "level1area": [
+                "rs00"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Surcin",
+                "sr": "Сурчин"
+            },
+            "place_type": 84,
+            "population": 20602,
+            "latitude": 44.7910362,
+            "longitude": 20.2701685,
+            "geocell": 4851202,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1531134087,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3621686",
+                "wikipedia_pages": {
+                    "sr": "Сурчин"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1547830258,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs01"
+            ],
+            "names": {
+                "ar": "سوبتيتسا",
+                "da": "Subotica",
+                "de": "Subotica",
+                "el": "Σουμπότιτσα",
+                "en": "Subotica",
+                "es": "Subotica",
+                "et": "Subotica",
+                "fr": "Subotica",
+                "hr": "Subotica",
+                "hu": "Szabadka",
+                "lt": "Subotica",
+                "ml": "സുബോട്ടിക്ക",
+                "ru": "Суботица",
+                "sl": "Subotica",
+                "sr": "Суботица",
+                "uk": "Суботиця"
+            },
+            "place_type": 67,
+            "population": 88752,
+            "latitude": 46.1002058,
+            "longitude": 19.6653273,
+            "geocell": 4901596,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1547830258,
+                "open_street_map_place": "city",
+                "postal_codes": [
+                    "24000"
+                ],
+                "wikidata_page_name": "Q170287",
+                "wikipedia_pages": {
+                    "sr": "Суботица"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1547830265,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs06"
+            ],
+            "names": {
+                "en": "Temerin",
+                "hu": "Temerin",
+                "sr": "Темерин"
+            },
+            "place_type": 84,
+            "population": 17998,
+            "latitude": 45.4073868,
+            "longitude": 19.8876546,
+            "geocell": 4876398,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1547830265,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q579984",
+                "wikipedia_pages": {
+                    "sr": "Темерин"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1582764486,
+            "country": 688,
+            "level1area": [
+                "rs11"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Požarevac",
+                "he": "פוז'ארוואץ",
+                "hu": "Pozsarevác",
+                "lt": "Požarevacas",
+                "ml": "പൊജാരെവാക്",
+                "pl": "Pożarewac",
+                "ru": "Пожаревац",
+                "sr": "Пожаревац"
+            },
+            "place_type": 67,
+            "population": 44183,
+            "latitude": 44.6199926,
+            "longitude": 21.1854,
+            "geocell": 4847611,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1582764486,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q199942",
+                "wikipedia_pages": {
+                    "sr": "Пожаревац"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599387453,
+            "country": 688,
+            "level1area": [
+                "rs20"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Aleksinac",
+                "en": "Aleksinac",
+                "ru": "Алексинац",
+                "sr": "Алексинац"
+            },
+            "place_type": 84,
+            "population": 14593,
+            "latitude": 43.5405235,
+            "longitude": 21.70884,
+            "geocell": 4808017,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599387453,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "18220"
+                ],
+                "wikidata_page_name": "Q966804",
+                "wikipedia_pages": {
+                    "sr": "Алексинац"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599387493,
+            "country": 688,
+            "level1area": [
+                "rs24"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Буяновац",
+                "de": "Bujanovac",
+                "en": "Bujanovac",
+                "ru": "Буяновац",
+                "sq": "Bujanoc",
+                "sr": "Бујановац"
+            },
+            "place_type": 84,
+            "population": 11468,
+            "latitude": 42.4598455,
+            "longitude": 21.7671276,
+            "geocell": 4768417,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599387493,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q834989",
+                "wikipedia_pages": {
+                    "sr": "Бујановац"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599387506,
+            "country": 688,
+            "level1area": [
+                "rs24"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Прешево",
+                "de": "Preševo",
+                "el": "Πρέσεβο",
+                "en": "Preševo",
+                "fa": "پریچو",
+                "hr": "Preševo",
+                "ja": "プレシェヴォ",
+                "ko": "프레셰보",
+                "mk": "Прешево",
+                "ru": "Прешево",
+                "sq": "Presheva",
+                "sr": "Прешево",
+                "tr": "Preşova",
+                "tt": "Прешево",
+                "uk": "Прешево"
+            },
+            "place_type": 84,
+            "population": 14219,
+            "latitude": 42.3095217,
+            "longitude": 21.6490102,
+            "geocell": 4764816,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599387506,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://presevo.rs/",
+                "wikidata_page_name": "Q145871",
+                "wikipedia_pages": {
+                    "sr": "Прешево"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599441250,
+            "country": 688,
+            "level1area": [
+                "rs13"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Парачин",
+                "en": "Paraćin",
+                "mk": "Параќин",
+                "ru": "Парачин",
+                "sr": "Параћин"
+            },
+            "place_type": 84,
+            "population": 22349,
+            "latitude": 43.8636301,
+            "longitude": 21.4099615,
+            "geocell": 4818814,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599441250,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q714643",
+                "wikipedia_pages": {
+                    "sr": "Параћин"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599441293,
+            "country": 688,
+            "level1area": [
+                "rs13"
+            ],
+            "level2area": null,
+            "names": {
+                "bg": "Чуприя",
+                "en": "Ćuprija",
+                "ru": "Чуприя",
+                "sr": "Ћуприја"
+            },
+            "place_type": 84,
+            "population": 16522,
+            "latitude": 43.9335612,
+            "longitude": 21.3712355,
+            "geocell": 4822413,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599441293,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q336475",
+                "wikipedia_pages": {
+                    "sr": "Ћуприја (град)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599448252,
+            "country": 688,
+            "level1area": [
+                "rs10"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Smederevska Palanka",
+                "ru": "Смедеревска-Паланка",
+                "sr": "Смедеревска Паланка"
+            },
+            "place_type": 84,
+            "population": 20345,
+            "latitude": 44.3658207,
+            "longitude": 20.9579781,
+            "geocell": 4836809,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599448252,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q715716",
+                "wikipedia_pages": {
+                    "sr": "Смедеревска Паланка"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1599448253,
+            "country": 688,
+            "level1area": [
+                "rs10"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Velika Plana",
+                "ru": "Велика-Плана",
+                "sr": "Велика Плана"
+            },
+            "place_type": 84,
+            "population": 14609,
+            "latitude": 44.3324574,
+            "longitude": 21.075786,
+            "geocell": 4836810,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1599448253,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q995055",
+                "wikipedia_pages": {
+                    "sr": "Велика Плана"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1647188835,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs06"
+            ],
+            "names": {
+                "ar": "باتشكا بالانكا",
+                "be": "Бачка-Паланка",
+                "bg": "Бачка паланка",
+                "ckb": "باچکا پالانکا",
+                "en": "Bačka Palanka",
+                "fa": "باچکا پلانکا",
+                "he": "באצ'קה פאלאנקה",
+                "hu": "Palánka",
+                "ko": "바치카팔란카",
+                "mk": "Бачка Паланка",
+                "ru": "Бачка-Паланка",
+                "sk": "Báčska Palanka",
+                "sr": "Бачка Паланка",
+                "tr": "Baçka Palanka",
+                "tt": "Бачка Паланка",
+                "uk": "Бачка-Паланка"
+            },
+            "place_type": 84,
+            "population": 25476,
+            "latitude": 45.2500976,
+            "longitude": 19.3897302,
+            "geocell": 4869193,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1647188835,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "website": "https://backapalanka.rs/",
+                "wikidata_page_name": "Q477170",
+                "wikipedia_pages": {
+                    "sr": "Бачка Паланка"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1931265009,
+            "country": 688,
+            "level1area": [
+                "rs23"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "فلاسوتينسي",
+                "en": "Vlasotince",
+                "ru": "Власотинце",
+                "sr": "Власотинце"
+            },
+            "place_type": 84,
+            "population": 14924,
+            "latitude": 42.9652346,
+            "longitude": 22.1281077,
+            "geocell": 4786421,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1931265009,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1649631",
+                "wikipedia_pages": {
+                    "sr": "Власотинце"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3720265371,
+            "country": 688,
+            "level1area": [
+                "rs19"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "كروشيفاتس",
+                "el": "Κρούσεβατς",
+                "en": "Kruševac",
+                "es": "Kruševac",
+                "et": "Kruševac",
+                "fr": "Kruševac",
+                "ml": "ക്രൂഷേവാക്",
+                "ru": "Крушевац",
+                "sr": "Крушевац"
+            },
+            "place_type": 67,
+            "population": 53746,
+            "latitude": 43.58264,
+            "longitude": 21.3264811,
+            "geocell": 4808013,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3720265371,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q201442",
+                "wikipedia_pages": {
+                    "sr": "Крушевац"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3722369896,
+            "country": 688,
+            "level1area": [
+                "rsvo"
+            ],
+            "level2area": [
+                "rs06"
+            ],
+            "names": {
+                "en": "Vrbas",
+                "hu": "Verbász",
+                "ru": "Врбас",
+                "sr": "Врбас"
+            },
+            "place_type": 84,
+            "population": 20892,
+            "latitude": 45.568028,
+            "longitude": 19.6470089,
+            "geocell": 4879996,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3722369896,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "21460;21463;21464"
+                ],
+                "wikidata_page_name": "Q511216",
+                "wikipedia_pages": {
+                    "sr": "Врбас (град)"
+                }
+            }
+        }
+    }
+]
