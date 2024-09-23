@@ -14,6 +14,61 @@ This repository exists so that you can conviniently download prebuilt fixtures a
 
 See https://github.com/django-terran/django-terran
 
+## How to use?
+
+Load these fixtures just like any other Django fixture
+
+Load mandatory fixtures with
+```
+./manage.py loadadata <path/to/fixtures>/mandatory.json
+```
+or with
+```
+./manage.py loadadata <path/to/fixtures>/currencies.json
+./manage.py loadadata <path/to/fixtures>/countries.json
+./manage.py loadadata <path/to/fixtures>/level1areas.json
+./manage.py loadadata <path/to/fixtures>/level2areas.json
+```
+
+Optional fixtures include files under "settlements" and "settlements_10k" directory.
+```
+./manage.py loadadata <path/to/fixtures>/settlements/GE.json
+```
+
+**DO NOT load optional fixtures from "settlements" if you are not positive you need them.**
+
+These fixtures include every small village.
+They are huge, they will add more than 2Gb to your database.
+If you need settlements at all start with "settlements_10k" fixtures which include settlements with population more than 10 thousands people.
+Load only specific countries from "settlements" and only if required.
+
+So, to sum up, this is a recommended setup:
+```bash
+./manage.py loaddata <path/to/fixtures>/mandatory.json
+```
+this is also a recommended setup:
+```bash
+./manage.py loaddata <path/to/fixtures>/mandatory.json
+
+for FILE in <path/to/fixtures>/settlements_10k/*
+do
+    ./manage.py loaddata $FILE
+done
+```
+this is a supported, but not a recommended setup:
+```bash
+./manage.py loaddata <path/to/fixtures>/mandatory.json
+
+for FILE in <path/to/fixtures>/settlements/*
+do
+    ./manage.py loaddata $FILE
+done
+```
+
+## How can I help?
+
+See https://github.com/django-terran/django-terran-data
+
 ## Statistics (I need to show off or something...)
 
 | Country | Currencies | Level 1<br/>Administrative<br/>Divisions | Level 2<br/>Administrative<br/>Divisions | Settlements | Settlements 10K+ |
@@ -221,37 +276,6 @@ See https://github.com/django-terran/django-terran
 | ZM, Zambia | 2 | 10 | - | 1617 | 42 |
 | ZW, Zimbabwe | 5 | 10 | - | 637 | 31 |
 | Total | 185 | 3543 | 1469 | 3390304 | 33073 |
-
-## How to use?
-
-Load these fixtures just like any other Django fixture
-
-Load mandatory fixtures with
-```
-./manage.py loadadata <path/to/fixtures>/mandatory.json
-```
-or with
-```
-./manage.py loadadata <path/to/fixtures>/currencies.json
-./manage.py loadadata <path/to/fixtures>/countries.json
-./manage.py loadadata <path/to/fixtures>/level1areas.json
-./manage.py loadadata <path/to/fixtures>/level2areas.json
-```
-
-Optional fixtures include files under "settlements" and "settlements_10k" directory.
-```
-./manage.py loadadata <path/to/fixtures>/settlements/GE.json
-```
-
-**DO NOT** load optional fixtures from "settlements" if you are not positive you need them.
-These fixtures include every small village.
-They are huge, they will add more than 2Gb to your database.
-If you need settlements at all start with "settlements_10k" fixtures which include settlements with population more than 10 thousands people.
-Load only specific countries from "settlements" and only if required.
-
-## How can I help?
-
-See https://github.com/django-terran/django-terran-data
 
 ## Licenses
 
