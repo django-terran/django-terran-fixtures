@@ -67,7 +67,7 @@ done
 
 ## How can I help?
 
-See https://github.com/django-terran/django-terran-data
+See https://github.com/django-terran/django-terran-data?tab=readme-ov-file#how-can-i-help
 
 ## Statistics (I need to show off or something...)
 
@@ -279,8 +279,8 @@ See https://github.com/django-terran/django-terran-data
 
 ## Licenses
 
-See https://github.com/django-terran/django-terran-data
+See https://github.com/django-terran/django-terran-data?tab=readme-ov-file#licenses
 
 ## Acknowledgments
 
-See https://github.com/django-terran/django-terran-data
+See https://github.com/django-terran/django-terran-data?tab=readme-ov-file#acknowledgments
