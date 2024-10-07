@@ -10707,8 +10707,8 @@
             },
             "place_type": 86,
             "population": 283,
-            "latitude": -32.763117,
-            "longitude": -57.8813276,
+            "latitude": -32.7632952,
+            "longitude": -57.881223,
             "geocell": 2060421,
             "expando": {
                 "open_street_map_type": "node",
@@ -16682,7 +16682,7 @@
             "names": {
                 "es": "Gartental"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
             "latitude": -32.6961464,
             "longitude": -57.9837384,
@@ -16690,7 +16690,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 11397549111,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikidata_page_name": "Q1002979",
                 "wikipedia_pages": {
@@ -16823,6 +16823,32 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 12032162108,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12191895436,
+            "country": 858,
+            "level1area": [
+                "uyrn"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Colonia OFIR"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -32.566816,
+            "longitude": -58.1027842,
+            "geocell": 2067618,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12191895436,
                 "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}

@@ -18234,8 +18234,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 42.950753,
-            "longitude": 129.9664378,
+            "latitude": 42.9580149,
+            "longitude": 129.9484134,
             "geocell": 4787499,
             "expando": {
                 "open_street_map_type": "node",
@@ -18399,8 +18399,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 42.9722393,
-            "longitude": 129.9403738,
+            "latitude": 42.9839443,
+            "longitude": 129.9384169,
             "geocell": 4787499,
             "expando": {
                 "open_street_map_type": "node",
@@ -18810,15 +18810,15 @@
                 "ko": "Toltari",
                 "ru": "Унамни"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
-            "latitude": 42.7794171,
-            "longitude": 129.8910248,
+            "latitude": 42.7786107,
+            "longitude": 129.8910935,
             "geocell": 4780298,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 5941402435,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -18942,7 +18942,7 @@
             "level2area": null,
             "names": {
                 "en": "P’ungch’ŏn-dong",
-                "ko": "풍천",
+                "ko": "풍천리",
                 "ru": "Пхунчонни"
             },
             "place_type": 86,
@@ -19028,9 +19028,9 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 42.7941568,
-            "longitude": 129.8433351,
-            "geocell": 4780298,
+            "latitude": 42.8059586,
+            "longitude": 129.8433093,
+            "geocell": 4783898,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 5941402444,
@@ -19054,7 +19054,7 @@
                 "ko": "규동",
                 "ru": "Кюдон"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
             "latitude": 42.8067363,
             "longitude": 129.8424768,
@@ -19062,7 +19062,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 5941402445,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -85707,33 +85707,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 11556494379,
-            "country": 408,
-            "level1area": [
-                "kp09"
-            ],
-            "level2area": null,
-            "names": {
-                "ko": "세선",
-                "ru": "Сэсолли"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": 42.9842208,
-            "longitude": 129.9374118,
-            "geocell": 4787499,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 11556494379,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 11556671286,
             "country": 408,
             "level1area": [
@@ -134904,6 +134877,32 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 11914416397,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12193902616,
+            "country": 408,
+            "level1area": [
+                "kp09"
+            ],
+            "level2area": null,
+            "names": {
+                "ko": "운암리"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 42.7798599,
+            "longitude": 129.8909533,
+            "geocell": 4780298,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12193902616,
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}

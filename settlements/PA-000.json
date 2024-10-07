@@ -220,7 +220,7 @@
                 "ru": "Колон (Панама)"
             },
             "place_type": 67,
-            "population": 78000,
+            "population": 280777,
             "latitude": 9.3553005,
             "longitude": -79.8974085,
             "geocell": 3575801,
@@ -1029,38 +1029,38 @@
             ],
             "level2area": null,
             "names": {
-                "af": "Panama-stad",
+                "af": "Panama",
                 "ar": "مدينة بنما",
                 "az": "Panama",
                 "be": "Панама",
                 "bg": "Панама",
                 "bn": "পানামা সিটি",
-                "br": "Ciudad de Panamá",
-                "bs": "Panama City",
-                "ca": "Ciutat de Panamà",
+                "br": "Panamá",
+                "bs": "Panama",
+                "ca": "Panamà",
                 "ckb": "پەنەما",
-                "cs": "Ciudad de Panamá",
-                "cy": "Dinas Panama",
-                "da": "Panama City",
-                "de": "Panama-Stadt",
-                "el": "Πόλη του Παναμά",
-                "en": "Panama City",
-                "eo": "Panamurbo",
+                "cs": "Panamá",
+                "cy": "Panama",
+                "da": "Panama",
+                "de": "Panama",
+                "el": "Παναμά",
+                "en": "Panama",
+                "eo": "Panama",
                 "es": "Panamá",
                 "et": "Panamá",
-                "eu": "Panama Hiria",
+                "eu": "Panama",
                 "fa": "پاناماسیتی",
                 "fi": "Panamá",
                 "fr": "Panama",
-                "fy": "Panama-Stêd",
+                "fy": "Panama",
                 "gd": "Panama",
-                "gl": "Cidade de Panamá",
+                "gl": "Panamá",
                 "he": "פנמה סיטי",
                 "hr": "Panamá",
-                "hu": "Panamaváros",
-                "id": "Kota Panama",
-                "io": "Panama-Urbo",
-                "is": "Panamaborg",
+                "hu": "Panama",
+                "id": "Panama",
+                "io": "Panama",
+                "is": "Panama",
                 "it": "Panamà",
                 "ja": "パナマ市",
                 "ka": "პანამა",
@@ -1069,25 +1069,25 @@
                 "lv": "Panama",
                 "mk": "Панама",
                 "mr": "पनामा सिटी",
-                "nl": "Panama-Stad",
-                "nn": "Panama by",
+                "nl": "Panama",
+                "nn": "Panama",
                 "pl": "Panama",
-                "pt": "Cidade do Panamá",
-                "ro": "Ciudad de Panamá",
+                "pt": "Panamá",
+                "ro": "Panamá",
                 "ru": "Панама",
                 "sk": "Panama",
                 "sr": "Панама",
-                "sv": "Panama City",
-                "sw": "Panama City",
+                "sv": "Panama",
+                "sw": "Panama",
                 "ta": "பனாமா நகரம்",
                 "th": "ปานามาซิตี",
                 "tr": "Panama",
                 "uk": "Панама",
                 "ur": "پاناما شہر",
-                "vi": "Thành phố Panama"
+                "vi": "Panama"
             },
             "place_type": 67,
-            "population": 880691,
+            "population": 1086990,
             "latitude": 8.9714493,
             "longitude": -79.5341802,
             "geocell": 3561404,
@@ -8730,6 +8730,32 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 2417387090,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 2417387091,
+            "country": 591,
+            "level1area": [
+                "pa4"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Algarrobo"
+            },
+            "place_type": 86,
+            "population": 1,
+            "latitude": 8.7282414,
+            "longitude": -82.3091753,
+            "geocell": 3554176,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2417387091,
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
@@ -17149,9 +17175,9 @@
                 "ru": "Ла-Чоррера"
             },
             "place_type": 67,
-            "population": 0,
-            "latitude": 8.8835312,
-            "longitude": -79.7799505,
+            "population": 258221,
+            "latitude": 8.883567,
+            "longitude": -79.7799498,
             "geocell": 3557802,
             "expando": {
                 "open_street_map_type": "node",
@@ -33898,7 +33924,7 @@
             "names": {
                 "es": "Soledad"
             },
-            "place_type": 72,
+            "place_type": 86,
             "population": 68,
             "latitude": 8.7200762,
             "longitude": -82.2849798,
@@ -33906,7 +33932,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 7449325486,
-                "open_street_map_place": "hamlet",
+                "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -76829,6 +76855,154 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 11989334976,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12191285053,
+            "country": 591,
+            "level1area": [
+                "pa4"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Quebrada Seca"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 8.7263531,
+            "longitude": -82.2927692,
+            "geocell": 3554177,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12191285053,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12191285054,
+            "country": 591,
+            "level1area": [
+                "pa4"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Alto El Nance"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 8.7173697,
+            "longitude": -82.3044201,
+            "geocell": 3554176,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12191285054,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12210578103,
+            "country": 591,
+            "level1area": [
+                "paem"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": 8.5326439,
+            "longitude": -77.7176009,
+            "geocell": 3547022,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12210578103,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12211158126,
+            "country": 591,
+            "level1area": [
+                "paem"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": 8.5547055,
+            "longitude": -77.4701393,
+            "geocell": 3547025,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12211158126,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12211247424,
+            "country": 591,
+            "level1area": [
+                "paky"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": 8.6274788,
+            "longitude": -77.4431554,
+            "geocell": 3550625,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12211247424,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12211247547,
+            "country": 591,
+            "level1area": [
+                "paky"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": 8.6406906,
+            "longitude": -77.4377719,
+            "geocell": 3550625,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12211247547,
                 "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}

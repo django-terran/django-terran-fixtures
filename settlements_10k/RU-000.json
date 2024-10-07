@@ -896,6 +896,7 @@
             "names": {
                 "ar": "كالينينغراد",
                 "be": "Калінінград",
+                "bn": "কালিনিনগ্রাদ",
                 "br": "Kaliningrad",
                 "ca": "Kaliningrad",
                 "cs": "Kaliningrad",
@@ -1456,6 +1457,7 @@
                 "ar": "سانت بطرسبرغ",
                 "ast": "San Petersburgu",
                 "be": "Санкт-Пецярбург",
+                "bn": "সেন্ট পিটার্সবার্গ",
                 "ca": "Sant Petersburg",
                 "cs": "Petrohrad",
                 "da": "Sankt Petersborg",
@@ -1591,6 +1593,7 @@
             "names": {
                 "ar": "يكاترينبورغ",
                 "az": "Yekaterinburq",
+                "bn": "ইয়েকাতেরিনবার্গ",
                 "ca": "Iekaterinburg",
                 "cs": "Jekatěrinburg",
                 "de": "Jekaterinburg",
@@ -1655,6 +1658,7 @@
                 "ar": "سمارا",
                 "az": "Samara",
                 "be": "Самара",
+                "bn": "সামারা",
                 "ca": "Samara",
                 "cs": "Samara",
                 "da": "Samara",
@@ -1716,6 +1720,7 @@
                 "ar": "أومسك",
                 "az": "Omsk",
                 "be": "Омск",
+                "bn": "ওমস্ক",
                 "ca": "Omsk",
                 "cs": "Omsk",
                 "da": "Omsk",
@@ -1772,6 +1777,7 @@
             "names": {
                 "ar": "قازان",
                 "az": "Kazan",
+                "bn": "কাজান",
                 "ca": "Kazan",
                 "cs": "Kazaň",
                 "da": "Kazan",
@@ -2012,6 +2018,7 @@
                 "ar": "فولغوغراد",
                 "be": "Валгаград",
                 "bg": "Волгоград",
+                "bn": "ভলগোগ্রাড",
                 "ca": "Volgograd",
                 "cs": "Volgograd",
                 "de": "Wolgograd",
@@ -2354,6 +2361,7 @@
             "names": {
                 "ar": "كراسنودار",
                 "az": "Krasnodar",
+                "bn": "ক্রাসনোদার",
                 "ca": "Krasnodar",
                 "de": "Krasnodar",
                 "el": "Κρασνοντάρ",
@@ -2663,6 +2671,7 @@
             "level2area": null,
             "names": {
                 "ar": "أورينبورغ",
+                "bn": "ওরেনবার্গ",
                 "ca": "Orenburg",
                 "cs": "Orenburg",
                 "de": "Orenburg",
@@ -3282,6 +3291,7 @@
             "level2area": null,
             "names": {
                 "ar": "سوتشي",
+                "bn": "সোচি",
                 "ca": "Sotxi",
                 "cs": "Soči",
                 "da": "Sotji",
@@ -3475,6 +3485,7 @@
             "names": {
                 "ar": "تولا",
                 "be": "Тула",
+                "bn": "টুলা",
                 "ca": "Tula",
                 "de": "Tula",
                 "en": "Tula",
@@ -3765,7 +3776,7 @@
                 "uk": "Воркута"
             },
             "place_type": 67,
-            "population": 52292,
+            "population": 56131,
             "latitude": 67.5035662,
             "longitude": 64.0627028,
             "geocell": 5672440,
@@ -7247,6 +7258,7 @@
             "level2area": null,
             "names": {
                 "be": "Якуцк",
+                "bn": "ইয়াকুতস্ক",
                 "ca": "Iakutsk",
                 "ckb": "یاکوتسک",
                 "cs": "Jakutsk",
@@ -7341,6 +7353,7 @@
             "level2area": null,
             "names": {
                 "ar": "بيتروبافلوفسك-كامتشاتسكي",
+                "bn": "পেত্রোপাভলভস্ক-কামচাতস্কি",
                 "ca": "Petropàvlovsk-Kamtxatski",
                 "cs": "Petropavlovsk-Kamčatskij",
                 "da": "Petropavlovsk-Kamtjatskij",
@@ -20295,19 +20308,12 @@
             ],
             "level2area": null,
             "names": {
-                "ca": "Nadim",
-                "de": "Nadym",
-                "en": "Nadym",
-                "hr": "Nadim",
-                "ja": "ナドゥイム",
-                "lt": "Nadymas",
-                "pl": "Nadym",
                 "ru": "Надым"
             },
             "place_type": 84,
             "population": 45584,
-            "latitude": 65.532,
-            "longitude": 72.52,
+            "latitude": 65.5369941,
+            "longitude": 72.5199792,
             "geocell": 5600525,
             "expando": {
                 "open_street_map_type": "node",
@@ -26810,7 +26816,7 @@
                 "ru": "Печора"
             },
             "place_type": 84,
-            "population": 40653,
+            "population": 34001,
             "latitude": 65.1142862,
             "longitude": 57.16074,
             "geocell": 5585971,
@@ -30763,14 +30769,23 @@
             ],
             "level2area": null,
             "names": {
+                "be": "Куса",
                 "ca": "Kussà",
                 "de": "Kussa",
                 "en": "Kusa",
+                "eo": "Kusa",
+                "fa": "کوسا",
+                "fr": "Koussa",
+                "it": "Kusa",
                 "ja": "クサー",
-                "ru": "Куса"
+                "pl": "Kusa",
+                "ru": "Куса",
+                "tr": "Kusa",
+                "tt": "Куса",
+                "uk": "Куса"
             },
             "place_type": 84,
-            "population": 16722,
+            "population": 16934,
             "latitude": 55.336521,
             "longitude": 59.445938,
             "geocell": 5233194,
@@ -32835,7 +32850,7 @@
                 "ru": "Торопец"
             },
             "place_type": 84,
-            "population": 12149,
+            "population": 11441,
             "latitude": 56.496479,
             "longitude": 31.641077,
             "geocell": 5272516,
@@ -32843,7 +32858,10 @@
                 "open_street_map_type": "node",
                 "open_street_map_id": 356482893,
                 "open_street_map_place": "town",
-                "postal_codes": [],
+                "postal_codes": [
+                    "172840"
+                ],
+                "website": "http://www.toropecadm.ru",
                 "wikidata_page_name": "Q48562",
                 "wikipedia_pages": {
                     "ru": "Торопец"
@@ -39005,8 +39023,8 @@
             },
             "place_type": 84,
             "population": 10418,
-            "latitude": 50.833622,
-            "longitude": 35.832401,
+            "latitude": 50.8343,
+            "longitude": 35.832,
             "geocell": 5070958,
             "expando": {
                 "open_street_map_type": "node",
@@ -44916,6 +44934,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "ওরস্ক",
                 "ca": "Orsk",
                 "de": "Orsk",
                 "en": "Orsk",
@@ -45760,6 +45779,7 @@
             "names": {
                 "ar": "غروزني",
                 "az": "Qroznı",
+                "bn": "গ্রজনি",
                 "ca": "Grozni",
                 "cs": "Grozný",
                 "de": "Grosny",
@@ -46211,7 +46231,7 @@
                 "en": "Telmana",
                 "fi": "Telmana",
                 "hr": "Teljmana",
-                "ru": "Тельмана"
+                "ru": "город Тельмана"
             },
             "place_type": 67,
             "population": 23986,
@@ -46223,10 +46243,10 @@
                 "open_street_map_id": 1632829627,
                 "open_street_map_place": "city",
                 "postal_codes": [],
-                "website": "https://telmana.info/",
+                "website": "https://telmana.info",
                 "wikidata_page_name": "Q4353452",
                 "wikipedia_pages": {
-                    "ru": "Тельмана (Ленинградская область)"
+                    "ru": "Город Тельмана"
                 }
             }
         }
@@ -49387,6 +49407,7 @@
                 "ar": "ماغادان",
                 "be": "Магадан",
                 "bg": "Магадан",
+                "bn": "মাগাদান",
                 "ca": "Magadan",
                 "de": "Magadan",
                 "en": "Magadan",

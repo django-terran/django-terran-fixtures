@@ -3517,8 +3517,8 @@
             "names": {},
             "place_type": 86,
             "population": 0,
-            "latitude": 17.4982736,
-            "longitude": -14.6216095,
+            "latitude": 17.4973625,
+            "longitude": -14.6245674,
             "geocell": 3868053,
             "expando": {
                 "open_street_map_type": "node",
@@ -3967,11 +3967,13 @@
                 "mr06"
             ],
             "level2area": null,
-            "names": {},
+            "names": {
+                "ar": "Archâne ech Chergui"
+            },
             "place_type": 86,
             "population": 0,
-            "latitude": 17.4658853,
-            "longitude": -14.7769709,
+            "latitude": 17.4663947,
+            "longitude": -14.7755419,
             "geocell": 3868052,
             "expando": {
                 "open_street_map_type": "node",
@@ -4018,8 +4020,8 @@
             "names": {},
             "place_type": 86,
             "population": 0,
-            "latitude": 17.1752802,
-            "longitude": -15.0520154,
+            "latitude": 17.1762513,
+            "longitude": -15.0516088,
             "geocell": 3857249,
             "expando": {
                 "open_street_map_type": "node",
@@ -4070,8 +4072,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 17.1226062,
-            "longitude": -15.1013251,
+            "latitude": 17.1219488,
+            "longitude": -15.1019105,
             "geocell": 3857248,
             "expando": {
                 "open_street_map_type": "node",
@@ -4154,8 +4156,8 @@
             "names": {},
             "place_type": 86,
             "population": 0,
-            "latitude": 17.0249801,
-            "longitude": -15.1623532,
+            "latitude": 17.0260492,
+            "longitude": -15.1599645,
             "geocell": 3853648,
             "expando": {
                 "open_street_map_type": "node",
@@ -5065,30 +5067,6 @@
                 "open_street_map_type": "node",
                 "open_street_map_id": 2118816958,
                 "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 2118825243,
-            "country": 478,
-            "level1area": [
-                "mr01"
-            ],
-            "level2area": null,
-            "names": {},
-            "place_type": 72,
-            "population": 0,
-            "latitude": 16.0165237,
-            "longitude": -5.8195187,
-            "geocell": 3817741,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 2118825243,
-                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -6072,8 +6050,8 @@
             "names": {},
             "place_type": 72,
             "population": 0,
-            "latitude": 15.845967,
-            "longitude": -5.5713775,
+            "latitude": 15.8460601,
+            "longitude": -5.5712246,
             "geocell": 3810544,
             "expando": {
                 "open_street_map_type": "node",
@@ -14431,7 +14409,7 @@
             "level2area": null,
             "names": {
                 "ar": "بكي همت",
-                "fr": "Boki Hamet"
+                "fr": "Gourel Seno, Wouro Mody Kadiel"
             },
             "place_type": 72,
             "population": 0,
@@ -14460,7 +14438,7 @@
                 "ar": "كورل أداما",
                 "fr": "Gourel Adama"
             },
-            "place_type": 72,
+            "place_type": 86,
             "population": 0,
             "latitude": 15.1061492,
             "longitude": -12.6158262,
@@ -14468,7 +14446,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 4463675318,
-                "open_street_map_place": "hamlet",
+                "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -14485,7 +14463,7 @@
             "level2area": null,
             "names": {
                 "ar": "تاكوتالا",
-                "fr": "Takoutala"
+                "fr": "Tagoutala"
             },
             "place_type": 86,
             "population": 0,
@@ -14511,9 +14489,9 @@
             ],
             "level2area": null,
             "names": {
-                "ar": "Gourel Kotché"
+                "ar": "Nemati Maouwiya"
             },
-            "place_type": 72,
+            "place_type": 86,
             "population": 0,
             "latitude": 15.0947913,
             "longitude": -12.6943602,
@@ -14521,7 +14499,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 4463684028,
-                "open_street_map_place": "hamlet",
+                "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -14905,8 +14883,7 @@
             "level2area": null,
             "names": {
                 "ar": "لوغيري",
-                "en": "Louguéré",
-                "fr": "Louguéré"
+                "fr": "Boki Hamet"
             },
             "place_type": 72,
             "population": 0,
@@ -14931,8 +14908,10 @@
                 "mr10"
             ],
             "level2area": null,
-            "names": {},
-            "place_type": 72,
+            "names": {
+                "ar": "Boboré"
+            },
+            "place_type": 86,
             "population": 0,
             "latitude": 15.2254866,
             "longitude": -12.7057627,
@@ -14940,7 +14919,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 4466890953,
-                "open_street_map_place": "hamlet",
+                "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -28042,9 +28021,9 @@
             },
             "place_type": 72,
             "population": 0,
-            "latitude": 17.3977614,
-            "longitude": -14.4844929,
-            "geocell": 3864455,
+            "latitude": 17.4007154,
+            "longitude": -14.4833171,
+            "geocell": 3868055,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 4986181576,
@@ -55570,7 +55549,7 @@
             "names": {
                 "ar": "Sangué-Diéri"
             },
-            "place_type": 72,
+            "place_type": 86,
             "population": 0,
             "latitude": 15.0833565,
             "longitude": -12.5771904,
@@ -55578,7 +55557,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 7734401767,
-                "open_street_map_place": "hamlet",
+                "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -59788,8 +59767,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 17.09604,
-            "longitude": -14.9787141,
+            "latitude": 17.0966115,
+            "longitude": -14.9813334,
             "geocell": 3853650,
             "expando": {
                 "open_street_map_type": "node",
@@ -61206,30 +61185,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 8464739191,
-            "country": 478,
-            "level1area": [
-                "mr01"
-            ],
-            "level2area": null,
-            "names": {},
-            "place_type": 72,
-            "population": 0,
-            "latitude": 15.9849959,
-            "longitude": -6.7092133,
-            "geocell": 3814132,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 8464739191,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 8464739192,
             "country": 478,
             "level1area": [
@@ -61239,9 +61194,9 @@
             "names": {},
             "place_type": 72,
             "population": 0,
-            "latitude": 16.0352239,
-            "longitude": -6.699729,
-            "geocell": 3817733,
+            "latitude": 16.0339659,
+            "longitude": -6.700767,
+            "geocell": 3817732,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 8464739192,
@@ -66490,6 +66445,450 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 12180900936,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12185177346,
+            "country": 478,
+            "level1area": [
+                "mr06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": 17.8430034,
+            "longitude": -14.5105101,
+            "geocell": 3882454,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12185177346,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12185177571,
+            "country": 478,
+            "level1area": [
+                "mr06"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Tidemmallîne"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.9073552,
+            "longitude": -14.4265374,
+            "geocell": 3886055,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12185177571,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12185177580,
+            "country": 478,
+            "level1area": [
+                "mr06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": 17.870492,
+            "longitude": -14.4630469,
+            "geocell": 3882455,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12185177580,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186265349,
+            "country": 478,
+            "level1area": [
+                "mr06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": 17.3586811,
+            "longitude": -14.4153761,
+            "geocell": 3864455,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186265349,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186265494,
+            "country": 478,
+            "level1area": [
+                "mr06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.3173948,
+            "longitude": -14.5083291,
+            "geocell": 3864454,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186265494,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12195401482,
+            "country": 478,
+            "level1area": [
+                "mr10"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Tevragh Zeina"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.0690088,
+            "longitude": -12.578554,
+            "geocell": 3781674,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12195401482,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12197030804,
+            "country": 478,
+            "level1area": [
+                "mr06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": 18.7737263,
+            "longitude": -13.238234,
+            "geocell": 3914867,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12197030804,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12197033287,
+            "country": 478,
+            "level1area": [
+                "mr06"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Boû Ghâba"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.3387223,
+            "longitude": -14.7842914,
+            "geocell": 3864452,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12197033287,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12197033584,
+            "country": 478,
+            "level1area": [
+                "mr06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.4896396,
+            "longitude": -14.65693,
+            "geocell": 3868053,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12197033584,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12197033607,
+            "country": 478,
+            "level1area": [
+                "mr06"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "القبة"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.4633844,
+            "longitude": -14.7077597,
+            "geocell": 3868052,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12197033607,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12197033643,
+            "country": 478,
+            "level1area": [
+                "mr06"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "El Kheder"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.3810047,
+            "longitude": -14.7251326,
+            "geocell": 3864452,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12197033643,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12197033695,
+            "country": 478,
+            "level1area": [
+                "mr06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.3674505,
+            "longitude": -14.7303664,
+            "geocell": 3864452,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12197033695,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12197482938,
+            "country": 478,
+            "level1area": [
+                "mr06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.5705749,
+            "longitude": -14.7663596,
+            "geocell": 3871652,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12197482938,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12197541597,
+            "country": 478,
+            "level1area": [
+                "mr06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": 16.9567542,
+            "longitude": -15.2133682,
+            "geocell": 3850047,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12197541597,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207514537,
+            "country": 478,
+            "level1area": [
+                "mr01"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.63122,
+            "longitude": -5.8500695,
+            "geocell": 3803341,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207514537,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12212729001,
+            "country": 478,
+            "level1area": [
+                "mr06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0460112,
+            "longitude": -15.057453,
+            "geocell": 3853649,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12212729001,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12212729042,
+            "country": 478,
+            "level1area": [
+                "mr06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": 17.0646786,
+            "longitude": -15.0376481,
+            "geocell": 3853649,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12212729042,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12222946181,
+            "country": 478,
+            "level1area": [
+                "mr01"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Terbékou"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.6558423,
+            "longitude": -5.6511274,
+            "geocell": 3803343,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12222946181,
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}

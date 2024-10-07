@@ -10,25 +10,34 @@
             "level2area": null,
             "names": {
                 "ar": "تورونتو",
+                "bn": "টোরোংটো",
                 "ca": "Toronto",
                 "ckb": "تۆرنتۆ",
                 "de": "Toronto",
                 "el": "Τορόντο",
                 "en": "Toronto",
+                "eo": "Toronto",
                 "es": "Toronto",
                 "et": "Toronto",
                 "fa": "تورنتو",
                 "fr": "Toronto",
                 "ga": "Torontó",
+                "he": "טורונטו",
+                "hi": "टॊरॊंटो",
                 "hr": "Toronto",
                 "hy": "Տորոնտո",
+                "ja": "トロント",
+                "kn": "ಟೊರೊಂಟೋ",
                 "ko": "토론토",
+                "mr": "टॊरॊंटो",
                 "pa": "ਟੋਰਾਂਟੋ",
                 "pl": "Toronto",
                 "pt": "Toronto",
                 "ru": "Торонто",
                 "sr": "Торонто",
+                "ta": "டொரொண்டோ",
                 "ug": "تورونتو",
+                "uk": "Торонто",
                 "ur": "ٹورانٹو"
             },
             "place_type": 67,
@@ -2185,7 +2194,8 @@
             ],
             "level2area": null,
             "names": {
-                "en": "Owen Sound"
+                "en": "Owen Sound",
+                "ug": "ئوۋەن ساۇند"
             },
             "place_type": 67,
             "population": 21688,
@@ -2968,7 +2978,16 @@
             ],
             "level2area": null,
             "names": {
-                "en": "Brantford"
+                "ar": "برانتفورد",
+                "el": "Μπράντφορντ",
+                "en": "Brantford",
+                "fa": "برنتفورد",
+                "he": "בר‬נטפורד",
+                "hy": "Բրանտֆորդ",
+                "ko": "브랜트퍼드",
+                "ru": "Брантфорд",
+                "uk": "Брантфорд",
+                "ur": "برانٹفورڈ"
             },
             "place_type": 67,
             "population": 97496,
@@ -6259,7 +6278,10 @@
             ],
             "level2area": null,
             "names": {
-                "en": "Sault Sainte Marie"
+                "de": "Sault Ste. Marie",
+                "en": "Sault Ste. Marie",
+                "fr": "Sault-Sainte-Marie",
+                "uk": "Су-Сен-Марі"
             },
             "place_type": 67,
             "population": 75141,
@@ -6857,33 +6879,6 @@
                 "open_street_map_place": "city",
                 "postal_codes": [],
                 "wikidata_page_name": "Q1017477",
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 5060930206,
-            "country": 124,
-            "level1area": [
-                "caqc"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Varennes"
-            },
-            "place_type": 84,
-            "population": 20500,
-            "latitude": 45.6834691,
-            "longitude": -73.4362737,
-            "geocell": 4882665,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 5060930206,
-                "open_street_map_place": "town",
-                "postal_codes": [],
-                "wikidata_page_name": "Q142014",
                 "wikipedia_pages": {}
             }
         }

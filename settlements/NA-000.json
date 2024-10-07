@@ -906,7 +906,7 @@
             "names": {
                 "en": "Grünau"
             },
-            "place_type": 72,
+            "place_type": 86,
             "population": 0,
             "latitude": -27.7357244,
             "longitude": 18.3799788,
@@ -914,7 +914,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 243784427,
-                "open_street_map_place": "hamlet",
+                "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -1848,14 +1848,16 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": -21.138318,
-            "longitude": 18.785724,
+            "latitude": -21.1383155,
+            "longitude": 18.7855971,
             "geocell": 2478787,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 259754729,
                 "open_street_map_place": "village",
-                "postal_codes": [],
+                "postal_codes": [
+                    "11008"
+                ],
                 "wikidata_page_name": "Q570994",
                 "wikipedia_pages": {
                     "en": "Otjinene"
@@ -2371,6 +2373,32 @@
                 "open_street_map_type": "node",
                 "open_street_map_id": 408999371,
                 "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 458742737,
+            "country": 516,
+            "level1area": [
+                "naka"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Ariamsvlei"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": -28.1195843,
+            "longitude": 19.8355824,
+            "geocell": 2226798,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 458742737,
+                "open_street_map_place": "town",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -5076,32 +5104,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 2364947110,
-            "country": 516,
-            "level1area": [
-                "nake"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Sharukwe"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -18.0440027,
-            "longitude": 19.7565156,
-            "geocell": 2590397,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 2364947110,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 2364947111,
             "country": 516,
             "level1area": [
@@ -5139,7 +5141,7 @@
                 "af": "Twintig Myl",
                 "en": "Mile 20"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
             "latitude": -18.1180816,
             "longitude": 19.5518478,
@@ -5147,7 +5149,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 2364947117,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -5167,38 +5169,12 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": -18.1980585,
-            "longitude": 19.4806563,
+            "latitude": -18.1984304,
+            "longitude": 19.4808759,
             "geocell": 2586794,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 2364947146,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 2364947350,
-            "country": 516,
-            "level1area": [
-                "nakw"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Mbeyo"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -18.3236843,
-            "longitude": 19.3678705,
-            "geocell": 2579593,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 2364947350,
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
@@ -5512,32 +5488,6 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 2372653734,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 2372653736,
-            "country": 516,
-            "level1area": [
-                "nake"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Uvungu Vungu"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -17.8937964,
-            "longitude": 19.8529345,
-            "geocell": 2597598,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 2372653736,
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
@@ -7396,30 +7346,6 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 3115277640,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 3147474253,
-            "country": 516,
-            "level1area": [
-                "naoh"
-            ],
-            "level2area": null,
-            "names": {},
-            "place_type": 72,
-            "population": 0,
-            "latitude": -21.6345829,
-            "longitude": 19.3503484,
-            "geocell": 2460793,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 3147474253,
                 "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
@@ -11320,56 +11246,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 3193298435,
-            "country": 516,
-            "level1area": [
-                "naoh"
-            ],
-            "level2area": null,
-            "names": {},
-            "place_type": 72,
-            "population": 0,
-            "latitude": -21.9381551,
-            "longitude": 20.9468095,
-            "geocell": 2450009,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 3193298435,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 3193298442,
-            "country": 516,
-            "level1area": [
-                "naoh"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Otjikoto (Pioniersweg Pos 1)"
-            },
-            "place_type": 72,
-            "population": 0,
-            "latitude": -21.8943498,
-            "longitude": 20.9451144,
-            "geocell": 2453609,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 3193298442,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 3194374976,
             "country": 516,
             "level1area": [
@@ -11600,84 +11476,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 3207768638,
-            "country": 516,
-            "level1area": [
-                "nake"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Cuma"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -18.1899622,
-            "longitude": 19.8694774,
-            "geocell": 2586798,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 3207768638,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 3207801354,
-            "country": 516,
-            "level1area": [
-                "nake"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Hamwiyi"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -18.2327967,
-            "longitude": 19.7364828,
-            "geocell": 2583197,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 3207801354,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 3207807598,
-            "country": 516,
-            "level1area": [
-                "nake"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Ncuncuni"
-            },
-            "place_type": 72,
-            "population": 0,
-            "latitude": -18.1504107,
-            "longitude": 19.7697166,
-            "geocell": 2586797,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 3207807598,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 3208213067,
             "country": 516,
             "level1area": [
@@ -11750,30 +11548,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 3208273930,
-            "country": 516,
-            "level1area": [
-                "naku"
-            ],
-            "level2area": null,
-            "names": {},
-            "place_type": 72,
-            "population": 0,
-            "latitude": -18.6841483,
-            "longitude": 14.2596455,
-            "geocell": 2568742,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 3208273930,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 3208273955,
             "country": 516,
             "level1area": [
@@ -11781,7 +11555,7 @@
             ],
             "level2area": null,
             "names": {
-                "en": "Okatjuru"
+                "en": "Katjiuru"
             },
             "place_type": 72,
             "population": 0,
@@ -11792,32 +11566,6 @@
                 "open_street_map_type": "node",
                 "open_street_map_id": 3208273955,
                 "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 3208274883,
-            "country": 516,
-            "level1area": [
-                "naos"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Ohama"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -18.659236,
-            "longitude": 14.3176456,
-            "geocell": 2568743,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 3208274883,
-                "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -11906,7 +11654,9 @@
                 "naos"
             ],
             "level2area": null,
-            "names": {},
+            "names": {
+                "en": "Orondjize"
+            },
             "place_type": 72,
             "population": 0,
             "latitude": -18.8420648,
@@ -12082,12 +11832,12 @@
             ],
             "level2area": null,
             "names": {
-                "en": "Otuzemba"
+                "en": "Otjitoko"
             },
             "place_type": 72,
             "population": 0,
-            "latitude": -18.4859438,
-            "longitude": 14.1020583,
+            "latitude": -18.4871667,
+            "longitude": 14.1026822,
             "geocell": 2575941,
             "expando": {
                 "open_street_map_type": "node",
@@ -12116,30 +11866,6 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 3209757387,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 3209757428,
-            "country": 516,
-            "level1area": [
-                "naku"
-            ],
-            "level2area": null,
-            "names": {},
-            "place_type": 72,
-            "population": 0,
-            "latitude": -18.4911127,
-            "longitude": 14.1032814,
-            "geocell": 2575941,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 3209757428,
                 "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
@@ -12342,32 +12068,6 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 3211242911,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 3211269061,
-            "country": 516,
-            "level1area": [
-                "nakw"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Katjinakatji"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -18.5297428,
-            "longitude": 19.1799738,
-            "geocell": 2572391,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 3211269061,
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
@@ -13231,30 +12931,6 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 3216076200,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 3216076217,
-            "country": 516,
-            "level1area": [
-                "naca"
-            ],
-            "level2area": null,
-            "names": {},
-            "place_type": 72,
-            "population": 0,
-            "latitude": -17.5480314,
-            "longitude": 24.2930463,
-            "geocell": 2608442,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 3216076217,
                 "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
@@ -18446,32 +18122,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 5084774332,
-            "country": 516,
-            "level1area": [
-                "nakw"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Village"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -18.2726448,
-            "longitude": 19.4131851,
-            "geocell": 2583194,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 5084774332,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 5136125136,
             "country": 516,
             "level1area": [
@@ -19892,65 +19542,13 @@
             },
             "place_type": 72,
             "population": 0,
-            "latitude": -18.1884535,
-            "longitude": 20.1883533,
+            "latitude": -18.186364,
+            "longitude": 20.1902738,
             "geocell": 2586801,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 5321584551,
                 "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 5321652100,
-            "country": 516,
-            "level1area": [
-                "nake"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Kapupahedi"
-            },
-            "place_type": 72,
-            "population": 0,
-            "latitude": -18.116593,
-            "longitude": 19.7575764,
-            "geocell": 2586797,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 5321652100,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 5321658402,
-            "country": 516,
-            "level1area": [
-                "nake"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Mavandje"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -17.9967237,
-            "longitude": 19.747588,
-            "geocell": 2593997,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 5321658402,
-                "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -20417,7 +20015,9 @@
                 "open_street_map_type": "node",
                 "open_street_map_id": 5486314744,
                 "open_street_map_place": "village",
-                "postal_codes": [],
+                "postal_codes": [
+                    "14005"
+                ],
                 "wikidata_page_name": "Q7106606",
                 "wikipedia_pages": {}
             }
@@ -20509,32 +20109,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 5487024085,
-            "country": 516,
-            "level1area": [
-                "naow"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Onuno"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -17.5184842,
-            "longitude": 16.0142812,
-            "geocell": 2608360,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 5487024085,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 5487027725,
             "country": 516,
             "level1area": [
@@ -20546,8 +20120,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": -17.51562,
-            "longitude": 15.9521666,
+            "latitude": -17.5156581,
+            "longitude": 15.9523513,
             "geocell": 2608359,
             "expando": {
                 "open_street_map_type": "node",
@@ -22122,7 +21696,7 @@
             ],
             "level2area": null,
             "names": {
-                "en": "Otsivu"
+                "en": "Otjiu"
             },
             "place_type": 72,
             "population": 0,
@@ -22200,8 +21774,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": -18.0737848,
-            "longitude": 16.2454577,
+            "latitude": -18.0751147,
+            "longitude": 16.2457696,
             "geocell": 2590362,
             "expando": {
                 "open_street_map_type": "node",
@@ -22998,6 +22572,32 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 7250089886,
+            "country": 516,
+            "level1area": [
+                "naoh"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tsjaka / Ben Hur"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -22.7632192,
+            "longitude": 19.2049645,
+            "geocell": 2421192,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7250089886,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 7260725549,
             "country": 516,
             "level1area": [
@@ -23237,7 +22837,7 @@
             ],
             "level2area": null,
             "names": {
-                "en": "Okaihele"
+                "en": "Okaozuvare"
             },
             "place_type": 72,
             "population": 0,
@@ -24091,32 +23691,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 8768051451,
-            "country": 516,
-            "level1area": [
-                "naoh"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Rietfontein"
-            },
-            "place_type": 72,
-            "population": 0,
-            "latitude": -21.9106299,
-            "longitude": 20.9101393,
-            "geocell": 2450009,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 8768051451,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 8770553851,
             "country": 516,
             "level1area": [
@@ -24458,35 +24032,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 9240625478,
-            "country": 516,
-            "level1area": [
-                "naoh"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Epukiro"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -21.6942471,
-            "longitude": 19.10281,
-            "geocell": 2460791,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 9240625478,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikidata_page_name": "Q5384041",
-                "wikipedia_pages": {
-                    "de": "Epukiro"
-                }
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 9251442473,
             "country": 516,
             "level1area": [
@@ -24531,58 +24076,6 @@
                 "open_street_map_type": "node",
                 "open_street_map_id": 9251442474,
                 "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 9251448140,
-            "country": 516,
-            "level1area": [
-                "nake"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Mazwa"
-            },
-            "place_type": 72,
-            "population": 0,
-            "latitude": -18.1063942,
-            "longitude": 19.9473524,
-            "geocell": 2586799,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 9251448140,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 9251448268,
-            "country": 516,
-            "level1area": [
-                "nake"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Gonwa"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -18.0504696,
-            "longitude": 19.9564585,
-            "geocell": 2590399,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 9251448268,
-                "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -24877,58 +24370,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 9258533982,
-            "country": 516,
-            "level1area": [
-                "nake"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Naingopo"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -18.5466227,
-            "longitude": 19.7172296,
-            "geocell": 2572397,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 9258533982,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 9258533984,
-            "country": 516,
-            "level1area": [
-                "nake"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Gcigco"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -18.4298838,
-            "longitude": 19.7661209,
-            "geocell": 2575997,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 9258533984,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 9258533985,
             "country": 516,
             "level1area": [
@@ -24946,6 +24387,32 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 9258533985,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 9284080162,
+            "country": 516,
+            "level1area": [
+                "nake"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Tara-Tara"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -18.2141415,
+            "longitude": 20.3188384,
+            "geocell": 2583203,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9284080162,
                 "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
@@ -25198,7 +24665,7 @@
             "names": {
                 "en": "Ekuenje"
             },
-            "place_type": 72,
+            "place_type": 86,
             "population": 0,
             "latitude": -20.9660233,
             "longitude": 18.3519127,
@@ -25206,7 +24673,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 10158382422,
-                "open_street_map_place": "hamlet",
+                "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -26632,38 +26099,12 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": -17.4151807,
-            "longitude": 15.7127667,
+            "latitude": -17.4231836,
+            "longitude": 15.7157547,
             "geocell": 2611957,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 12072165443,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 12072165444,
-            "country": 516,
-            "level1area": [
-                "naow"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Elakalapwa"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -17.4210566,
-            "longitude": 15.7175704,
-            "geocell": 2611957,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 12072165444,
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
@@ -26690,58 +26131,6 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 12072165445,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 12072165446,
-            "country": 516,
-            "level1area": [
-                "naow"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Omatangela"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -17.4045556,
-            "longitude": 15.7368365,
-            "geocell": 2611957,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 12072165446,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 12072165447,
-            "country": 516,
-            "level1area": [
-                "naow"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Ofaitumbo"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -17.4170081,
-            "longitude": 15.7564648,
-            "geocell": 2611957,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 12072165447,
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
@@ -27105,6 +26494,110 @@
                 "open_street_map_type": "node",
                 "open_street_map_id": 12171825925,
                 "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12183500402,
+            "country": 516,
+            "level1area": [
+                "naka"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Pomona"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -27.1924651,
+            "longitude": 15.3030607,
+            "geocell": 2262753,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12183500402,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187896647,
+            "country": 516,
+            "level1area": [
+                "naos"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Eemwandi"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -17.8028317,
+            "longitude": 14.8167162,
+            "geocell": 2597548,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187896647,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207596437,
+            "country": 516,
+            "level1area": [
+                "naos"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Okasheshete"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -17.6852842,
+            "longitude": 14.651454,
+            "geocell": 2604746,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207596437,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12208797079,
+            "country": 516,
+            "level1area": [
+                "nake"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Sikambo"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -17.9887337,
+            "longitude": 19.9046194,
+            "geocell": 2593999,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12208797079,
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }

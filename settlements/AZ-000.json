@@ -1414,7 +1414,7 @@
                 "uk": "Джебраїл"
             },
             "place_type": 84,
-            "population": 0,
+            "population": 364,
             "latitude": 39.3958878,
             "longitude": 47.0286002,
             "geocell": 4657070,
@@ -2766,8 +2766,8 @@
             },
             "place_type": 84,
             "population": 15500,
-            "latitude": 40.9480372,
-            "longitude": 45.7350484,
+            "latitude": 40.9462716,
+            "longitude": 45.7331376,
             "geocell": 4714657,
             "expando": {
                 "open_street_map_type": "node",
@@ -3517,6 +3517,70 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 1340040211,
+            "country": 31,
+            "level1area": [
+                "aztar"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Talış",
+                "en": "Talish",
+                "hy": "Թալիշ",
+                "pl": "Tałysz",
+                "ru": "Талиш",
+                "tr": "Talış"
+            },
+            "place_type": 86,
+            "population": 90,
+            "latitude": 40.3775953,
+            "longitude": 46.7408333,
+            "geocell": 4693067,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1340040211,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1703411",
+                "wikipedia_pages": {
+                    "en": "Talış, Tartar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1340040216,
+            "country": 31,
+            "level1area": [
+                "aztar"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Suqovuşan",
+                "en": "Suqovuşan",
+                "hy": "Մատաղիզ",
+                "ru": "Суговушан"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 40.326252,
+            "longitude": 46.7518826,
+            "geocell": 4693067,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1340040216,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3067709",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 1342620550,
             "country": 31,
             "level1area": [
@@ -3855,16 +3919,17 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 39.7681827,
-            "longitude": 46.8539967,
+            "latitude": 39.7701241,
+            "longitude": 46.8517568,
             "geocell": 4671468,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 1343893918,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q2062121",
                 "wikipedia_pages": {
-                    "it": "Karmirgyugh (Askeran)"
+                    "az": "Qızıloba (Xocalı)"
                 }
             }
         }
@@ -6914,8 +6979,8 @@
             ],
             "level2area": null,
             "names": {
-                "az": "Susanlıq",
-                "en": "Susanlıq",
+                "az": "Mokhrenes",
+                "en": "Mokhrenes",
                 "ru": "Сусанлыг"
             },
             "place_type": 86,
@@ -14065,8 +14130,8 @@
             },
             "place_type": 84,
             "population": 169,
-            "latitude": 39.9104684,
-            "longitude": 46.7972401,
+            "latitude": 39.9097028,
+            "longitude": 46.7943875,
             "geocell": 4678667,
             "expando": {
                 "open_street_map_type": "node",
@@ -14222,35 +14287,6 @@
                 "postal_codes": [],
                 "wikidata_page_name": "Q2947624",
                 "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 2032851608,
-            "country": 31,
-            "level1area": [
-                "azgad"
-            ],
-            "level2area": null,
-            "names": {
-                "az": "Başkənd",
-                "en": "Bashkend"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": 40.6402177,
-            "longitude": 45.5216996,
-            "geocell": 4703855,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 2032851608,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {
-                    "az": "Başkənd (Gədəbəy)"
-                }
             }
         }
     },
@@ -50939,9 +50975,9 @@
             },
             "place_type": 72,
             "population": 700,
-            "latitude": 40.3211351,
-            "longitude": 49.5993453,
-            "geocell": 4693095,
+            "latitude": 40.3218304,
+            "longitude": 49.6000561,
+            "geocell": 4693096,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 2873261372,
@@ -54003,8 +54039,8 @@
             ],
             "level2area": null,
             "names": {
-                "az": "Fatalikend",
-                "ru": "Фаталикенд"
+                "az": "Günəşli",
+                "ru": "Гюнашли"
             },
             "place_type": 86,
             "population": 0,
@@ -78046,8 +78082,8 @@
             },
             "place_type": 72,
             "population": 0,
-            "latitude": 40.6117632,
-            "longitude": 45.481793,
+            "latitude": 40.6100121,
+            "longitude": 45.4853764,
             "geocell": 4703854,
             "expando": {
                 "open_street_map_type": "node",
@@ -78070,15 +78106,15 @@
             "names": {
                 "az": "Dördlər"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
-            "latitude": 40.6173968,
-            "longitude": 45.4591958,
+            "latitude": 40.6181216,
+            "longitude": 45.4605262,
             "geocell": 4703854,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 3647225243,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -78096,15 +78132,15 @@
             "names": {
                 "az": "Cücanlı"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
-            "latitude": 40.6283018,
-            "longitude": 45.461819,
+            "latitude": 40.6285135,
+            "longitude": 45.4624091,
             "geocell": 4703854,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 3647231790,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -78122,15 +78158,15 @@
             "names": {
                 "az": "İsalı"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
-            "latitude": 40.6370779,
-            "longitude": 45.4569265,
+            "latitude": 40.63444,
+            "longitude": 45.4610356,
             "geocell": 4703854,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 3647231791,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -78148,15 +78184,15 @@
             "names": {
                 "az": "Fərzəli"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
-            "latitude": 40.6417053,
-            "longitude": 45.4532839,
+            "latitude": 40.6399305,
+            "longitude": 45.4531552,
             "geocell": 4703854,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 3647244120,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -78174,15 +78210,15 @@
             "names": {
                 "az": "Arabaçı"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
-            "latitude": 40.6465488,
-            "longitude": 45.4442064,
+            "latitude": 40.6464307,
+            "longitude": 45.4452766,
             "geocell": 4703854,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 3647244121,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -78200,15 +78236,15 @@
             "names": {
                 "az": "Mormor"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
-            "latitude": 40.6328915,
-            "longitude": 45.4267886,
+            "latitude": 40.6335673,
+            "longitude": 45.4285267,
             "geocell": 4703854,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 3647244122,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -78228,8 +78264,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 40.6504264,
-            "longitude": 45.4375557,
+            "latitude": 40.6505566,
+            "longitude": 45.4408924,
             "geocell": 4703854,
             "expando": {
                 "open_street_map_type": "node",
@@ -78542,15 +78578,15 @@
             "names": {
                 "az": "Gərməsöylü"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
-            "latitude": 40.6752743,
-            "longitude": 45.4684854,
+            "latitude": 40.6749651,
+            "longitude": 45.4682279,
             "geocell": 4703854,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 3649308003,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -78568,15 +78604,15 @@
             "names": {
                 "az": "Şınıx"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
-            "latitude": 40.6766683,
-            "longitude": 45.4523148,
+            "latitude": 40.6763468,
+            "longitude": 45.4507966,
             "geocell": 4703854,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 3649308239,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -78594,15 +78630,15 @@
             "names": {
                 "az": "Kollu"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
-            "latitude": 40.6818644,
-            "longitude": 45.4385217,
+            "latitude": 40.6796107,
+            "longitude": 45.4410966,
             "geocell": 4703854,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 3649308240,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -78622,8 +78658,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 40.6943361,
-            "longitude": 45.4216469,
+            "latitude": 40.694751,
+            "longitude": 45.4236639,
             "geocell": 4703854,
             "expando": {
                 "open_street_map_type": "node",
@@ -78648,8 +78684,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 40.6852355,
-            "longitude": 45.4610144,
+            "latitude": 40.6841148,
+            "longitude": 45.4620685,
             "geocell": 4703854,
             "expando": {
                 "open_street_map_type": "node",
@@ -78672,7 +78708,7 @@
             "names": {
                 "az": "Bəydəmirli"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
             "latitude": 40.689352,
             "longitude": 45.4705201,
@@ -78680,7 +78716,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 3649308290,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -78698,15 +78734,15 @@
             "names": {
                 "az": "Turşsu"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
-            "latitude": 40.7007403,
-            "longitude": 45.4643403,
+            "latitude": 40.7008379,
+            "longitude": 45.4626988,
             "geocell": 4707454,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 3649308314,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -78750,15 +78786,15 @@
             "names": {
                 "az": "Qaradaş"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
-            "latitude": 40.698219,
-            "longitude": 45.4905736,
+            "latitude": 40.6975113,
+            "longitude": 45.4899084,
             "geocell": 4703854,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 3649312025,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -79505,18 +79541,17 @@
             ],
             "level2area": null,
             "names": {
-                "az": "Qoşa",
-                "ru": "Гоша"
+                "az": "Qoşa"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 167,
-            "latitude": 40.7754311,
-            "longitude": 45.5620818,
+            "latitude": 40.7761553,
+            "longitude": 45.5632242,
             "geocell": 4707455,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 3657840467,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikidata_page_name": "Q7268171",
                 "wikipedia_pages": {
@@ -79539,8 +79574,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 40.7276648,
-            "longitude": 45.4255298,
+            "latitude": 40.7276241,
+            "longitude": 45.4260555,
             "geocell": 4707454,
             "expando": {
                 "open_street_map_type": "node",
@@ -79563,7 +79598,7 @@
             "names": {
                 "az": "Məmmədcəfərli"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
             "latitude": 40.714623,
             "longitude": 45.4202739,
@@ -79571,7 +79606,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 3657840965,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -79591,8 +79626,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 40.7117604,
-            "longitude": 45.4271618,
+            "latitude": 40.71063,
+            "longitude": 45.4281167,
             "geocell": 4707454,
             "expando": {
                 "open_street_map_type": "node",
@@ -79615,15 +79650,15 @@
             "names": {
                 "az": "Sonalar"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
-            "latitude": 40.7064416,
-            "longitude": 45.4365603,
+            "latitude": 40.7061325,
+            "longitude": 45.4365496,
             "geocell": 4707454,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 3657840989,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -79643,8 +79678,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 40.7085399,
-            "longitude": 45.4419676,
+            "latitude": 40.7086944,
+            "longitude": 45.4421178,
             "geocell": 4707454,
             "expando": {
                 "open_street_map_type": "node",
@@ -84426,6 +84461,67 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 5006910691,
+            "country": 31,
+            "level1area": [
+                "aztar"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Şıxarx",
+                "en": "Şıxarx",
+                "hy": "Մարաղա",
+                "ru": "Марага"
+            },
+            "place_type": 86,
+            "population": 100,
+            "latitude": 40.3323137,
+            "longitude": 46.8888013,
+            "geocell": 4693068,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5006910691,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2660772",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5006915028,
+            "country": 31,
+            "level1area": [
+                "aztar"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Çaylı",
+                "en": "Çaylı",
+                "hy": "Այգեստան"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 40.3336112,
+            "longitude": 46.8261333,
+            "geocell": 4693068,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5006915028,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5014297",
+                "wikipedia_pages": {
+                    "en": "Çaylı, Tartar"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 5007267490,
             "country": 31,
             "level1area": [
@@ -84688,8 +84784,8 @@
             },
             "place_type": 86,
             "population": 524,
-            "latitude": 40.745194,
-            "longitude": 45.7169193,
+            "latitude": 40.7447144,
+            "longitude": 45.7172197,
             "geocell": 4707457,
             "expando": {
                 "open_street_map_type": "node",
@@ -84717,8 +84813,8 @@
             },
             "place_type": 86,
             "population": 1589,
-            "latitude": 40.7489029,
-            "longitude": 45.7058811,
+            "latitude": 40.7483827,
+            "longitude": 45.7088637,
             "geocell": 4707457,
             "expando": {
                 "open_street_map_type": "node",
@@ -84744,15 +84840,15 @@
             "names": {
                 "az": "Pərizamanlı"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 667,
-            "latitude": 40.7712105,
-            "longitude": 45.7366447,
+            "latitude": 40.7711942,
+            "longitude": 45.7368164,
             "geocell": 4707457,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 5235292807,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikidata_page_name": "Q7265236",
                 "wikipedia_pages": {
@@ -84831,15 +84927,15 @@
             "names": {
                 "az": "Qaraboyunlar"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 210,
-            "latitude": 40.762022,
-            "longitude": 45.7159825,
+            "latitude": 40.7615994,
+            "longitude": 45.7156177,
             "geocell": 4707457,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 5238038029,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikidata_page_name": "Q7266566",
                 "wikipedia_pages": {
@@ -86994,8 +87090,8 @@
             },
             "place_type": 86,
             "population": 510,
-            "latitude": 40.618947,
-            "longitude": 45.6581492,
+            "latitude": 40.6181326,
+            "longitude": 45.659088,
             "geocell": 4703856,
             "expando": {
                 "open_street_map_type": "node",
@@ -87706,8 +87802,8 @@
             },
             "place_type": 72,
             "population": 331,
-            "latitude": 40.795078,
-            "longitude": 45.6330707,
+            "latitude": 40.7952729,
+            "longitude": 45.63306,
             "geocell": 4707456,
             "expando": {
                 "open_street_map_type": "node",
@@ -88090,15 +88186,15 @@
             "names": {
                 "az": "Düz Rəsullu"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 1237,
-            "latitude": 40.6589899,
-            "longitude": 45.4788644,
+            "latitude": 40.6600724,
+            "longitude": 45.47983,
             "geocell": 4703854,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 5670296715,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikidata_page_name": "Q4591761",
                 "wikipedia_pages": {
@@ -90443,8 +90539,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 40.9349163,
-            "longitude": 45.762504,
+            "latitude": 40.9336521,
+            "longitude": 45.7577628,
             "geocell": 4714657,
             "expando": {
                 "open_street_map_type": "node",
@@ -92261,6 +92357,35 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 6700332174,
+            "country": 31,
+            "level1area": [
+                "aztar"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Həsənqaya"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 40.3232637,
+            "longitude": 46.8440412,
+            "geocell": 4693068,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 6700332174,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5014313",
+                "wikipedia_pages": {
+                    "az": "Həsənqaya (Ağdərə)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 6700507323,
             "country": 31,
             "level1area": [
@@ -93592,6 +93717,32 @@
             "country": 31,
             "level1area": [
                 "azagm"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Təzəkənd"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 40.2226916,
+            "longitude": 47.061107,
+            "geocell": 4689470,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7208277746,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7208277746,
+            "country": 31,
+            "level1area": [
+                "aztar"
             ],
             "level2area": null,
             "names": {
@@ -97021,15 +97172,15 @@
             "names": {
                 "az": "Rəhimli"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
-            "latitude": 40.6621883,
-            "longitude": 45.4601279,
+            "latitude": 40.6622615,
+            "longitude": 45.4601386,
             "geocell": 4703854,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 7265579432,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -97047,15 +97198,15 @@
             "names": {
                 "az": "Hüseynqulular"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
-            "latitude": 40.6585422,
-            "longitude": 45.4663078,
+            "latitude": 40.6594538,
+            "longitude": 45.4683356,
             "geocell": 4703854,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 7265579433,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -97073,15 +97224,15 @@
             "names": {
                 "az": "Təkyemişan"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
-            "latitude": 40.663816,
-            "longitude": 45.4695693,
+            "latitude": 40.6645484,
+            "longitude": 45.4701594,
             "geocell": 4703854,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 7265579434,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -97099,15 +97250,15 @@
             "names": {
                 "az": "Qasımağalı"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
-            "latitude": 40.6150524,
-            "longitude": 45.4707226,
+            "latitude": 40.6123485,
+            "longitude": 45.4772135,
             "geocell": 4703854,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 7265587332,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -101369,15 +101520,15 @@
             "names": {
                 "az": "Nəsibli"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
-            "latitude": 40.6821713,
-            "longitude": 45.5109113,
+            "latitude": 40.6814919,
+            "longitude": 45.5101442,
             "geocell": 4703855,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 7331252720,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -101395,15 +101546,15 @@
             "names": {
                 "az": "Göyəbaxan"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
-            "latitude": 40.6775172,
-            "longitude": 45.5145986,
+            "latitude": 40.677444,
+            "longitude": 45.5145771,
             "geocell": 4703855,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 7331252721,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -101421,15 +101572,15 @@
             "names": {
                 "az": "Hüseynqulular"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
-            "latitude": 40.6741226,
-            "longitude": 45.4947193,
+            "latitude": 40.6743016,
+            "longitude": 45.4949124,
             "geocell": 4703854,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 7331252722,
-                "open_street_map_place": "village",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -101449,8 +101600,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 40.6711794,
-            "longitude": 45.5098023,
+            "latitude": 40.6712364,
+            "longitude": 45.5093088,
             "geocell": 4703855,
             "expando": {
                 "open_street_map_type": "node",
@@ -103028,6 +103179,32 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 7393793401,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 7394376932,
+            "country": 31,
+            "level1area": [
+                "azagm"
+            ],
+            "level2area": null,
+            "names": {
+                "az": "Qurdlar"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 39.9679878,
+            "longitude": 46.881178,
+            "geocell": 4678668,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 7394376932,
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
@@ -109420,6 +109597,7 @@
             "names": {
                 "az": "Kərkicahan",
                 "en": "Karkijahan",
+                "hy": "Կրկջահան",
                 "ru": "Кяркиджахан"
             },
             "place_type": 84,
@@ -109451,6 +109629,7 @@
             "names": {
                 "az": "Kərkicahan",
                 "en": "Karkijahan",
+                "hy": "Կրկջահան",
                 "ru": "Кяркиджахан"
             },
             "place_type": 84,

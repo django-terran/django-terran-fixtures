@@ -2,58 +2,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 11247038761,
-            "country": 484,
-            "level1area": [
-                "mxzac"
-            ],
-            "level2area": null,
-            "names": {
-                "es": "El Gachupín"
-            },
-            "place_type": 72,
-            "population": 17,
-            "latitude": 23.0027989,
-            "longitude": -102.5391517,
-            "geocell": 4068774,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 11247038761,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 11247038765,
-            "country": 484,
-            "level1area": [
-                "mxzac"
-            ],
-            "level2area": null,
-            "names": {
-                "es": "Santa Rita (Santa Rita de Casia)"
-            },
-            "place_type": 72,
-            "population": 41,
-            "latitude": 23.0454847,
-            "longitude": -102.6008522,
-            "geocell": 4068773,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 11247038765,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 11247038781,
             "country": 484,
             "level1area": [
@@ -82545,6 +82493,230 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 12175359984,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12184508051,
+            "country": 484,
+            "level1area": [
+                "mxchh"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": 25.7939071,
+            "longitude": -106.5936493,
+            "geocell": 4165934,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12184508051,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12184509497,
+            "country": 484,
+            "level1area": [
+                "mxchh"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": 26.4454883,
+            "longitude": -107.8674321,
+            "geocell": 4191121,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12184509497,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188708626,
+            "country": 484,
+            "level1area": [
+                "mxjal"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Chalacatepec"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 19.680222,
+            "longitude": -105.2602065,
+            "geocell": 3946347,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188708626,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12195730814,
+            "country": 484,
+            "level1area": [
+                "mxver"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": 20.3133315,
+            "longitude": -97.1341439,
+            "geocell": 3971628,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12195730814,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12195730815,
+            "country": 484,
+            "level1area": [
+                "mxver"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": 20.3149037,
+            "longitude": -97.1313531,
+            "geocell": 3971628,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12195730815,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12195730817,
+            "country": 484,
+            "level1area": [
+                "mxver"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": 20.313929,
+            "longitude": -97.1317578,
+            "geocell": 3971628,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12195730817,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12199479840,
+            "country": 484,
+            "level1area": [
+                "mxmex"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Las Ánimas Villejé"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 19.6927966,
+            "longitude": -99.8323114,
+            "geocell": 3946401,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12199479840,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12200323111,
+            "country": 484,
+            "level1area": [
+                "mxsin"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La escalera Pedregal del Valle"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 25.6351374,
+            "longitude": -108.4737346,
+            "geocell": 4162315,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12200323111,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12209211153,
+            "country": 484,
+            "level1area": [
+                "mxgro"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Delegación municipal Loc. Barranca Nopalera"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 17.265525,
+            "longitude": -98.764748,
+            "geocell": 3860012,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12209211153,
                 "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}

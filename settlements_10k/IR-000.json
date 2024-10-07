@@ -56,7 +56,7 @@
                 "lt": "Teheranas",
                 "lv": "Teherāna",
                 "mk": "Техеран",
-                "ml": "ടെഹ്റാന്",
+                "ml": "ടെഹ്റാൻ",
                 "mn": "Тегеран",
                 "mr": "तेहरान",
                 "ms": "Teheran",
@@ -237,6 +237,7 @@
                 "ar": "تبريز",
                 "az": "Təbriz",
                 "be": "Тэбрыз",
+                "bn": "তাবরিজ",
                 "ckb": "تەورێز",
                 "cs": "Tabríz",
                 "de": "Täbris",
@@ -292,6 +293,7 @@
             "names": {
                 "ar": "قزوين",
                 "be": "Казвін",
+                "bn": "কাজভিন",
                 "ckb": "قەزوین",
                 "cs": "Kazvín",
                 "de": "Kaswin",
@@ -344,6 +346,7 @@
             "level2area": null,
             "names": {
                 "ar": "شيراز",
+                "bn": "শিরাজ",
                 "ca": "Xiraz",
                 "ckb": "شیراز",
                 "cs": "Šíráz",
@@ -482,6 +485,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "কাহনুজ",
                 "en": "Kahnuj",
                 "fa": "کهنوج",
                 "fr": "Kahnuj",
@@ -516,6 +520,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "জাহেদান",
                 "ckb": "زاھیدان",
                 "cs": "Záhedán",
                 "de": "Zahedan",
@@ -643,6 +648,7 @@
                 "hr": "Bandar-e Anzali",
                 "ja": "バンダレ・アンザリー",
                 "ko": "반다르에안잘리",
+                "ml": "ബന്ദർ അൻസലി",
                 "ru": "Энзели"
             },
             "place_type": 67,
@@ -729,6 +735,7 @@
                 "hi": "नज़राबाद",
                 "hr": "Nazarabad",
                 "ja": "ナザラーバード",
+                "ml": "നസറാബാദ്",
                 "ru": "Назарабад"
             },
             "place_type": 67,
@@ -841,7 +848,7 @@
                 "hi": "आर्दबील",
                 "hr": "Ardabil",
                 "ja": "アルダビール",
-                "ml": "അർദബീൽ",
+                "ml": "അർദബിൽ",
                 "pl": "Ardabil",
                 "ru": "Ардебиль",
                 "sr": "Ардабил",
@@ -1584,6 +1591,7 @@
                 "hr": "Sari",
                 "ja": "サーリー",
                 "ko": "사리",
+                "ml": "സാറി",
                 "pl": "Sari",
                 "ru": "Сари",
                 "uk": "Сарі"
@@ -1750,6 +1758,7 @@
                 "ar": "بيرجند",
                 "az": "Bircənd",
                 "be": "Бірджэнд",
+                "bn": "বীরজান্দ",
                 "ca": "Birjand",
                 "ckb": "بیرجەند",
                 "cs": "Bírdžand",
@@ -1808,6 +1817,7 @@
             "names": {
                 "ar": "کرمان",
                 "be": "Керман",
+                "bn": "কেরমান",
                 "ckb": "کرمان",
                 "cs": "Kermán",
                 "de": "Kerman",
@@ -1860,6 +1870,7 @@
             "level2area": null,
             "names": {
                 "ar": "سيرجان",
+                "bn": "সীরজান",
                 "de": "Sirdschan",
                 "en": "Sirjan",
                 "eo": "Sirĝan",
@@ -1902,6 +1913,7 @@
             "level2area": null,
             "names": {
                 "ar": "بم",
+                "bn": "বাম",
                 "ckb": "بەم",
                 "de": "Bam",
                 "en": "Bam",
@@ -1945,6 +1957,7 @@
             "level2area": null,
             "names": {
                 "ar": "زابل",
+                "bn": "জাবল",
                 "ckb": "زابۆل",
                 "de": "Zabol",
                 "en": "Zabol",
@@ -2076,6 +2089,7 @@
             "level2area": null,
             "names": {
                 "ar": "بوشهر",
+                "bn": "বুুশেহ্‌র",
                 "ckb": "بووشێھر",
                 "cs": "Búšehr",
                 "de": "Buschehr",
@@ -2547,7 +2561,7 @@
                 "id": "Karaj",
                 "ja": "キャラジ",
                 "ko": "카라지",
-                "ml": "കരജ്",
+                "ml": "കറജ്",
                 "pl": "Karadż",
                 "pt": "Karaj",
                 "ru": "Кередж",
@@ -2586,6 +2600,7 @@
                 "fa": "قروه",
                 "fr": "Qorveh",
                 "ja": "ゴルヴェイェ・ダルジャズィーン",
+                "ml": "കോർവെഹ്",
                 "uk": "Корве"
             },
             "place_type": 84,
@@ -2648,6 +2663,7 @@
             "level2area": null,
             "names": {
                 "ar": "نيريز",
+                "de": "Neyris",
                 "en": "Neyriz",
                 "fa": "نی‌ریز",
                 "fr": "Neyriz",
@@ -2665,7 +2681,9 @@
                 "open_street_map_place": "town",
                 "postal_codes": [],
                 "wikidata_page_name": "Q888715",
-                "wikipedia_pages": {}
+                "wikipedia_pages": {
+                    "fa": "نی‌ریز"
+                }
             }
         }
     },
@@ -2679,7 +2697,7 @@
             ],
             "level2area": null,
             "names": {
-                "de": "Zargan",
+                "de": "Sargan",
                 "en": "Zarqan",
                 "fa": "زرقان",
                 "fr": "Zarqan",
@@ -2713,6 +2731,7 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Sarvestan",
                 "en": "Sarvestan",
                 "fa": "سروستان",
                 "fr": "Sarvestan",
@@ -2731,7 +2750,7 @@
                 "postal_codes": [],
                 "wikidata_page_name": "Q765487",
                 "wikipedia_pages": {
-                    "en": "Sarvestan"
+                    "fa": "سروستان"
                 }
             }
         }
@@ -2746,6 +2765,7 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Estahban",
                 "en": "Estahban",
                 "fa": "استهبان",
                 "fr": "Estahban",
@@ -2763,7 +2783,9 @@
                 "open_street_map_place": "town",
                 "postal_codes": [],
                 "wikidata_page_name": "Q888711",
-                "wikipedia_pages": {}
+                "wikipedia_pages": {
+                    "fa": "استهبان"
+                }
             }
         }
     },
@@ -2777,6 +2799,7 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Fasa",
                 "en": "Fasa",
                 "fa": "فسا",
                 "fr": "Fasa",
@@ -2795,7 +2818,9 @@
                 "open_street_map_place": "town",
                 "postal_codes": [],
                 "wikidata_page_name": "Q721034",
-                "wikipedia_pages": {}
+                "wikipedia_pages": {
+                    "fa": "فسا"
+                }
             }
         }
     },
@@ -2810,6 +2835,7 @@
             "level2area": null,
             "names": {
                 "ar": "داراب",
+                "de": "Darab",
                 "en": "Darab",
                 "es": "Darab",
                 "fa": "داراب",
@@ -2829,7 +2855,7 @@
                 "postal_codes": [],
                 "wikidata_page_name": "Q719977",
                 "wikipedia_pages": {
-                    "en": "Darab"
+                    "fa": "داراب"
                 }
             }
         }
@@ -2907,6 +2933,7 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Evaz",
                 "en": "Evaz",
                 "fa": "اوز",
                 "fr": "Evaz",
@@ -2924,7 +2951,9 @@
                 "open_street_map_place": "town",
                 "postal_codes": [],
                 "wikidata_page_name": "Q720652",
-                "wikipedia_pages": {}
+                "wikipedia_pages": {
+                    "fa": "اوز"
+                }
             }
         }
     },
@@ -2938,6 +2967,7 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Abadeh",
                 "en": "Abadeh",
                 "fa": "اباده",
                 "fr": "Abadeh",
@@ -2955,7 +2985,9 @@
                 "open_street_map_place": "town",
                 "postal_codes": [],
                 "wikidata_page_name": "Q192928",
-                "wikipedia_pages": {}
+                "wikipedia_pages": {
+                    "fa": "آباده"
+                }
             }
         }
     },
@@ -2969,6 +3001,7 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Lamerd",
                 "en": "Lamerd",
                 "fa": "لامرد",
                 "fr": "Lamerd",
@@ -2986,7 +3019,7 @@
                 "postal_codes": [],
                 "wikidata_page_name": "Q740660",
                 "wikipedia_pages": {
-                    "en": "Lamerd"
+                    "fa": "لامرد"
                 }
             }
         }
@@ -3162,6 +3195,7 @@
             "level2area": null,
             "names": {
                 "ar": "طبس",
+                "bn": "তাবাস",
                 "en": "Tabas",
                 "fa": "طبس",
                 "fr": "Tabas",
@@ -3344,6 +3378,7 @@
             "level2area": null,
             "names": {
                 "ar": "تشابهار",
+                "bn": "চাবাহার",
                 "ckb": "چابەھار",
                 "de": "Tschahbahar",
                 "en": "Chabahar",
@@ -3731,8 +3766,8 @@
             },
             "place_type": 67,
             "population": 48672,
-            "latitude": 36.4827556,
-            "longitude": 55.0010717,
+            "latitude": 36.4828385,
+            "longitude": 55.0010241,
             "geocell": 4552750,
             "expando": {
                 "open_street_map_type": "node",
@@ -3890,10 +3925,12 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "গারমসার",
                 "en": "Garmsar",
                 "fa": "گرمسار",
                 "fr": "Garmsar",
                 "ja": "ギャルムサール",
+                "ml": "ഗർംസാർ",
                 "ru": "Гермсар",
                 "uk": "Ґермсар"
             },
@@ -4059,9 +4096,10 @@
                 "fa": "نکا",
                 "fr": "Neka",
                 "ja": "ネカー",
+                "ml": "നെക്ക",
                 "ru": "Нека"
             },
-            "place_type": 84,
+            "place_type": 67,
             "population": 51000,
             "latitude": 36.6511824,
             "longitude": 53.2965182,
@@ -4069,7 +4107,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 338947993,
-                "open_street_map_place": "town",
+                "open_street_map_place": "city",
                 "postal_codes": [],
                 "wikidata_page_name": "Q531943",
                 "wikipedia_pages": {
@@ -4222,6 +4260,7 @@
             "level2area": null,
             "names": {
                 "ar": "جيروفت",
+                "bn": "জিরোফ্‌ত",
                 "de": "Dschiroft",
                 "en": "Jiroft",
                 "es": "Jiroft",
@@ -4262,6 +4301,7 @@
             "level2area": null,
             "names": {
                 "ar": "لار",
+                "de": "Lar",
                 "en": "Lar",
                 "fa": "لار",
                 "fr": "Lar",
@@ -4279,7 +4319,7 @@
                 "postal_codes": [],
                 "wikidata_page_name": "Q721029",
                 "wikipedia_pages": {
-                    "en": "Lar, Iran"
+                    "fa": "لار"
                 }
             }
         }
@@ -4294,6 +4334,7 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Gerasch",
                 "en": "Gerash",
                 "fa": "گراش",
                 "fr": "Gerash",
@@ -4406,6 +4447,7 @@
             "level2area": null,
             "names": {
                 "ar": "إيران شهر",
+                "bn": "ইরানশহর",
                 "de": "Iranschahr",
                 "en": "Iranshahr",
                 "es": "Iran Shahr",
@@ -4875,6 +4917,7 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Safaschahr",
                 "en": "Safashahr",
                 "fa": "صفاشهر",
                 "fr": "Safashahr",
@@ -4891,7 +4934,9 @@
                 "open_street_map_place": "town",
                 "postal_codes": [],
                 "wikidata_page_name": "Q888080",
-                "wikipedia_pages": {}
+                "wikipedia_pages": {
+                    "fa": "صفاشهر"
+                }
             }
         }
     },
@@ -4945,7 +4990,8 @@
                 "fa": "دامغان",
                 "fr": "Damghan",
                 "ja": "ダームガーン",
-                "ko": "담간"
+                "ko": "담간",
+                "ml": "ദാംഘാൻ"
             },
             "place_type": 84,
             "population": 57331,
@@ -5046,6 +5092,7 @@
                 "fa": "کرد کوی",
                 "fr": "Kordkuy",
                 "ja": "コルドクーイ",
+                "ml": "കുർദ്കുയ്",
                 "ru": "Кордкуй"
             },
             "place_type": 84,
@@ -5200,6 +5247,7 @@
             "level2area": null,
             "names": {
                 "ar": "خاش",
+                "bn": "খাশ",
                 "de": "Chasch",
                 "en": "Khash",
                 "es": "Khash",
@@ -5306,7 +5354,8 @@
                 "en": "Takestan",
                 "fa": "تاکستان",
                 "fr": "Takestan",
-                "ja": "ターケスターン"
+                "ja": "ターケスターン",
+                "ml": "താക്കിസ്ഥാൻ"
             },
             "place_type": 67,
             "population": 80000,
@@ -5371,7 +5420,7 @@
                 "eo": "Kaŝmaro",
                 "fa": "کاشمر",
                 "fr": "Kachmar",
-                "ja": "カーシュマル",
+                "ja": "カシュマール",
                 "ru": "Кашмер"
             },
             "place_type": 84,
@@ -5743,6 +5792,7 @@
                 "fa": "بندرگز",
                 "fr": "Bandar-e Gaz",
                 "ja": "バンダレ・ギャズ",
+                "ml": "ബന്ദർഗസ്",
                 "ru": "Бендер-Гез"
             },
             "place_type": 84,
@@ -6430,6 +6480,7 @@
                 "fa": "رامهرمز",
                 "fr": "Ramhormoz",
                 "ja": "ラームホルモズ",
+                "ml": "റാംഹോർമോസ്",
                 "ru": "Рамхормоз"
             },
             "place_type": 84,
@@ -6501,6 +6552,7 @@
                 "hr": "Haštgerd",
                 "it": "Hashtgerd",
                 "ja": "ハシュトゲルド",
+                "ml": "ഹഷ്തഗർദ്",
                 "ro": "Hashtgerd",
                 "ru": "Хештгерд",
                 "tg": "Ҳаштгирд",
@@ -6534,6 +6586,7 @@
             "level2area": null,
             "names": {
                 "ar": "فيروز آباد",
+                "de": "Firusabad",
                 "en": "Firuzabad",
                 "fa": "فیروزآباد",
                 "fr": "Firuzabad",
@@ -6551,7 +6604,7 @@
                 "postal_codes": [],
                 "wikidata_page_name": "Q720952",
                 "wikipedia_pages": {
-                    "en": "Firuzabad, Fars"
+                    "fa": "فیروزآباد"
                 }
             }
         }
@@ -6602,6 +6655,7 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Chondsch",
                 "en": "Khonj",
                 "fa": "خنج",
                 "fr": "Khonj",
@@ -6620,7 +6674,9 @@
                 "open_street_map_place": "town",
                 "postal_codes": [],
                 "wikidata_page_name": "Q720695",
-                "wikipedia_pages": {}
+                "wikipedia_pages": {
+                    "fa": "خنج"
+                }
             }
         }
     },
@@ -6634,6 +6690,7 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Soghad",
                 "en": "Soqad",
                 "fa": "صغاد",
                 "fr": "Soghad",
@@ -6651,7 +6708,9 @@
                 "open_street_map_place": "town",
                 "postal_codes": [],
                 "wikidata_page_name": "Q2631265",
-                "wikipedia_pages": {}
+                "wikipedia_pages": {
+                    "fa": "صغاد"
+                }
             }
         }
     },
@@ -6694,10 +6753,12 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Nurabad",
                 "en": "Nurabad Mamasani",
                 "fa": "نورآباد",
                 "fr": "Nurabad",
                 "ja": "ヌーラーバード",
+                "ml": "നൂറാബാദ്",
                 "ru": "Нурабад"
             },
             "place_type": 84,
@@ -6711,7 +6772,9 @@
                 "open_street_map_place": "town",
                 "postal_codes": [],
                 "wikidata_page_name": "Q719764",
-                "wikipedia_pages": {}
+                "wikipedia_pages": {
+                    "fa": "نورآباد (ممسنی)"
+                }
             }
         }
     },
@@ -6725,6 +6788,7 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Qaemiyeh",
                 "en": "Qaemiyeh",
                 "fa": "قائمیه",
                 "fr": "Qaemiyeh",
@@ -6743,7 +6807,7 @@
                 "postal_codes": [],
                 "wikidata_page_name": "Q2617059",
                 "wikipedia_pages": {
-                    "en": "Qaemiyeh"
+                    "fa": "قائمیه"
                 }
             }
         }
@@ -6819,6 +6883,7 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Saadat Schahr",
                 "en": "Saadat Shahr",
                 "fa": "سعادت شهر",
                 "ja": "サアーダトシャフル"
@@ -6833,7 +6898,10 @@
                 "open_street_map_id": 814909332,
                 "open_street_map_place": "town",
                 "postal_codes": [],
-                "wikipedia_pages": {}
+                "wikidata_page_name": "Q2617065",
+                "wikipedia_pages": {
+                    "fa": "سعادت‌شهر"
+                }
             }
         }
     },
@@ -6847,6 +6915,7 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Arsandschan",
                 "en": "Arsanjan",
                 "fa": "ارسنجان",
                 "fr": "Arsanjan",
@@ -6863,7 +6932,9 @@
                 "open_street_map_place": "town",
                 "postal_codes": [],
                 "wikidata_page_name": "Q2627738",
-                "wikipedia_pages": {}
+                "wikipedia_pages": {
+                    "fa": "ارسنجان"
+                }
             }
         }
     },
@@ -6878,7 +6949,7 @@
             "level2area": null,
             "names": {
                 "ar": "كازرون",
-                "de": "Kazerun",
+                "de": "Kaserun",
                 "en": "Kazerun",
                 "es": "Kazerun",
                 "et": "Kāzerūn",
@@ -6899,7 +6970,9 @@
                 "open_street_map_place": "town",
                 "postal_codes": [],
                 "wikidata_page_name": "Q721060",
-                "wikipedia_pages": {}
+                "wikipedia_pages": {
+                    "fa": "کازرون"
+                }
             }
         }
     },
@@ -6913,6 +6986,7 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Faraschband",
                 "en": "Farashband",
                 "fa": "فراشبند",
                 "fr": "Farashband",
@@ -6930,7 +7004,9 @@
                 "open_street_map_place": "town",
                 "postal_codes": [],
                 "wikidata_page_name": "Q2627749",
-                "wikipedia_pages": {}
+                "wikipedia_pages": {
+                    "fa": "فراشبند"
+                }
             }
         }
     },
@@ -7012,6 +7088,7 @@
                 "fr": "Aligudarz",
                 "hr": "Aligudarz",
                 "ja": "アリーグーダルズ",
+                "ml": "അലിഗുദർസ്",
                 "ru": "Элигудерз"
             },
             "place_type": 84,
@@ -7708,7 +7785,7 @@
                 "fa": "نهاوند",
                 "fr": "Nahavand",
                 "ja": "ナハーヴァンド",
-                "ml": "നഹാവന്ദ്",
+                "ml": "നഹാവന്ത്",
                 "ru": "Нехавенд",
                 "tr": "Nihâvend"
             },
@@ -7862,6 +7939,7 @@
             "level2area": null,
             "names": {
                 "ar": "سراوان",
+                "bn": "সারাওয়ান",
                 "en": "Saravan",
                 "fa": "سراوان",
                 "fr": "Saravan",
@@ -7996,6 +8074,7 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Ardakan",
                 "en": "Ardakan",
                 "fa": "اردکان",
                 "fr": "Ardakan"
@@ -8011,7 +8090,9 @@
                 "open_street_map_place": "town",
                 "postal_codes": [],
                 "wikidata_page_name": "Q2617100",
-                "wikipedia_pages": {}
+                "wikipedia_pages": {
+                    "fa": "اردکان (سپیدان)"
+                }
             }
         }
     },
@@ -9412,6 +9493,7 @@
                 "fa": "پردیس",
                 "fr": "Pardis",
                 "ja": "パラダイス",
+                "ml": "പർഡീസ്",
                 "ru": "Пардис"
             },
             "place_type": 67,
@@ -9443,7 +9525,8 @@
             "names": {
                 "en": "Baqershahr",
                 "fa": "باقرشهر",
-                "fr": "Baqershahr"
+                "fr": "Baqershahr",
+                "ml": "ബാഖർഷഹർ"
             },
             "place_type": 84,
             "population": 65388,
@@ -9511,7 +9594,8 @@
                 "fa": "مهستان",
                 "fr": "Mehestan",
                 "hr": "Mehestan",
-                "ja": "シャフレ・ジャディーデ・ハシュトゲルド"
+                "ja": "シャフレ・ジャディーデ・ハシュトゲルド",
+                "ml": "മെഹെസ്ഥാൻ"
             },
             "place_type": 67,
             "population": 42147,
@@ -11181,6 +11265,7 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Qir",
                 "en": "Qir",
                 "fa": "قیر",
                 "fr": "Qir",
@@ -11199,7 +11284,7 @@
                 "postal_codes": [],
                 "wikidata_page_name": "Q888955",
                 "wikipedia_pages": {
-                    "en": "Qir"
+                    "fa": "قیر (فارس)"
                 }
             }
         }
@@ -11850,6 +11935,7 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Hadschiabad",
                 "en": "Hajiabad",
                 "fa": "حاجی آباد",
                 "ja": "ハージーアーバード",
@@ -11867,7 +11953,7 @@
                 "postal_codes": [],
                 "wikidata_page_name": "Q888104",
                 "wikipedia_pages": {
-                    "en": "Hajiabad, Fars"
+                    "fa": "حاجی‌آباد (زرین‌دشت)"
                 }
             }
         }
@@ -12044,6 +12130,7 @@
             "names": {
                 "ar": "يزد",
                 "az": "Yəzd",
+                "bn": "ইয়াজ্‌দ",
                 "ca": "Iazd",
                 "ckb": "یەزد",
                 "cs": "Jazd",
@@ -12788,7 +12875,7 @@
                 "hi": "ईलाम",
                 "hr": "Ilam",
                 "ja": "イーラーム",
-                "ml": "ഈലാം",
+                "ml": "ഇലാം",
                 "pl": "Ilam",
                 "ru": "Илам",
                 "uk": "Ілам"
@@ -12821,6 +12908,7 @@
             "level2area": null,
             "names": {
                 "ar": "رفسنجان",
+                "bn": "রাফসানজান",
                 "de": "Rafsandschan",
                 "en": "Rafsanjan",
                 "es": "Rafsanjan",
@@ -13478,6 +13566,7 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Cherameh",
                 "en": "Kharameh",
                 "fa": "خرامه"
             },
@@ -13947,6 +14036,7 @@
                 "fa": "ملارد",
                 "fr": "Malard",
                 "hr": "Malard",
+                "ml": "മലാർദ്",
                 "ru": "Малар"
             },
             "place_type": 67,
@@ -14012,7 +14102,8 @@
                 "fa": "پاکدشت",
                 "fr": "Pakdasht",
                 "hr": "Pakdašt",
-                "ja": "パークダシュト"
+                "ja": "パークダシュト",
+                "ml": "പാക്ദഷ്ത്"
             },
             "place_type": 84,
             "population": 236319,
@@ -14161,6 +14252,7 @@
             "level2area": null,
             "names": {
                 "ar": "آستارا",
+                "bn": "আস্তারা",
                 "ckb": "ئاستارا",
                 "de": "Astara",
                 "en": "Astara",
@@ -14551,6 +14643,7 @@
             "level2area": null,
             "names": {
                 "ar": "جهرم",
+                "bn": "জাহরম",
                 "ckb": "جەھروم",
                 "de": "Dschahrom",
                 "en": "Jahrom",
@@ -14572,7 +14665,7 @@
                 "postal_codes": [],
                 "wikidata_page_name": "Q1020637",
                 "wikipedia_pages": {
-                    "ar": "جهرم"
+                    "fa": "جهرم"
                 }
             }
         }
@@ -14594,7 +14687,8 @@
                 "he": "וואראמין",
                 "hi": "वारमीन",
                 "hr": "Varamin",
-                "ja": "ヴァラーミーン"
+                "ja": "ヴァラーミーン",
+                "ml": "വരാമീൻ"
             },
             "place_type": 67,
             "population": 225628,
@@ -15395,6 +15489,7 @@
                 "en": "Mahalat",
                 "fa": "محلات",
                 "fr": "Mahallat",
+                "ml": "മഹല്ലത്ത്",
                 "ru": "Мехеллат"
             },
             "place_type": 84,
@@ -15591,6 +15686,7 @@
                 "fr": "Shahriar",
                 "hi": "शहरियार",
                 "hr": "Šahrijar",
+                "ml": "ഷഹ്രിയാർ",
                 "ru": "Шахрияр"
             },
             "place_type": 67,
@@ -15673,33 +15769,6 @@
                 "wikipedia_pages": {
                     "fa": "شال (بوئین‌زهرا)"
                 }
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 4400391126,
-            "country": 364,
-            "level1area": [
-                "ir08"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Dehbakry",
-                "fa": "ده بید"
-            },
-            "place_type": 86,
-            "population": 10726,
-            "latitude": 29.0514252,
-            "longitude": 57.9151832,
-            "geocell": 4286379,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 4400391126,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
             }
         }
     },
@@ -15853,7 +15922,8 @@
             "names": {
                 "en": "Baghestan",
                 "fa": "باغستان",
-                "fr": "Baghestan"
+                "fr": "Baghestan",
+                "ml": "ബാഗെസ്ഥാൻ"
             },
             "place_type": 67,
             "population": 83934,
@@ -16054,35 +16124,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 4458282490,
-            "country": 364,
-            "level1area": [
-                "ir22"
-            ],
-            "level2area": null,
-            "names": {
-                "fa": "خراجی"
-            },
-            "place_type": 86,
-            "population": 50000,
-            "latitude": 27.4017189,
-            "longitude": 57.2393984,
-            "geocell": 4228772,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 4458282490,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikidata_page_name": "Q5844085",
-                "wikipedia_pages": {
-                    "fa": "خراجی (رودان)"
-                }
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 4458282580,
             "country": 364,
             "level1area": [
@@ -16205,6 +16246,7 @@
                 "en": "Chahar Dangeh",
                 "fa": "چهاردانگه",
                 "fr": "Chahardangeh",
+                "ml": "ചഹാർദാംഗേ",
                 "ru": "Чехарданге"
             },
             "place_type": 67,
@@ -16512,6 +16554,7 @@
             "level2area": null,
             "names": {
                 "ar": "آراك",
+                "bn": "আরাক",
                 "ckb": "ئەراک",
                 "cs": "Arák",
                 "de": "Arak",
@@ -16556,6 +16599,7 @@
             "level2area": null,
             "names": {
                 "ar": "بندر عباس",
+                "bn": "বন্দর আব্বাস",
                 "ckb": "بەندەر عەباس",
                 "cs": "Bandar Abbás",
                 "de": "Bandar Abbas",
@@ -16736,6 +16780,7 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Kavar",
                 "en": "Kavar",
                 "fa": "کوار",
                 "fr": "Kavar",
@@ -16754,7 +16799,9 @@
                 "postal_codes": [],
                 "website": "http://baharekavar.ir",
                 "wikidata_page_name": "Q888418",
-                "wikipedia_pages": {}
+                "wikipedia_pages": {
+                    "fa": "کوار"
+                }
             }
         }
     },
@@ -16923,7 +16970,7 @@
             "level2area": null,
             "names": {
                 "ar": "إقليد",
-                "de": "Eglid",
+                "de": "Eghlid",
                 "en": "Eghlid",
                 "fa": "اقلید",
                 "fr": "Eqlid",
@@ -16941,7 +16988,7 @@
                 "postal_codes": [],
                 "wikidata_page_name": "Q720415",
                 "wikipedia_pages": {
-                    "en": "Eqlid"
+                    "fa": "اقلید"
                 }
             }
         }
@@ -17220,6 +17267,7 @@
                 "fr": "Qods",
                 "hi": "कोड्स",
                 "hr": "Kods",
+                "ml": "ഖുദ്‌സ്",
                 "ru": "Годс"
             },
             "place_type": 67,
@@ -17496,7 +17544,7 @@
                 "he": "אסלאמשהר",
                 "hi": "इस्लामशहर",
                 "hr": "Eslamšaher",
-                "ml": "ഇസ്ലാംശഹർ",
+                "ml": "ഇസ്ലാംഷഹർ",
                 "ru": "Исламшехр",
                 "tt": "Исламшәһр",
                 "ur": "اسلام‌شہر"
@@ -18060,6 +18108,7 @@
             "level2area": null,
             "names": {
                 "ar": "قم",
+                "bn": "কোম",
                 "ckb": "قوم",
                 "cs": "Qom",
                 "de": "Ghom",
@@ -18109,6 +18158,7 @@
             "names": {
                 "ar": "فردوس",
                 "az": "Firdovs",
+                "bn": "ফেরদৌস",
                 "ca": "Ferdows",
                 "ckb": "فێردۆس",
                 "de": "Ferdows",

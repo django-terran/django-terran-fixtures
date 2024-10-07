@@ -37524,5 +37524,57 @@
                 "wikipedia_pages": {}
             }
         }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11940448588,
+            "country": 600,
+            "level1area": [
+                "py1"
+            ],
+            "level2area": null,
+            "names": {
+                "gn": "Concepción - Yby Yau"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": -22.966474,
+            "longitude": -56.544764,
+            "geocell": 2413234,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11940448588,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 11940448589,
+            "country": 600,
+            "level1area": [
+                "py1"
+            ],
+            "level2area": null,
+            "names": {
+                "gn": "Concepción - Yby Yau"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": -22.9670957,
+            "longitude": -56.543689,
+            "geocell": 2413234,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 11940448589,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
     }
 ]

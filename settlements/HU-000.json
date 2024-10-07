@@ -291,6 +291,7 @@
             ],
             "level2area": null,
             "names": {
+                "bs": "Pečuh",
                 "cs": "Pětikostelí",
                 "de": "Fünfkirchen",
                 "hr": "Pečuh",
@@ -609,7 +610,7 @@
             "names": {
                 "de": "Ratskoslar",
                 "hu": "Egyházaskozár",
-                "sr": "Еђхазашкозар"
+                "sr": "Српски Козар"
             },
             "place_type": 86,
             "population": 673,
@@ -37095,7 +37096,7 @@
                 "hr": "Mečka",
                 "hu": "Erdősmecske",
                 "ru": "Эрдёшмечке",
-                "sr": "Ердешмечке"
+                "sr": "Српска Мечка"
             },
             "place_type": 86,
             "population": 304,
@@ -37310,7 +37311,7 @@
             "level2area": null,
             "names": {
                 "hu": "Görcsönydoboka",
-                "sr": "Герчењдобока"
+                "sr": "Српски Гарчин"
             },
             "place_type": 86,
             "population": 329,
@@ -37342,7 +37343,7 @@
                 "hr": "Šumberak",
                 "hu": "Somberek",
                 "ru": "Шомберек",
-                "sr": "Шомберек"
+                "sr": "Шумберак"
             },
             "place_type": 86,
             "population": 1318,
@@ -40243,7 +40244,7 @@
                 "de": "Tiedisch",
                 "hr": "Titoš",
                 "hu": "Töttös",
-                "sr": "Тетеш"
+                "sr": "Српски Титош"
             },
             "place_type": 86,
             "population": 535,
@@ -42266,7 +42267,7 @@
             "level2area": null,
             "names": {
                 "hu": "Pécsudvard",
-                "sr": "Печудвард"
+                "sr": "Удварац"
             },
             "place_type": 86,
             "population": 767,
@@ -48587,7 +48588,7 @@
             "names": {
                 "hr": "Iločac",
                 "hu": "Illocska",
-                "sr": "Илочка"
+                "sr": "Илочац"
             },
             "place_type": 86,
             "population": 226,
@@ -48801,7 +48802,7 @@
                 "hr": "Mađarbolj",
                 "hu": "Magyarbóly",
                 "ru": "Мадьярбой",
-                "sr": "Мађарбољ"
+                "sr": "Мађарбоја"
             },
             "place_type": 86,
             "population": 894,
@@ -48897,7 +48898,7 @@
             "level2area": null,
             "names": {
                 "hu": "Ivándárda",
-                "sr": "Ивандарда"
+                "sr": "Иванда"
             },
             "place_type": 86,
             "population": 195,
@@ -49121,7 +49122,7 @@
                 "de": "Seike",
                 "hr": "Sajka",
                 "hu": "Szajk",
-                "sr": "Сајк"
+                "sr": "Салка"
             },
             "place_type": 86,
             "population": 758,
@@ -49426,7 +49427,7 @@
                 "de": "Litowr",
                 "hr": "Litoba",
                 "hu": "Liptód",
-                "sr": "Липтод"
+                "sr": "Литоба"
             },
             "place_type": 86,
             "population": 186,
@@ -49549,7 +49550,7 @@
                 "hr": "Idoš",
                 "hu": "Hidas",
                 "ru": "Хидаш",
-                "sr": "Хидаш"
+                "sr": "Српски Хидош"
             },
             "place_type": 86,
             "population": 1834,
@@ -49729,7 +49730,7 @@
             "level2area": null,
             "names": {
                 "hu": "Kisbudmér",
-                "sr": "Кишбудмер"
+                "sr": "Мали Будмир"
             },
             "place_type": 86,
             "population": 95,
@@ -49883,7 +49884,7 @@
                 "de": "Großbuttmer",
                 "hr": "Veliki Budmir",
                 "hu": "Nagybudmér",
-                "sr": "Нађбудмер"
+                "sr": "Велики Будмир"
             },
             "place_type": 86,
             "population": 161,
@@ -88094,8 +88095,8 @@
             },
             "place_type": 86,
             "population": 1470,
-            "latitude": 47.0820136,
-            "longitude": 18.0817311,
+            "latitude": 47.0820574,
+            "longitude": 18.0814079,
             "geocell": 4933980,
             "expando": {
                 "open_street_map_type": "node",
@@ -110625,7 +110626,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Zsófiapuszta"
+                "hu": "Zsófiapuszta",
+                "sr": "Жофијапуста"
             },
             "place_type": 72,
             "population": 0,
@@ -116556,7 +116558,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Újtelep"
+                "hu": "Újtelep",
+                "sr": "Ујтелеп"
             },
             "place_type": 72,
             "population": 0,
@@ -116582,7 +116585,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Póstelek"
+                "hu": "Póstelek",
+                "sr": "Поштелек"
             },
             "place_type": 72,
             "population": 0,
@@ -117759,7 +117763,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Nagygyanté"
+                "hu": "Nagygyanté",
+                "sr": "Нађђанте"
             },
             "place_type": 72,
             "population": 0,
@@ -117925,7 +117930,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Pusztataskony"
+                "hu": "Pusztataskony",
+                "sr": "Пустаташкоњ"
             },
             "place_type": 72,
             "population": 0,
@@ -117951,7 +117957,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Dinnyelapos"
+                "hu": "Dinnyelapos",
+                "sr": "Дињелапош"
             },
             "place_type": 72,
             "population": 0,
@@ -118036,7 +118043,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Paptelek"
+                "hu": "Paptelek",
+                "sr": "Паптелек"
             },
             "place_type": 72,
             "population": 0,
@@ -118062,7 +118070,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Tompahát-Újfalu"
+                "hu": "Tompahát-Újfalu",
+                "sr": "Томпахат-Ујфалу"
             },
             "place_type": 72,
             "population": 0,
@@ -118306,7 +118315,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Nagyzomlin"
+                "hu": "Nagyzomlin",
+                "sr": "Нађзомлин"
             },
             "place_type": 72,
             "population": 0,
@@ -118418,7 +118428,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Dádpuszta"
+                "hu": "Dádpuszta",
+                "sr": "Дадпуста"
             },
             "place_type": 72,
             "population": 0,
@@ -118473,7 +118484,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Ballószeg"
+                "hu": "Ballószeg",
+                "sr": "Балосег"
             },
             "place_type": 72,
             "population": 0,
@@ -118526,7 +118538,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Tökfalu"
+                "hu": "Tökfalu",
+                "sr": "Текфалу"
             },
             "place_type": 72,
             "population": 0,
@@ -118660,7 +118673,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Alsómesterszállás"
+                "hu": "Alsómesterszállás",
+                "sr": "Алшомештерсалаш"
             },
             "place_type": 72,
             "population": 0,
@@ -118740,7 +118754,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Barta"
+                "hu": "Barta",
+                "sr": "Барта"
             },
             "place_type": 72,
             "population": 0,
@@ -118766,7 +118781,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Pusztaszakállas"
+                "hu": "Pusztaszakállas",
+                "sr": "Пустасакалаш"
             },
             "place_type": 72,
             "population": 0,
@@ -118792,7 +118808,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Csorba"
+                "hu": "Csorba",
+                "sr": "Чорба"
             },
             "place_type": 72,
             "population": 0,
@@ -118818,7 +118835,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Póhalom"
+                "hu": "Póhalom",
+                "sr": "Похалом"
             },
             "place_type": 72,
             "population": 0,
@@ -118844,7 +118862,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Liszkó"
+                "hu": "Liszkó",
+                "sr": "Лиско"
             },
             "place_type": 72,
             "population": 0,
@@ -119293,7 +119312,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Báriuspad"
+                "hu": "Báriuspad",
+                "sr": "Бариушпад"
             },
             "place_type": 72,
             "population": 0,
@@ -119649,7 +119669,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Ráróspuszta"
+                "hu": "Ráróspuszta",
+                "sr": "Рарошпуста"
             },
             "place_type": 72,
             "population": 0,
@@ -119919,7 +119940,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Pogonypuszta Soldostelep"
+                "hu": "Pogonypuszta Soldostelep",
+                "sr": "Погоњпуста Шолдоштелеп"
             },
             "place_type": 72,
             "population": 0,
@@ -120107,7 +120129,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Körmösdpuszta"
+                "hu": "Körmösdpuszta",
+                "sr": "Кермешдпуста"
             },
             "place_type": 72,
             "population": 0,
@@ -120474,7 +120497,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Alsóvadács"
+                "hu": "Alsóvadács",
+                "sr": "Алшовадач"
             },
             "place_type": 72,
             "population": 0,
@@ -120608,7 +120632,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Hosszú-hegy"
+                "hu": "Hosszú-hegy",
+                "sr": "Хошсу-хеђ"
             },
             "place_type": 72,
             "population": 0,
@@ -120829,7 +120854,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Üdülőtelep"
+                "hu": "Üdülőtelep",
+                "sr": "Идилетелеп"
             },
             "place_type": 72,
             "population": 0,
@@ -121346,7 +121372,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Jávorkút"
+                "hu": "Jávorkút",
+                "sr": "Јаворкут"
             },
             "place_type": 72,
             "population": 0,
@@ -121511,7 +121538,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Foktő-Kisfoktő"
+                "hu": "Foktő-Kisfoktő",
+                "sr": "Фокте-Кишфокте"
             },
             "place_type": 72,
             "population": 0,
@@ -121537,7 +121565,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Boglyasi szőlőhegy"
+                "hu": "Boglyasi szőlőhegy",
+                "sr": "Богљаши селехеђ"
             },
             "place_type": 72,
             "population": 0,
@@ -121564,7 +121593,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Bedepuszta"
+                "hu": "Bedepuszta",
+                "sr": "Бедепуста"
             },
             "place_type": 72,
             "population": 0,
@@ -121618,7 +121648,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Ószőlő"
+                "hu": "Ószőlő",
+                "sr": "Оселе"
             },
             "place_type": 72,
             "population": 0,
@@ -122214,7 +122245,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Görösgal"
+                "hu": "Görösgal",
+                "sr": "Герешгал"
             },
             "place_type": 72,
             "population": 0,
@@ -122240,7 +122272,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Albertakna"
+                "hu": "Albertakna",
+                "sr": "Албертакна"
             },
             "place_type": 72,
             "population": 0,
@@ -122267,7 +122300,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Rauakna"
+                "hu": "Rauakna",
+                "sr": "Рауакна"
             },
             "place_type": 72,
             "population": 0,
@@ -122294,7 +122328,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Baksaháza"
+                "hu": "Baksaháza",
+                "sr": "Бакшахаза"
             },
             "place_type": 72,
             "population": 0,
@@ -122402,7 +122437,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Fáspuszta"
+                "hu": "Fáspuszta",
+                "sr": "Фашпуста"
             },
             "place_type": 72,
             "population": 0,
@@ -122482,7 +122518,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Újtelep"
+                "hu": "Újtelep",
+                "sr": "Ујтелеп"
             },
             "place_type": 72,
             "population": 0,
@@ -122508,7 +122545,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Béketelep"
+                "hu": "Béketelep",
+                "sr": "Бекетелеп"
             },
             "place_type": 72,
             "population": 0,
@@ -122562,7 +122600,8 @@
             "level2area": null,
             "names": {
                 "de": "Galine",
-                "hu": "Katalin-major"
+                "hu": "Katalin-major",
+                "sr": "Каталин-мајор"
             },
             "place_type": 72,
             "population": 0,
@@ -122588,7 +122627,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Jánosmajor"
+                "hu": "Jánosmajor",
+                "sr": "Јаношмајор"
             },
             "place_type": 72,
             "population": 0,
@@ -122614,7 +122654,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Amáliatelep"
+                "hu": "Amáliatelep",
+                "sr": "Амалијателеп"
             },
             "place_type": 72,
             "population": 0,
@@ -122640,7 +122681,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Felsőtelep"
+                "hu": "Felsőtelep",
+                "sr": "Фелшетелеп"
             },
             "place_type": 72,
             "population": 0,
@@ -122914,7 +122956,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Selymes"
+                "hu": "Selymes",
+                "sr": "Шељмеш"
             },
             "place_type": 72,
             "population": 0,
@@ -123076,7 +123119,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Mátracserpuszta"
+                "hu": "Mátracserpuszta",
+                "sr": "Матрачерпуста"
             },
             "place_type": 72,
             "population": 0,
@@ -123393,7 +123437,9 @@
                 "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "url": "http://turistautak.hu/poi.php?id=162926",
-                "wikipedia_pages": {}
+                "wikipedia_pages": {
+                    "hu": "Országos Nép- és Családvédelmi Alap"
+                }
             }
         }
     },
@@ -123463,7 +123509,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Máriatelep"
+                "hu": "Máriatelep",
+                "sr": "Маријателеп"
             },
             "place_type": 72,
             "population": 0,
@@ -123490,7 +123537,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Bikazug"
+                "hu": "Bikazug",
+                "sr": "Биказуг"
             },
             "place_type": 72,
             "population": 0,
@@ -123517,7 +123565,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Furugy"
+                "hu": "Furugy",
+                "sr": "Фуруђ"
             },
             "place_type": 72,
             "population": 0,
@@ -123628,7 +123677,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Tőserdő"
+                "hu": "Tőserdő",
+                "sr": "Тешерде"
             },
             "place_type": 72,
             "population": 0,
@@ -123708,7 +123758,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Mácsa szállás"
+                "hu": "Mácsa szállás",
+                "sr": "Мача салаш"
             },
             "place_type": 72,
             "population": 0,
@@ -124088,7 +124139,8 @@
             "level2area": null,
             "names": {
                 "hu": "Benczúrfalva",
-                "sk": "Doľany"
+                "sk": "Doľany",
+                "sr": "Бенчурфалва"
             },
             "place_type": 72,
             "population": 0,
@@ -125062,7 +125114,8 @@
             "level2area": null,
             "names": {
                 "hu": "Kisgéc",
-                "sk": "Malá Géc"
+                "sk": "Malá Géc",
+                "sr": "Кишгец"
             },
             "place_type": 72,
             "population": 0,
@@ -125088,7 +125141,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Lászlóvölgypuszta"
+                "hu": "Lászlóvölgypuszta",
+                "sr": "Ласловелђпуста"
             },
             "place_type": 72,
             "population": 0,
@@ -125114,7 +125168,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Marakodipuszta"
+                "hu": "Marakodipuszta",
+                "sr": "Маракодипуста"
             },
             "place_type": 72,
             "population": 0,
@@ -125308,7 +125363,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Templomos"
+                "hu": "Templomos",
+                "sr": "Темпломош"
             },
             "place_type": 72,
             "population": 0,
@@ -125712,7 +125768,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Félixháza"
+                "hu": "Félixháza",
+                "sr": "Феликсхаза"
             },
             "place_type": 72,
             "population": 0,
@@ -125738,7 +125795,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Tételhegy"
+                "hu": "Tételhegy",
+                "sr": "Тетелхеђ"
             },
             "place_type": 72,
             "population": 0,
@@ -126304,7 +126362,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Alatka"
+                "hu": "Alatka",
+                "sr": "Алатка"
             },
             "place_type": 72,
             "population": 0,
@@ -126330,7 +126389,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Bernáthegy"
+                "hu": "Bernáthegy",
+                "sr": "Бернатхеђ"
             },
             "place_type": 72,
             "population": 0,
@@ -126410,7 +126470,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Szécsénykert"
+                "hu": "Szécsénykert",
+                "sr": "Сечењкерт"
             },
             "place_type": 72,
             "population": 0,
@@ -126869,7 +126930,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Motyózug"
+                "hu": "Motyózug",
+                "sr": "Мођозуг"
             },
             "place_type": 72,
             "population": 0,
@@ -126976,7 +127038,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Balázspuszta"
+                "hu": "Balázspuszta",
+                "sr": "Балажпуста"
             },
             "place_type": 72,
             "population": 0,
@@ -127029,7 +127092,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Csorna"
+                "hu": "Csorna",
+                "sr": "Чорна"
             },
             "place_type": 72,
             "population": 0,
@@ -127300,7 +127364,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Gyilkos"
+                "hu": "Gyilkos",
+                "sr": "Ђилкош"
             },
             "place_type": 72,
             "population": 0,
@@ -127326,7 +127391,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Szilvás-tető"
+                "hu": "Szilvás-tető",
+                "sr": "Силваш-тете"
             },
             "place_type": 72,
             "population": 0,
@@ -127379,7 +127445,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Szabadságtelep"
+                "hu": "Szabadságtelep",
+                "sr": "Сабадшагтелеп"
             },
             "place_type": 72,
             "population": 0,
@@ -127405,7 +127472,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Nagymajor (rabgazdaság)"
+                "hu": "Nagymajor (rabgazdaság)",
+                "sr": "Нађмајор (рабгаздашаг)"
             },
             "place_type": 72,
             "population": 0,
@@ -127457,7 +127525,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Belső-Ecser"
+                "hu": "Belső-Ecser",
+                "sr": "Белше-Ечер"
             },
             "place_type": 72,
             "population": 0,
@@ -127810,7 +127879,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Szikra-Oncsa"
+                "hu": "Szikra-Oncsa",
+                "sr": "Сикра-Онча"
             },
             "place_type": 72,
             "population": 0,
@@ -127822,7 +127892,9 @@
                 "open_street_map_id": 5962960632,
                 "open_street_map_place": "hamlet",
                 "postal_codes": [],
-                "wikipedia_pages": {}
+                "wikipedia_pages": {
+                    "hu": "Országos Nép- és Családvédelmi Alap"
+                }
             }
         }
     },
@@ -127863,7 +127935,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Kisnyék"
+                "hu": "Kisnyék",
+                "sr": "Кишњек"
             },
             "place_type": 72,
             "population": 0,
@@ -127970,7 +128043,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Munkástelep"
+                "hu": "Munkástelep",
+                "sr": "Мункаштелеп"
             },
             "place_type": 72,
             "population": 0,
@@ -128160,7 +128234,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Dobaipuszta"
+                "hu": "Dobaipuszta",
+                "sr": "Добаипуста"
             },
             "place_type": 72,
             "population": 0,
@@ -128186,7 +128261,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Kótpuszta"
+                "hu": "Kótpuszta",
+                "sr": "Котпуста"
             },
             "place_type": 72,
             "population": 0,
@@ -128347,7 +128423,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Ceglédpuszta"
+                "hu": "Ceglédpuszta",
+                "sr": "Цегледпуста"
             },
             "place_type": 72,
             "population": 0,
@@ -128373,7 +128450,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Cseresznyés"
+                "hu": "Cseresznyés",
+                "sr": "Чересњеш"
             },
             "place_type": 72,
             "population": 0,
@@ -128702,7 +128780,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Kisrét"
+                "hu": "Kisrét",
+                "sr": "Кишрет"
             },
             "place_type": 72,
             "population": 0,
@@ -129027,7 +129106,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Kurjantó"
+                "hu": "Kurjantó",
+                "sr": "Курјанто"
             },
             "place_type": 72,
             "population": 0,
@@ -129107,7 +129187,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Szentbenedektanya"
+                "hu": "Szentbenedektanya",
+                "sr": "Сентбенедектања"
             },
             "place_type": 72,
             "population": 0,
@@ -129214,7 +129295,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Újtelep"
+                "hu": "Újtelep",
+                "sr": "Ујтелеп"
             },
             "place_type": 72,
             "population": 0,
@@ -129374,7 +129456,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Gerenyáspuszta"
+                "hu": "Gerenyáspuszta",
+                "sr": "Герењашпуста"
             },
             "place_type": 72,
             "population": 0,
@@ -129508,7 +129591,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Szappanoszug"
+                "hu": "Szappanoszug",
+                "sr": "Сапаносуг"
             },
             "place_type": 72,
             "population": 0,
@@ -129672,7 +129756,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Tőrei tanyacsoport"
+                "hu": "Tőrei tanyacsoport",
+                "sr": "Тереи тањачопорт"
             },
             "place_type": 72,
             "population": 0,
@@ -129752,7 +129837,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Kisbátori tanya"
+                "hu": "Kisbátori tanya",
+                "sr": "Кишбатори тања"
             },
             "place_type": 72,
             "population": 0,
@@ -129778,7 +129864,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Bányatelep"
+                "hu": "Bányatelep",
+                "sr": "Бањателеп"
             },
             "place_type": 72,
             "population": 0,
@@ -130154,7 +130241,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Háromhányás"
+                "hu": "Háromhányás",
+                "sr": "Харомхањаш"
             },
             "place_type": 72,
             "population": 0,
@@ -130207,7 +130295,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Lángos-lakótelep"
+                "hu": "Lángos-lakótelep",
+                "sr": "Лангош-лакотелеп"
             },
             "place_type": 72,
             "population": 0,
@@ -130287,7 +130376,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Monoriugarok"
+                "hu": "Monoriugarok",
+                "sr": "Монориугарок"
             },
             "place_type": 72,
             "population": 0,
@@ -130313,7 +130403,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Orosházitanyák"
+                "hu": "Orosházitanyák",
+                "sr": "Орошхазитањак"
             },
             "place_type": 72,
             "population": 0,
@@ -130586,7 +130677,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Kocsorhegy"
+                "hu": "Kocsorhegy",
+                "sr": "Кочорхеђ"
             },
             "place_type": 72,
             "population": 0,
@@ -130612,7 +130704,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Szobokpuszta"
+                "hu": "Szobokpuszta",
+                "sr": "Собокпуста"
             },
             "place_type": 72,
             "population": 4,
@@ -130664,7 +130757,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Nyírjespuszta"
+                "hu": "Nyírjespuszta",
+                "sr": "Њирјешпуста"
             },
             "place_type": 72,
             "population": 18,
@@ -130690,7 +130784,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Homokiszőlők"
+                "hu": "Homokiszőlők",
+                "sr": "Хомокиселек"
             },
             "place_type": 72,
             "population": 32,
@@ -130716,7 +130811,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Kincsempuszta"
+                "hu": "Kincsempuszta",
+                "sr": "Кинчемпуста"
             },
             "place_type": 72,
             "population": 0,
@@ -130742,7 +130838,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Galibapuszta"
+                "hu": "Galibapuszta",
+                "sr": "Галибапуста"
             },
             "place_type": 72,
             "population": 0,
@@ -130906,7 +131003,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Kispáhi"
+                "hu": "Kispáhi",
+                "sr": "Кишпахи"
             },
             "place_type": 72,
             "population": 0,
@@ -130932,7 +131030,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Szúnyogpuszta"
+                "hu": "Szúnyogpuszta",
+                "sr": "Суњогпуста"
             },
             "place_type": 72,
             "population": 62,
@@ -130990,7 +131089,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Matyótelep"
+                "hu": "Matyótelep",
+                "sr": "Маћотелеп"
             },
             "place_type": 72,
             "population": 0,
@@ -131315,7 +131415,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Péliföldszentkereszt"
+                "hu": "Péliföldszentkereszt",
+                "sr": "Пелифелдсенткерест"
             },
             "place_type": 72,
             "population": 0,
@@ -131509,7 +131610,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Falutelep"
+                "hu": "Falutelep",
+                "sr": "Фалутелеп"
             },
             "place_type": 72,
             "population": 0,
@@ -131535,7 +131637,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Erdőszéplak"
+                "hu": "Erdőszéplak",
+                "sr": "Ердесеплак"
             },
             "place_type": 72,
             "population": 0,
@@ -131642,7 +131745,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Jánosakna"
+                "hu": "Jánosakna",
+                "sr": "Јаношакна"
             },
             "place_type": 72,
             "population": 0,
@@ -131830,7 +131934,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Dallapuszta"
+                "hu": "Dallapuszta",
+                "sr": "Далапуста"
             },
             "place_type": 72,
             "population": 0,
@@ -132018,7 +132123,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Hard"
+                "hu": "Hard",
+                "sr": "Хард"
             },
             "place_type": 72,
             "population": 0,
@@ -132260,7 +132366,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Alsómóricgát"
+                "hu": "Alsómóricgát",
+                "sr": "Алшоморицгат"
             },
             "place_type": 72,
             "population": 0,
@@ -132691,7 +132798,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Lókos"
+                "hu": "Lókos",
+                "sr": "Локош"
             },
             "place_type": 72,
             "population": 0,
@@ -133583,7 +133691,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Jászkisér-Szellőhát"
+                "hu": "Jászkisér-Szellőhát",
+                "sr": "Јаскишер-Селехат"
             },
             "place_type": 72,
             "population": 0,
@@ -133690,7 +133799,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Kisbugac"
+                "hu": "Kisbugac",
+                "sr": "Кишбугац"
             },
             "place_type": 72,
             "population": 0,
@@ -133716,7 +133826,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Steigervald tanya"
+                "hu": "Steigervald tanya",
+                "sr": "Штејгервалд тања"
             },
             "place_type": 72,
             "population": 0,
@@ -133771,7 +133882,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Kisalpár"
+                "hu": "Kisalpár",
+                "sr": "Кишалпар"
             },
             "place_type": 72,
             "population": 0,
@@ -133797,7 +133909,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Felsőhangony"
+                "hu": "Felsőhangony",
+                "sr": "Фелшехангоњ"
             },
             "place_type": 72,
             "population": 0,
@@ -133823,7 +133936,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Alsóhangony"
+                "hu": "Alsóhangony",
+                "sr": "Алшохангоњ"
             },
             "place_type": 72,
             "population": 0,
@@ -134118,7 +134232,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Fehérhát"
+                "hu": "Fehérhát",
+                "sr": "Фехерхат"
             },
             "place_type": 72,
             "population": 0,
@@ -134144,7 +134259,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Hosszúfok"
+                "hu": "Hosszúfok",
+                "sr": "Хошсуфок"
             },
             "place_type": 72,
             "population": 0,
@@ -134304,7 +134420,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Kerekitelep"
+                "hu": "Kerekitelep",
+                "sr": "Керекителеп"
             },
             "place_type": 72,
             "population": 0,
@@ -134413,7 +134530,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Öreg szőlő"
+                "hu": "Öreg szőlő",
+                "sr": "Ерег селе"
             },
             "place_type": 72,
             "population": 0,
@@ -134794,7 +134912,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Szilaspuszta"
+                "hu": "Szilaspuszta",
+                "sr": "Силашпуста"
             },
             "place_type": 72,
             "population": 0,
@@ -135578,7 +135697,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Jégvermikert"
+                "hu": "Jégvermikert",
+                "sr": "Јегвермикерт"
             },
             "place_type": 72,
             "population": 0,
@@ -135604,7 +135724,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Nagykert"
+                "hu": "Nagykert",
+                "sr": "Нађкерт"
             },
             "place_type": 72,
             "population": 0,
@@ -135630,7 +135751,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Malomasszonykert"
+                "hu": "Malomasszonykert",
+                "sr": "Маломашсоњкерт"
             },
             "place_type": 72,
             "population": 0,
@@ -135656,7 +135778,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Kóróssziget"
+                "hu": "Kóróssziget",
+                "sr": "Корошсигет"
             },
             "place_type": 72,
             "population": 0,
@@ -135736,7 +135859,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Dobapuszta"
+                "hu": "Dobapuszta",
+                "sr": "Добапуста"
             },
             "place_type": 72,
             "population": 0,
@@ -135843,7 +135967,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Pálosszentkút"
+                "hu": "Pálosszentkút",
+                "sr": "Палошсенткут"
             },
             "place_type": 72,
             "population": 0,
@@ -135871,7 +135996,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Asszonyfa"
+                "hu": "Asszonyfa",
+                "sr": "Ашсоњфа"
             },
             "place_type": 72,
             "population": 0,
@@ -135897,7 +136023,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Tiborszeg"
+                "hu": "Tiborszeg",
+                "sr": "Тиборсег"
             },
             "place_type": 72,
             "population": 0,
@@ -135923,7 +136050,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Domjánszeg"
+                "hu": "Domjánszeg",
+                "sr": "Домјансег"
             },
             "place_type": 72,
             "population": 0,
@@ -135949,7 +136077,8 @@
             ],
             "level2area": null,
             "names": {
-                "hu": "Kisszeg"
+                "hu": "Kisszeg",
+                "sr": "Кишсег"
             },
             "place_type": 72,
             "population": 0,

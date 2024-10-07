@@ -1359,12 +1359,15 @@
             "names": {
                 "ar": "شفا عمرو",
                 "de": "Schefar’am",
+                "el": "Σφαράμ",
                 "en": "Shefaram",
                 "es": "Shefa-'Amr",
                 "fr": "Shefa'ram",
                 "he": "שפרעם",
+                "hr": "Šefa Amr",
                 "ml": "ഷെഫാറാം",
                 "ru": "Шефарам",
+                "tr": "Şefa Amr",
                 "uk": "Шефарам"
             },
             "place_type": 67,
@@ -7091,7 +7094,7 @@
                 "eu": "Tel Aviv",
                 "fi": "Tel Aviv",
                 "fr": "Tel Aviv",
-                "he": "תל־אביב–יפו",
+                "he": "תל אביב–יפו",
                 "hi": "तेल अविव",
                 "hr": "Tel Aviv",
                 "hy": "Թել Ավիվ",
@@ -12269,12 +12272,16 @@
             ],
             "level2area": null,
             "names": {
+                "ar": "حتسور هجليليت",
                 "cs": "Chacor ha-Glilit",
+                "de": "Hazor HaGlilit",
                 "en": "Hatzor HaGlilit",
                 "fr": "Hatzor-Haglilit",
                 "he": "חצור הגלילית",
+                "hr": "Hacor HaGlilit",
                 "ml": "ഹറ്റ്സോർ ഹഗലീലിത്ത്",
                 "ru": "Хацор-ха-Глилит",
+                "tr": "Hazor HaGelilit",
                 "ur": "حاصور ہگلیلیلت"
             },
             "place_type": 84,
@@ -21961,7 +21968,9 @@
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikidata_page_name": "Q2613046",
-                "wikipedia_pages": {}
+                "wikipedia_pages": {
+                    "he": "נופך"
+                }
             }
         }
     },
@@ -37169,8 +37178,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 30.4915764,
-            "longitude": 35.1662039,
+            "latitude": 30.4916247,
+            "longitude": 35.1647889,
             "geocell": 4336551,
             "expando": {
                 "open_street_map_type": "node",

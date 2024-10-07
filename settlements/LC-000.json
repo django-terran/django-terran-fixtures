@@ -6739,32 +6739,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 7921028350,
-            "country": 662,
-            "level1area": [
-                "lc06"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Monier"
-            },
-            "place_type": 72,
-            "population": 651,
-            "latitude": 14.0296399,
-            "longitude": -60.9451962,
-            "geocell": 3745190,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 7921028350,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 7921028353,
             "country": 662,
             "level1area": [

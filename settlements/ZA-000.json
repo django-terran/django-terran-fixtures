@@ -44,6 +44,7 @@
                 "en": "Gqeberha",
                 "es": "Gqeberha",
                 "fr": "Gqeberha",
+                "id": "Gqeberha",
                 "it": "Gqeberha",
                 "ja": "ポートエリザベス",
                 "ko": "포트엘리자베스",
@@ -8242,7 +8243,7 @@
                 "en": "Doringbaai"
             },
             "place_type": 86,
-            "population": 0,
+            "population": 1260,
             "latitude": -31.81737,
             "longitude": 18.236039,
             "geocell": 2093582,
@@ -8252,7 +8253,9 @@
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikidata_page_name": "Q2105689",
-                "wikipedia_pages": {}
+                "wikipedia_pages": {
+                    "en": "Doringbaai"
+                }
             }
         }
     },
@@ -37165,12 +37168,12 @@
             ],
             "level2area": null,
             "names": {
-                "en": "Pondicherry"
+                "en": "North Shore"
             },
             "place_type": 72,
             "population": 0,
-            "latitude": -34.0378415,
-            "longitude": 18.3474077,
+            "latitude": -34.0406254,
+            "longitude": 18.3478452,
             "geocell": 2014383,
             "expando": {
                 "open_street_map_type": "node",
@@ -49528,6 +49531,7 @@
                 "open_street_map_id": 1607243466,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q31401014",
                 "wikipedia_pages": {}
             }
         }
@@ -49963,8 +49967,8 @@
             },
             "place_type": 72,
             "population": 0,
-            "latitude": -34.0388081,
-            "longitude": 18.3454352,
+            "latitude": -34.0386765,
+            "longitude": 18.3459399,
             "geocell": 2014383,
             "expando": {
                 "open_street_map_type": "node",
@@ -70275,6 +70279,110 @@
                 "wikipedia_pages": {
                     "en": "Randburg"
                 }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188166711,
+            "country": 710,
+            "level1area": [
+                "zagp"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Motsoaledi View"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -26.26657,
+            "longitude": 27.931495,
+            "geocell": 2295279,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188166711,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12192494556,
+            "country": 710,
+            "level1area": [
+                "zalp"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mphambo"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -23.0895519,
+            "longitude": 30.6748249,
+            "geocell": 2410506,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12192494556,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12192672477,
+            "country": 710,
+            "level1area": [
+                "zawc"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "White Sands"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -34.0381339,
+            "longitude": 18.3467035,
+            "geocell": 2014383,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12192672477,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12229221175,
+            "country": 710,
+            "level1area": [
+                "zaec"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Luxeni"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -32.4373343,
+            "longitude": 28.2572291,
+            "geocell": 2072082,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12229221175,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
             }
         }
     }

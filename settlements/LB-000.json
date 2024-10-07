@@ -39,6 +39,7 @@
                 "be": "Трыпалі",
                 "bg": "Триполи",
                 "ca": "Trípoli",
+                "cs": "Tripolis",
                 "de": "Tripoli",
                 "el": "Τρίπολη",
                 "en": "Tripoli",
@@ -50,6 +51,7 @@
                 "gl": "Trípoli",
                 "he": "טריפולי",
                 "hi": "ताराबूलस",
+                "hr": "Tripoli",
                 "hy": "Տրիպոլի",
                 "ka": "ტრიპოლი",
                 "lt": "Tripolis",
@@ -58,7 +60,9 @@
                 "pt": "Trípoli",
                 "ru": "Триполи",
                 "sk": "Tripolis",
+                "sl": "Tripoli",
                 "sr": "Триполи",
+                "tr": "Trablusşam",
                 "uk": "Триполі",
                 "ur": "طرابلس"
             },
@@ -749,9 +753,9 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 33.9081409,
-            "longitude": 35.7008397,
-            "geocell": 4462557,
+            "latitude": 33.9082361,
+            "longitude": 35.6990514,
+            "geocell": 4462556,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 292736556,
@@ -1474,7 +1478,8 @@
                 "ar": "بيت ياحون",
                 "de": "Beit Yahoun",
                 "en": "Beit Yahoun",
-                "fr": "Beit Yahoun"
+                "fr": "Beit Yahoun",
+                "he": "בית יהון"
             },
             "place_type": 86,
             "population": 0,
@@ -1486,7 +1491,10 @@
                 "open_street_map_id": 529910723,
                 "open_street_map_place": "village",
                 "postal_codes": [],
-                "wikipedia_pages": {}
+                "wikidata_page_name": "Q12200516",
+                "wikipedia_pages": {
+                    "ar": "بيت ياحون"
+                }
             }
         }
     },
@@ -1656,7 +1664,8 @@
                 "ar": "حانين",
                 "de": "Hanine",
                 "en": "Hanine",
-                "fr": "Hanine"
+                "fr": "Hanine",
+                "he": "חאנין"
             },
             "place_type": 86,
             "population": 0,
@@ -1717,7 +1726,8 @@
                 "ar": "قطمون",
                 "de": "Qatmoun",
                 "en": "Qatmoun",
-                "fr": "Qatmoun"
+                "fr": "Qatmoun",
+                "he": "קטמון"
             },
             "place_type": 86,
             "population": 0,
@@ -2333,6 +2343,7 @@
             "level2area": null,
             "names": {
                 "ar": "زحلة",
+                "cs": "Zahlé",
                 "de": "Zahlé",
                 "en": "Zahle",
                 "es": "Zahlé",
@@ -2688,6 +2699,7 @@
             "level2area": null,
             "names": {
                 "ar": "صور",
+                "az": "Sur",
                 "be": "Тыр",
                 "bg": "Тир",
                 "ckb": "تەیرا",
@@ -2705,6 +2717,7 @@
                 "gl": "Tiro",
                 "he": "צור",
                 "hi": "सोर",
+                "hr": "Tir",
                 "hy": "Տյուրոս",
                 "is": "Týros",
                 "it": "Tiro",
@@ -2714,6 +2727,7 @@
                 "pl": "Tyr",
                 "pt": "Tiro",
                 "ru": "Сур",
+                "sl": "Tir",
                 "sr": "Тир",
                 "sv": "Tyros",
                 "sw": "Tiro",
@@ -2752,16 +2766,21 @@
             "level2area": null,
             "names": {
                 "ar": "النبطية",
+                "cs": "Nabatíja",
                 "de": "Nabatäa",
+                "el": "Ναμπατίγια",
                 "en": "Nabatieh",
                 "es": "Nabatieh",
                 "fa": "نبطیه",
                 "fr": "Nabatieh",
                 "he": "א-נבטיה",
                 "hi": "नबटिया",
+                "hr": "Nabateja",
                 "lt": "Nabatija",
                 "ml": "നബത്തിയ",
                 "ru": "Эн-Набатия",
+                "sr": "Набатија",
+                "tr": "Nebatiye",
                 "uk": "Набатія",
                 "ur": "نبطیہ"
             },
@@ -2894,10 +2913,18 @@
             "level2area": null,
             "names": {
                 "ar": "بشري",
+                "de": "Bischarri",
+                "el": "Μπσαρί",
                 "en": "Bsharri",
                 "es": "Bisharri",
                 "fr": "Bcharré",
-                "pl": "Baszarri"
+                "he": "בשרי",
+                "hr": "Bšari",
+                "pl": "Baszarri",
+                "ru": "Башарри",
+                "sl": "Bšari",
+                "tr": "Bişerri",
+                "uk": "Бішарі"
             },
             "place_type": 84,
             "population": 0,
@@ -3767,8 +3794,12 @@
                 "fa": "البترون",
                 "fr": "Batroûn",
                 "he": "בתרון",
+                "hr": "Batrun",
                 "hy": "Ալ-Բաթրուն",
                 "ml": "ബത്രൂൺ",
+                "sl": "Batrun",
+                "tr": "Betrun",
+                "uk": "Батрун",
                 "ur": "البترون"
             },
             "place_type": 84,
@@ -3967,16 +3998,22 @@
             "level2area": null,
             "names": {
                 "ar": "صيدا",
+                "az": "Sayda",
                 "cs": "Sidón",
                 "de": "Sidon",
+                "el": "Σιδώνα",
                 "en": "Sidon",
                 "es": "Sidón",
                 "eu": "Sidon",
                 "fr": "Sidon",
                 "he": "צידון",
                 "hi": "सिदोन",
+                "hr": "Sidon",
+                "hy": "Սայդա",
                 "ml": "സൈദ",
                 "nl": "Sidon",
+                "ru": "Сайда",
+                "sl": "Sidon",
                 "sr": "Сидон",
                 "tr": "Sayda",
                 "uk": "Сідон",
@@ -4070,15 +4107,14 @@
             "level2area": null,
             "names": {
                 "ar": "حبوش",
-                "de": "Habbusch",
-                "en": "Habbouch",
+                "en": "Habboush",
                 "fr": "Habbouch",
                 "he": "חבוש"
             },
             "place_type": 84,
             "population": 0,
-            "latitude": 33.4093173,
-            "longitude": 35.4790604,
+            "latitude": 33.409165,
+            "longitude": 35.4812705,
             "geocell": 4444554,
             "expando": {
                 "open_street_map_type": "node",
@@ -4130,11 +4166,14 @@
             "level2area": null,
             "names": {
                 "ar": "جزين",
+                "az": "Cizzin",
                 "de": "Jezzine",
                 "en": "Jezzine",
                 "fr": "Jezzine",
                 "he": "ג'זין",
-                "ru": "Jezzine"
+                "hr": "Džezin",
+                "ru": "Джеззин",
+                "uk": "Джеззін"
             },
             "place_type": 84,
             "population": 0,
@@ -5062,11 +5101,17 @@
             "names": {
                 "ar": "عاليه",
                 "de": "Aley",
+                "el": "Αλέι",
                 "en": "Aley",
                 "es": "Aley",
+                "fa": "عالیه",
                 "fr": "Aley",
                 "he": "עאליי",
+                "hr": "Alej",
                 "ml": "ആലൈ",
+                "ru": "Алайх",
+                "sr": "Алеј",
+                "tr": "Aley",
                 "uk": "Алей"
             },
             "place_type": 67,
@@ -5539,7 +5584,8 @@
                 "ar": "دير سريان",
                 "de": "Deir Siriane",
                 "en": "Deir Siriane",
-                "fr": "Deir Siriane"
+                "fr": "Deir Siriane",
+                "he": "דיר סיריאן"
             },
             "place_type": 86,
             "population": 0,
@@ -7623,10 +7669,17 @@
             "names": {
                 "ar": "زغرتا",
                 "de": "Zgharta",
+                "el": "Ζγάρτα",
                 "en": "Zgharta",
                 "es": "Zgharta",
                 "fr": "Zgharta",
-                "he": "זע'רתא"
+                "he": "זע'רתא",
+                "hr": "Zgarta",
+                "hy": "Զղարթա",
+                "ru": "Згарта",
+                "sl": "Zgarta",
+                "tr": "Zgarta",
+                "uk": "Згарта"
             },
             "place_type": 84,
             "population": 0,
@@ -8840,12 +8893,19 @@
             "level2area": null,
             "names": {
                 "ar": "بنت جبيل",
-                "en": "Bint Jubayl",
+                "cs": "Bint Džubajl",
+                "de": "Bint Dschubail",
+                "en": "Bint Jbail",
                 "es": "Bint Jubail",
                 "fa": "بنت جبیل",
                 "fr": "Bent Jbaïl",
                 "he": "בינת ג'בייל",
+                "hr": "Bint Džubail",
+                "hy": "Բինտ Ջաբիլ",
                 "ml": "ബിന്ത് ജുബൈൽ",
+                "pl": "Bint Dżubajl",
+                "ru": "Бинт-Джубайль",
+                "uk": "Бінт-Джбейль",
                 "ur": "بنت جبیل"
             },
             "place_type": 84,
@@ -9215,8 +9275,8 @@
             },
             "place_type": 86,
             "population": 6000,
-            "latitude": 33.8746614,
-            "longitude": 35.9435111,
+            "latitude": 33.8746506,
+            "longitude": 35.9434266,
             "geocell": 4458959,
             "expando": {
                 "open_street_map_type": "node",
@@ -9274,6 +9334,7 @@
             "names": {
                 "ar": "مارون الرأس",
                 "en": "Maroun Al Ras",
+                "es": "Maroun el-Ras",
                 "fr": "Maroun Al Ras",
                 "he": "מארון א-ראס"
             },
@@ -15445,7 +15506,8 @@
             "names": {
                 "ar": "الزرارية",
                 "en": "Zrariyeh",
-                "fr": "Zrariyeh"
+                "fr": "Zrariyeh",
+                "he": "זראריה"
             },
             "place_type": 86,
             "population": 0,
@@ -19188,8 +19250,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 34.1934416,
-            "longitude": 35.746851,
+            "latitude": 34.1956242,
+            "longitude": 35.7469578,
             "geocell": 4469757,
             "expando": {
                 "open_street_map_type": "node",
@@ -20773,8 +20835,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 33.4667509,
-            "longitude": 35.4744635,
+            "latitude": 33.4669747,
+            "longitude": 35.4746137,
             "geocell": 4444554,
             "expando": {
                 "open_street_map_type": "node",
@@ -20832,7 +20894,8 @@
                 "ar": "بدياس",
                 "de": "Bidyas",
                 "en": "Bidyas",
-                "fr": "Bidyas"
+                "fr": "Bidyas",
+                "he": "בדיאס"
             },
             "place_type": 86,
             "population": 0,
@@ -21293,8 +21356,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 34.6034707,
-            "longitude": 36.1061368,
+            "latitude": 34.6049278,
+            "longitude": 36.1101923,
             "geocell": 4487761,
             "expando": {
                 "open_street_map_type": "node",
@@ -22673,8 +22736,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 33.2802757,
-            "longitude": 35.3776668,
+            "latitude": 33.2805986,
+            "longitude": 35.3778814,
             "geocell": 4437353,
             "expando": {
                 "open_street_map_type": "node",
@@ -31935,8 +31998,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 33.4547984,
-            "longitude": 35.4322922,
+            "latitude": 33.4552818,
+            "longitude": 35.4300177,
             "geocell": 4444554,
             "expando": {
                 "open_street_map_type": "node",
@@ -33202,8 +33265,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 34.2014209,
-            "longitude": 35.7858825,
+            "latitude": 34.2001678,
+            "longitude": 35.7866954,
             "geocell": 4473357,
             "expando": {
                 "open_street_map_type": "node",
@@ -33287,7 +33350,8 @@
             "names": {
                 "ar": "القصير",
                 "en": "El Qoussair",
-                "fr": "El Qoussair"
+                "fr": "El Qoussair",
+                "he": "קוסיר"
             },
             "place_type": 86,
             "population": 0,
@@ -35611,7 +35675,8 @@
             "names": {
                 "ar": "علمان‎",
                 "en": "Aalmane",
-                "fr": "Aalmane"
+                "fr": "Aalmane",
+                "he": "עלמאן"
             },
             "place_type": 86,
             "population": 0,
@@ -40840,8 +40905,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 33.3240338,
-            "longitude": 35.4236064,
+            "latitude": 33.3300758,
+            "longitude": 35.4244862,
             "geocell": 4440954,
             "expando": {
                 "open_street_map_type": "node",
@@ -42854,13 +42919,13 @@
             "level2area": null,
             "names": {
                 "ar": "زوطر الشرقية",
-                "en": "Zawtar Ech Charqiyeh",
+                "en": "Zawtar El Sharqiyeh",
                 "fr": "Zaoutar Ech Charqiyeh"
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 33.322644,
-            "longitude": 35.4713613,
+            "latitude": 33.3237019,
+            "longitude": 35.4730994,
             "geocell": 4440954,
             "expando": {
                 "open_street_map_type": "node",
@@ -42887,8 +42952,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 33.3227784,
-            "longitude": 35.4615658,
+            "latitude": 33.3225991,
+            "longitude": 35.4596775,
             "geocell": 4440954,
             "expando": {
                 "open_street_map_type": "node",

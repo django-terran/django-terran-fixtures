@@ -6569,33 +6569,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 1961312680,
-            "country": 116,
-            "level1area": [
-                "kh2"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Koas Krala",
-                "km": "ស្រុកគាស់ក្រឡ"
-            },
-            "place_type": 84,
-            "population": 0,
-            "latitude": 12.7550281,
-            "longitude": 103.2628529,
-            "geocell": 3700032,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 1961312680,
-                "open_street_map_place": "town",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 1961313797,
             "country": 116,
             "level1area": [
@@ -7658,8 +7631,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 12.9668161,
-            "longitude": 103.050955,
+            "latitude": 12.9670247,
+            "longitude": 103.0506744,
             "geocell": 3707230,
             "expando": {
                 "open_street_map_type": "node",
@@ -7685,8 +7658,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 12.8344867,
-            "longitude": 102.8955325,
+            "latitude": 12.8348787,
+            "longitude": 102.8957819,
             "geocell": 3703628,
             "expando": {
                 "open_street_map_type": "node",
@@ -12874,6 +12847,32 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 4462692112,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4562927889,
+            "country": 116,
+            "level1area": [
+                "kh2"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Chamlong koury village"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 12.7077462,
+            "longitude": 102.9552842,
+            "geocell": 3700029,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4562927889,
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
@@ -21647,7 +21646,7 @@
             ],
             "level2area": null,
             "names": {
-                "en": "Phum Kruos",
+                "en": "Phum Krous",
                 "km": "ភូមិក្រួស"
             },
             "place_type": 72,
@@ -36506,8 +36505,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 12.8722215,
-            "longitude": 103.0984378,
+            "latitude": 12.8717901,
+            "longitude": 103.0990933,
             "geocell": 3703630,
             "expando": {
                 "open_street_map_type": "node",

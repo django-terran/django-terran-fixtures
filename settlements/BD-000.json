@@ -228,6 +228,7 @@
                 "fa": "سیلهت",
                 "fr": "Sylhet",
                 "hi": "सिलहट",
+                "id": "Sylhet",
                 "ja": "シレット",
                 "kn": "ಸಿಲಹಟ್",
                 "ne": "सिलेट",
@@ -1790,8 +1791,8 @@
             },
             "place_type": 67,
             "population": 223522,
-            "latitude": 21.4399108,
-            "longitude": 91.9887995,
+            "latitude": 21.4420039,
+            "longitude": 91.9812464,
             "geocell": 4013119,
             "expando": {
                 "open_street_map_type": "node",
@@ -7551,7 +7552,7 @@
                 "bd06"
             ],
             "names": {
-                "bn": "আগৈলঝারা",
+                "bn": "আগৈলঝাড়া",
                 "en": "Agailjhara"
             },
             "place_type": 84,
@@ -8803,6 +8804,7 @@
             "level2area": null,
             "names": {
                 "bn": "লালপুর",
+                "en": "Lalpur",
                 "ru": "Лальпур"
             },
             "place_type": 84,
@@ -11566,7 +11568,7 @@
             "level2area": null,
             "names": {
                 "bn": "হরিণাকুণ্ডু",
-                "en": "Hariakunda"
+                "en": "Harinakundu"
             },
             "place_type": 84,
             "population": 0,
@@ -23149,32 +23151,6 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 3977672532,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 3977672536,
-            "country": 50,
-            "level1area": [
-                "bdc"
-            ],
-            "level2area": null,
-            "names": {
-                "bn": "Gobindasi"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": 24.4228681,
-            "longitude": 89.8421984,
-            "geocell": 4121098,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 3977672536,
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
@@ -45727,7 +45703,7 @@
                 "bd51"
             ],
             "names": {
-                "bn": "Dakua"
+                "bn": "ডাকুয়া"
             },
             "place_type": 86,
             "population": 0,
@@ -46119,7 +46095,7 @@
                 "bd02"
             ],
             "names": {
-                "bn": "Kakchira"
+                "bn": "কাকচিড়া"
             },
             "place_type": 86,
             "population": 0,
@@ -46147,7 +46123,7 @@
                 "bd02"
             ],
             "names": {
-                "bn": "Kalmegha"
+                "bn": "কালমেঘা"
             },
             "place_type": 86,
             "population": 0,
@@ -46204,8 +46180,8 @@
                 "bd02"
             ],
             "names": {
-                "bn": "চর দুয়ানতি",
-                "en": "Char Duanti"
+                "bn": "চরদুয়ানী",
+                "en": "Charduani"
             },
             "place_type": 86,
             "population": 0,
@@ -50791,8 +50767,8 @@
             },
             "place_type": 84,
             "population": 244943,
-            "latitude": 23.1620811,
-            "longitude": 91.0572637,
+            "latitude": 23.1619656,
+            "longitude": 91.0571579,
             "geocell": 4074310,
             "expando": {
                 "open_street_map_type": "node",
@@ -95086,8 +95062,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 23.1657264,
-            "longitude": 91.0653429,
+            "latitude": 23.1655286,
+            "longitude": 91.0650513,
             "geocell": 4074310,
             "expando": {
                 "open_street_map_type": "node",
@@ -95140,8 +95116,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 23.1656671,
-            "longitude": 91.0350493,
+            "latitude": 23.1652709,
+            "longitude": 91.0332359,
             "geocell": 4074310,
             "expando": {
                 "open_street_map_type": "node",
@@ -112855,6 +112831,167 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 12172058799,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187556270,
+            "country": 50,
+            "level1area": [
+                "bdb"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "কোটবাড়ী",
+                "en": "Kotbari"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 23.4362728,
+            "longitude": 91.1371182,
+            "geocell": 4085111,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187556270,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12192583399,
+            "country": 50,
+            "level1area": [
+                "bdb"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "বাঙ্গড্ডা",
+                "en": "Bangodda"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 23.2240437,
+            "longitude": 91.236207,
+            "geocell": 4077912,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12192583399,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12192583490,
+            "country": 50,
+            "level1area": [
+                "bdb"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "পরিকোট",
+                "en": "Parikot"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 23.2201912,
+            "longitude": 91.2493391,
+            "geocell": 4077912,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12192583490,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12209095880,
+            "country": 50,
+            "level1area": [
+                "bdb"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "মুন্সীরহাট",
+                "en": "Munshirhat"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 23.140921,
+            "longitude": 91.0945066,
+            "geocell": 4074310,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12209095880,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12221748771,
+            "country": 50,
+            "level1area": [
+                "bdb"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "Jolipur"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 23.1605722,
+            "longitude": 91.0374203,
+            "geocell": 4074310,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12221748771,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12228976304,
+            "country": 50,
+            "level1area": [
+                "bdb"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "আমতলী",
+                "en": "Amtali"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 23.1932537,
+            "longitude": 91.0576438,
+            "geocell": 4074310,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12228976304,
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}

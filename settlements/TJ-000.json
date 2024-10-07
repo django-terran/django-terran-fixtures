@@ -2651,7 +2651,7 @@
             "names": {
                 "en": "Jelondy",
                 "ru": "Джелонди",
-                "tg": "Дҷелондӣ",
+                "tg": "Ҷелондӣ",
                 "uk": "Джелонді"
             },
             "place_type": 86,
@@ -2664,7 +2664,9 @@
                 "open_street_map_id": 1798245480,
                 "open_street_map_place": "village",
                 "postal_codes": [],
-                "wikipedia_pages": {}
+                "wikipedia_pages": {
+                    "tg": "Ҷелондӣ"
+                }
             }
         }
     },
@@ -16471,7 +16473,8 @@
             "level2area": null,
             "names": {
                 "en": "Vaznavd",
-                "tg": "Вазнвад"
+                "ru": "Вазнавд",
+                "tg": "Вознавд"
             },
             "place_type": 86,
             "population": 0,

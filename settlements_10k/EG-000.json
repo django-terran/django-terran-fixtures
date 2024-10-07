@@ -1383,6 +1383,37 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 330194927,
+            "country": 818,
+            "level1area": [
+                "eggz"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "الشيخ زايد",
+                "en": "Sheikh Zayed",
+                "fr": "Cheikh Zayed"
+            },
+            "place_type": 67,
+            "population": 80000,
+            "latitude": 30.048347,
+            "longitude": 30.9832235,
+            "geocell": 4322109,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 330194927,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4165945",
+                "wikipedia_pages": {
+                    "en": "Sheikh Zayed City"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 331953907,
             "country": 818,
             "level1area": [

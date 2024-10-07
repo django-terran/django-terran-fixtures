@@ -520,8 +520,8 @@
             },
             "place_type": 67,
             "population": 221530,
-            "latitude": 35.8288175,
-            "longitude": 10.6405392,
+            "latitude": 35.8288284,
+            "longitude": 10.6405254,
             "geocell": 4530706,
             "expando": {
                 "open_street_map_type": "node",
@@ -3493,6 +3493,7 @@
                 "ar": "ساقية سيدي يوسف",
                 "en": "Sakiet Sidi Youcef",
                 "fr": "Sakiet Sidi Youssef",
+                "kab": "Saqiyet Sidi Yusef",
                 "ru": "Сиди-Юсеф"
             },
             "place_type": 84,
@@ -4843,7 +4844,7 @@
                 "fa": "سیدی بوزید",
                 "fr": "Sidi Bouzid",
                 "it": "Sidi Bouzid",
-                "kab": "سيدي بوزيد",
+                "kab": "Sidi Buzid",
                 "ru": "Сиди-Бу-Зид",
                 "ur": "سیدی بوزید"
             },
@@ -8149,6 +8150,63 @@
                 "wikipedia_pages": {
                     "ar": "أغير"
                 }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1259515919,
+            "country": 788,
+            "level1area": [
+                "tn82"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Bedouine",
+                "de": "Biduin",
+                "en": "Bedouine",
+                "fr": "Bedouine"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 33.7786385,
+            "longitude": 10.9397999,
+            "geocell": 4455109,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1259515919,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 1259515942,
+            "country": 788,
+            "level1area": [
+                "tn82"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "ربانة",
+                "en": "Robana",
+                "fr": "Robana"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 33.7744387,
+            "longitude": 10.8959192,
+            "geocell": 4455108,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1259515942,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
             }
         }
     },
@@ -11794,8 +11852,8 @@
             },
             "place_type": 84,
             "population": 9131,
-            "latitude": 33.8011834,
-            "longitude": 10.8832939,
+            "latitude": 33.8011894,
+            "longitude": 10.8833275,
             "geocell": 4458708,
             "expando": {
                 "open_street_map_type": "node",
@@ -14743,10 +14801,10 @@
             "level2area": null,
             "names": {
                 "ar": "الرملة",
-                "en": "El Ramla",
-                "fr": "Erramla"
+                "en": "Remla",
+                "fr": "Remla"
             },
-            "place_type": 86,
+            "place_type": 84,
             "population": 0,
             "latitude": 34.7053684,
             "longitude": 11.2031411,
@@ -14754,13 +14812,13 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 2248618409,
-                "open_street_map_place": "village",
+                "open_street_map_place": "town",
                 "postal_codes": [
                     "3070"
                 ],
                 "wikidata_page_name": "Q11833751",
                 "wikipedia_pages": {
-                    "en": "Remla"
+                    "fr": "Remla"
                 }
             }
         }
@@ -20975,6 +21033,33 @@
                 "wikipedia_pages": {
                     "ar": "العيون (تونس)"
                 }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 5340400120,
+            "country": 788,
+            "level1area": [
+                "tn82"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "El Krachoua",
+                "fr": "El Krachoua"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 33.7649314,
+            "longitude": 10.8816086,
+            "geocell": 4455108,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5340400120,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
             }
         }
     },
@@ -30564,34 +30649,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 7868848412,
-            "country": 788,
-            "level1area": [
-                "tn61"
-            ],
-            "level2area": null,
-            "names": {
-                "ar": "سيدي فالنخل",
-                "en": "Sidi Founkhal",
-                "fr": "Sidi Founkhal"
-            },
-            "place_type": 72,
-            "population": 0,
-            "latitude": 34.7483469,
-            "longitude": 11.1778579,
-            "geocell": 4491111,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 7868848412,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 7868848413,
             "country": 788,
             "level1area": [
@@ -30605,8 +30662,8 @@
             },
             "place_type": 72,
             "population": 0,
-            "latitude": 34.7420713,
-            "longitude": 11.1946588,
+            "latitude": 34.7421582,
+            "longitude": 11.1946303,
             "geocell": 4491111,
             "expando": {
                 "open_street_map_type": "node",
@@ -38534,8 +38591,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 33.7584352,
-            "longitude": 10.7911615,
+            "latitude": 33.7584532,
+            "longitude": 10.7911399,
             "geocell": 4455107,
             "expando": {
                 "open_street_map_type": "node",
@@ -39370,8 +39427,8 @@
             },
             "place_type": 72,
             "population": 0,
-            "latitude": 33.8006284,
-            "longitude": 11.0020947,
+            "latitude": 33.8009162,
+            "longitude": 11.0070388,
             "geocell": 4458710,
             "expando": {
                 "open_street_map_type": "node",
@@ -39634,8 +39691,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 33.787936,
-            "longitude": 10.8717497,
+            "latitude": 33.7861744,
+            "longitude": 10.8722697,
             "geocell": 4455108,
             "expando": {
                 "open_street_map_type": "node",
@@ -39686,8 +39743,8 @@
             },
             "place_type": 72,
             "population": 0,
-            "latitude": 33.809386,
-            "longitude": 10.8663214,
+            "latitude": 33.8093583,
+            "longitude": 10.8663584,
             "geocell": 4458708,
             "expando": {
                 "open_street_map_type": "node",
@@ -39738,8 +39795,8 @@
             },
             "place_type": 72,
             "population": 0,
-            "latitude": 33.7537334,
-            "longitude": 10.8077794,
+            "latitude": 33.7535801,
+            "longitude": 10.8068615,
             "geocell": 4455108,
             "expando": {
                 "open_street_map_type": "node",
@@ -39786,7 +39843,7 @@
             ],
             "level2area": null,
             "names": {
-                "ar": "Akhaouai"
+                "ar": "Al Khaoui"
             },
             "place_type": 72,
             "population": 0,
@@ -39823,6 +39880,294 @@
                 "open_street_map_type": "node",
                 "open_street_map_id": 12171078159,
                 "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187398586,
+            "country": 788,
+            "level1area": [
+                "tn82"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "El Arbah"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 33.8060494,
+            "longitude": 10.8506635,
+            "geocell": 4458708,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187398586,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187492785,
+            "country": 788,
+            "level1area": [
+                "tn82"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Braa",
+                "fr": "Braa"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 33.7915677,
+            "longitude": 10.9506993,
+            "geocell": 4455109,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187492785,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12189397654,
+            "country": 788,
+            "level1area": [
+                "tn61"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "El Karraba"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 34.7187105,
+            "longitude": 11.1584073,
+            "geocell": 4491111,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12189397654,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12190081839,
+            "country": 788,
+            "level1area": [
+                "tn41"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "خبنة الطمامة",
+                "fr": "Khobnet Etmama"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 35.2308124,
+            "longitude": 9.7318208,
+            "geocell": 4509097,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12190081839,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12198029657,
+            "country": 788,
+            "level1area": [
+                "tn82"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Eddhira"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 33.7445692,
+            "longitude": 10.9357238,
+            "geocell": 4455109,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12198029657,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12202914812,
+            "country": 788,
+            "level1area": [
+                "tn82"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Benian"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 33.7629261,
+            "longitude": 10.9071482,
+            "geocell": 4455109,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12202914812,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12202921351,
+            "country": 788,
+            "level1area": [
+                "tn82"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "El Chehoud"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 33.783498,
+            "longitude": 10.8881091,
+            "geocell": 4455108,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12202921351,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207902692,
+            "country": 788,
+            "level1area": [
+                "tn82"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Tiniza"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 33.7969178,
+            "longitude": 10.9015753,
+            "geocell": 4455109,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207902692,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207902693,
+            "country": 788,
+            "level1area": [
+                "tn82"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Essakalla"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 33.7915925,
+            "longitude": 10.8987728,
+            "geocell": 4455108,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207902693,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12229092546,
+            "country": 788,
+            "level1area": [
+                "tn82"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Taghdimes"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 33.8316698,
+            "longitude": 10.8630084,
+            "geocell": 4458708,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12229092546,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12229106391,
+            "country": 788,
+            "level1area": [
+                "tn82"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Tahrizit"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 33.8480366,
+            "longitude": 10.8754225,
+            "geocell": 4458708,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12229106391,
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }

@@ -9498,6 +9498,33 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 2473306975,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Atomé"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.2286027,
+            "longitude": 1.6402929,
+            "geocell": 3501016,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 2473306975,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3629012",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 2494771934,
             "country": 768,
             "level1area": [
@@ -12870,8 +12897,10 @@
                 "tgp"
             ],
             "level2area": null,
-            "names": {},
-            "place_type": 84,
+            "names": {
+                "fr": "Kpodji"
+            },
+            "place_type": 72,
             "population": 0,
             "latitude": 7.2302919,
             "longitude": 1.6414991,
@@ -12879,7 +12908,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 3351046655,
-                "open_street_map_place": "town",
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -12944,7 +12973,9 @@
                 "tgp"
             ],
             "level2area": null,
-            "names": {},
+            "names": {
+                "fr": "Yaovihoué"
+            },
             "place_type": 72,
             "population": 0,
             "latitude": 7.0450077,
@@ -20541,7 +20572,9 @@
                 "tgp"
             ],
             "level2area": null,
-            "names": {},
+            "names": {
+                "fr": "Agnamey"
+            },
             "place_type": 86,
             "population": 0,
             "latitude": 7.2481506,
@@ -59311,7 +59344,769 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 12177666550,
+            "id": 12188835542,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Séwahônou"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 7.4437718,
+            "longitude": 1.6426006,
+            "geocell": 3508216,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188835542,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188835543,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Séwahônou"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 7.4350416,
+            "longitude": 1.6396534,
+            "geocell": 3508216,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188835543,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188860881,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Kpalifo"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 7.4849648,
+            "longitude": 1.6386392,
+            "geocell": 3508216,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188860881,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188888500,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Agodogoui"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.3456806,
+            "longitude": 1.6364923,
+            "geocell": 3504616,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188888500,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188926695,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Donoumè"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.1315782,
+            "longitude": 1.6393958,
+            "geocell": 3497416,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188926695,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188926696,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Vodjèmè"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 7.1334043,
+            "longitude": 1.6325156,
+            "geocell": 3497416,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188926696,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188926697,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Suimè"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 7.1245179,
+            "longitude": 1.6376272,
+            "geocell": 3497416,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188926697,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12189531585,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Bayamè"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.1039437,
+            "longitude": 1.6319696,
+            "geocell": 3497416,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12189531585,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12199734373,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Zogbe kope"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.501888,
+            "longitude": 0.6856457,
+            "geocell": 3511806,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12199734373,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12199736258,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Klabè lomnava"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.6021604,
+            "longitude": 0.7293392,
+            "geocell": 3515407,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12199736258,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12199742236,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.6026258,
+            "longitude": 0.7460155,
+            "geocell": 3515407,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12199742236,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12199751081,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Wobè"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.5345136,
+            "longitude": 0.6088534,
+            "geocell": 3511806,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12199751081,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12199752426,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "KPETE MEPEASSEM"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.4478412,
+            "longitude": 0.6036132,
+            "geocell": 3508206,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12199752426,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12199755038,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "KPETE MAFLO"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.4633389,
+            "longitude": 0.5966366,
+            "geocell": 3508205,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12199755038,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12199773231,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.6716785,
+            "longitude": 0.7322969,
+            "geocell": 3515407,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12199773231,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12199914980,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Tetetou"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.5998818,
+            "longitude": 0.7042302,
+            "geocell": 3511807,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12199914980,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12199931224,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.5871478,
+            "longitude": 0.6591237,
+            "geocell": 3511806,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12199931224,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12199936915,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.5987749,
+            "longitude": 0.7155787,
+            "geocell": 3511807,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12199936915,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12199937480,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Zogbegan"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.5731532,
+            "longitude": 0.6768169,
+            "geocell": 3511806,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12199937480,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12199938403,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Anonoé"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.5588441,
+            "longitude": 0.6024132,
+            "geocell": 3511806,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12199938403,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12199938405,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Ediwoulou"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.4133331,
+            "longitude": 0.6877771,
+            "geocell": 3508206,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12199938405,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12212017065,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "TODOME"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 6.9209373,
+            "longitude": 1.248601,
+            "geocell": 3490212,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12212017065,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12212041074,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.07811,
+            "longitude": 1.0609094,
+            "geocell": 3493810,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12212041074,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12212061166,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.117157,
+            "longitude": 1.0780361,
+            "geocell": 3497410,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12212061166,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12212061845,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.0780983,
+            "longitude": 1.0715653,
+            "geocell": 3493810,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12212061845,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12212063973,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": 6.8847596,
+            "longitude": 1.1472701,
+            "geocell": 3486611,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12212063973,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12212065264,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Village de ZOMAÏ"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.0762316,
+            "longitude": 1.0897626,
+            "geocell": 3493810,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12212065264,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12212067679,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.0712592,
+            "longitude": 1.0284168,
+            "geocell": 3493810,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12212067679,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12212070885,
+            "country": 768,
+            "level1area": [
+                "tgp"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Adanka"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 7.2497825,
+            "longitude": 1.164523,
+            "geocell": 3501011,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12212070885,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12216703683,
+            "country": 768,
+            "level1area": [
+                "tgm"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Adjassihoun-Condji"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 6.590128,
+            "longitude": 1.6398667,
+            "geocell": 3475816,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12216703683,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12228622549,
             "country": 768,
             "level1area": [
                 "tgp"
@@ -59322,12 +60117,12 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 7.3659017,
-            "longitude": 0.8045029,
+            "latitude": 7.3650467,
+            "longitude": 0.8007972,
             "geocell": 3504608,
             "expando": {
                 "open_street_map_type": "node",
-                "open_street_map_id": 12177666550,
+                "open_street_map_id": 12228622549,
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}

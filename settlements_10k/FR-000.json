@@ -1683,7 +1683,9 @@
                 "open_street_map_place": "town",
                 "postal_codes": [],
                 "wikidata_page_name": "Q163108",
-                "wikipedia_pages": {}
+                "wikipedia_pages": {
+                    "fr": "Saint-Malo"
+                }
             }
         }
     },
@@ -8361,8 +8363,8 @@
             },
             "place_type": 84,
             "population": 24062,
-            "latitude": 48.9906696,
-            "longitude": 2.2794326,
+            "latitude": 48.9911296,
+            "longitude": 2.2792058,
             "geocell": 5002222,
             "expando": {
                 "open_street_map_type": "node",
@@ -8584,7 +8586,7 @@
                 "fr": "Bergerac"
             },
             "place_type": 84,
-            "population": 27716,
+            "population": 26323,
             "latitude": 44.8534568,
             "longitude": 0.487531,
             "geocell": 4854604,
@@ -10762,6 +10764,66 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 246837430,
+            "country": 250,
+            "level1area": [
+                "fr974"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "سان ديني",
+                "be": "Сен-Дэні",
+                "bg": "Сен Дьони",
+                "br": "Sant-Denez",
+                "ckb": "سەینت دێنیس",
+                "cy": "Saint-Denis",
+                "da": "Saint-Denis",
+                "de": "Saint-Denis",
+                "el": "Σαν Ντενί",
+                "en": "Saint-Denis",
+                "es": "Saint-Denis",
+                "fa": "سن-دونی",
+                "fi": "Saint-Denis",
+                "fr": "Saint-Denis",
+                "he": "סן-דני",
+                "id": "Saint-Denis",
+                "io": "Saint-Denis",
+                "ja": "サン＝ドニ",
+                "ka": "სენ-დენი",
+                "ko": "생드니",
+                "lt": "Sen Deni",
+                "lv": "Sendenī",
+                "mk": "Сен Дени",
+                "mr": "सेंट डेनिस",
+                "ms": "Saint-Denis",
+                "ru": "Сен-Дени",
+                "sr": "Сен Дени",
+                "sv": "Saint-Denis",
+                "tr": "Saint-Denis",
+                "uk": "Сен-Дені",
+                "ur": "سینٹ-ڈینس",
+                "vi": "Saint-Denis"
+            },
+            "place_type": 67,
+            "population": 154765,
+            "latitude": -20.8799889,
+            "longitude": 55.448137,
+            "geocell": 2489954,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 246837430,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q47045",
+                "wikipedia_pages": {
+                    "fr": "Saint-Denis (La Réunion)"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 246843429,
             "country": 250,
             "level1area": [
@@ -12450,7 +12512,7 @@
                 "ur": "بریسٹ"
             },
             "place_type": 67,
-            "population": 141303,
+            "population": 139926,
             "latitude": 48.3905283,
             "longitude": -4.4860088,
             "geocell": 4980555,

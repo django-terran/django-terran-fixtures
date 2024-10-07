@@ -10383,11 +10383,11 @@
             "id": 2625797026,
             "country": 728,
             "level1area": [
-                "ssnu"
+                "ssjg"
             ],
             "level2area": null,
             "names": {
-                "en": "Abwong"
+                "en": "Bwong"
             },
             "place_type": 84,
             "population": 0,
@@ -11948,7 +11948,7 @@
             "id": 2633113095,
             "country": 728,
             "level1area": [
-                "ssnu"
+                "ssjg"
             ],
             "level2area": null,
             "names": {
@@ -14420,7 +14420,7 @@
             "id": 2656874272,
             "country": 728,
             "level1area": [
-                "ssnu"
+                "ssjg"
             ],
             "level2area": null,
             "names": {},
@@ -14468,7 +14468,7 @@
             "id": 2656874493,
             "country": 728,
             "level1area": [
-                "ssnu"
+                "ssjg"
             ],
             "level2area": null,
             "names": {
@@ -14518,7 +14518,7 @@
             "id": 2656874698,
             "country": 728,
             "level1area": [
-                "ssnu"
+                "ssjg"
             ],
             "level2area": null,
             "names": {
@@ -14568,7 +14568,7 @@
             "id": 2656875055,
             "country": 728,
             "level1area": [
-                "ssnu"
+                "ssjg"
             ],
             "level2area": null,
             "names": {
@@ -16449,7 +16449,9 @@
                 "ssjg"
             ],
             "level2area": null,
-            "names": {},
+            "names": {
+                "en": "Nyaliliet"
+            },
             "place_type": 72,
             "population": 0,
             "latitude": 9.0943257,
@@ -29194,11 +29196,11 @@
             "id": 4007244800,
             "country": 728,
             "level1area": [
-                "ssnu"
+                "ssjg"
             ],
             "level2area": null,
             "names": {
-                "en": "Lajak"
+                "en": "Majak"
             },
             "place_type": 86,
             "population": 0,
@@ -29220,7 +29222,7 @@
             "id": 4007244836,
             "country": 728,
             "level1area": [
-                "ssnu"
+                "ssjg"
             ],
             "level2area": null,
             "names": {
@@ -29246,7 +29248,7 @@
             "id": 4007245064,
             "country": 728,
             "level1area": [
-                "ssnu"
+                "ssjg"
             ],
             "level2area": null,
             "names": {
@@ -29272,7 +29274,7 @@
             "id": 4007245085,
             "country": 728,
             "level1area": [
-                "ssnu"
+                "ssjg"
             ],
             "level2area": null,
             "names": {
@@ -29298,7 +29300,7 @@
             "id": 4007245359,
             "country": 728,
             "level1area": [
-                "ssnu"
+                "ssjg"
             ],
             "level2area": null,
             "names": {
@@ -116669,6 +116671,110 @@
                 "open_street_map_type": "node",
                 "open_street_map_id": 12179253933,
                 "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12206355122,
+            "country": 728,
+            "level1area": [
+                "ssjg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mareng"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 9.2738592,
+            "longitude": 31.6609424,
+            "geocell": 3573316,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12206355122,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12206367585,
+            "country": 728,
+            "level1area": [
+                "ssjg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Wec Lam"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 9.2434814,
+            "longitude": 31.6815847,
+            "geocell": 3573316,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12206367585,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12206367596,
+            "country": 728,
+            "level1area": [
+                "ssjg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kulong"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 9.219186,
+            "longitude": 31.6826107,
+            "geocell": 3573316,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12206367596,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12206377908,
+            "country": 728,
+            "level1area": [
+                "ssjg"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Wec"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 9.1720993,
+            "longitude": 31.7097282,
+            "geocell": 3569717,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12206377908,
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }

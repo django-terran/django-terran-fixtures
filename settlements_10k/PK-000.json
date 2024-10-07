@@ -568,6 +568,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "জহীর পীর",
                 "en": "Zahir Pir",
                 "ur": "ظاہر پیر"
             },
@@ -1192,6 +1193,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "লোধরান",
                 "de": "Lodhran",
                 "en": "Lodhran",
                 "fr": "Lodhran",
@@ -1273,6 +1275,7 @@
             "level2area": null,
             "names": {
                 "ar": "رحيم يار خان",
+                "bn": "রহীম ইয়ার খান",
                 "de": "Rahim Yar Khan",
                 "en": "Rahim Yar Khan",
                 "es": "Rahim Yar Khan",
@@ -1517,6 +1520,7 @@
             "level2area": null,
             "names": {
                 "ar": "حب",
+                "bn": "হুব",
                 "en": "Hub",
                 "fa": "حب",
                 "ur": "حب"
@@ -1927,6 +1931,7 @@
             "level2area": null,
             "names": {
                 "ar": "ترنت",
+                "bn": "তুরবাত",
                 "de": "Turbat",
                 "en": "Turbat",
                 "es": "Turbat",
@@ -2359,6 +2364,7 @@
             "names": {
                 "ar": "جهنك",
                 "be": "Джанг",
+                "bn": "ঝাং",
                 "de": "Jhang",
                 "en": "Jhang",
                 "es": "Jhang",
@@ -2734,6 +2740,7 @@
             "level2area": null,
             "names": {
                 "ar": "باكبتن",
+                "bn": "পাকপত্তন",
                 "de": "Pakpattan",
                 "en": "Pakpattan",
                 "es": "Pakpattan",
@@ -2814,6 +2821,7 @@
             "level2area": null,
             "names": {
                 "ar": "كماليا",
+                "bn": "কামালিয়া",
                 "de": "Kamalia",
                 "en": "Kamalia",
                 "es": "Kamalia",
@@ -3761,89 +3769,6 @@
                 "wikidata_page_name": "Q185453",
                 "wikipedia_pages": {
                     "ur": "ملتان"
-                }
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 316440978,
-            "country": 586,
-            "level1area": [
-                "pkis"
-            ],
-            "level2area": null,
-            "names": {
-                "ar": "إسلام آباد",
-                "az": "İslamabad",
-                "be": "Ісламабад",
-                "bg": "Исламабад",
-                "bn": "ইসলামাবাদ",
-                "ckb": "ئیسلاماباد",
-                "cs": "Islámábád",
-                "de": "Islamabad",
-                "el": "Ισλαμαμπάντ",
-                "en": "Islamabad",
-                "eo": "Islamabado",
-                "es": "Islamabad",
-                "et": "Islāmābād",
-                "eu": "Islamabad",
-                "fa": "اسلام‌آباد",
-                "fr": "Islamabad",
-                "he": "איסלמבד",
-                "hi": "इस्लामाबाद",
-                "hr": "Islamabad",
-                "hu": "Iszlámábád",
-                "hy": "Իսլամաբադ",
-                "is": "Islamabad",
-                "it": "Islamabad",
-                "ja": "イスラーマーバード首都圏;イスラマバード",
-                "ka": "ისლამაბადი",
-                "kk": "Исламабад",
-                "kn": "ಇಸ್ಲಾಮಾಬಾದ್",
-                "ko": "이슬라마바드",
-                "lt": "Islamabadas",
-                "lv": "Islāmābāda",
-                "mk": "Исламабад",
-                "ml": "ഇസ്ലാമബാദ്",
-                "mn": "Исламабад",
-                "mr": "इस्लामाबाद",
-                "ne": "इस्लामाबाद",
-                "os": "Исламабад",
-                "pa": "ਇਸਲਾਮਾਬਾਦ",
-                "pl": "Islamabad",
-                "pt": "Território da Capital Islamabad",
-                "ru": "Исламабад",
-                "sk": "Islamabad",
-                "sq": "Islamabadi",
-                "sr": "Исламабад",
-                "sv": "Islamabad",
-                "ta": "இஸ்லாமாபாத்",
-                "te": "ఇస్లామాబాద్",
-                "tg": "Исламабад",
-                "th": "อิสลามาบัด",
-                "tr": "İslamabad",
-                "ug": "ئىسلامئاباد",
-                "uk": "Ісламабад",
-                "ur": "اسلام آباد",
-                "vi": "Islamabad"
-            },
-            "place_type": 67,
-            "population": 1009832,
-            "latitude": 33.6938118,
-            "longitude": 73.0651511,
-            "geocell": 4452130,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 316440978,
-                "open_street_map_place": "city",
-                "postal_codes": [
-                    "44000"
-                ],
-                "wikidata_page_name": "Q1362",
-                "wikipedia_pages": {
-                    "en": "Islamabad"
                 }
             }
         }
@@ -6096,6 +6021,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "মিথি",
                 "de": "Mithi",
                 "en": "Mithi",
                 "es": "Mithi",
@@ -6380,6 +6306,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "শরকোট",
                 "en": "Shorkot",
                 "ru": "Шоркот",
                 "ur": "شورکوٹ"
@@ -7754,6 +7681,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "মাতলী",
                 "de": "Matli",
                 "en": "Matli",
                 "es": "Matli",

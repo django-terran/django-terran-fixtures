@@ -73949,5 +73949,31 @@
                 "wikipedia_pages": {}
             }
         }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12224030785,
+            "country": 626,
+            "level1area": [
+                "tlmt"
+            ],
+            "level2area": null,
+            "names": {
+                "pt": "Bahareduk"
+            },
+            "place_type": 86,
+            "population": 400,
+            "latitude": -8.7061735,
+            "longitude": 125.9641543,
+            "geocell": 2926259,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12224030785,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
     }
 ]

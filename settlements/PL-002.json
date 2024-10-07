@@ -2,110 +2,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 3009767674,
-            "country": 616,
-            "level1area": [
-                "pl18"
-            ],
-            "level2area": null,
-            "names": {
-                "pl": "Zadział"
-            },
-            "place_type": 72,
-            "population": 0,
-            "latitude": 50.1988889,
-            "longitude": 21.7127778,
-            "geocell": 5045617,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 3009767674,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 3009767675,
-            "country": 616,
-            "level1area": [
-                "pl30"
-            ],
-            "level2area": null,
-            "names": {
-                "pl": "Zadzie"
-            },
-            "place_type": 72,
-            "population": 0,
-            "latitude": 51.8977147,
-            "longitude": 16.8804695,
-            "geocell": 5106768,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 3009767675,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 3009767676,
-            "country": 616,
-            "level1area": [
-                "pl12"
-            ],
-            "level2area": null,
-            "names": {
-                "pl": "Zadziela"
-            },
-            "place_type": 72,
-            "population": 0,
-            "latitude": 49.9205556,
-            "longitude": 21.2222222,
-            "geocell": 5038412,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 3009767676,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 3009767677,
-            "country": 616,
-            "level1area": [
-                "pl12"
-            ],
-            "level2area": null,
-            "names": {
-                "pl": "Zadziela"
-            },
-            "place_type": 72,
-            "population": 0,
-            "latitude": 49.9559161,
-            "longitude": 19.9028502,
-            "geocell": 5038399,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 3009767677,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 3009767678,
             "country": 616,
             "level1area": [
@@ -58362,7 +58258,7 @@
             ],
             "level2area": null,
             "names": {
-                "pl": "Ziemroska"
+                "pl": "Ziemrośka"
             },
             "place_type": 72,
             "population": 0,
@@ -106740,6 +106636,7 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Marienhof",
                 "pl": "Marianków"
             },
             "place_type": 72,
@@ -131182,32 +131079,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 8567608787,
-            "country": 616,
-            "level1area": [
-                "pl24"
-            ],
-            "level2area": null,
-            "names": {
-                "pl": "Kępa"
-            },
-            "place_type": 72,
-            "population": 0,
-            "latitude": 49.7273557,
-            "longitude": 18.693064,
-            "geocell": 5031186,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 8567608787,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 8575811437,
             "country": 616,
             "level1area": [
@@ -139162,6 +139033,7 @@
             ],
             "level2area": null,
             "names": {
+                "de": "Elbinger Fahrwasser",
                 "pl": "Ujście"
             },
             "place_type": 72,
@@ -142317,6 +142189,138 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 12172075185,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12197510886,
+            "country": 616,
+            "level1area": [
+                "pl02"
+            ],
+            "level2area": null,
+            "names": {
+                "pl": "Wilkowa Mała"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 51.3438744,
+            "longitude": 16.9013341,
+            "geocell": 5088769,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12197510886,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12197771606,
+            "country": 616,
+            "level1area": [
+                "pl16"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Leopoldsberg",
+                "pl": "Chwałkowice"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 50.6722416,
+            "longitude": 17.8561506,
+            "geocell": 5063578,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12197771606,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12197771607,
+            "country": 616,
+            "level1area": [
+                "pl16"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Übersprung",
+                "pl": "Przeskok"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 50.6569563,
+            "longitude": 17.9321405,
+            "geocell": 5063579,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12197771607,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12199013017,
+            "country": 616,
+            "level1area": [
+                "pl32"
+            ],
+            "level2area": null,
+            "names": {
+                "pl": "Kolonia Osówko"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 53.9111464,
+            "longitude": 16.0697095,
+            "geocell": 5182360,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12199013017,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12205043128,
+            "country": 616,
+            "level1area": [
+                "pl12"
+            ],
+            "level2area": null,
+            "names": {
+                "pl": "Zagrody"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 49.8137494,
+            "longitude": 19.7832454,
+            "geocell": 5034797,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12205043128,
                 "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}

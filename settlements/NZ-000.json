@@ -2509,6 +2509,7 @@
                 "open_street_map_id": 176779676,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "website": "https://westcoast.co.nz/visit/operators/haast-township/",
                 "wikidata_page_name": "Q1026492",
                 "wikipedia_pages": {
                     "en": "Haast, New Zealand"
@@ -9114,35 +9115,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 321553623,
-            "country": 554,
-            "level1area": [
-                "nztas"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Lower Moutere"
-            },
-            "place_type": 72,
-            "population": 1840,
-            "latitude": -41.137119,
-            "longitude": 172.9913811,
-            "geocell": 1760329,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 321553623,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikidata_page_name": "Q25661977",
-                "wikipedia_pages": {
-                    "en": "Lower Moutere"
-                }
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 321553706,
             "country": 554,
             "level1area": [
@@ -14250,32 +14222,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 971884527,
-            "country": 554,
-            "level1area": [
-                "nzstl"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Greenhills"
-            },
-            "place_type": 72,
-            "population": 0,
-            "latitude": -46.54515,
-            "longitude": 168.30484,
-            "geocell": 1565883,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 971884527,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 971884581,
             "country": 554,
             "level1area": [
@@ -18808,16 +18754,19 @@
             },
             "place_type": 72,
             "population": 0,
-            "latitude": -43.9732984,
-            "longitude": 168.61363,
+            "latitude": -43.9731639,
+            "longitude": 168.6136803,
             "geocell": 1659486,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 1109681116,
                 "open_street_map_place": "hamlet",
                 "postal_codes": [],
+                "website": "https://westcoast.co.nz/visit/operators/jackson-bay/",
                 "wikidata_page_name": "Q1645922",
-                "wikipedia_pages": {}
+                "wikipedia_pages": {
+                    "en": "Jackson Bay"
+                }
             }
         }
     },
@@ -57460,6 +57409,33 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 10859868544,
+            "country": 554,
+            "level1area": [
+                "nzstl"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Greenhills"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -46.5467366,
+            "longitude": 168.3010364,
+            "geocell": 1565883,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 10859868544,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q97495736",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 10882875445,
             "country": 554,
             "level1area": [
@@ -57828,6 +57804,32 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 12054358809,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12200456251,
+            "country": 554,
+            "level1area": [
+                "nzstl"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Coopers Creek"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -46.4820379,
+            "longitude": 168.2987894,
+            "geocell": 1569482,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12200456251,
                 "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}

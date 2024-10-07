@@ -3577,6 +3577,7 @@
                 "open_street_map_id": 1546163016,
                 "open_street_map_place": "hamlet",
                 "postal_codes": [],
+                "wikidata_page_name": "Q24960677",
                 "wikipedia_pages": {}
             }
         }
@@ -43209,32 +43210,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 11203186769,
-            "country": 222,
-            "level1area": [
-                "svso"
-            ],
-            "level2area": null,
-            "names": {
-                "es": "Colonia La Pradera"
-            },
-            "place_type": 72,
-            "population": 0,
-            "latitude": 13.6798605,
-            "longitude": -89.746654,
-            "geocell": 3730502,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 11203186769,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 11247156600,
             "country": 222,
             "level1area": [
@@ -46736,6 +46711,32 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 12177716563,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12196375714,
+            "country": 222,
+            "level1area": [
+                "svli"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Entre Rios"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.7545314,
+            "longitude": -89.4105552,
+            "geocell": 3734105,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12196375714,
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}

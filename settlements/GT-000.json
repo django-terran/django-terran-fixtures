@@ -7991,7 +7991,10 @@
                 "open_street_map_id": 2064883157,
                 "open_street_map_place": "village",
                 "postal_codes": [],
-                "wikipedia_pages": {}
+                "wikidata_page_name": "Q1748852",
+                "wikipedia_pages": {
+                    "en": "Santa Cruz Muluá"
+                }
             }
         }
     },
@@ -14063,8 +14066,8 @@
             },
             "place_type": 72,
             "population": 0,
-            "latitude": 15.6941774,
-            "longitude": -91.8666693,
+            "latitude": 15.6946783,
+            "longitude": -91.8673452,
             "geocell": 3802481,
             "expando": {
                 "open_street_map_type": "node",
@@ -18796,6 +18799,32 @@
                 "open_street_map_type": "node",
                 "open_street_map_id": 4099941425,
                 "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 4111127202,
+            "country": 320,
+            "level1area": [
+                "gt12"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Vega del Volcan"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.161712,
+            "longitude": -92.087446,
+            "geocell": 3784479,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 4111127202,
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -32680,58 +32709,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 6595282017,
-            "country": 320,
-            "level1area": [
-                "gt16"
-            ],
-            "level2area": null,
-            "names": {
-                "es": "Zona 12"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": 15.4637458,
-            "longitude": -90.4028761,
-            "geocell": 3795295,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 6595282017,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 6595282018,
-            "country": 320,
-            "level1area": [
-                "gt16"
-            ],
-            "level2area": null,
-            "names": {
-                "es": "Zona 5"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": 15.4752221,
-            "longitude": -90.3967911,
-            "geocell": 3795296,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 6595282018,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 6595282019,
             "country": 320,
             "level1area": [
@@ -32749,32 +32726,6 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 6595282019,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 6595282020,
-            "country": 320,
-            "level1area": [
-                "gt16"
-            ],
-            "level2area": null,
-            "names": {
-                "es": "Zona 2"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": 15.4680089,
-            "longitude": -90.3793297,
-            "geocell": 3795296,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 6595282020,
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
@@ -32827,58 +32778,6 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 6595282022,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 6595282023,
-            "country": 320,
-            "level1area": [
-                "gt16"
-            ],
-            "level2area": null,
-            "names": {
-                "es": "Zona 3"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": 15.4682514,
-            "longitude": -90.3683209,
-            "geocell": 3795296,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 6595282023,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 6595282024,
-            "country": 320,
-            "level1area": [
-                "gt16"
-            ],
-            "level2area": null,
-            "names": {
-                "es": "Zona 4"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": 15.473986,
-            "longitude": -90.3684314,
-            "geocell": 3795296,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 6595282024,
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
@@ -33233,7 +33132,7 @@
             ],
             "level2area": null,
             "names": {
-                "es": "Nueva Concepción (El Olvido)"
+                "es": "Nueva Concepción"
             },
             "place_type": 72,
             "population": 0,
@@ -58980,7 +58879,7 @@
             "names": {
                 "es": "El Garitón"
             },
-            "place_type": 72,
+            "place_type": 86,
             "population": 0,
             "latitude": 13.9245219,
             "longitude": -90.6037562,
@@ -58988,7 +58887,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 11800308754,
-                "open_street_map_place": "hamlet",
+                "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -86824,7 +86723,7 @@
             ],
             "level2area": null,
             "names": {
-                "es": "Sector Mejia Pelico"
+                "es": "Sector Mejía Pelico"
             },
             "place_type": 72,
             "population": 0,
@@ -93640,8 +93539,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 14.9086773,
-            "longitude": -91.4359474,
+            "latitude": 14.9016686,
+            "longitude": -91.4404535,
             "geocell": 3777285,
             "expando": {
                 "open_street_map_type": "node",
@@ -120530,6 +120429,4322 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 12181337727,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12182157045,
+            "country": 320,
+            "level1area": [
+                "gt10"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Comunidad Pradera"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.3201721,
+            "longitude": -91.1579847,
+            "geocell": 3755688,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12182157045,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12182157046,
+            "country": 320,
+            "level1area": [
+                "gt10"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Comunidad San José El Carmen"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.3135086,
+            "longitude": -91.1585319,
+            "geocell": 3755688,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12182157046,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12182232660,
+            "country": 320,
+            "level1area": [
+                "gt10"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Comunidad El Tesoro Nueva Esperanza"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.3183425,
+            "longitude": -91.1820334,
+            "geocell": 3755688,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12182232660,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12182245058,
+            "country": 320,
+            "level1area": [
+                "gt10"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Esfuerzo de los Vicentes Coyolate"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.3437686,
+            "longitude": -91.1418164,
+            "geocell": 3755688,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12182245058,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12184254091,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Dulce Nombre"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 14.622112,
+            "longitude": -90.2710748,
+            "geocell": 3766497,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12184254091,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12184263293,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Jocotales"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.6399049,
+            "longitude": -90.2366674,
+            "geocell": 3766497,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12184263293,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12184263294,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Culebra"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.6332509,
+            "longitude": -90.2538872,
+            "geocell": 3766497,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12184263294,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12184337610,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Barrancón"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.6196361,
+            "longitude": -90.2790034,
+            "geocell": 3766497,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12184337610,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12184337611,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Sanguayabá"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 14.6231502,
+            "longitude": -90.2886754,
+            "geocell": 3766497,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12184337611,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12184899770,
+            "country": 320,
+            "level1area": [
+                "gt21"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Ciprés"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.5909554,
+            "longitude": -90.2493167,
+            "geocell": 3762897,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12184899770,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12184899771,
+            "country": 320,
+            "level1area": [
+                "gt21"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Joya del Mora"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.5877471,
+            "longitude": -90.2419031,
+            "geocell": 3762897,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12184899771,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12184899772,
+            "country": 320,
+            "level1area": [
+                "gt21"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Santa Marta"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.5904051,
+            "longitude": -90.2450037,
+            "geocell": 3762897,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12184899772,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12184899773,
+            "country": 320,
+            "level1area": [
+                "gt21"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Las Mesas"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.5833083,
+            "longitude": -90.2356643,
+            "geocell": 3762897,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12184899773,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12184922937,
+            "country": 320,
+            "level1area": [
+                "gt21"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Durazno"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.5700226,
+            "longitude": -90.2350581,
+            "geocell": 3762897,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12184922937,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12184954063,
+            "country": 320,
+            "level1area": [
+                "gt21"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Nicolás"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.5601059,
+            "longitude": -90.2581626,
+            "geocell": 3762897,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12184954063,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12184955305,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Soledad Colorado"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 14.556679,
+            "longitude": -90.2683282,
+            "geocell": 3762897,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12184955305,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12185175501,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Yumanes"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 14.471183,
+            "longitude": -90.3996223,
+            "geocell": 3759296,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12185175501,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12185175502,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Villas Pradera"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.4574439,
+            "longitude": -90.3961301,
+            "geocell": 3759296,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12185175502,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186221559,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Parras"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.4700715,
+            "longitude": -90.3260976,
+            "geocell": 3759296,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186221559,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186235389,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Parritas"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.4747514,
+            "longitude": -90.3193653,
+            "geocell": 3759296,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186235389,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186239839,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Joya del Cañal"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.4489143,
+            "longitude": -90.3111202,
+            "geocell": 3759296,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186239839,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186239840,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Sabanetas"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 14.461828,
+            "longitude": -90.3128421,
+            "geocell": 3759296,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186239840,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186435227,
+            "country": 320,
+            "level1area": [
+                "gt18"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Las Veguitas"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.6125336,
+            "longitude": -88.7363255,
+            "geocell": 3802512,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186435227,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186435228,
+            "country": 320,
+            "level1area": [
+                "gt18"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Las Pacayas"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.6179403,
+            "longitude": -88.7527728,
+            "geocell": 3802512,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186435228,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186453638,
+            "country": 320,
+            "level1area": [
+                "gt18"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Mancalito"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.6023606,
+            "longitude": -88.7741339,
+            "geocell": 3802512,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186453638,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186475684,
+            "country": 320,
+            "level1area": [
+                "gt18"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Sebalan"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.6091237,
+            "longitude": -88.7426662,
+            "geocell": 3802512,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186475684,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186475685,
+            "country": 320,
+            "level1area": [
+                "gt18"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Las Jaras"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.6302281,
+            "longitude": -88.7106031,
+            "geocell": 3802512,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186475685,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186610526,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Libertad"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.9138219,
+            "longitude": -90.4276514,
+            "geocell": 3813295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186610526,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186610527,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Pedro El Limón"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.9315572,
+            "longitude": -90.4246581,
+            "geocell": 3813295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186610527,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186610528,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Comunidad Las Papayas"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.9066097,
+            "longitude": -90.4074866,
+            "geocell": 3813295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186610528,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186627365,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Nuevo Sinaí Rubelsanto"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.9494456,
+            "longitude": -90.4132533,
+            "geocell": 3813295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186627365,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186708313,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Yalcachtí"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 15.9443083,
+            "longitude": -90.3389293,
+            "geocell": 3813296,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186708313,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186708314,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Palestina"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 15.924294,
+            "longitude": -90.3718802,
+            "geocell": 3813296,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186708314,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186963931,
+            "country": 320,
+            "level1area": [
+                "gt19"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Espinilla"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.1033922,
+            "longitude": -89.5292294,
+            "geocell": 3784504,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186963931,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186964427,
+            "country": 320,
+            "level1area": [
+                "gt19"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Jones"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.1134809,
+            "longitude": -89.5451295,
+            "geocell": 3784504,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186964427,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186997076,
+            "country": 320,
+            "level1area": [
+                "gt19"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Cajón de Jones"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.1238798,
+            "longitude": -89.539867,
+            "geocell": 3784504,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186997076,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187008588,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Comunidad Agrícola Tierra Linda"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.9799781,
+            "longitude": -90.3750908,
+            "geocell": 3813296,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187008588,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187008589,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Limón Sur"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.9693645,
+            "longitude": -90.4711944,
+            "geocell": 3813295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187008589,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187014293,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Tierra Blanca"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.9996155,
+            "longitude": -90.4004324,
+            "geocell": 3813295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187014293,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187022823,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Comunidad Quimalá"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 16.0251958,
+            "longitude": -90.4227591,
+            "geocell": 3816895,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187022823,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187022825,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Comunidad Senunhá"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.9951808,
+            "longitude": -90.5458617,
+            "geocell": 3813294,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187022825,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187022826,
+            "country": 320,
+            "level1area": [
+                "gt14"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Comunidad Entre Ríos"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.9969443,
+            "longitude": -90.5101454,
+            "geocell": 3813294,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187022826,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187022827,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Micro-Parcelamiento El Limón"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.9827165,
+            "longitude": -90.4796219,
+            "geocell": 3813295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187022827,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187022828,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Miguel"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.9831497,
+            "longitude": -90.4657441,
+            "geocell": 3813295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187022828,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187022980,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Paraíso"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.9353227,
+            "longitude": -90.313223,
+            "geocell": 3813296,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187022980,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187140359,
+            "country": 320,
+            "level1area": [
+                "gt19"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Naranjo"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.1543693,
+            "longitude": -89.4971395,
+            "geocell": 3784505,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187140359,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187140360,
+            "country": 320,
+            "level1area": [
+                "gt19"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Morán"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.1544288,
+            "longitude": -89.4868451,
+            "geocell": 3784505,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187140360,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187147121,
+            "country": 320,
+            "level1area": [
+                "gt19"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Tabacal"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.1424857,
+            "longitude": -89.4853431,
+            "geocell": 3784505,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187147121,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187241570,
+            "country": 320,
+            "level1area": [
+                "gt19"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Rosario"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.0837546,
+            "longitude": -89.4738391,
+            "geocell": 3780905,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187241570,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187289875,
+            "country": 320,
+            "level1area": [
+                "gt19"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Santiago"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.1071833,
+            "longitude": -89.4472986,
+            "geocell": 3784505,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187289875,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187289876,
+            "country": 320,
+            "level1area": [
+                "gt19"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Los Limones"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.1109225,
+            "longitude": -89.449541,
+            "geocell": 3784505,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187289876,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187289877,
+            "country": 320,
+            "level1area": [
+                "gt19"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Las Verapaces"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.1153608,
+            "longitude": -89.4463116,
+            "geocell": 3784505,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187289877,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188548854,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Potrero Grande"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.6627512,
+            "longitude": -90.3834915,
+            "geocell": 3766496,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188548854,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188559587,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Jocotales"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.6632702,
+            "longitude": -90.3489339,
+            "geocell": 3766496,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188559587,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188559588,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Cangrejito"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.6582569,
+            "longitude": -90.3406781,
+            "geocell": 3766496,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188559588,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188559589,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Ojo de Agua"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.6637788,
+            "longitude": -90.3544271,
+            "geocell": 3766496,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188559589,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188559590,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Los Cubes"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 14.677474,
+            "longitude": -90.3371859,
+            "geocell": 3766496,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188559590,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188606262,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Piedrona"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.6592378,
+            "longitude": -90.3673822,
+            "geocell": 3766496,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188606262,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188668254,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Los Planes"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 14.6238768,
+            "longitude": -90.3937107,
+            "geocell": 3766496,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188668254,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188668255,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Guachoco"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.6165735,
+            "longitude": -90.4130924,
+            "geocell": 3766495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188668255,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188668256,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Los Ocotes"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.6055532,
+            "longitude": -90.4145515,
+            "geocell": 3766495,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188668256,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188734469,
+            "country": 320,
+            "level1area": [
+                "gt18"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Cucharas"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.5414563,
+            "longitude": -88.7265408,
+            "geocell": 3798912,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188734469,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188734470,
+            "country": 320,
+            "level1area": [
+                "gt18"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Quebrada Grande"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.5380452,
+            "longitude": -88.7414432,
+            "geocell": 3798912,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188734470,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188735926,
+            "country": 320,
+            "level1area": [
+                "gt18"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Cerro Azul"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.5240901,
+            "longitude": -88.7838274,
+            "geocell": 3798912,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188735926,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188735927,
+            "country": 320,
+            "level1area": [
+                "gt18"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Naranjito"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.5467278,
+            "longitude": -88.7598968,
+            "geocell": 3798912,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188735927,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188735928,
+            "country": 320,
+            "level1area": [
+                "gt18"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Dartmouth"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.5161301,
+            "longitude": -88.7743485,
+            "geocell": 3798912,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188735928,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188744441,
+            "country": 320,
+            "level1area": [
+                "gt18"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Navajoa"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.5277444,
+            "longitude": -88.7221474,
+            "geocell": 3798912,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188744441,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188755508,
+            "country": 320,
+            "level1area": [
+                "gt18"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Chiclera"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.5319516,
+            "longitude": -88.7086451,
+            "geocell": 3798912,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188755508,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188755509,
+            "country": 320,
+            "level1area": [
+                "gt18"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Cayuga"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.5343756,
+            "longitude": -88.7007433,
+            "geocell": 3798912,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188755509,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188964629,
+            "country": 320,
+            "level1area": [
+                "gt05"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Los Chatos"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.9957671,
+            "longitude": -91.1149407,
+            "geocell": 3741288,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188964629,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12189096222,
+            "country": 320,
+            "level1area": [
+                "gt05"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Jerónimo"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.9473852,
+            "longitude": -91.1328685,
+            "geocell": 3741288,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12189096222,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12189931731,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Los Alcarabanes"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.974654,
+            "longitude": -90.5673409,
+            "geocell": 3741294,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12189931731,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12189976249,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Arenal"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.9244296,
+            "longitude": -90.5841798,
+            "geocell": 3741294,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12189976249,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12189981480,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Sunzo"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.9291209,
+            "longitude": -90.6372285,
+            "geocell": 3741293,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12189981480,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12194603410,
+            "country": 320,
+            "level1area": [
+                "gt05"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Güiscoyol"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.000077,
+            "longitude": -90.680852,
+            "geocell": 3744893,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12194603410,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12194622523,
+            "country": 320,
+            "level1area": [
+                "gt05"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Castaño"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 13.9883757,
+            "longitude": -90.6736636,
+            "geocell": 3741293,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12194622523,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12194840216,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Santa Luisa"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.1391246,
+            "longitude": -90.5905688,
+            "geocell": 3748494,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12194840216,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12195056097,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San José Veraminas"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.2895554,
+            "longitude": -90.5634624,
+            "geocell": 3752094,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12195056097,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12195056098,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Meléndrez"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.2927992,
+            "longitude": -90.5669975,
+            "geocell": 3752094,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12195056098,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12195322827,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Pericón"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.3367679,
+            "longitude": -90.5660105,
+            "geocell": 3755694,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12195322827,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12195322828,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Los Dolores"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 14.3386026,
+            "longitude": -90.5715627,
+            "geocell": 3755694,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12195322828,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12195399546,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Antonio"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.3628779,
+            "longitude": -90.568006,
+            "geocell": 3755694,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12195399546,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12195399547,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Los Llanos"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 14.3713432,
+            "longitude": -90.5599165,
+            "geocell": 3755694,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12195399547,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12195799660,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Colorado"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 14.331004,
+            "longitude": -90.3685677,
+            "geocell": 3755696,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12195799660,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12195826802,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Las Astas"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 14.3331765,
+            "longitude": -90.3511387,
+            "geocell": 3755696,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12195826802,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12195826803,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Junquillo"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 14.3399773,
+            "longitude": -90.3447068,
+            "geocell": 3755696,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12195826803,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12195899356,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Los Pocitos"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.3413467,
+            "longitude": -90.4023528,
+            "geocell": 3755695,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12195899356,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12195899357,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Mal País"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 14.3504937,
+            "longitude": -90.4065263,
+            "geocell": 3755695,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12195899357,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12195899358,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Canoítas"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.3558258,
+            "longitude": -90.3988499,
+            "geocell": 3755696,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12195899358,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12197179711,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Zapote"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.256366,
+            "longitude": -90.453347,
+            "geocell": 3752095,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12197179711,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12197179714,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Rodeito"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.2761118,
+            "longitude": -90.4553747,
+            "geocell": 3752095,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12197179714,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12197206651,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Los Sitios"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 14.2420678,
+            "longitude": -90.4497635,
+            "geocell": 3752095,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12197206651,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12197223241,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Cuje"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.2471581,
+            "longitude": -90.4712856,
+            "geocell": 3752095,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12197223241,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12197784329,
+            "country": 320,
+            "level1area": [
+                "gt01"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Peña Blanca"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.528525,
+            "longitude": -90.3321111,
+            "geocell": 3762896,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12197784329,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12200675006,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Bomba"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.9274808,
+            "longitude": -90.2969581,
+            "geocell": 3741297,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12200675006,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12200675007,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Selva"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.9390342,
+            "longitude": -90.2761066,
+            "geocell": 3741297,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12200675007,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12201837183,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Llano Grande"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.9635553,
+            "longitude": -90.3258563,
+            "geocell": 3741296,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12201837183,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12201887056,
+            "country": 320,
+            "level1area": [
+                "gt06"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Aguacate"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 13.8918902,
+            "longitude": -90.3030789,
+            "geocell": 3737696,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12201887056,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12202210869,
+            "country": 320,
+            "level1area": [
+                "gt08"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Xesuc"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 14.9157894,
+            "longitude": -91.4241135,
+            "geocell": 3777285,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12202210869,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12202217074,
+            "country": 320,
+            "level1area": [
+                "gt08"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Coxliquel"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9239121,
+            "longitude": -91.4362103,
+            "geocell": 3777285,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12202217074,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12203461770,
+            "country": 320,
+            "level1area": [
+                "gt18"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Lo de Enmedio"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.8457035,
+            "longitude": -88.9020109,
+            "geocell": 3809710,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12203461770,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12203461771,
+            "country": 320,
+            "level1area": [
+                "gt18"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Sarstún Creek"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.8521851,
+            "longitude": -88.8999671,
+            "geocell": 3809711,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12203461771,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12203461772,
+            "country": 320,
+            "level1area": [
+                "gt18"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Martín"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.8512562,
+            "longitude": -88.8751674,
+            "geocell": 3809711,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12203461772,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12203461773,
+            "country": 320,
+            "level1area": [
+                "gt18"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Juan"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.8584549,
+            "longitude": -88.8784075,
+            "geocell": 3809711,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12203461773,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12203507969,
+            "country": 320,
+            "level1area": [
+                "gt18"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Salvador"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.7862037,
+            "longitude": -88.8650394,
+            "geocell": 3806111,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12203507969,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12203507970,
+            "country": 320,
+            "level1area": [
+                "gt18"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Calix Creek"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.7962644,
+            "longitude": -88.8763529,
+            "geocell": 3806111,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12203507970,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12203527163,
+            "country": 320,
+            "level1area": [
+                "gt18"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Nuevo Nacimiento Calix"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.8157339,
+            "longitude": -88.8773507,
+            "geocell": 3809711,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12203527163,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12212851466,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Santo Domingo Sesoch"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.3340631,
+            "longitude": -90.2090192,
+            "geocell": 3791697,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12212851466,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12212933748,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Q'eqxibal"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.431446,
+            "longitude": -90.2049798,
+            "geocell": 3795297,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12212933748,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12212951076,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Chitepey I"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.4321027,
+            "longitude": -90.2501911,
+            "geocell": 3795297,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12212951076,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12212951077,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Sacquil"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.3640204,
+            "longitude": -90.1580948,
+            "geocell": 3791698,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12212951077,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12212958235,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Chajcoal"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.4333179,
+            "longitude": -90.2200109,
+            "geocell": 3795297,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12212958235,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214131784,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Chicacnab"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.3688258,
+            "longitude": -90.1897824,
+            "geocell": 3791698,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214131784,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214131785,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Miguel Chamil"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.3877307,
+            "longitude": -90.2215987,
+            "geocell": 3791697,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214131785,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214131786,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Santa Elena Mamachaj"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.4066701,
+            "longitude": -90.2467257,
+            "geocell": 3795297,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214131786,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214153611,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Popobaj"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.3495777,
+            "longitude": -90.2108324,
+            "geocell": 3791697,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214153611,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214165964,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Luis Popobaj"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.3527591,
+            "longitude": -90.1973194,
+            "geocell": 3791698,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214165964,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214172511,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Sactzicnil"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.4341815,
+            "longitude": -90.2644658,
+            "geocell": 3795297,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214172511,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214200150,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Caqlahib"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.4108798,
+            "longitude": -90.2700824,
+            "geocell": 3795297,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214200150,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214215316,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Libertad"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.4073631,
+            "longitude": -90.2557325,
+            "geocell": 3795297,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214215316,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214215317,
+            "country": 320,
+            "level1area": [
+                "gt16"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Chicunk"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.4001279,
+            "longitude": -90.2664882,
+            "geocell": 3795297,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214215317,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214489145,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Agua Caliente"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 14.9586489,
+            "longitude": -90.5389363,
+            "geocell": 3777294,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214489145,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214530153,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Chicruz"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.2188162,
+            "longitude": -90.5761629,
+            "geocell": 3788094,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214530153,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214535655,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Lo Reyes"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 14.8991025,
+            "longitude": -90.4683513,
+            "geocell": 3773695,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214535655,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214542427,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Amatillo"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9865322,
+            "longitude": -90.4819474,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214542427,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214544634,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Balanche"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9900067,
+            "longitude": -90.5317748,
+            "geocell": 3777294,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214544634,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214544791,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Buenos Aires"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9691383,
+            "longitude": -90.5036491,
+            "geocell": 3777294,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214544791,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214657856,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Chumumus"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9537124,
+            "longitude": -90.5021927,
+            "geocell": 3777294,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214657856,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214865184,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Carrizal"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9646554,
+            "longitude": -90.505237,
+            "geocell": 3777294,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214865184,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214879948,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Ciruelillo"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9479983,
+            "longitude": -90.457719,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214879948,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214900845,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Peñazco"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9788058,
+            "longitude": -90.4898223,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214900845,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214962490,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Zarzalito"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9603747,
+            "longitude": -90.5158639,
+            "geocell": 3777294,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214962490,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12215156299,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Guachipilin"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9836329,
+            "longitude": -90.5190826,
+            "geocell": 3777294,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12215156299,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12215161987,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Huerta"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.991385,
+            "longitude": -90.4813385,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12215161987,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12215172070,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Ciénega"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9387622,
+            "longitude": -90.4717684,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12215172070,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12215172071,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Concepción"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9649223,
+            "longitude": -90.4695958,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12215172071,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12215219921,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Pilita"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9539326,
+            "longitude": -90.4929096,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12215219921,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12215220309,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "La Troja"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9482782,
+            "longitude": -90.5131012,
+            "geocell": 3777294,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12215220309,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12216073394,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Las Colmenas"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9167873,
+            "longitude": -90.4911822,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12216073394,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12216086760,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Las Escobas"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9127829,
+            "longitude": -90.4961336,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12216086760,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12216095313,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Linda Vista"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9592397,
+            "longitude": -90.4833233,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12216095313,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12216095314,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Las Vainillas"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9309615,
+            "longitude": -90.4598701,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12216095314,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12216157882,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Los Amates"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 14.9426391,
+            "longitude": -90.4559487,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12216157882,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12216232843,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Los Jobos"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 14.9050875,
+            "longitude": -90.4599533,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12216232843,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12216264282,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Los Limones"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9416051,
+            "longitude": -90.489876,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12216264282,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12216310968,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Los Poco"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9353569,
+            "longitude": -90.4900718,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12216310968,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12216366060,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Los Lochuyes"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 14.9312414,
+            "longitude": -90.4795951,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12216366060,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12216406245,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Ojo de Agua"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 14.9111889,
+            "longitude": -90.4911661,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12216406245,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12216967298,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Santa Lucía El Pueblo"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9539326,
+            "longitude": -90.4729003,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12216967298,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12216998878,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Nicolás"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.962712,
+            "longitude": -90.527274,
+            "geocell": 3777294,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12216998878,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12216998879,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Isidro"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9578456,
+            "longitude": -90.4637969,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12216998879,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12217008292,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Santa Lucía"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9240391,
+            "longitude": -90.4707693,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12217008292,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12217029710,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Felipe"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9660754,
+            "longitude": -90.4968792,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12217029710,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12217045059,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "San Francisco"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9553682,
+            "longitude": -90.4575956,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12217045059,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12217302509,
+            "country": 320,
+            "level1area": [
+                "gt15"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Trapiche Viejo"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.9693611,
+            "longitude": -90.4861879,
+            "geocell": 3777295,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12217302509,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12217325198,
+            "country": 320,
+            "level1area": [
+                "gt22"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Brasilar"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.205512,
+            "longitude": -90.0105035,
+            "geocell": 3752099,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12217325198,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12217325199,
+            "country": 320,
+            "level1area": [
+                "gt22"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Mal Paso"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.2111804,
+            "longitude": -90.0105786,
+            "geocell": 3752099,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12217325199,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12217325200,
+            "country": 320,
+            "level1area": [
+                "gt22"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "El Estoraque"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 14.2198438,
+            "longitude": -90.0235498,
+            "geocell": 3752099,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12217325200,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12219177593,
+            "country": 320,
+            "level1area": [
+                "gt13"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Los Alisos"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.491049,
+            "longitude": -91.747148,
+            "geocell": 3795282,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12219177593,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12227886692,
+            "country": 320,
+            "level1area": [
+                "gt13"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "3 de Marzo"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.5590173,
+            "longitude": -91.7931962,
+            "geocell": 3798882,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12227886692,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12227891792,
+            "country": 320,
+            "level1area": [
+                "gt13"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Ajal"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.5085162,
+            "longitude": -91.8039894,
+            "geocell": 3798881,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12227891792,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12227910143,
+            "country": 320,
+            "level1area": [
+                "gt13"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Agua Blanca"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.5471671,
+            "longitude": -91.7329913,
+            "geocell": 3798882,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12227910143,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12228308440,
+            "country": 320,
+            "level1area": [
+                "gt13"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Campo Seco"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.5146983,
+            "longitude": -91.8190259,
+            "geocell": 3798881,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12228308440,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12228362218,
+            "country": 320,
+            "level1area": [
+                "gt13"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Buena Vista"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.5568339,
+            "longitude": -91.7718861,
+            "geocell": 3798882,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12228362218,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12228364774,
+            "country": 320,
+            "level1area": [
+                "gt13"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Canoguitas"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 15.5234492,
+            "longitude": -91.8115747,
+            "geocell": 3798881,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12228364774,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12229071218,
+            "country": 320,
+            "level1area": [
+                "gt13"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Buena Vista El Boquerón"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 15.5642445,
+            "longitude": -91.8494529,
+            "geocell": 3798881,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12229071218,
                 "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}

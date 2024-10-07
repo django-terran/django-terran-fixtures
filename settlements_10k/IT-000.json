@@ -3015,8 +3015,8 @@
             },
             "place_type": 84,
             "population": 19802,
-            "latitude": 45.5183761,
-            "longitude": 9.7550869,
+            "latitude": 45.5201998,
+            "longitude": 9.7552907,
             "geocell": 4879897,
             "expando": {
                 "open_street_map_type": "node",
@@ -5545,8 +5545,8 @@
             },
             "place_type": 84,
             "population": 12951,
-            "latitude": 45.6039807,
-            "longitude": 9.3005709,
+            "latitude": 45.6039244,
+            "longitude": 9.301397,
             "geocell": 4883493,
             "expando": {
                 "open_street_map_type": "node",
@@ -9470,6 +9470,37 @@
                 "postal_codes": [],
                 "wikidata_page_name": "Q30029393",
                 "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 64776992,
+            "country": 380,
+            "level1area": [
+                "it32"
+            ],
+            "level2area": [
+                "ittn"
+            ],
+            "names": {
+                "it": "Mori"
+            },
+            "place_type": 84,
+            "population": 10211,
+            "latitude": 45.8533795,
+            "longitude": 10.9753961,
+            "geocell": 4890709,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 64776992,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q296217",
+                "wikipedia_pages": {
+                    "it": "Mori (Italia)"
+                }
             }
         }
     },
@@ -26385,8 +26416,8 @@
             },
             "place_type": 84,
             "population": 32677,
-            "latitude": 44.5949029,
-            "longitude": 11.0529482,
+            "latitude": 44.5949319,
+            "longitude": 11.0528375,
             "geocell": 4843910,
             "expando": {
                 "open_street_map_type": "node",

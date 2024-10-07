@@ -14180,32 +14180,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 2574517922,
-            "country": 508,
-            "level1area": [
-                "mzp"
-            ],
-            "level2area": null,
-            "names": {
-                "pt": "Nacuca"
-            },
-            "place_type": 84,
-            "population": 0,
-            "latitude": -13.059822,
-            "longitude": 38.7941301,
-            "geocell": 2770587,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 2574517922,
-                "open_street_map_place": "town",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 2639424475,
             "country": 508,
             "level1area": [

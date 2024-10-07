@@ -458,8 +458,8 @@
             },
             "place_type": 67,
             "population": 126288,
-            "latitude": 43.4620412,
-            "longitude": -3.8099719,
+            "latitude": 43.4618932,
+            "longitude": -3.8100255,
             "geocell": 4804161,
             "expando": {
                 "open_street_map_type": "node",
@@ -4041,6 +4041,37 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 248456858,
+            "country": 724,
+            "level1area": [
+                "esmc"
+            ],
+            "level2area": [
+                "esmu"
+            ],
+            "names": {
+                "es": "Beniel"
+            },
+            "place_type": 84,
+            "population": 11501,
+            "latitude": 38.0457165,
+            "longitude": -1.0001532,
+            "geocell": 4609789,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 248456858,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1989408",
+                "wikipedia_pages": {
+                    "es": "Beniel"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 248480008,
             "country": 724,
             "level1area": [
@@ -5839,9 +5870,9 @@
                 "open_street_map_id": 264683073,
                 "open_street_map_place": "town",
                 "postal_codes": [],
-                "wikidata_page_name": "Q166137",
+                "wikidata_page_name": "Q20549559",
                 "wikipedia_pages": {
-                    "gl": "Carballo"
+                    "gl": "Carballo, Carballo, Carballo"
                 }
             }
         }
@@ -7207,8 +7238,8 @@
             },
             "place_type": 84,
             "population": 13205,
-            "latitude": 38.0615839,
-            "longitude": -1.0490938,
+            "latitude": 38.0614122,
+            "longitude": -1.048829,
             "geocell": 4609789,
             "expando": {
                 "open_street_map_type": "node",
@@ -10223,8 +10254,8 @@
             },
             "place_type": 84,
             "population": 42428,
-            "latitude": 37.9680342,
-            "longitude": -1.214954,
+            "latitude": 37.9702391,
+            "longitude": -1.2155314,
             "geocell": 4606187,
             "expando": {
                 "open_street_map_type": "node",
@@ -14146,8 +14177,8 @@
             },
             "place_type": 84,
             "population": 28364,
-            "latitude": 38.9880871,
-            "longitude": -0.5200052,
+            "latitude": 38.988085,
+            "longitude": -0.5200428,
             "geocell": 4642194,
             "expando": {
                 "open_street_map_type": "node",
@@ -17890,7 +17921,10 @@
                 "open_street_map_type": "node",
                 "open_street_map_id": 1470839529,
                 "open_street_map_place": "town",
-                "postal_codes": [],
+                "postal_codes": [
+                    "43800"
+                ],
+                "website": "https://www.valls.cat/",
                 "wikidata_page_name": "Q825883",
                 "wikipedia_pages": {
                     "ca": "Valls"

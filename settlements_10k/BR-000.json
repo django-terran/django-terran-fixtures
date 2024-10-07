@@ -5204,8 +5204,8 @@
             },
             "place_type": 84,
             "population": 11042,
-            "latitude": -16.1460987,
-            "longitude": -40.2948032,
+            "latitude": -16.143722,
+            "longitude": -40.2914847,
             "geocell": 2658197,
             "expando": {
                 "open_street_map_type": "node",
@@ -14212,8 +14212,8 @@
             },
             "place_type": 84,
             "population": 10540,
-            "latitude": -20.9139369,
-            "longitude": -41.1947519,
+            "latitude": -20.9155112,
+            "longitude": -41.1945086,
             "geocell": 2485388,
             "expando": {
                 "open_street_map_type": "node",
@@ -19483,7 +19483,7 @@
                 "pt": "Bragança Paulista"
             },
             "place_type": 67,
-            "population": 176811,
+            "population": 184634,
             "latitude": -22.9520235,
             "longitude": -46.5418586,
             "geocell": 2413334,
@@ -25834,7 +25834,7 @@
                 "pt": "Vargem"
             },
             "place_type": 84,
-            "population": 10512,
+            "population": 10805,
             "latitude": -22.8902379,
             "longitude": -46.4145366,
             "geocell": 2416935,
@@ -25998,7 +25998,7 @@
                 "pt": "Pinhalzinho"
             },
             "place_type": 84,
-            "population": 15224,
+            "population": 15605,
             "latitude": -22.7824349,
             "longitude": -46.5901718,
             "geocell": 2420534,
@@ -61522,33 +61522,6 @@
                 "open_street_map_place": "town",
                 "postal_codes": [],
                 "wikidata_page_name": "Q549543",
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 415522830,
-            "country": 76,
-            "level1area": [
-                "brba"
-            ],
-            "level2area": null,
-            "names": {
-                "pt": "Itanhém"
-            },
-            "place_type": 84,
-            "population": 17813,
-            "latitude": -17.1690851,
-            "longitude": -40.3283868,
-            "geocell": 2622196,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 415522830,
-                "open_street_map_place": "town",
-                "postal_codes": [],
-                "wikidata_page_name": "Q1795733",
                 "wikipedia_pages": {}
             }
         }

@@ -29985,8 +29985,8 @@
             },
             "place_type": 72,
             "population": 0,
-            "latitude": 40.8453081,
-            "longitude": 73.2449215,
+            "latitude": 40.842967,
+            "longitude": 73.2433691,
             "geocell": 4711332,
             "expando": {
                 "open_street_map_type": "node",
@@ -30178,32 +30178,6 @@
                 "open_street_map_type": "node",
                 "open_street_map_id": 2348977734,
                 "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 2348977737,
-            "country": 417,
-            "level1area": [
-                "kgo"
-            ],
-            "level2area": null,
-            "names": {
-                "ky": "Шайбек-уулу"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": 40.828458,
-            "longitude": 73.2240509,
-            "geocell": 4711332,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 2348977737,
-                "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -50599,7 +50573,7 @@
             "id": 10295528087,
             "country": 417,
             "level1area": [
-                "kgc"
+                "kggb"
             ],
             "level2area": null,
             "names": {
@@ -50869,8 +50843,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 40.8277023,
-            "longitude": 73.2160286,
+            "latitude": 40.8295642,
+            "longitude": 73.2218617,
             "geocell": 4711332,
             "expando": {
                 "open_street_map_type": "node",
@@ -52014,6 +51988,111 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 12166172191,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12184908063,
+            "country": 417,
+            "level1area": [
+                "kgc"
+            ],
+            "level2area": null,
+            "names": {
+                "ky": "Манас"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 42.9852005,
+            "longitude": 74.6588495,
+            "geocell": 4786946,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12184908063,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12184908064,
+            "country": 417,
+            "level1area": [
+                "kgn"
+            ],
+            "level2area": null,
+            "names": {
+                "ky": "Нарын-Ордо"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 41.4377769,
+            "longitude": 75.9969023,
+            "geocell": 4732959,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12184908064,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12204843918,
+            "country": 417,
+            "level1area": [
+                "kgc"
+            ],
+            "level2area": null,
+            "names": {
+                "ky": "Автовокзал"
+            },
+            "place_type": 84,
+            "population": 0,
+            "latitude": 42.9038602,
+            "longitude": 74.5237322,
+            "geocell": 4786945,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12204843918,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12218722824,
+            "country": 417,
+            "level1area": [
+                "kgo"
+            ],
+            "level2area": null,
+            "names": {
+                "ky": "Жаңы-Барак",
+                "ru": "Джаны-Барак"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 40.6546361,
+            "longitude": 72.7874361,
+            "geocell": 4704127,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12218722824,
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}

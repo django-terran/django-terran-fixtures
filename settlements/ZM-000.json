@@ -4809,8 +4809,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": -16.5640181,
-            "longitude": 26.9566801,
+            "latitude": -16.5653895,
+            "longitude": 26.9553589,
             "geocell": 2644469,
             "expando": {
                 "open_street_map_type": "node",
@@ -11855,7 +11855,7 @@
             ],
             "level2area": null,
             "names": {
-                "en": "Chitimbe"
+                "en": "Tembwe"
             },
             "place_type": 86,
             "population": 0,
@@ -30627,7 +30627,7 @@
             ],
             "level2area": null,
             "names": {
-                "en": "Chimphamba Village"
+                "en": "Chimpamba"
             },
             "place_type": 86,
             "population": 0,
@@ -30705,7 +30705,7 @@
             ],
             "level2area": null,
             "names": {
-                "en": "Manga Village"
+                "en": "Manga"
             },
             "place_type": 86,
             "population": 0,
@@ -37752,7 +37752,7 @@
             ],
             "level2area": null,
             "names": {
-                "en": "Gundani Village"
+                "en": "Gundani"
             },
             "place_type": 86,
             "population": 0,
@@ -41416,6 +41416,552 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 12182289360,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214113798,
+            "country": 894,
+            "level1area": [
+                "zm03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Eliya"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -14.5541618,
+            "longitude": 30.8583796,
+            "geocell": 2716508,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214113798,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214113799,
+            "country": 894,
+            "level1area": [
+                "zm03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Kanduza"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -14.5503666,
+            "longitude": 30.8901395,
+            "geocell": 2716508,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214113799,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214634487,
+            "country": 894,
+            "level1area": [
+                "zm03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Vizimumba"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -14.4698074,
+            "longitude": 31.0168556,
+            "geocell": 2720110,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214634487,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12218107910,
+            "country": 894,
+            "level1area": [
+                "zm03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Mtenguleni"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -13.7478634,
+            "longitude": 32.4656027,
+            "geocell": 2745324,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12218107910,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12218154156,
+            "country": 894,
+            "level1area": [
+                "zm03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Manunkhila"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -13.8376211,
+            "longitude": 32.3770408,
+            "geocell": 2741723,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12218154156,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12221857518,
+            "country": 894,
+            "level1area": [
+                "zm06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": -13.5920404,
+            "longitude": 22.7798745,
+            "geocell": 2752427,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12221857518,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12221870911,
+            "country": 894,
+            "level1area": [
+                "zm06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": -13.5915218,
+            "longitude": 22.7815653,
+            "geocell": 2752427,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12221870911,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12221896521,
+            "country": 894,
+            "level1area": [
+                "zm06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": -13.5861315,
+            "longitude": 22.7813088,
+            "geocell": 2752427,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12221896521,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12221896522,
+            "country": 894,
+            "level1area": [
+                "zm06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": -13.5866511,
+            "longitude": 22.7815324,
+            "geocell": 2752427,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12221896522,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12221896523,
+            "country": 894,
+            "level1area": [
+                "zm06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": -13.5866808,
+            "longitude": 22.7824695,
+            "geocell": 2752427,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12221896523,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12221896524,
+            "country": 894,
+            "level1area": [
+                "zm06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": -13.5862935,
+            "longitude": 22.7822702,
+            "geocell": 2752427,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12221896524,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12221896525,
+            "country": 894,
+            "level1area": [
+                "zm06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": -13.5857462,
+            "longitude": 22.782071,
+            "geocell": 2752427,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12221896525,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12221896526,
+            "country": 894,
+            "level1area": [
+                "zm06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": -13.5856158,
+            "longitude": 22.78126,
+            "geocell": 2752427,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12221896526,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12221896527,
+            "country": 894,
+            "level1area": [
+                "zm06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": -13.587982,
+            "longitude": 22.7816585,
+            "geocell": 2752427,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12221896527,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12221896528,
+            "country": 894,
+            "level1area": [
+                "zm06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": -13.5880061,
+            "longitude": 22.7823947,
+            "geocell": 2752427,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12221896528,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12221896529,
+            "country": 894,
+            "level1area": [
+                "zm06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": -13.5889074,
+            "longitude": 22.7826424,
+            "geocell": 2752427,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12221896529,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12221896530,
+            "country": 894,
+            "level1area": [
+                "zm06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": -13.59071,
+            "longitude": 22.7824831,
+            "geocell": 2752427,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12221896530,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12221896546,
+            "country": 894,
+            "level1area": [
+                "zm06"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": -13.592023,
+            "longitude": 22.7784389,
+            "geocell": 2752427,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12221896546,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12222509137,
+            "country": 894,
+            "level1area": [
+                "zm03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Chikwa"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -11.6814705,
+            "longitude": 32.7720234,
+            "geocell": 2820927,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12222509137,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12222513430,
+            "country": 894,
+            "level1area": [
+                "zm03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Buli"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -11.349912,
+            "longitude": 33.0844604,
+            "geocell": 2831730,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12222513430,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12229155001,
+            "country": 894,
+            "level1area": [
+                "zm03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Chilubanama"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -10.6849362,
+            "longitude": 32.3688446,
+            "geocell": 2856923,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12229155001,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12229385460,
+            "country": 894,
+            "level1area": [
+                "zm03"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Chibale"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -10.4948415,
+            "longitude": 32.7898556,
+            "geocell": 2864127,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12229385460,
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}

@@ -288,7 +288,7 @@
                 "te": "భరత్పూర్"
             },
             "place_type": 67,
-            "population": 143836,
+            "population": 369268,
             "latitude": 27.6806167,
             "longitude": 84.4308773,
             "geocell": 4236244,
@@ -343,6 +343,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "বিরতামোড",
                 "en": "Birtamod",
                 "ne": "बिर्तामोड"
             },
@@ -585,6 +586,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "ধনগাড়ী",
                 "de": "Dhangadhi",
                 "en": "Dhangadhi",
                 "es": "Dhangadhi",
@@ -1058,6 +1060,66 @@
                 "wikidata_page_name": "Q4863075",
                 "wikipedia_pages": {
                     "en": "Barpak"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3480075072,
+            "country": 524,
+            "level1area": [
+                "npp4"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Gaindakot",
+                "ja": "ガインダコート",
+                "ne": "गैंडाकोट"
+            },
+            "place_type": 84,
+            "population": 79349,
+            "latitude": 27.7056594,
+            "longitude": 84.391263,
+            "geocell": 4239843,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3480075072,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3481538971,
+            "country": 524,
+            "level1area": [
+                "npp1"
+            ],
+            "level2area": null,
+            "names": {
+                "bn": "উর্লাবাড়ী",
+                "en": "Urlabari City",
+                "ne": "उर्लाबारी बजार",
+                "pl": "Urlabari"
+            },
+            "place_type": 67,
+            "population": 70908,
+            "latitude": 26.6637932,
+            "longitude": 87.6380633,
+            "geocell": 4200276,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3481538971,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3427844",
+                "wikipedia_pages": {
+                    "en": "Urlabari"
                 }
             }
         }

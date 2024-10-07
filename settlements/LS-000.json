@@ -6915,8 +6915,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": -30.2598834,
-            "longitude": 27.7052702,
+            "latitude": -30.2579188,
+            "longitude": 27.7049054,
             "geocell": 2151277,
             "expando": {
                 "open_street_map_type": "node",
@@ -7152,8 +7152,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": -30.2113412,
-            "longitude": 27.6730283,
+            "latitude": -30.2112763,
+            "longitude": 27.6756247,
             "geocell": 2151276,
             "expando": {
                 "open_street_map_type": "node",
@@ -7204,8 +7204,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": -30.2073363,
-            "longitude": 27.6699388,
+            "latitude": -30.207072,
+            "longitude": 27.6696491,
             "geocell": 2151276,
             "expando": {
                 "open_street_map_type": "node",
@@ -7262,32 +7262,6 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 1401445755,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 1401445760,
-            "country": 426,
-            "level1area": [
-                "lsf"
-            ],
-            "level2area": null,
-            "names": {
-                "st": "ha Motlasie"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -30.2452883,
-            "longitude": 27.7292336,
-            "geocell": 2151277,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 1401445760,
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
@@ -16892,30 +16866,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 3457944007,
-            "country": 426,
-            "level1area": [
-                "lsf"
-            ],
-            "level2area": null,
-            "names": {},
-            "place_type": 72,
-            "population": 0,
-            "latitude": -30.1274967,
-            "longitude": 27.6287332,
-            "geocell": 2154876,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 3457944007,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 3475045446,
             "country": 426,
             "level1area": [
@@ -19481,7 +19431,7 @@
             ],
             "level2area": null,
             "names": {
-                "st": "Ha Peete Khalong la likhama"
+                "st": "Khalong-la-Likhama (Ha Peete)"
             },
             "place_type": 72,
             "population": 0,
@@ -33010,8 +32960,8 @@
             },
             "place_type": 72,
             "population": 0,
-            "latitude": -29.8216479,
-            "longitude": 28.1357717,
+            "latitude": -29.8223414,
+            "longitude": 28.1349509,
             "geocell": 2165681,
             "expando": {
                 "open_street_map_type": "node",
@@ -34310,8 +34260,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": -29.9146529,
-            "longitude": 28.028065,
+            "latitude": -29.914711,
+            "longitude": 28.0280677,
             "geocell": 2162080,
             "expando": {
                 "open_street_map_type": "node",
@@ -49656,32 +49606,6 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 11065594609,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 11065594611,
-            "country": 426,
-            "level1area": [
-                "lsa"
-            ],
-            "level2area": null,
-            "names": {
-                "st": "Likotsi"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -29.3800529,
-            "longitude": 27.4584281,
-            "geocell": 2183674,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 11065594611,
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
@@ -67898,12 +67822,12 @@
             ],
             "level2area": null,
             "names": {
-                "st": "Makhetheng Ha Makoae"
+                "st": "Makhetheng (Ha Makoae)"
             },
             "place_type": 86,
             "population": 0,
-            "latitude": -30.2961934,
-            "longitude": 28.0680674,
+            "latitude": -30.2964713,
+            "longitude": 28.0695587,
             "geocell": 2151280,
             "expando": {
                 "open_street_map_type": "node",
@@ -68004,7 +67928,7 @@
             "names": {
                 "st": "Ha Mohlori"
             },
-            "place_type": 72,
+            "place_type": 86,
             "population": 0,
             "latitude": -30.3227346,
             "longitude": 28.007133,
@@ -68012,7 +67936,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 11753676879,
-                "open_street_map_place": "hamlet",
+                "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -68028,9 +67952,9 @@
             ],
             "level2area": null,
             "names": {
-                "st": "Marakong Ha Motabola"
+                "st": "Marakong (Ha Motabola)"
             },
-            "place_type": 72,
+            "place_type": 86,
             "population": 0,
             "latitude": -30.324647,
             "longitude": 27.9932928,
@@ -68038,7 +67962,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 11753676880,
-                "open_street_map_place": "hamlet",
+                "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -68047,24 +67971,24 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 11755226139,
+            "id": 11755226142,
             "country": 426,
             "level1area": [
                 "lsg"
             ],
             "level2area": null,
             "names": {
-                "st": "Ha Peete (Moreneng)"
+                "st": "Ha Mafa"
             },
-            "place_type": 86,
+            "place_type": 72,
             "population": 0,
-            "latitude": -30.2727306,
-            "longitude": 28.1433731,
+            "latitude": -30.2745513,
+            "longitude": 28.1083381,
             "geocell": 2151281,
             "expando": {
                 "open_street_map_type": "node",
-                "open_street_map_id": 11755226139,
-                "open_street_map_place": "village",
+                "open_street_map_id": 11755226142,
+                "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -68110,8 +68034,8 @@
             },
             "place_type": 72,
             "population": 0,
-            "latitude": -30.3118106,
-            "longitude": 28.1106609,
+            "latitude": -30.31163,
+            "longitude": 28.110517,
             "geocell": 2147681,
             "expando": {
                 "open_street_map_type": "node",
@@ -68266,8 +68190,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": -30.3177798,
-            "longitude": 28.126148,
+            "latitude": -30.3177937,
+            "longitude": 28.1261614,
             "geocell": 2147681,
             "expando": {
                 "open_street_map_type": "node",
@@ -102953,8 +102877,8 @@
             },
             "place_type": 86,
             "population": 0,
-            "latitude": -30.2406425,
-            "longitude": 27.695412,
+            "latitude": -30.2406379,
+            "longitude": 27.6953771,
             "geocell": 2151276,
             "expando": {
                 "open_street_map_type": "node",
@@ -103558,6 +103482,2060 @@
                 "open_street_map_type": "node",
                 "open_street_map_id": 12176314257,
                 "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186770831,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Makhaola (Ha Sents'o)"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.2269051,
+            "longitude": 27.6317847,
+            "geocell": 2151276,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186770831,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12186770832,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Ralekone"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.2543965,
+            "longitude": 27.6968336,
+            "geocell": 2151276,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12186770832,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188743025,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Mokhoele"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.2358643,
+            "longitude": 27.7155125,
+            "geocell": 2151277,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188743025,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188743089,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Lekhafola"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.2278136,
+            "longitude": 27.7187097,
+            "geocell": 2151277,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188743089,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188743093,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Lengau"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.2243929,
+            "longitude": 27.698164,
+            "geocell": 2151276,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188743093,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188746616,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Matsekaneng (Ha Phasu)"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.2204575,
+            "longitude": 27.6996285,
+            "geocell": 2151276,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188746616,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188746758,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Qena"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.2400678,
+            "longitude": 27.6619649,
+            "geocell": 2151276,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188746758,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188746759,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Lekhotso"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.2368236,
+            "longitude": 27.6589179,
+            "geocell": 2151276,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188746759,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188746760,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Katiba"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.2476031,
+            "longitude": 27.6663101,
+            "geocell": 2151276,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188746760,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188747107,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Tlokoeng (Ha Lethoko)"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.2405452,
+            "longitude": 27.728135,
+            "geocell": 2151277,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188747107,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188747115,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Kueneng (Ha Motlatsi)"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.2455826,
+            "longitude": 27.729063,
+            "geocell": 2151277,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188747115,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188747119,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Ramokotla"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.2349698,
+            "longitude": 27.7357149,
+            "geocell": 2151277,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188747119,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188747120,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Mosito"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.2243442,
+            "longitude": 27.7338454,
+            "geocell": 2151277,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188747120,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188747207,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Pholo"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.2182186,
+            "longitude": 27.7299964,
+            "geocell": 2151277,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188747207,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188747214,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Sethunya"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.2148579,
+            "longitude": 27.7228779,
+            "geocell": 2151277,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188747214,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188747215,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Phiring (Ha Lebele)"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.2113254,
+            "longitude": 27.7183396,
+            "geocell": 2151277,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188747215,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188747216,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Makhlanyane (Ha Lepolesa)"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.205461,
+            "longitude": 27.7098369,
+            "geocell": 2151277,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188747216,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188747217,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Liqaleng"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.2165777,
+            "longitude": 27.7003097,
+            "geocell": 2151277,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188747217,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188747218,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Balebeli"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.2132585,
+            "longitude": 27.6920271,
+            "geocell": 2151276,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188747218,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188747219,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Molebeli"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.1989679,
+            "longitude": 27.702021,
+            "geocell": 2154877,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188747219,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188747220,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Mavumboka"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.207269,
+            "longitude": 27.682001,
+            "geocell": 2151276,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188747220,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188747221,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Nzima"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.2037688,
+            "longitude": 27.6907772,
+            "geocell": 2151276,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188747221,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188747222,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Thabaneng (Ha Timitia)"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.1939837,
+            "longitude": 27.6820546,
+            "geocell": 2154876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188747222,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188747223,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Motse-Mocha (Ha Seneng-neng)"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.1898825,
+            "longitude": 27.6844525,
+            "geocell": 2154876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188747223,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188747224,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Mophako"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.1915379,
+            "longitude": 27.6859921,
+            "geocell": 2154876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188747224,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188747225,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Mohau"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.1849813,
+            "longitude": 27.6812258,
+            "geocell": 2154876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188747225,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188747839,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Monyefoli"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.2169578,
+            "longitude": 27.6558763,
+            "geocell": 2151276,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188747839,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188747994,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Beketsane"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.1771583,
+            "longitude": 27.6635957,
+            "geocell": 2154876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188747994,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188748320,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Lits'oeneng"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.185394,
+            "longitude": 27.654798,
+            "geocell": 2154876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188748320,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188748396,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Mothae"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.1988033,
+            "longitude": 27.6449704,
+            "geocell": 2154876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188748396,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188748397,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Ramusi"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.1746912,
+            "longitude": 27.6001882,
+            "geocell": 2154876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188748397,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188748972,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Qhobosheaneng"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.1821017,
+            "longitude": 27.6133847,
+            "geocell": 2154876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188748972,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12188749033,
+            "country": 426,
+            "level1area": [
+                "lsf"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Matebeleng"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.1962278,
+            "longitude": 27.6375514,
+            "geocell": 2154876,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12188749033,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12202171746,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Peete"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.2746347,
+            "longitude": 28.1371343,
+            "geocell": 2151281,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12202171746,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12205947182,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Pulane"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.2821951,
+            "longitude": 28.0791128,
+            "geocell": 2151280,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12205947182,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12205947185,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Makhabane (Khakeng)"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.2630242,
+            "longitude": 28.105495,
+            "geocell": 2151281,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12205947185,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12205947197,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Ts'iu"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.2590857,
+            "longitude": 28.1216526,
+            "geocell": 2151281,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12205947197,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207256443,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Thene"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.3100762,
+            "longitude": 28.0271772,
+            "geocell": 2147680,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207256443,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207270153,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Mosoeunyane"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.2913114,
+            "longitude": 28.0126691,
+            "geocell": 2151280,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207270153,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207270656,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Leroma"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.31853,
+            "longitude": 28.061555,
+            "geocell": 2147680,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207270656,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207270788,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Thepung (Ha Khethamile)"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.3212019,
+            "longitude": 28.0461806,
+            "geocell": 2147680,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207270788,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207270789,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Sekolong (Fika-le-Mahloana)"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.3216279,
+            "longitude": 28.0382144,
+            "geocell": 2147680,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207270789,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207270790,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Polateng (Ha Natha)"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.3235542,
+            "longitude": 28.023017,
+            "geocell": 2147680,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207270790,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207270828,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Falimehang (Ha Sekei)"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.3310646,
+            "longitude": 28.0120039,
+            "geocell": 2147680,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207270828,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207270847,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Koti-Sephola (Ha Mohlori)"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.3349423,
+            "longitude": 28.0016077,
+            "geocell": 2147680,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207270847,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207270873,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Sekokoaneng (Ha Mohlori)"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.3045396,
+            "longitude": 27.9970586,
+            "geocell": 2147679,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207270873,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207270950,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha 'Malerata"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.3037291,
+            "longitude": 28.0118751,
+            "geocell": 2147680,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207270950,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207271095,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Mazimine (Ha Moqolopene)"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.2968882,
+            "longitude": 28.0195194,
+            "geocell": 2151280,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207271095,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207271227,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Tebesi"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.2801476,
+            "longitude": 28.0069077,
+            "geocell": 2151280,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207271227,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207271631,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Mokokoana"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.2853359,
+            "longitude": 28.0325282,
+            "geocell": 2151280,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207271631,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207271685,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Sheleng"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.2926269,
+            "longitude": 28.1088799,
+            "geocell": 2151281,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207271685,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207271853,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Mphaki"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.293859,
+            "longitude": 28.0976361,
+            "geocell": 2151280,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207271853,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207271964,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Teraeng (Ha Tebelo)"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.3081474,
+            "longitude": 28.0982423,
+            "geocell": 2147680,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207271964,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207271965,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Motjoli"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.3008436,
+            "longitude": 28.0886936,
+            "geocell": 2147680,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207271965,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207271966,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Tlapaneng (Ha Ts'oanyane)"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.2888008,
+            "longitude": 28.0877924,
+            "geocell": 2151280,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207271966,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207272101,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Buru"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.2928029,
+            "longitude": 28.0386436,
+            "geocell": 2151280,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207272101,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207272102,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Khohlong (Ha Rammutla)"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.2930623,
+            "longitude": 28.0449629,
+            "geocell": 2151280,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207272102,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207272103,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Mohlakaso"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.3013253,
+            "longitude": 28.0427688,
+            "geocell": 2147680,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207272103,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207272104,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Mabala"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.3047248,
+            "longitude": 28.0528003,
+            "geocell": 2147680,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207272104,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207272449,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Makoae"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.279323,
+            "longitude": 28.0575532,
+            "geocell": 2151280,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207272449,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207272450,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Molalahlaheng"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.2899681,
+            "longitude": 28.0584597,
+            "geocell": 2151280,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207272450,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12207272451,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Pokisi"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.2700388,
+            "longitude": 28.0457997,
+            "geocell": 2151280,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12207272451,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214976135,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Sekoaing"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.3332685,
+            "longitude": 27.9718137,
+            "geocell": 2147679,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214976135,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214976136,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Malothoaneng (Ha Zakia)"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.3280735,
+            "longitude": 27.9802143,
+            "geocell": 2147679,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214976136,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214976137,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Motabola"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.3259065,
+            "longitude": 27.9757512,
+            "geocell": 2147679,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214976137,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214976138,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Manyoseng (Ha Terapane)"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.321188,
+            "longitude": 27.9764539,
+            "geocell": 2147679,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214976138,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214977055,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Lexeni (Ha Motlalepula)"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.2996116,
+            "longitude": 27.9791736,
+            "geocell": 2151279,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214977055,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12230188781,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Lenyatsa"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.423064,
+            "longitude": 28.0050087,
+            "geocell": 2144080,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12230188781,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12230188782,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Ntalenyane"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.430169,
+            "longitude": 27.9965866,
+            "geocell": 2144079,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12230188782,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12230188783,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Monts'i"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.4397756,
+            "longitude": 27.9986894,
+            "geocell": 2144079,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12230188783,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12230189339,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Thibella"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.4581906,
+            "longitude": 28.0362832,
+            "geocell": 2144080,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12230189339,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12230189340,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Matheisi"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.4641555,
+            "longitude": 28.0214453,
+            "geocell": 2144080,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12230189340,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12230189491,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Tsatsane"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.4686313,
+            "longitude": 28.0063069,
+            "geocell": 2144080,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12230189491,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12230189493,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Chooko"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.4765929,
+            "longitude": 28.0217457,
+            "geocell": 2144080,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12230189493,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12230190099,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Kueneng (Ha Tsabane)"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.4947559,
+            "longitude": 28.0338183,
+            "geocell": 2144080,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12230190099,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12230190129,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Sekolong (Ha Liphapang)"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.483962,
+            "longitude": 28.0338961,
+            "geocell": 2144080,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12230190129,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12230190130,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Sekonyela"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.490628,
+            "longitude": 28.0492115,
+            "geocell": 2144080,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12230190130,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12230190163,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Lephahamela"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": -30.4953245,
+            "longitude": 28.0531973,
+            "geocell": 2144080,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12230190163,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12230190335,
+            "country": 426,
+            "level1area": [
+                "lsg"
+            ],
+            "level2area": null,
+            "names": {
+                "st": "Ha Phatsoane"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -30.4882381,
+            "longitude": 28.073287,
+            "geocell": 2144080,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12230190335,
+                "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }

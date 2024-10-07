@@ -14,6 +14,7 @@
                 "ast": "Dubái",
                 "be": "Дубай",
                 "bg": "Дубай",
+                "bn": "দুবাই",
                 "br": "Dubai",
                 "bs": "Dubai",
                 "ckb": "دوبەی",
@@ -115,6 +116,7 @@
             "level2area": null,
             "names": {
                 "ar": "العين",
+                "bn": "আল আইন",
                 "ckb": "عەین",
                 "cs": "al-Ajn",
                 "de": "al-Ain",
@@ -249,6 +251,7 @@
             "level2area": null,
             "names": {
                 "ar": "رأس الخيمة",
+                "bn": "রাস আল-খাইমা",
                 "cs": "Rás al-Chajma",
                 "de": "Ra’s al-Chaima",
                 "en": "Ras Al Khaimah",
@@ -365,6 +368,7 @@
             "level2area": null,
             "names": {
                 "ar": "الشارقة",
+                "bn": "শারজাহ",
                 "cs": "Šardžá",
                 "de": "Schardscha",
                 "en": "Sharjah",
@@ -5297,6 +5301,36 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 5951067703,
+            "country": 784,
+            "level1area": [
+                "aeaj"
+            ],
+            "level2area": null,
+            "names": {
+                "ar": "Mudayrah / Muzairah",
+                "en": "Mudayrah / Muzairah",
+                "es": "Mudayrah / Muzairah",
+                "fr": "Mudayrah / Muzairah"
+            },
+            "place_type": 67,
+            "population": 0,
+            "latitude": 24.830655,
+            "longitude": 56.0359823,
+            "geocell": 4135160,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 5951067703,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q60785373",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 5951094171,
             "country": 784,
             "level1area": [
@@ -5306,9 +5340,9 @@
             "names": {
                 "ar": "سهيلة",
                 "de": "Suhaila",
-                "en": "Suhailah",
-                "es": "Suhaila",
-                "fr": "Suhaila",
+                "en": "Suhaylah",
+                "es": "Suhaylah",
+                "fr": "Suhaylah",
                 "ml": "സുഹൈല"
             },
             "place_type": 86,
@@ -5321,6 +5355,7 @@
                 "open_street_map_id": 5951094171,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q7635234",
                 "wikipedia_pages": {}
             }
         }
@@ -5632,8 +5667,9 @@
             "level2area": null,
             "names": {
                 "ar": "الصبيغه",
-                "en": "Subaiqa",
-                "es": "Subaiqa"
+                "en": "Al Subaygha",
+                "es": "Al Subaygha",
+                "fr": "Al Subaygha"
             },
             "place_type": 86,
             "population": 0,
@@ -5645,6 +5681,7 @@
                 "open_street_map_id": 6144727686,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q130416626",
                 "wikipedia_pages": {}
             }
         }
@@ -7571,8 +7608,8 @@
             "level2area": null,
             "names": {
                 "ar": "العقة",
-                "en": "Al Aqah",
-                "es": "Al Aqah"
+                "en": "Al Aqqah",
+                "es": "Al Aqqah"
             },
             "place_type": 84,
             "population": 0,

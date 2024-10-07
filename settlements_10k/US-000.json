@@ -737,6 +737,7 @@
             "names": {
                 "en": "Flint",
                 "fa": "فلینت",
+                "he": "פלינט",
                 "ru": "Флинт",
                 "sr": "Флинт",
                 "uk": "Флінт"
@@ -982,6 +983,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "নিয় অরলিন্স",
                 "br": "Orleañs Nevez",
                 "ca": "Nova Orleans",
                 "en": "New Orleans",
@@ -2816,6 +2818,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "এল পাসো",
                 "el": "Ελ Πάσο",
                 "en": "El Paso",
                 "es": "El Paso",
@@ -4114,6 +4117,7 @@
                 "ast": "Orlando",
                 "be": "Арланда",
                 "bg": "Орландо",
+                "bn": "অরল্যান্ডো",
                 "br": "Orlando",
                 "bs": "Orlando",
                 "ca": "Orlando",
@@ -4340,6 +4344,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "স্যানফোর্ড",
                 "en": "Sanford",
                 "sr": "Санфорд"
             },
@@ -5550,10 +5555,16 @@
             ],
             "level2area": null,
             "names": {
+                "ar": "يوريكا",
                 "en": "Eureka",
+                "fa": "یوریکا",
+                "he": "יוריקה",
+                "ko": "유리카",
                 "ru": "Юрика",
                 "sr": "Јурика",
-                "uk": "Еуріка"
+                "ug": "يۇرىكا",
+                "uk": "Еуріка",
+                "ur": "یوریکا"
             },
             "place_type": 67,
             "population": 27191,
@@ -5977,8 +5988,10 @@
             ],
             "level2area": null,
             "names": {
+                "ar": "ريدينغ",
                 "be": "Рэдынг",
                 "en": "Redding",
+                "fa": "ردینگ",
                 "ru": "Реддинг",
                 "sr": "Рединг",
                 "uk": "Реддінг"
@@ -9265,8 +9278,8 @@
             },
             "place_type": 67,
             "population": 58639,
-            "latitude": 39.1698022,
-            "longitude": -119.7575628,
+            "latitude": 39.1663259,
+            "longitude": -119.7670374,
             "geocell": 4648202,
             "expando": {
                 "open_street_map_type": "node",
@@ -9478,33 +9491,6 @@
                 "wikipedia_pages": {
                     "en": "Paradise Valley, Arizona"
                 }
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 150940220,
-            "country": 840,
-            "level1area": [
-                "usor"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Interlachen"
-            },
-            "place_type": 86,
-            "population": 10242,
-            "latitude": 45.5517859,
-            "longitude": -122.4467584,
-            "geocell": 4878575,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 150940220,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikidata_page_name": "Q3815620",
-                "wikipedia_pages": {}
             }
         }
     },
@@ -15915,6 +15901,7 @@
             "level2area": null,
             "names": {
                 "ar": "توسان",
+                "bn": "টাকসন",
                 "el": "Τουσόν",
                 "en": "Tucson",
                 "he": "טוסון",
@@ -20506,6 +20493,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "য়ুমা",
                 "de": "Yuma",
                 "en": "Yuma",
                 "es": "Yuma",
@@ -21891,6 +21879,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "লাফায়েট",
                 "en": "Lafayette",
                 "ru": "Лафайетт",
                 "sr": "Лафајет"
@@ -23382,6 +23371,7 @@
             "names": {
                 "ar": "ألباكركي",
                 "bg": "Албакърки",
+                "bn": "অ্যালবাকের্কে",
                 "el": "Αλμπουκέρκη",
                 "en": "Albuquerque",
                 "es": "Albuquerque",
@@ -23455,6 +23445,7 @@
             "level2area": null,
             "names": {
                 "ar": "ممفيس",
+                "bn": "মেমফিস",
                 "en": "Memphis",
                 "ja": "メンフィス",
                 "ru": "Мемфис",
@@ -26989,8 +26980,8 @@
             },
             "place_type": 84,
             "population": 11913,
-            "latitude": 44.975041,
-            "longitude": -92.7568965,
+            "latitude": 44.9750953,
+            "longitude": -92.7554671,
             "geocell": 4857272,
             "expando": {
                 "open_street_map_type": "node",
@@ -29863,6 +29854,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "বিউমন্ট",
                 "en": "Beaumont"
             },
             "place_type": 67,
@@ -38972,6 +38964,7 @@
             "level2area": null,
             "names": {
                 "be": "Батан-Руж",
+                "bn": "ব্যাটন রুজ",
                 "en": "Baton Rouge",
                 "es": "Baton Rouge",
                 "fr": "Bâton-Rouge",
@@ -43910,7 +43903,7 @@
                 "en": "Mount Prospect"
             },
             "place_type": 84,
-            "population": 54167,
+            "population": 56852,
             "latitude": 42.0664167,
             "longitude": -87.9372908,
             "geocell": 4752920,
@@ -43919,6 +43912,7 @@
                 "open_street_map_id": 153423985,
                 "open_street_map_place": "town",
                 "postal_codes": [],
+                "website": "https://www.mountprospect.org/",
                 "wikidata_page_name": "Q995793",
                 "wikipedia_pages": {
                     "en": "Mount Prospect, Illinois"
@@ -46577,8 +46571,8 @@
             },
             "place_type": 67,
             "population": 79592,
-            "latitude": 42.7260523,
-            "longitude": -87.7825242,
+            "latitude": 42.7313756,
+            "longitude": -87.7834769,
             "geocell": 4778122,
             "expando": {
                 "open_street_map_type": "node",
@@ -48741,7 +48735,7 @@
                 "en": "New Lenox"
             },
             "place_type": 84,
-            "population": 24039,
+            "population": 27214,
             "latitude": 41.5119761,
             "longitude": -87.9656098,
             "geocell": 4734920,
@@ -48750,6 +48744,7 @@
                 "open_street_map_id": 153594751,
                 "open_street_map_place": "town",
                 "postal_codes": [],
+                "website": "https://www.newlenox.net/",
                 "wikidata_page_name": "Q2668887",
                 "wikipedia_pages": {
                     "en": "New Lenox, Illinois"
@@ -50245,6 +50240,7 @@
                 "open_street_map_id": 153646307,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "website": "https://hanoverparkillinois.org/",
                 "wikidata_page_name": "Q391077",
                 "wikipedia_pages": {
                     "en": "Hanover Park, Illinois"
@@ -51878,7 +51874,7 @@
                 "en": "Prospect Heights"
             },
             "place_type": 86,
-            "population": 16244,
+            "population": 16058,
             "latitude": 42.0953049,
             "longitude": -87.9375694,
             "geocell": 4752920,
@@ -51887,6 +51883,7 @@
                 "open_street_map_id": 153695839,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "website": "https://www.prospect-heights.il.us/",
                 "wikidata_page_name": "Q576257",
                 "wikipedia_pages": {
                     "en": "Prospect Heights, Illinois"
@@ -52492,8 +52489,8 @@
             },
             "place_type": 84,
             "population": 39613,
-            "latitude": 43.0578479,
-            "longitude": -88.1261984,
+            "latitude": 43.0615578,
+            "longitude": -88.1260678,
             "geocell": 4788918,
             "expando": {
                 "open_street_map_type": "node",
@@ -58477,7 +58474,7 @@
             "names": {
                 "en": "Portsmouth"
             },
-            "place_type": 84,
+            "place_type": 67,
             "population": 18252,
             "latitude": 38.7345374,
             "longitude": -82.9962742,
@@ -58485,7 +58482,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 153904635,
-                "open_street_map_place": "town",
+                "open_street_map_place": "city",
                 "postal_codes": [],
                 "wikidata_page_name": "Q685335",
                 "wikipedia_pages": {}
@@ -60693,6 +60690,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "টাম্পা",
                 "el": "Τάμπα",
                 "en": "Tampa",
                 "ru": "Тампа",
@@ -62000,6 +61998,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "মেলবোর্ন",
                 "en": "Melbourne",
                 "ja": "メルボーン",
                 "ru": "Мельбурн",
@@ -63042,7 +63041,7 @@
             "names": {
                 "en": "Dublin"
             },
-            "place_type": 67,
+            "place_type": 84,
             "population": 49328,
             "latitude": 40.0996009,
             "longitude": -83.1135563,
@@ -63050,7 +63049,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 154032146,
-                "open_street_map_place": "city",
+                "open_street_map_place": "town",
                 "postal_codes": [],
                 "wikidata_page_name": "Q988937",
                 "wikipedia_pages": {
@@ -66235,6 +66234,7 @@
             "names": {
                 "ar": "ميامي بيتش",
                 "bg": "Маями Бийч",
+                "bn": "মিয়ামি বিচ",
                 "ca": "Miami Beach",
                 "cs": "Miami Beach",
                 "da": "Miami Beach",
@@ -66326,6 +66326,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "সেন্ট পিটার্সবার্গ",
                 "en": "Saint Petersburg",
                 "ru": "Сент-Питерсберг",
                 "sr": "Сент Питерсбург",
@@ -66756,6 +66757,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "ওয়েস্ট পাম বিচ",
                 "en": "West Palm Beach",
                 "ru": "Уэст-Палм-Бич",
                 "sr": "Вест Палм Бич",
@@ -69086,6 +69088,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "পাম কোস্ট",
                 "en": "Palm Coast",
                 "ru": "Палм-Кост",
                 "sr": "Палм Коуст",
@@ -71966,8 +71969,8 @@
             },
             "place_type": 67,
             "population": 17933,
-            "latitude": 41.865054,
-            "longitude": -80.789809,
+            "latitude": 41.8647873,
+            "longitude": -80.7841284,
             "geocell": 4745792,
             "expando": {
                 "open_street_map_type": "node",
@@ -72103,6 +72106,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "ডেইটোনা বিচ",
                 "en": "Daytona Beach",
                 "ru": "Дейтона-Бич",
                 "sr": "Дејтона Бич",
@@ -74942,6 +74946,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "জ্যাকসনভিল",
                 "en": "Jacksonville"
             },
             "place_type": 67,
@@ -76212,7 +76217,9 @@
                 "ar": "بوفالو",
                 "ckb": "بوفالۆ",
                 "en": "Buffalo",
+                "fa": "بوفالو",
                 "ru": "Буффало",
+                "ug": "بۇفالو",
                 "uk": "Баффало"
             },
             "place_type": 67,
@@ -78764,8 +78771,8 @@
             },
             "place_type": 67,
             "population": 94324,
-            "latitude": 36.7282096,
-            "longitude": -76.5835703,
+            "latitude": 36.7281341,
+            "longitude": -76.5834683,
             "geocell": 4562234,
             "expando": {
                 "open_street_map_type": "node",
@@ -78940,9 +78947,9 @@
                 "open_street_map_id": 158380086,
                 "open_street_map_place": "village",
                 "postal_codes": [],
-                "wikidata_page_name": "Q5092374",
+                "wikidata_page_name": "Q2842510",
                 "wikipedia_pages": {
-                    "en": "Cherry Hill, Virginia"
+                    "en": "Cherry Hill, Prince William County, Virginia"
                 }
             }
         }
@@ -82820,8 +82827,8 @@
             },
             "place_type": 84,
             "population": 38051,
-            "latitude": 39.1729034,
-            "longitude": -77.2030297,
+            "latitude": 39.1728015,
+            "longitude": -77.2033435,
             "geocell": 4648627,
             "expando": {
                 "open_street_map_type": "node",
@@ -90580,7 +90587,7 @@
             "names": {
                 "en": "Holyoke"
             },
-            "place_type": 84,
+            "place_type": 67,
             "population": 38238,
             "latitude": 42.2071184,
             "longitude": -72.6075851,
@@ -90588,7 +90595,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 158819999,
-                "open_street_map_place": "town",
+                "open_street_map_place": "city",
                 "postal_codes": [],
                 "wikidata_page_name": "Q1637790",
                 "wikipedia_pages": {
@@ -94251,8 +94258,8 @@
             },
             "place_type": 84,
             "population": 46461,
-            "latitude": 41.9438129,
-            "longitude": -71.2806515,
+            "latitude": 41.9439695,
+            "longitude": -71.2804301,
             "geocell": 4749487,
             "expando": {
                 "open_street_map_type": "node",
@@ -95579,7 +95586,7 @@
             "names": {
                 "en": "Waterbury"
             },
-            "place_type": 84,
+            "place_type": 67,
             "population": 110366,
             "latitude": 41.5538091,
             "longitude": -73.0438362,
@@ -95587,7 +95594,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 158853018,
-                "open_street_map_place": "town",
+                "open_street_map_place": "city",
                 "postal_codes": [],
                 "wikidata_page_name": "Q49178",
                 "wikipedia_pages": {}
@@ -95774,7 +95781,7 @@
             "names": {
                 "en": "Meriden"
             },
-            "place_type": 84,
+            "place_type": 67,
             "population": 60868,
             "latitude": 41.5381535,
             "longitude": -72.8070435,
@@ -95782,7 +95789,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 158853409,
-                "open_street_map_place": "town",
+                "open_street_map_place": "city",
                 "postal_codes": [],
                 "wikidata_page_name": "Q54220",
                 "wikipedia_pages": {}
@@ -100721,7 +100728,7 @@
             "names": {
                 "en": "New Britain"
             },
-            "place_type": 84,
+            "place_type": 67,
             "population": 73206,
             "latitude": 41.6612104,
             "longitude": -72.7795419,
@@ -100729,7 +100736,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 158876204,
-                "open_street_map_place": "town",
+                "open_street_map_place": "city",
                 "postal_codes": [],
                 "wikidata_page_name": "Q49172",
                 "wikipedia_pages": {}
@@ -102649,8 +102656,8 @@
             },
             "place_type": 84,
             "population": 17160,
-            "latitude": 39.8242808,
-            "longitude": -74.9976673,
+            "latitude": 39.8244477,
+            "longitude": -74.9970088,
             "geocell": 4673850,
             "expando": {
                 "open_street_map_type": "node",
@@ -113974,6 +113981,7 @@
                 "open_street_map_id": 7504571159,
                 "open_street_map_place": "city",
                 "postal_codes": [],
+                "website": "https://www.stlouis-mo.gov/",
                 "wikidata_page_name": "Q38022",
                 "wikipedia_pages": {
                     "en": "St. Louis"
@@ -117770,6 +117778,35 @@
                 "wikidata_page_name": "Q6747222",
                 "wikipedia_pages": {
                     "en": "Manchester, Chesterfield County, Virginia"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12213961815,
+            "country": 840,
+            "level1area": [
+                "usct"
+            ],
+            "level2area": null,
+            "names": {
+                "en": "Killingly"
+            },
+            "place_type": 84,
+            "population": 17752,
+            "latitude": 41.8215287,
+            "longitude": -71.8415706,
+            "geocell": 4745881,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12213961815,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1741385",
+                "wikipedia_pages": {
+                    "en": "Killingly, Connecticut"
                 }
             }
         }

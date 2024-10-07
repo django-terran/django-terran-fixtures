@@ -1207,34 +1207,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 274086722,
-            "country": 454,
-            "level1area": [
-                "mwc"
-            ],
-            "level2area": [
-                "mwli"
-            ],
-            "names": {
-                "en": "Likuni"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -14.0281706,
-            "longitude": 33.7066948,
-            "geocell": 2734537,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 274086722,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 274257294,
             "country": 454,
             "level1area": [
@@ -43352,7 +43324,7 @@
                 "mwmc"
             ],
             "names": {
-                "en": "Kankhande"
+                "en": "Chulu"
             },
             "place_type": 86,
             "population": 0,

@@ -159,6 +159,7 @@
             ],
             "names": {
                 "ar": "مدينة ولز",
+                "bn": "ওয়েলস",
                 "ca": "Wells",
                 "cs": "Wells",
                 "cy": "Wells",
@@ -575,6 +576,7 @@
             ],
             "names": {
                 "ar": "تشستر",
+                "bn": "চেস্টার",
                 "cy": "Caer",
                 "el": "Τσέστερ",
                 "en": "Chester",
@@ -683,6 +685,7 @@
             ],
             "names": {
                 "ar": "ليستر",
+                "bn": "লেইস্টার",
                 "cy": "Caerlŷr",
                 "en": "Leicester",
                 "fa": "لستر",
@@ -729,6 +732,7 @@
             "names": {
                 "ast": "Lincoln, Inglaterra",
                 "be": "Лінкальн",
+                "bn": "লিংকন",
                 "en": "Lincoln",
                 "he": "לינקולן",
                 "hu": "Lincoln",
@@ -878,6 +882,7 @@
             ],
             "names": {
                 "be": "Норыдж",
+                "bn": "নরউইচ",
                 "en": "Norwich",
                 "hu": "Norwich",
                 "ko": "노리치",
@@ -1444,6 +1449,35 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 15705287,
+            "country": 826,
+            "level1area": [
+                "gbeng"
+            ],
+            "level2area": [
+                "gboxf"
+            ],
+            "names": {
+                "en": "Wantage"
+            },
+            "place_type": 84,
+            "population": 13106,
+            "latitude": 51.5878072,
+            "longitude": -1.4249258,
+            "geocell": 5095785,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 15705287,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q953957",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 15732153,
             "country": 826,
             "level1area": [
@@ -1614,6 +1648,7 @@
                 "gbpor"
             ],
             "names": {
+                "bn": "পোর্টসমাউথ",
                 "br": "Portsmouth",
                 "cy": "Llongborth",
                 "en": "Portsmouth",
@@ -1859,6 +1894,7 @@
                 "gbgls"
             ],
             "names": {
+                "bn": "গ্লুচেস্টার",
                 "cy": "Caerloyw",
                 "en": "Gloucester",
                 "hu": "Gloucester",
@@ -1998,6 +2034,7 @@
             ],
             "names": {
                 "be": "Ковентры",
+                "bn": "কভেন্ট্রি",
                 "en": "Coventry",
                 "ja": "コヴェントリー",
                 "ko": "코번트리",
@@ -2376,6 +2413,7 @@
             ],
             "names": {
                 "ar": "كانتربيري",
+                "bn": "ক্যান্টারবুরি",
                 "br": "Canterbury",
                 "cy": "Caergaint",
                 "en": "Canterbury",
@@ -2530,6 +2568,7 @@
             "names": {
                 "ar": "بليموث",
                 "be": "Плімут",
+                "bn": "প্লাইমাউথ",
                 "br": "Aberplymm",
                 "cy": "Aberplym",
                 "el": "Πλύμουθ",
@@ -2605,6 +2644,7 @@
             ],
             "names": {
                 "be": "Эксэтэр",
+                "bn": "এক্সেটার",
                 "br": "Keresk / Exeter",
                 "cy": "Caerwysg",
                 "en": "Exeter",
@@ -3001,6 +3041,7 @@
             ],
             "names": {
                 "ar": "يورك",
+                "bn": "ইয়র্ক",
                 "br": "Evrog",
                 "ckb": "یۆرک",
                 "cy": "Efrog",
@@ -3221,6 +3262,7 @@
                 "gbsnd"
             ],
             "names": {
+                "bn": "সান্ডারল্যান্ড",
                 "en": "Sunderland",
                 "hu": "Sunderland",
                 "ko": "선덜랜드",
@@ -3293,6 +3335,7 @@
             ],
             "names": {
                 "be": "Кембрыдж",
+                "bn": "কেমব্রিজ",
                 "ckb": "کامبریج",
                 "cy": "Caergrawnt",
                 "en": "Cambridge",
@@ -3748,6 +3791,7 @@
                 "gbess"
             ],
             "names": {
+                "bn": "চেমসফোর্ড",
                 "en": "Chelmsford",
                 "hu": "Chelmsford",
                 "ko": "첼름스퍼드",
@@ -3788,6 +3832,7 @@
             ],
             "names": {
                 "ar": "ويكفيلد",
+                "bn": "ওয়েকফিল্ড",
                 "en": "Wakefield",
                 "fa": "ویکفیلد",
                 "hu": "Wakefield",
@@ -3943,6 +3988,7 @@
             "names": {
                 "ar": "أبردين",
                 "be": "Абердзін",
+                "bn": "অ্যাবারডিন",
                 "cy": "Obar Dheathain",
                 "de": "Aberdeen",
                 "el": "Αμπερντίν",
@@ -3989,6 +4035,7 @@
                 "gbswa"
             ],
             "names": {
+                "bn": "সোয়ানসি",
                 "br": "Abertawe",
                 "cy": "Abertawe",
                 "el": "Σουάνση",
@@ -4038,6 +4085,7 @@
                 "az": "Stirlinq",
                 "be": "Стэрлінг",
                 "bg": "Стърлинг",
+                "bn": "স্টার্লিং",
                 "ca": "Stirling",
                 "cs": "Stirling",
                 "cy": "Sruighlea",
@@ -4184,6 +4232,7 @@
                 "ast": "Durham",
                 "be": "Дарэм",
                 "bg": "Дърам",
+                "bn": "ডারহাম",
                 "br": "Durham",
                 "ca": "Durham",
                 "cs": "Durham",
@@ -4323,6 +4372,7 @@
                 "gbpkn"
             ],
             "names": {
+                "bn": "পার্থ",
                 "cy": "Peairt",
                 "de": "Perth",
                 "en": "Perth",
@@ -4370,6 +4420,7 @@
             "names": {
                 "ar": "دندي",
                 "be": "Данды",
+                "bn": "ডান্ডি",
                 "cy": "Dùn Dèagh",
                 "en": "Dundee",
                 "fa": "داندی",
@@ -4516,6 +4567,7 @@
                 "gbhef"
             ],
             "names": {
+                "bn": "হেয়ারফোর্ড",
                 "cy": "Henffordd",
                 "en": "Hereford",
                 "hu": "Hereford",
@@ -4782,6 +4834,7 @@
                 "gbgwn"
             ],
             "names": {
+                "bn": "ব্যাংগর",
                 "br": "Bangor",
                 "cy": "Bangor",
                 "en": "Bangor",
@@ -5083,6 +5136,7 @@
                 "gbess"
             ],
             "names": {
+                "bn": "কোলচেস্টার",
                 "cy": "Caerfuddai",
                 "en": "Colchester",
                 "ru": "Колчестер",
@@ -5744,6 +5798,7 @@
                 "open_street_map_id": 21764082,
                 "open_street_map_place": "town",
                 "postal_codes": [],
+                "wikidata_page_name": "Q1215945",
                 "wikipedia_pages": {}
             }
         }
@@ -5792,6 +5847,7 @@
             ],
             "names": {
                 "ar": "ديربي",
+                "bn": "ডার্বি",
                 "en": "Derby",
                 "hu": "Derby",
                 "ko": "더비",
@@ -5833,6 +5889,7 @@
             "names": {
                 "ar": "نوتنهام",
                 "be": "Но́тынгем",
+                "bn": "নটিংহ্যাম",
                 "en": "Nottingham",
                 "fa": "ناتینگهام",
                 "hu": "Nottingham",
@@ -6007,6 +6064,7 @@
                 "gbwlv"
             ],
             "names": {
+                "bn": "ওলভারহ্যাম্পটন",
                 "en": "Wolverhampton",
                 "hu": "Wolverhampton",
                 "ja": "ウォルヴァーハンプトン",
@@ -7216,6 +7274,7 @@
                 "az": "Nyuport",
                 "be": "Ньюпарт",
                 "bg": "Нюпорт",
+                "bn": "নিউপোর্ট",
                 "br": "Casnewydd",
                 "ca": "Newport",
                 "cs": "Newport",
@@ -7331,6 +7390,7 @@
             ],
             "names": {
                 "ar": "هال",
+                "bn": "হাল",
                 "de": "Hull",
                 "en": "Hull",
                 "es": "Hull",
@@ -7491,6 +7551,7 @@
             ],
             "names": {
                 "be": "Брэдфард",
+                "bn": "ব্র্যাডফোর্ড",
                 "en": "Bradford",
                 "hu": "Bradford",
                 "ja": "ブラッドフォード",
@@ -7887,6 +7948,7 @@
             ],
             "names": {
                 "ar": "ترورو",
+                "bn": "ট্রুরো",
                 "br": "Truru",
                 "el": "Τρούρο",
                 "en": "Truro",
@@ -7926,6 +7988,7 @@
                 "gbnyk"
             ],
             "names": {
+                "bn": "রিপন",
                 "en": "Ripon",
                 "hu": "Ripon",
                 "ko": "리펀",
@@ -10816,6 +10879,37 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 27731564,
+            "country": 826,
+            "level1area": [
+                "gbeng"
+            ],
+            "level2area": [
+                "gbess"
+            ],
+            "names": {
+                "en": "Chigwell"
+            },
+            "place_type": 84,
+            "population": 12987,
+            "latitude": 51.6228333,
+            "longitude": 0.0805423,
+            "geocell": 5099400,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 27731564,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q944734",
+                "wikipedia_pages": {
+                    "en": "Chigwell"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 28219991,
             "country": 826,
             "level1area": [
@@ -12132,6 +12226,7 @@
                 "open_street_map_id": 29814353,
                 "open_street_map_place": "town",
                 "postal_codes": [],
+                "wikidata_page_name": "Q768654",
                 "wikipedia_pages": {}
             }
         }
@@ -12733,6 +12828,7 @@
                 "open_street_map_id": 30691909,
                 "open_street_map_place": "town",
                 "postal_codes": [],
+                "wikidata_page_name": "Q1617039",
                 "wikipedia_pages": {}
             }
         }
@@ -15678,6 +15774,7 @@
                 "gbwrx"
             ],
             "names": {
+                "bn": "রেক্সহ্যাম",
                 "cy": "Wrecsam",
                 "en": "Wrexham",
                 "ga": "Wrecsam",
@@ -17009,6 +17106,7 @@
                 "ar": "برستل",
                 "be": "Брысталь",
                 "bg": "Бристъл",
+                "bn": "ব্রিস্টল",
                 "br": "Bryste",
                 "cy": "Bryste",
                 "el": "Μπρίστολ",
@@ -17406,6 +17504,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "লিসবার্ন",
                 "en": "Lisburn",
                 "ga": "Lios na gCearrbhach",
                 "gd": "Lios nan Cearrbhach",
@@ -17543,7 +17642,7 @@
                 "postal_codes": [],
                 "wikidata_page_name": "Q823600",
                 "wikipedia_pages": {
-                    "en": "Chesterfield"
+                    "en": "Chesterfield, Derbyshire"
                 }
             }
         }
@@ -17591,6 +17690,7 @@
                 "gbwil"
             ],
             "names": {
+                "bn": "স্যালিসবুরি",
                 "cy": "Caersallog",
                 "el": "Σαλισβερία",
                 "en": "Salisbury",
@@ -17661,6 +17761,7 @@
                 "gbcam"
             ],
             "names": {
+                "bn": "ইলি",
                 "en": "Ely",
                 "ko": "일리",
                 "mk": "Илиџиево",
@@ -17761,6 +17862,7 @@
                 "gbham"
             ],
             "names": {
+                "bn": "উইনচেস্টার",
                 "cy": "Caerwynt",
                 "en": "Winchester",
                 "mk": "Винчестер",
@@ -18376,6 +18478,7 @@
             ],
             "names": {
                 "ar": "سوثهامبتون",
+                "bn": "সাউদাম্পটন",
                 "br": "Southampton",
                 "el": "Σαουθάμπτων",
                 "en": "Southampton",
@@ -19139,37 +19242,6 @@
                 "wikidata_page_name": "Q2569076",
                 "wikipedia_pages": {
                     "en": "March, Cambridgeshire"
-                }
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 9572939274,
-            "country": 826,
-            "level1area": [
-                "gbeng"
-            ],
-            "level2area": [
-                "gbess"
-            ],
-            "names": {
-                "en": "Chigwell"
-            },
-            "place_type": 84,
-            "population": 12987,
-            "latitude": 51.6228297,
-            "longitude": 0.0805021,
-            "geocell": 5099400,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 9572939274,
-                "open_street_map_place": "town",
-                "postal_codes": [],
-                "wikidata_page_name": "Q944734",
-                "wikipedia_pages": {
-                    "en": "Chigwell"
                 }
             }
         }

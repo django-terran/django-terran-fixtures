@@ -509,6 +509,32 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 1703669524,
+            "country": 466,
+            "level1area": [
+                "ml4"
+            ],
+            "level2area": null,
+            "names": {
+                "fr": "Dougabougou"
+            },
+            "place_type": 84,
+            "population": 26500,
+            "latitude": 13.8201359,
+            "longitude": -6.1249245,
+            "geocell": 3738538,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 1703669524,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 1703670035,
             "country": 466,
             "level1area": [

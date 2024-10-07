@@ -2,6 +2,30 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 10335992941,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": -1.0794113,
+            "longitude": 28.595155,
+            "geocell": 3202485,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 10335992941,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 10335992942,
             "country": 180,
             "level1area": [
@@ -60547,30 +60571,6 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 10920265558,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 10920265608,
-            "country": 180,
-            "level1area": [
-                "cdit"
-            ],
-            "level2area": null,
-            "names": {},
-            "place_type": 72,
-            "population": 0,
-            "latitude": 2.975451,
-            "longitude": 30.5792856,
-            "geocell": 3346505,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 10920265608,
                 "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
@@ -131075,6 +131075,934 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 12151578731,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12182665939,
+            "country": 180,
+            "level1area": [
+                "cdkl"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": -5.0493822,
+            "longitude": 19.6964173,
+            "geocell": 3058396,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12182665939,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187556954,
+            "country": 180,
+            "level1area": [
+                "cdit"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": 2.9653638,
+            "longitude": 30.6886763,
+            "geocell": 3346506,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187556954,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187556955,
+            "country": 180,
+            "level1area": [
+                "cdit"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": 2.9655228,
+            "longitude": 30.6847418,
+            "geocell": 3346506,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187556955,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12187556965,
+            "country": 180,
+            "level1area": [
+                "cdit"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": 2.947585,
+            "longitude": 30.6851805,
+            "geocell": 3346506,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12187556965,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12205982379,
+            "country": 180,
+            "level1area": [
+                "cdkg"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kindimbula"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -6.2686346,
+            "longitude": 16.7570707,
+            "geocell": 3015167,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12205982379,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12206732956,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kazaroho - Kasali"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.0676165,
+            "longitude": 29.3216203,
+            "geocell": 3202493,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12206732956,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12206766926,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Rukarara"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.0737863,
+            "longitude": 29.3017533,
+            "geocell": 3202493,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12206766926,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12211618259,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Rushashi camp"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.1242599,
+            "longitude": 29.1998301,
+            "geocell": 3198891,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12211618259,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12211662385,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Mutovu"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.099692,
+            "longitude": 29.2009391,
+            "geocell": 3202492,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12211662385,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12211669361,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Muti"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.0900358,
+            "longitude": 29.2081988,
+            "geocell": 3202492,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12211669361,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12211672444,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Mushababwe"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.1221244,
+            "longitude": 29.1966996,
+            "geocell": 3198891,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12211672444,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12211930817,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Rushashi village"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.1394319,
+            "longitude": 29.2084354,
+            "geocell": 3198892,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12211930817,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12211930819,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Mutso"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.1194104,
+            "longitude": 29.198648,
+            "geocell": 3198891,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12211930819,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12211930856,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kanyamatembé"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.1139907,
+            "longitude": 29.2009869,
+            "geocell": 3198892,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12211930856,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12212094613,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Bundasi"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.1476083,
+            "longitude": 29.21417,
+            "geocell": 3198892,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12212094613,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12212094614,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Gambiriro"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.156844,
+            "longitude": 29.2143094,
+            "geocell": 3198892,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12212094614,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12212094615,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Katovu"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.1616602,
+            "longitude": 29.2171163,
+            "geocell": 3198892,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12212094615,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12212094616,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kajagari"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.1257151,
+            "longitude": 29.2017084,
+            "geocell": 3198892,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12212094616,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214231222,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Mariba"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.107383,
+            "longitude": 29.191339,
+            "geocell": 3198891,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214231222,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214231243,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Chihishire"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.141596,
+            "longitude": 29.1963172,
+            "geocell": 3198891,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214231243,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214231244,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Musha 1"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.124882,
+            "longitude": 29.182402,
+            "geocell": 3198891,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214231244,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214231245,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Musha 2"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.1280817,
+            "longitude": 29.1795576,
+            "geocell": 3198891,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214231245,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214231246,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Makomalehe"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.13899,
+            "longitude": 29.172383,
+            "geocell": 3198891,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214231246,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214231247,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Munema"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.132083,
+            "longitude": 29.151274,
+            "geocell": 3198891,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214231247,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214231248,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Rwindi"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.13059,
+            "longitude": 29.155545,
+            "geocell": 3198891,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214231248,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214231249,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Rutiba 2"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.127935,
+            "longitude": 29.121983,
+            "geocell": 3198891,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214231249,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214231250,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Rutiba 1"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.134593,
+            "longitude": 29.118581,
+            "geocell": 3198891,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214231250,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214231262,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kahembe"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.1328591,
+            "longitude": 29.1923261,
+            "geocell": 3198891,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214231262,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214231263,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kitaka"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.1256185,
+            "longitude": 29.1968107,
+            "geocell": 3198891,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214231263,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12214245274,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Mutiri"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.1165651,
+            "longitude": 29.11731,
+            "geocell": 3198891,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12214245274,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12215804873,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Nyenyeri"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.1333042,
+            "longitude": 29.1368204,
+            "geocell": 3198891,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12215804873,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12216238046,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Katehe"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.029804,
+            "longitude": 29.2168663,
+            "geocell": 3202492,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12216238046,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12216248171,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kiko"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.0224516,
+            "longitude": 29.2121852,
+            "geocell": 3202492,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12216248171,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12216266180,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Kiseghe"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.0627644,
+            "longitude": 29.2221861,
+            "geocell": 3202492,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12216266180,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12216270349,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Katolo"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.054881,
+            "longitude": 29.2180262,
+            "geocell": 3202492,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12216270349,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12216273484,
+            "country": 180,
+            "level1area": [
+                "cdnk"
+            ],
+            "level2area": null,
+            "names": {
+                "sw": "Muho"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": -1.0188984,
+            "longitude": 29.2155989,
+            "geocell": 3202492,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12216273484,
                 "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikipedia_pages": {}

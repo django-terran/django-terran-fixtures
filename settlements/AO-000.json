@@ -54466,58 +54466,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 4789874407,
-            "country": 24,
-            "level1area": [
-                "aocnn"
-            ],
-            "level2area": null,
-            "names": {
-                "pt": "Oanhe"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -17.1818843,
-            "longitude": 16.2757377,
-            "geocell": 2622762,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 4789874407,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 4789874408,
-            "country": 24,
-            "level1area": [
-                "aocnn"
-            ],
-            "level2area": null,
-            "names": {
-                "pt": "Mulunga Washikongo"
-            },
-            "place_type": 86,
-            "population": 0,
-            "latitude": -17.2897521,
-            "longitude": 16.436611,
-            "geocell": 2619164,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 4789874408,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 4822837419,
             "country": 24,
             "level1area": [
@@ -106161,6 +106109,390 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 12179302268,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12200268284,
+            "country": 24,
+            "level1area": [
+                "aobgo"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": -8.1877193,
+            "longitude": 14.1210794,
+            "geocell": 2946741,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12200268284,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12200280016,
+            "country": 24,
+            "level1area": [
+                "aobgo"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": -8.168418,
+            "longitude": 14.1144544,
+            "geocell": 2946741,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12200280016,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12200281806,
+            "country": 24,
+            "level1area": [
+                "aobgo"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": -8.2024907,
+            "longitude": 14.1088593,
+            "geocell": 2943141,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12200281806,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12200281846,
+            "country": 24,
+            "level1area": [
+                "aobgo"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": -8.1952803,
+            "longitude": 14.111048,
+            "geocell": 2946741,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12200281846,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12200281888,
+            "country": 24,
+            "level1area": [
+                "aobgo"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": -8.1887441,
+            "longitude": 14.1149828,
+            "geocell": 2946741,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12200281888,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12208445179,
+            "country": 24,
+            "level1area": [
+                "aohua"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": -12.6837958,
+            "longitude": 15.2742655,
+            "geocell": 2784752,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12208445179,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12208445199,
+            "country": 24,
+            "level1area": [
+                "aohua"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": -12.6894362,
+            "longitude": 15.2375546,
+            "geocell": 2784752,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12208445199,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12208675244,
+            "country": 24,
+            "level1area": [
+                "aocus"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": -11.6518428,
+            "longitude": 15.1583187,
+            "geocell": 2820751,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12208675244,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12208675256,
+            "country": 24,
+            "level1area": [
+                "aocus"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": -11.6554668,
+            "longitude": 15.1895111,
+            "geocell": 2820751,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12208675256,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12208675284,
+            "country": 24,
+            "level1area": [
+                "aocus"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": -11.6758551,
+            "longitude": 15.226475,
+            "geocell": 2820752,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12208675284,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12229027604,
+            "country": 24,
+            "level1area": [
+                "aocus"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": -10.648525,
+            "longitude": 15.9212402,
+            "geocell": 2856759,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12229027604,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12229027646,
+            "country": 24,
+            "level1area": [
+                "aocus"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": -10.6277831,
+            "longitude": 15.9099849,
+            "geocell": 2856759,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12229027646,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12229027647,
+            "country": 24,
+            "level1area": [
+                "aocus"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 86,
+            "population": 0,
+            "latitude": -10.6018012,
+            "longitude": 15.892903,
+            "geocell": 2856758,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12229027647,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12229027674,
+            "country": 24,
+            "level1area": [
+                "aocus"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": -10.5992917,
+            "longitude": 16.0111897,
+            "geocell": 2860360,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12229027674,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12229027675,
+            "country": 24,
+            "level1area": [
+                "aocus"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": -10.5759795,
+            "longitude": 16.0044336,
+            "geocell": 2860360,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12229027675,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12229108049,
+            "country": 24,
+            "level1area": [
+                "aocus"
+            ],
+            "level2area": null,
+            "names": {},
+            "place_type": 72,
+            "population": 0,
+            "latitude": -10.8260728,
+            "longitude": 15.5176852,
+            "geocell": 2849555,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12229108049,
                 "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}

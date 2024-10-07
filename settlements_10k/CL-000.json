@@ -701,7 +701,7 @@
                 "es": "Batuco"
             },
             "place_type": 84,
-            "population": 11406,
+            "population": 16784,
             "latitude": -33.2300466,
             "longitude": -70.8085254,
             "geocell": 2042291,
@@ -1689,6 +1689,35 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 214206128,
+            "country": 152,
+            "level1area": [
+                "clrm"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Chicureo"
+            },
+            "place_type": 84,
+            "population": 10975,
+            "latitude": -33.2807926,
+            "longitude": -70.6367356,
+            "geocell": 2042293,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 214206128,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5096576",
+                "wikipedia_pages": {
+                    "en": "Chicureo"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 214206410,
             "country": 152,
             "level1area": [
@@ -1919,7 +1948,7 @@
                 "ru": "Койайке"
             },
             "place_type": 67,
-            "population": 44850,
+            "population": 49667,
             "latitude": -45.5711804,
             "longitude": -72.0684863,
             "geocell": 1599479,
@@ -2247,7 +2276,10 @@
                 "open_street_map_id": 214218594,
                 "open_street_map_place": "town",
                 "postal_codes": [],
-                "wikipedia_pages": {}
+                "wikidata_page_name": "Q51601",
+                "wikipedia_pages": {
+                    "es": "Purranque"
+                }
             }
         }
     },
@@ -3130,6 +3162,35 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 513541253,
+            "country": 152,
+            "level1area": [
+                "clll"
+            ],
+            "level2area": null,
+            "names": {
+                "es": "Alerce"
+            },
+            "place_type": 84,
+            "population": 42267,
+            "latitude": -41.3945202,
+            "longitude": -72.9145346,
+            "geocell": 1750670,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 513541253,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4716204",
+                "wikipedia_pages": {
+                    "en": "Alerce, Chile"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 544365254,
             "country": 152,
             "level1area": [
@@ -3909,7 +3970,7 @@
             "names": {
                 "es": "Padre Las Casas"
             },
-            "place_type": 67,
+            "place_type": 84,
             "population": 42020,
             "latitude": -38.7674245,
             "longitude": -72.5956312,
@@ -3917,7 +3978,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 4041076394,
-                "open_street_map_place": "city",
+                "open_street_map_place": "town",
                 "postal_codes": [],
                 "wikidata_page_name": "Q51063",
                 "wikipedia_pages": {

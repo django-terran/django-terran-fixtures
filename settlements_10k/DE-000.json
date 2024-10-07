@@ -220,10 +220,8 @@
                 "open_street_map_place": "city",
                 "postal_codes": [],
                 "website": "https://www.erlangen.de/",
-                "wikidata_page_name": "Q3126",
-                "wikipedia_pages": {
-                    "de": "Erlangen"
-                }
+                "wikidata_page_name": "Q117751880",
+                "wikipedia_pages": {}
             }
         }
     },
@@ -283,8 +281,8 @@
             },
             "place_type": 67,
             "population": 101744,
-            "latitude": 52.1521636,
-            "longitude": 9.9513046,
+            "latitude": 52.1527188,
+            "longitude": 9.9518083,
             "geocell": 5117499,
             "expando": {
                 "open_street_map_type": "node",
@@ -3160,6 +3158,7 @@
                 "open_street_map_id": 27402033,
                 "open_street_map_place": "town",
                 "postal_codes": [],
+                "wikidata_page_name": "Q4108",
                 "wikipedia_pages": {}
             }
         }
@@ -5513,7 +5512,7 @@
                 "de": "Extertal"
             },
             "place_type": 86,
-            "population": 11004,
+            "population": 11555,
             "latitude": 52.0906649,
             "longitude": 9.0947816,
             "geocell": 5113890,
@@ -5922,7 +5921,7 @@
                 "sr": "Ерцен"
             },
             "place_type": 84,
-            "population": 12003,
+            "population": 11204,
             "latitude": 52.0496072,
             "longitude": 9.2638158,
             "geocell": 5113892,
@@ -6811,6 +6810,35 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 31467182,
+            "country": 276,
+            "level1area": [
+                "dehe"
+            ],
+            "level2area": null,
+            "names": {
+                "de": "Karben"
+            },
+            "place_type": 84,
+            "population": 23253,
+            "latitude": 50.2313417,
+            "longitude": 8.7717673,
+            "geocell": 5049087,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 31467182,
+                "open_street_map_place": "town",
+                "postal_codes": [
+                    "61184"
+                ],
+                "website": "https://www.karben.de",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 31662003,
             "country": 276,
             "level1area": [
@@ -7191,9 +7219,7 @@
                 "open_street_map_type": "node",
                 "open_street_map_id": 33050286,
                 "open_street_map_place": "town",
-                "postal_codes": [
-                    "73642"
-                ],
+                "postal_codes": [],
                 "wikidata_page_name": "Q82421",
                 "wikipedia_pages": {}
             }
@@ -8326,8 +8352,8 @@
             },
             "place_type": 84,
             "population": 15890,
-            "latitude": 47.8378039,
-            "longitude": 12.9781408,
+            "latitude": 47.8409723,
+            "longitude": 12.9823914,
             "geocell": 4962729,
             "expando": {
                 "open_street_map_type": "node",
@@ -8425,9 +8451,7 @@
                     "91217"
                 ],
                 "wikidata_page_name": "Q116860633",
-                "wikipedia_pages": {
-                    "de": "Hersbruck"
-                }
+                "wikipedia_pages": {}
             }
         }
     },
@@ -9419,35 +9443,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 38848589,
-            "country": 276,
-            "level1area": [
-                "dehe"
-            ],
-            "level2area": null,
-            "names": {
-                "de": "Pohlheim"
-            },
-            "place_type": 84,
-            "population": 18000,
-            "latitude": 50.5165524,
-            "longitude": 8.7345921,
-            "geocell": 5059887,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 38848589,
-                "open_street_map_place": "town",
-                "postal_codes": [],
-                "wikidata_page_name": "Q569668",
-                "wikipedia_pages": {
-                    "de": "Pohlheim"
-                }
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 39694054,
             "country": 276,
             "level1area": [
@@ -9787,7 +9782,7 @@
             "names": {
                 "de": "Maxhütte-Haidhof"
             },
-            "place_type": 86,
+            "place_type": 84,
             "population": 10513,
             "latitude": 49.1987299,
             "longitude": 12.0959905,
@@ -9795,7 +9790,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 46909450,
-                "open_street_map_place": "village",
+                "open_street_map_place": "town",
                 "postal_codes": [
                     "93142"
                 ],
@@ -10261,8 +10256,8 @@
             },
             "place_type": 84,
             "population": 28347,
-            "latitude": 48.2036863,
-            "longitude": 11.3311557,
+            "latitude": 48.2077801,
+            "longitude": 11.3278779,
             "geocell": 4977113,
             "expando": {
                 "open_street_map_type": "node",
@@ -11238,7 +11233,7 @@
                 "postal_codes": [
                     "88410"
                 ],
-                "wikidata_page_name": "Q506838",
+                "wikidata_page_name": "Q56440026",
                 "wikipedia_pages": {}
             }
         }
@@ -11891,11 +11886,7 @@
                 "open_street_map_type": "node",
                 "open_street_map_id": 61278905,
                 "open_street_map_place": "town",
-                "postal_codes": [
-                    "73525",
-                    "73527",
-                    "73529"
-                ],
+                "postal_codes": [],
                 "wikidata_page_name": "Q4037",
                 "wikipedia_pages": {
                     "de": "Schwäbisch Gmünd"
@@ -12357,8 +12348,8 @@
             },
             "place_type": 84,
             "population": 58769,
-            "latitude": 48.4716556,
-            "longitude": 7.944378,
+            "latitude": 48.4695984,
+            "longitude": 7.9429235,
             "geocell": 4984279,
             "expando": {
                 "open_street_map_type": "node",
@@ -14138,8 +14129,8 @@
             },
             "place_type": 84,
             "population": 12516,
-            "latitude": 47.7965862,
-            "longitude": 11.0670713,
+            "latitude": 47.7996665,
+            "longitude": 11.0655229,
             "geocell": 4959110,
             "expando": {
                 "open_street_map_type": "node",
@@ -17332,37 +17323,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 240026912,
-            "country": 276,
-            "level1area": [
-                "dehe"
-            ],
-            "level2area": null,
-            "names": {
-                "de": "Lich"
-            },
-            "place_type": 84,
-            "population": 13009,
-            "latitude": 50.5201683,
-            "longitude": 8.8165535,
-            "geocell": 5059888,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 240026912,
-                "open_street_map_place": "town",
-                "postal_codes": [
-                    "35423"
-                ],
-                "wikidata_page_name": "Q632282",
-                "wikipedia_pages": {
-                    "de": "Lich"
-                }
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 240027005,
             "country": 276,
             "level1area": [
@@ -17490,9 +17450,11 @@
             "level2area": null,
             "names": {
                 "de": "Lüneburg",
+                "es": "Luneburgo",
                 "fr": "Lunebourg",
                 "he": "לינבורג",
                 "it": "Luneburgo",
+                "pt": "Luneburgo",
                 "ru": "Люнебург"
             },
             "place_type": 84,
@@ -17668,6 +17630,7 @@
                 "open_street_map_id": 240028881,
                 "open_street_map_place": "town",
                 "postal_codes": [],
+                "wikidata_page_name": "Q225002",
                 "wikipedia_pages": {}
             }
         }
@@ -18387,7 +18350,7 @@
                 "uz": "Flensburg",
                 "vi": "Flensburg"
             },
-            "place_type": 67,
+            "place_type": 84,
             "population": 93112,
             "latitude": 54.7833021,
             "longitude": 9.4333264,
@@ -18395,7 +18358,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 240033839,
-                "open_street_map_place": "city",
+                "open_street_map_place": "town",
                 "postal_codes": [
                     "24937",
                     "24939",
@@ -18750,10 +18713,8 @@
                 "postal_codes": [
                     "91207"
                 ],
-                "wikidata_page_name": "Q504334",
-                "wikipedia_pages": {
-                    "de": "Lauf an der Pegnitz"
-                }
+                "wikidata_page_name": "Q117751124",
+                "wikipedia_pages": {}
             }
         }
     },
@@ -20000,10 +19961,8 @@
                 "open_street_map_place": "town",
                 "postal_codes": [],
                 "website": "https://www.roethenbach.de/",
-                "wikidata_page_name": "Q521204",
-                "wikipedia_pages": {
-                    "de": "Röthenbach an der Pegnitz"
-                }
+                "wikidata_page_name": "Q117751184",
+                "wikipedia_pages": {}
             }
         }
     },
@@ -20483,7 +20442,7 @@
             "names": {
                 "de": "Schöneiche bei Berlin"
             },
-            "place_type": 86,
+            "place_type": 84,
             "population": 12014,
             "latitude": 52.4782896,
             "longitude": 13.6971638,
@@ -20491,7 +20450,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 240046187,
-                "open_street_map_place": "village",
+                "open_street_map_place": "town",
                 "postal_codes": [
                     "15566"
                 ],
@@ -20680,8 +20639,8 @@
             },
             "place_type": 84,
             "population": 11925,
-            "latitude": 50.1159826,
-            "longitude": 9.8932996,
+            "latitude": 50.1152207,
+            "longitude": 9.8904404,
             "geocell": 5045498,
             "expando": {
                 "open_street_map_type": "node",
@@ -20864,8 +20823,8 @@
             },
             "place_type": 84,
             "population": 11180,
-            "latitude": 48.5878287,
-            "longitude": 8.6052271,
+            "latitude": 48.5851784,
+            "longitude": 8.6014741,
             "geocell": 4987886,
             "expando": {
                 "open_street_map_type": "node",
@@ -21387,8 +21346,8 @@
             },
             "place_type": 84,
             "population": 12972,
-            "latitude": 49.1887934,
-            "longitude": 12.5224323,
+            "latitude": 49.1964174,
+            "longitude": 12.5166987,
             "geocell": 5009525,
             "expando": {
                 "open_street_map_type": "node",
@@ -24169,9 +24128,7 @@
                 "open_street_map_type": "node",
                 "open_street_map_id": 240069216,
                 "open_street_map_place": "town",
-                "postal_codes": [
-                    "78239"
-                ],
+                "postal_codes": [],
                 "wikidata_page_name": "Q62010",
                 "wikipedia_pages": {}
             }
@@ -26198,8 +26155,8 @@
             },
             "place_type": 84,
             "population": 31923,
-            "latitude": 53.0096048,
-            "longitude": 9.039649,
+            "latitude": 53.0120987,
+            "longitude": 9.0360486,
             "geocell": 5149890,
             "expando": {
                 "open_street_map_type": "node",
@@ -29765,10 +29722,9 @@
                 "open_street_map_id": 240102157,
                 "open_street_map_place": "town",
                 "postal_codes": [
-                    "78234",
                     "78234"
                 ],
-                "website": "https://www.engen.de/start",
+                "website": "https://www.engen.de",
                 "wikidata_page_name": "Q515527",
                 "wikipedia_pages": {}
             }
@@ -29835,8 +29791,8 @@
             },
             "place_type": 84,
             "population": 19665,
-            "latitude": 48.5307122,
-            "longitude": 8.0783998,
+            "latitude": 48.5308586,
+            "longitude": 8.078657,
             "geocell": 4987880,
             "expando": {
                 "open_street_map_type": "node",
@@ -30218,8 +30174,8 @@
             },
             "place_type": 84,
             "population": 10890,
-            "latitude": 48.4862289,
-            "longitude": 9.2567639,
+            "latitude": 48.4863794,
+            "longitude": 9.2584259,
             "geocell": 4984292,
             "expando": {
                 "open_street_map_type": "node",
@@ -31151,8 +31107,8 @@
             },
             "place_type": 84,
             "population": 12729,
-            "latitude": 48.2433959,
-            "longitude": 10.3634009,
+            "latitude": 48.2430587,
+            "longitude": 10.3631004,
             "geocell": 4977103,
             "expando": {
                 "open_street_map_type": "node",
@@ -31994,9 +31950,9 @@
             },
             "place_type": 67,
             "population": 209779,
-            "latitude": 50.0012314,
-            "longitude": 8.2762513,
-            "geocell": 5041882,
+            "latitude": 49.9995205,
+            "longitude": 8.2736253,
+            "geocell": 5038282,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 240116263,
@@ -35961,7 +35917,7 @@
                 "open_street_map_place": "town",
                 "postal_codes": [],
                 "website": "https://neheim.de/",
-                "wikidata_page_name": "Q31607699",
+                "wikidata_page_name": "Q26696033",
                 "wikipedia_pages": {}
             }
         }
@@ -37867,10 +37823,8 @@
                     "91541"
                 ],
                 "website": "https://www.rothenburg.de/",
-                "wikidata_page_name": "Q153494",
-                "wikipedia_pages": {
-                    "de": "Rothenburg ob der Tauber"
-                }
+                "wikidata_page_name": "Q117728366",
+                "wikipedia_pages": {}
             }
         }
     },
@@ -39882,8 +39836,8 @@
             },
             "place_type": 84,
             "population": 19821,
-            "latitude": 47.7610641,
-            "longitude": 11.5582933,
+            "latitude": 47.7610013,
+            "longitude": 11.559607,
             "geocell": 4959115,
             "expando": {
                 "open_street_map_type": "node",
@@ -41165,11 +41119,7 @@
                 "postal_codes": [
                     "88069"
                 ],
-                "website": "https://www.tettnang.de",
-                "wikidata_page_name": "Q506323",
-                "wikipedia_pages": {
-                    "de": "Tettnang"
-                }
+                "wikipedia_pages": {}
             }
         }
     },

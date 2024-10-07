@@ -506,6 +506,7 @@
                 "open_street_map_id": 52218295,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q2672315",
                 "wikipedia_pages": {}
             }
         }
@@ -1930,7 +1931,7 @@
             ],
             "names": {
                 "en": "Broadford",
-                "ga": "Áth Leathen"
+                "ga": "Áth Leathan"
             },
             "place_type": 86,
             "population": 0,
@@ -3829,6 +3830,7 @@
                 "open_street_map_id": 52222677,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q2545878",
                 "wikipedia_pages": {}
             }
         }
@@ -7326,7 +7328,8 @@
                 "iemo"
             ],
             "names": {
-                "en": "Irishtown"
+                "en": "Irishtown",
+                "ga": "An Baile Gaelach"
             },
             "place_type": 86,
             "population": 0,
@@ -7338,6 +7341,7 @@
                 "open_street_map_id": 52238772,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q3776633",
                 "wikipedia_pages": {}
             }
         }
@@ -9288,6 +9292,7 @@
                 "open_street_map_id": 52241243,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q4852139",
                 "wikipedia_pages": {}
             }
         }
@@ -10391,6 +10396,36 @@
                 "open_street_map_id": 52242316,
                 "open_street_map_place": "town",
                 "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52242332,
+            "country": 372,
+            "level1area": [
+                "iec"
+            ],
+            "level2area": [
+                "iemo"
+            ],
+            "names": {
+                "en": "Attymass",
+                "ga": "Áth Tí an Mheasaigh"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 54.0511738,
+            "longitude": -9.0829122,
+            "geocell": 5185709,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52242332,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2084736",
                 "wikipedia_pages": {}
             }
         }
@@ -12571,6 +12606,7 @@
                 "open_street_map_id": 52244287,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q3775887",
                 "wikipedia_pages": {}
             }
         }
@@ -14022,7 +14058,10 @@
                 "open_street_map_id": 52245636,
                 "open_street_map_place": "village",
                 "postal_codes": [],
-                "wikipedia_pages": {}
+                "wikidata_page_name": "Q3680912",
+                "wikipedia_pages": {
+                    "en": "Cloondara"
+                }
             }
         }
     },
@@ -14817,6 +14856,7 @@
                 "open_street_map_id": 52246399,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q2642247",
                 "wikipedia_pages": {}
             }
         }
@@ -15862,17 +15902,18 @@
                 "iece"
             ],
             "names": {
-                "en": "O'Callaghansmills"
+                "en": "O'Callaghansmills",
+                "ga": "Muilte Uí Cheallacháin"
             },
-            "place_type": 72,
+            "place_type": 86,
             "population": 0,
-            "latitude": 52.8411942,
-            "longitude": -8.6843131,
+            "latitude": 52.8414275,
+            "longitude": -8.6806224,
             "geocell": 5142513,
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 52248015,
-                "open_street_map_place": "hamlet",
+                "open_street_map_place": "village",
                 "postal_codes": [],
                 "wikidata_page_name": "Q4340900",
                 "wikipedia_pages": {}
@@ -16924,6 +16965,34 @@
                 "wikipedia_pages": {
                     "en": "Ardpatrick, County Limerick"
                 }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 52249743,
+            "country": 372,
+            "level1area": [
+                "iec"
+            ],
+            "level2area": [
+                "iemo"
+            ],
+            "names": {
+                "en": "Aghleam"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 54.1182038,
+            "longitude": -10.1012564,
+            "geocell": 5189298,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 52249743,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
             }
         }
     },
@@ -18084,7 +18153,8 @@
                 "iemo"
             ],
             "names": {
-                "en": "Balla"
+                "en": "Balla",
+                "ga": "Balla"
             },
             "place_type": 86,
             "population": 0,
@@ -18096,6 +18166,7 @@
                 "open_street_map_id": 52251531,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q805124",
                 "wikipedia_pages": {}
             }
         }
@@ -18342,6 +18413,7 @@
                 "open_street_map_id": 52251630,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q15238466",
                 "wikipedia_pages": {}
             }
         }
@@ -19099,6 +19171,7 @@
                 "open_street_map_id": 52252274,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q2588715",
                 "wikipedia_pages": {}
             }
         }
@@ -19488,6 +19561,7 @@
                 "open_street_map_id": 52253152,
                 "open_street_map_place": "hamlet",
                 "postal_codes": [],
+                "wikidata_page_name": "Q4328355",
                 "wikipedia_pages": {}
             }
         }
@@ -20394,6 +20468,7 @@
                 "open_street_map_id": 52253770,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q3776385",
                 "wikipedia_pages": {}
             }
         }
@@ -21547,6 +21622,7 @@
                 "open_street_map_id": 52254528,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q4882038",
                 "wikipedia_pages": {}
             }
         }
@@ -23046,6 +23122,7 @@
                 "open_street_map_id": 52256714,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q4220575",
                 "wikipedia_pages": {}
             }
         }
@@ -23489,6 +23566,7 @@
                 "open_street_map_id": 52257088,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q2084408",
                 "wikipedia_pages": {}
             }
         }
@@ -25882,6 +25960,7 @@
                 "open_street_map_id": 52259029,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q2275864",
                 "wikipedia_pages": {}
             }
         }
@@ -25910,6 +25989,7 @@
                 "open_street_map_id": 52259062,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q1004903",
                 "wikipedia_pages": {}
             }
         }
@@ -26091,6 +26171,7 @@
                 "open_street_map_id": 52259170,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q2077208",
                 "wikipedia_pages": {}
             }
         }
@@ -27305,8 +27386,8 @@
             },
             "place_type": 86,
             "population": 144,
-            "latitude": 52.3501556,
-            "longitude": -9.6240567,
+            "latitude": 52.3501687,
+            "longitude": -9.624856,
             "geocell": 5124503,
             "expando": {
                 "open_street_map_type": "node",
@@ -29342,6 +29423,7 @@
                 "open_street_map_id": 52261438,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q4852072",
                 "wikipedia_pages": {}
             }
         }
@@ -32856,6 +32938,7 @@
                 "open_street_map_id": 52268941,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q7862290",
                 "wikipedia_pages": {
                     "en": "Tóin an tSeanbhaile"
                 }
@@ -32947,6 +33030,7 @@
                 "open_street_map_id": 52268976,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q3776251",
                 "wikipedia_pages": {}
             }
         }
@@ -33158,6 +33242,7 @@
                 "open_street_map_id": 52269121,
                 "open_street_map_place": "hamlet",
                 "postal_codes": [],
+                "wikidata_page_name": "Q4328304",
                 "wikipedia_pages": {}
             }
         }
@@ -35198,6 +35283,7 @@
                 "open_street_map_id": 52271620,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q302197",
                 "wikipedia_pages": {}
             }
         }
@@ -37599,6 +37685,7 @@
                 "open_street_map_id": 267762565,
                 "open_street_map_place": "town",
                 "postal_codes": [],
+                "wikidata_page_name": "Q116787",
                 "wikipedia_pages": {}
             }
         }
@@ -38016,6 +38103,7 @@
                 "open_street_map_id": 267762604,
                 "open_street_map_place": "town",
                 "postal_codes": [],
+                "wikidata_page_name": "Q2421009",
                 "wikipedia_pages": {}
             }
         }
@@ -39532,6 +39620,7 @@
                 "open_street_map_id": 267762797,
                 "open_street_map_place": "town",
                 "postal_codes": [],
+                "wikidata_page_name": "Q1249441",
                 "wikipedia_pages": {}
             }
         }
@@ -39832,6 +39921,7 @@
                 "open_street_map_id": 267762830,
                 "open_street_map_place": "town",
                 "postal_codes": [],
+                "wikidata_page_name": "Q1625366",
                 "wikipedia_pages": {}
             }
         }
@@ -40388,6 +40478,7 @@
                 "open_street_map_id": 267762896,
                 "open_street_map_place": "town",
                 "postal_codes": [],
+                "wikidata_page_name": "Q1973774",
                 "wikipedia_pages": {}
             }
         }
@@ -41800,6 +41891,7 @@
                 "open_street_map_id": 267763088,
                 "open_street_map_place": "town",
                 "postal_codes": [],
+                "wikidata_page_name": "Q58125",
                 "wikipedia_pages": {}
             }
         }
@@ -42405,6 +42497,7 @@
                 "open_street_map_id": 267763148,
                 "open_street_map_place": "town",
                 "postal_codes": [],
+                "wikidata_page_name": "Q1025604",
                 "wikipedia_pages": {}
             }
         }
@@ -43057,6 +43150,7 @@
                 "open_street_map_id": 278022041,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikidata_page_name": "Q5429634",
                 "wikipedia_pages": {}
             }
         }
@@ -49278,34 +49372,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 956335471,
-            "country": 372,
-            "level1area": [
-                "iel"
-            ],
-            "level2area": [
-                "ield"
-            ],
-            "names": {
-                "en": "Toome"
-            },
-            "place_type": 72,
-            "population": 0,
-            "latitude": 53.8464559,
-            "longitude": -7.4886316,
-            "geocell": 5178525,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 956335471,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 956335476,
             "country": 372,
             "level1area": [
@@ -55354,6 +55420,7 @@
             ],
             "level2area": null,
             "names": {
+                "bn": "লিসবার্ন",
                 "en": "Lisburn",
                 "ga": "Lios na gCearrbhach",
                 "gd": "Lios nan Cearrbhach",
@@ -58941,34 +59008,6 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 1827469883,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 1827990624,
-            "country": 372,
-            "level1area": [
-                "iel"
-            ],
-            "level2area": [
-                "ield"
-            ],
-            "names": {
-                "en": "Drumhalry"
-            },
-            "place_type": 72,
-            "population": 0,
-            "latitude": 53.9129944,
-            "longitude": -7.5980606,
-            "geocell": 5182124,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 1827990624,
                 "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
@@ -76258,7 +76297,8 @@
                 "ield"
             ],
             "names": {
-                "en": "Derryhaun"
+                "en": "Derryhaun",
+                "ga": "Doireachán Mór"
             },
             "place_type": 86,
             "population": 0,
@@ -80601,34 +80641,6 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 2313453623,
-            "country": 372,
-            "level1area": [
-                "iel"
-            ],
-            "level2area": [
-                "ieoy"
-            ],
-            "names": {
-                "en": "Blundell Aquaduct"
-            },
-            "place_type": 72,
-            "population": 0,
-            "latitude": 53.3282557,
-            "longitude": -7.036258,
-            "geocell": 5160529,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 2313453623,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 2313453625,
             "country": 372,
             "level1area": [
@@ -81804,34 +81816,6 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 2506608536,
-                "open_street_map_place": "hamlet",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
-            "id": 2508149753,
-            "country": 372,
-            "level1area": [
-                "iec"
-            ],
-            "level2area": [
-                "ieg"
-            ],
-            "names": {
-                "en": "Gubanillaun"
-            },
-            "place_type": 72,
-            "population": 0,
-            "latitude": 53.629484,
-            "longitude": -9.8833176,
-            "geocell": 5171301,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 2508149753,
                 "open_street_map_place": "hamlet",
                 "postal_codes": [],
                 "wikipedia_pages": {}
@@ -96159,7 +96143,8 @@
                 "ield"
             ],
             "names": {
-                "en": "Moyne"
+                "en": "Moyne",
+                "ga": "An Mhaighean"
             },
             "place_type": 86,
             "population": 0,
@@ -99993,27 +99978,86 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 12177234768,
+            "id": 12199080741,
+            "country": 372,
+            "level1area": [
+                "iec"
+            ],
+            "level2area": [
+                "ieg"
+            ],
+            "names": {
+                "en": "Cappataggle"
+            },
+            "place_type": 72,
+            "population": 0,
+            "latitude": 53.2755688,
+            "longitude": -8.4112144,
+            "geocell": 5156915,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12199080741,
+                "open_street_map_place": "hamlet",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5036134",
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12211616083,
             "country": 372,
             "level1area": [
                 "iel"
             ],
             "level2area": [
-                "ieww"
+                "iekk"
             ],
             "names": {
-                "en": "Monastery"
+                "en": "Milepost Village"
             },
             "place_type": 86,
             "population": 0,
-            "latitude": 53.2037317,
-            "longitude": -6.1706427,
-            "geocell": 5156938,
+            "latitude": 52.2757478,
+            "longitude": -7.0813547,
+            "geocell": 5120929,
             "expando": {
                 "open_street_map_type": "node",
-                "open_street_map_id": 12177234768,
+                "open_street_map_id": 12211616083,
                 "open_street_map_place": "village",
                 "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 12228506310,
+            "country": 372,
+            "level1area": [
+                "iec"
+            ],
+            "level2area": [
+                "iemo"
+            ],
+            "names": {
+                "en": "Strade",
+                "ga": "An tSráid"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 53.9212174,
+            "longitude": -9.131012,
+            "geocell": 5182108,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 12228506310,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2017534",
                 "wikipedia_pages": {}
             }
         }
