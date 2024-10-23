@@ -8,6 +8,7 @@
                 "syhl"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "حلب",
                 "ca": "Alep",
@@ -68,6 +69,7 @@
                 "syha"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "القامشلي",
                 "ca": "AlQamixli",
@@ -86,7 +88,7 @@
                 "ja": "カーミシュリー",
                 "ko": "카므실리",
                 "lt": "Kamišlis",
-                "ml": "ഖാമിശ്ലി",
+                "ml": "ഖാമിഷ്ലി",
                 "pl": "Kamiszli",
                 "ru": "Аль-Камишли",
                 "tr": "Kamışlı",
@@ -119,6 +121,7 @@
                 "syha"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "القحطانية",
                 "ckb": "تربەسپی",
@@ -157,6 +160,7 @@
                 "syla"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "اللاذقية",
                 "ckb": "لازقیە",
@@ -212,22 +216,25 @@
                 "syta"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "بانياس",
-                "en": "Baniyas",
+                "de": "Banjas",
+                "en": "Banyas",
                 "es": "Baniás",
-                "fr": "Baniyas",
+                "fr": "Banias",
                 "he": "בניאס",
                 "ja": "バニヤース",
+                "ko": "반야스",
                 "lt": "Banijasas",
                 "ml": "ബാനിയാസ്",
-                "ru": "Банияс",
+                "ru": "Баняс",
                 "uk": "Баніяс"
             },
             "place_type": 84,
-            "population": 43151,
-            "latitude": 35.1820319,
-            "longitude": 35.9449068,
+            "population": 41632,
+            "latitude": 35.185136,
+            "longitude": 35.9477821,
             "geocell": 4505759,
             "expando": {
                 "open_street_map_type": "node",
@@ -250,6 +257,7 @@
                 "syta"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "طرطوس",
                 "ckb": "تەرتووس",
@@ -298,6 +306,7 @@
                 "syhi"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الرستن",
                 "cs": "ar-Rastan",
@@ -337,6 +346,7 @@
                 "syhl"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "منبج",
                 "ckb": "منبج",
@@ -380,6 +390,7 @@
                 "syra"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "معدان",
                 "en": "Ma'adan",
@@ -410,6 +421,7 @@
                 "sydy"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "البوكمال",
                 "de": "al-Bukamal",
@@ -456,6 +468,7 @@
                 "syhl"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "السفيرة",
                 "de": "as-Safira",
@@ -492,6 +505,7 @@
                 "syid"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "إدلب",
                 "ckb": "ئیدلیب",
@@ -543,6 +557,7 @@
                 "syhm"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "السلمية",
                 "ckb": "سەلەمیە",
@@ -589,6 +604,7 @@
                 "syid"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "أريحا",
                 "ckb": "ئەریحا",
@@ -631,6 +647,7 @@
                 "syrd"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "القطيفة",
                 "de": "al-Kuteifa",
@@ -669,6 +686,7 @@
                 "syrd"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "التل",
                 "de": "at-Tall",
@@ -707,6 +725,7 @@
                 "syrd"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الزبداني",
                 "de": "as-Sabadani",
@@ -745,6 +764,7 @@
                 "sydr"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الحارة",
                 "de": "al-Hara",
@@ -773,12 +793,51 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 270919468,
+            "country": 760,
+            "level1area": [
+                "sydr"
+            ],
+            "level2area": null,
+            "version": 20241024,
+            "names": {
+                "ar": "جاسم",
+                "de": "Dschasim",
+                "en": "Jasim",
+                "fr": "Djasime",
+                "he": "ג׳אסם",
+                "ja": "ジャーシム",
+                "ko": "자심",
+                "ml": "ജാസിം",
+                "ru": "Джасим"
+            },
+            "place_type": 84,
+            "population": 31683,
+            "latitude": 32.9909125,
+            "longitude": 36.0608068,
+            "geocell": 4426560,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 270919468,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q4116040",
+                "wikipedia_pages": {
+                    "ar": "جاسم"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 550013424,
             "country": 760,
             "level1area": [
                 "syha"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الرميلان",
                 "ckb": "ڕمێلان",
@@ -809,6 +868,7 @@
                 "syrd"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الغزلانية",
                 "de": "al-Gislanija",
@@ -839,12 +899,47 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 567038363,
+            "country": 760,
+            "level1area": [
+                "syrd"
+            ],
+            "level2area": null,
+            "version": 20241024,
+            "names": {
+                "ar": "الهامة",
+                "de": "al-Hama",
+                "en": "Al-Hama",
+                "fr": "Al-Hama",
+                "he": "אל-האמה",
+                "ja": "アル゠ハーマ",
+                "ko": "알하마",
+                "ru": "Аль-Хама"
+            },
+            "place_type": 84,
+            "population": 10045,
+            "latitude": 33.5637554,
+            "longitude": 36.224733,
+            "geocell": 4448162,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 567038363,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 567044303,
             "country": 760,
             "level1area": [
                 "syrd"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "دوما",
                 "cs": "Dúmá",
@@ -882,12 +977,86 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 567044304,
+            "country": 760,
+            "level1area": [
+                "syrd"
+            ],
+            "level2area": null,
+            "version": 20241024,
+            "names": {
+                "ar": "بطيحة الوافدين",
+                "de": "Betihet al-Wafedin",
+                "en": "Betihet al-Wafedin",
+                "fr": "Betihet al-Ouafedine",
+                "he": "בטיחת אל-וואפדין",
+                "ja": "ベティヘトゥ・アル゠ワーフェディーン",
+                "ko": "베티헤트알와프딘",
+                "ru": "Бетихет-ал-Вафедин"
+            },
+            "place_type": 84,
+            "population": 16539,
+            "latitude": 33.5963802,
+            "longitude": 36.433231,
+            "geocell": 4448164,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 567044304,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 567045696,
+            "country": 760,
+            "level1area": [
+                "sydi"
+            ],
+            "level2area": null,
+            "version": 20241024,
+            "names": {
+                "ar": "اليرموك",
+                "de": "al-Jarmuk",
+                "el": "αλ Γιαρμούκ",
+                "en": "Al-Yarmuk",
+                "fr": "Yarmouk",
+                "he": "אל-ירמוך",
+                "ja": "アル゠ヤルムーク",
+                "ko": "야르무크",
+                "ml": "അൽ-യർമൂക്ക്",
+                "ru": "Аль-Ярмук"
+            },
+            "place_type": 67,
+            "population": 137248,
+            "latitude": 33.4724791,
+            "longitude": 36.3048029,
+            "geocell": 4444563,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 567045696,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q2918779",
+                "wikipedia_pages": {
+                    "ar": "مخيم اليرموك"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 567046783,
             "country": 760,
             "level1area": [
                 "syrd"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الكسوة",
                 "de": "al-Kiswa",
@@ -925,6 +1094,7 @@
                 "syrd"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "المليحة",
                 "de": "al-Muleiha",
@@ -959,6 +1129,7 @@
                 "syrd"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الصبورة",
                 "de": "as-Sabura",
@@ -992,6 +1163,7 @@
                 "sydr"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "غباغيب",
                 "de": "Ghabaghib",
@@ -1023,6 +1195,7 @@
                 "sydr"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الشيخ مسكين",
                 "de": "asch-Scheich Miskin",
@@ -1057,6 +1230,7 @@
                 "sydr"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "ازرع",
                 "de": "Isra",
@@ -1094,11 +1268,16 @@
                 "sydr"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "بصر الحرير",
-                "en": "Busra al Hariri",
-                "fr": "Basr al Harir",
-                "ru": "Бусра-эль-Харири"
+                "de": "Basr al-Harir",
+                "en": "Basr al-Harir",
+                "fr": "Basr al-Harir",
+                "he": "בסר אל-חריר",
+                "ja": "バスル・アル゠ハリール",
+                "ko": "바스르알하리르",
+                "ru": "Баср-аль-Харир"
             },
             "place_type": 84,
             "population": 13315,
@@ -1123,6 +1302,7 @@
                 "sydr"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الحراك",
                 "de": "al-Hirak",
@@ -1157,6 +1337,7 @@
                 "sydr"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الكرك",
                 "de": "al-Karak",
@@ -1190,6 +1371,7 @@
                 "sysu"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "السويداء",
                 "cs": "Suvajda",
@@ -1236,6 +1418,7 @@
                 "syha"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "المالكية",
                 "ckb": "دێرک",
@@ -1279,6 +1462,7 @@
                 "syha"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "المناجير",
                 "de": "al-Manadschir",
@@ -1312,6 +1496,7 @@
                 "syid"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "سرمدا",
                 "de": "Sarmada",
@@ -1343,6 +1528,7 @@
                 "syid"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "حارم",
                 "bg": "Харим",
@@ -1381,12 +1567,16 @@
                 "syid"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "بنش",
-                "de": "Binnish",
+                "de": "Binisch",
                 "en": "Binnish",
-                "fr": "Binnish",
-                "ru": "Бинниш"
+                "fr": "Biniche",
+                "he": "בנש",
+                "ja": "ビニシ",
+                "ko": "비니슈",
+                "ru": "Биниш"
             },
             "place_type": 84,
             "population": 21848,
@@ -1412,6 +1602,7 @@
                 "syid"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الفوعة",
                 "de": "al-Foa",
@@ -1448,6 +1639,7 @@
                 "sydr"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "إبطع",
                 "de": "Ibta",
@@ -1482,6 +1674,7 @@
                 "sydr"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "أنخل",
                 "de": "Ankhal",
@@ -1515,6 +1708,7 @@
                 "sydr"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الصنمين",
                 "de": "as-Sanamein",
@@ -1555,6 +1749,7 @@
                 "syrd"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الضمير",
                 "de": "ad-Dumeir",
@@ -1592,6 +1787,7 @@
                 "syrd"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الرحيبة",
                 "de": "ar-Raheiba",
@@ -1626,6 +1822,7 @@
                 "syrd"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "النشابية",
                 "de": "an-Naschabija",
@@ -1663,6 +1860,7 @@
                 "syrd"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "البحدلية",
                 "de": "al-Bahdalija",
@@ -1696,17 +1894,21 @@
                 "syhi"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "تل ذهب",
-                "de": "Tall Dhahab",
-                "en": "Tall Dhahab",
-                "fr": "Tall Dhahab",
-                "ru": "Телль-эд-Дахаб"
+                "de": "Tell Dahab",
+                "en": "Tell Dahab",
+                "fr": "Tell Dahab",
+                "he": "תל ד׳הב",
+                "ja": "タッル・ダハブ",
+                "ko": "탈다하브",
+                "ru": "Талль-Дахаб"
             },
             "place_type": 84,
             "population": 12055,
-            "latitude": 34.9134644,
-            "longitude": 36.4922168,
+            "latitude": 34.9123735,
+            "longitude": 36.4939763,
             "geocell": 4498564,
             "expando": {
                 "open_street_map_type": "node",
@@ -1726,6 +1928,7 @@
                 "syhi"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "كفر لاحة",
                 "de": "Houla",
@@ -1759,6 +1962,7 @@
                 "syha"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "المعبدة",
                 "ckb": "گرکێ لەگێ",
@@ -1790,6 +1994,7 @@
                 "syhi"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "القريتين",
                 "de": "al-Karjatein",
@@ -1827,6 +2032,7 @@
                 "syhm"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "حلفايا",
                 "de": "Halfaya",
@@ -1859,6 +2065,7 @@
                 "syid"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "البارة",
                 "de": "al-Bara",
@@ -1892,6 +2099,7 @@
                 "syid"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "جسر الشغور",
                 "cs": "Džisr aš-Šugúr",
@@ -1933,6 +2141,7 @@
                 "syid"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "سرمين",
                 "de": "Sarmin",
@@ -1963,6 +2172,7 @@
                 "syhl"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الزهراء",
                 "de": "as-Sahraa",
@@ -1997,6 +2207,7 @@
                 "syhl"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الأتارب",
                 "ckb": "ئەتارب",
@@ -2036,6 +2247,7 @@
                 "syhl"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "دار تعزة",
                 "de": "Dar Ta`izzah",
@@ -2067,6 +2279,7 @@
                 "syid"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "كفر تخاريم",
                 "de": "Kafr Takharim",
@@ -2098,6 +2311,7 @@
                 "syid"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الدانا",
                 "de": "ad-Dana",
@@ -2132,17 +2346,21 @@
                 "syid"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "ترمانين",
-                "de": "Turmanin",
-                "en": "Turmanin",
-                "fr": "Turmanin",
-                "ru": "Тарманин"
+                "de": "Termanin",
+                "en": "Termanin",
+                "fr": "Termanine",
+                "he": "תרמאנין",
+                "ja": "テルマーニン",
+                "ko": "테르만인",
+                "ru": "Терманин"
             },
             "place_type": 84,
             "population": 10394,
-            "latitude": 36.2294079,
-            "longitude": 36.8134969,
+            "latitude": 36.2287502,
+            "longitude": 36.8158787,
             "geocell": 4545368,
             "expando": {
                 "open_street_map_type": "node",
@@ -2163,17 +2381,23 @@
                 "syhl"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "تل رفعت",
-                "de": "Tall Rif`at",
-                "en": "Tall Rif`at",
-                "fr": "Tall Rif`at",
-                "ru": "Телль-Рифъат"
+                "de": "Tell Rifaat",
+                "en": "Tell Rifaat",
+                "fr": "Tell Rifaat",
+                "he": "תל רפעת",
+                "hy": "Թել-Ռիֆադ",
+                "ja": "タッル・リフアト",
+                "ko": "탈리프아트",
+                "ru": "Телль-Рифъат",
+                "tr": "Tel Rıf'at"
             },
             "place_type": 84,
-            "population": 27086,
-            "latitude": 36.470267,
-            "longitude": 37.0954454,
+            "population": 20514,
+            "latitude": 36.4726137,
+            "longitude": 37.0964754,
             "geocell": 4552570,
             "expando": {
                 "open_street_map_type": "node",
@@ -2196,6 +2420,7 @@
                 "syhl"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "أعزاز",
                 "de": "Asas",
@@ -2236,6 +2461,7 @@
                 "syra"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الرقة",
                 "ckb": "ڕەقە",
@@ -2287,6 +2513,7 @@
                 "syhm"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "السقيلبية",
                 "de": "as-Sukeilabija",
@@ -2321,6 +2548,7 @@
                 "syhm"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "كفر نبودة",
                 "de": "Kafr Nabudah",
@@ -2351,6 +2579,7 @@
                 "syid"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "أرمناز",
                 "de": "Armanas",
@@ -2384,6 +2613,7 @@
                 "syid"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "كفر رومة",
                 "de": "Kafr Rumah",
@@ -2414,12 +2644,16 @@
                 "syid"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
-                "ar": "تل منيس",
-                "de": "Tall Manis",
-                "en": "Tall Manis",
-                "fr": "Tall Manis",
-                "ru": "Телль-Менис"
+                "ar": "تلمنس",
+                "de": "Talmanas",
+                "en": "Talmanas",
+                "fr": "Talmanase",
+                "he": "תלמנס",
+                "ja": "タルマナス",
+                "ko": "탈마나스",
+                "ru": "Талманас"
             },
             "place_type": 84,
             "population": 11359,
@@ -2444,6 +2678,7 @@
                 "syhm"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "كرناز",
                 "de": "Kurnaz",
@@ -2474,14 +2709,18 @@
                 "syid"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الهبيط",
-                "de": "Al Habit",
-                "en": "Al Habit",
-                "fr": "Al Habit",
-                "ru": "Хабит"
+                "de": "al-Hebeit",
+                "en": "Al-Hebeit",
+                "fr": "Al-Hebeït",
+                "he": "אל-הביט",
+                "ja": "アル゠ヘベート",
+                "ko": "알헤베트",
+                "ru": "Аль-Хебйт"
             },
-            "place_type": 86,
+            "place_type": 84,
             "population": 10144,
             "latitude": 35.4374383,
             "longitude": 36.5384677,
@@ -2489,7 +2728,7 @@
             "expando": {
                 "open_street_map_type": "node",
                 "open_street_map_id": 572536652,
-                "open_street_map_place": "village",
+                "open_street_map_place": "town",
                 "postal_codes": [],
                 "wikipedia_pages": {}
             }
@@ -2504,6 +2743,7 @@
                 "syid"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "جرجناز",
                 "de": "Jarjanaz",
@@ -2534,6 +2774,7 @@
                 "syid"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "سنجار",
                 "de": "Sinjar",
@@ -2566,6 +2807,7 @@
                 "syid"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "أبو الظهور",
                 "de": "Abu ad-Duhur",
@@ -2600,6 +2842,7 @@
                 "syhi"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "حمص",
                 "ckb": "حومس",
@@ -2647,12 +2890,51 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 572549135,
+            "country": 760,
+            "level1area": [
+                "syhi"
+            ],
+            "level2area": null,
+            "version": 20241024,
+            "names": {
+                "ar": "تلبيسة",
+                "de": "Talbisa",
+                "en": "Talbisa",
+                "fr": "Talbisa",
+                "he": "תלביסה",
+                "ja": "タルビーサ",
+                "ko": "탈비사",
+                "ml": "തൽബീസ",
+                "ru": "Тальбиса"
+            },
+            "place_type": 84,
+            "population": 30796,
+            "latitude": 34.8425659,
+            "longitude": 36.730683,
+            "geocell": 4494967,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 572549135,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q3458895",
+                "wikipedia_pages": {
+                    "en": "Talbiseh"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 572549747,
             "country": 760,
             "level1area": [
                 "syhi"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "شين",
                 "de": "Schin",
@@ -2677,12 +2959,48 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 572550453,
+            "country": 760,
+            "level1area": [
+                "syhi"
+            ],
+            "level2area": null,
+            "version": 20241024,
+            "names": {
+                "ar": "تلكلخ",
+                "de": "Talkalach",
+                "en": "Talkalakh",
+                "fr": "Talkalakh",
+                "he": "תלכלח׳",
+                "ja": "タルカラフ",
+                "ko": "탈칼라크",
+                "ml": "തൽകലഖ്",
+                "ru": "Талькальах"
+            },
+            "place_type": 84,
+            "population": 18412,
+            "latitude": 34.6713897,
+            "longitude": 36.2601824,
+            "geocell": 4487762,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 572550453,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 572551105,
             "country": 760,
             "level1area": [
                 "syta"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "صافيتا",
                 "de": "Safita",
@@ -2721,6 +3039,7 @@
                 "syla"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "جبلة",
                 "de": "Jablah",
@@ -2756,6 +3075,7 @@
                 "syhm"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "طيبة الإمام",
                 "cs": "Taybat al-Imám",
@@ -2791,6 +3111,7 @@
                 "syhm"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "اللطامنة",
                 "de": "al-Latamna",
@@ -2824,6 +3145,7 @@
                 "syhm"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "محردة",
                 "de": "Mharda",
@@ -2855,18 +3177,22 @@
                 "syhm"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "تل سلحب",
-                "de": "Tall Salhab",
-                "en": "Tall Salhab",
-                "fr": "Tall Salhab",
+                "de": "Tell Selhab",
+                "en": "Tell Salhab",
+                "fr": "Tell Salhab",
+                "he": "תל סלחב",
+                "ja": "タル・サルハブ",
+                "ko": "탈살하브",
                 "ml": "തൽ സൽഹബ്",
-                "ru": "Телль-Сальхиб"
+                "ru": "Талль-Сальхаб"
             },
             "place_type": 84,
             "population": 15454,
-            "latitude": 35.2580743,
-            "longitude": 36.3836526,
+            "latitude": 35.25867,
+            "longitude": 36.3833737,
             "geocell": 4509363,
             "expando": {
                 "open_street_map_type": "node",
@@ -2886,6 +3212,7 @@
                 "syhm"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "حماة",
                 "ckb": "حەما",
@@ -2940,6 +3267,7 @@
                 "syhm"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "قمحانة",
                 "de": "Qimhanah",
@@ -2970,6 +3298,7 @@
                 "syhi"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "المشرفة",
                 "de": "al-Maschrafa",
@@ -3004,6 +3333,7 @@
                 "syha"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الحسكة",
                 "ckb": "حەسیچە",
@@ -3053,6 +3383,7 @@
                 "sydy"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "أبو حمام",
                 "de": "Abu Hammam",
@@ -3084,6 +3415,7 @@
                 "sydy"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "غرانيج",
                 "de": "Khara'ij",
@@ -3116,6 +3448,7 @@
                 "sydy"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الكشكية",
                 "de": "al-Kischkije",
@@ -3149,6 +3482,7 @@
                 "sydy"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "صبيخان",
                 "de": "Subaykhan",
@@ -3180,6 +3514,7 @@
                 "sydy"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "هجين",
                 "cs": "Hadžín",
@@ -3213,6 +3548,7 @@
                 "sydy"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "القورية",
                 "de": "al-Kurije",
@@ -3247,6 +3583,7 @@
                 "sydy"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "السيال",
                 "de": "as-Sijal",
@@ -3280,6 +3617,7 @@
                 "sydy"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الشحيل",
                 "de": "asch-Scheheil",
@@ -3313,6 +3651,7 @@
                 "sydy"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الشميطية",
                 "de": "asch-Schemeitije",
@@ -3346,6 +3685,7 @@
                 "sydy"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "البو ليل",
                 "de": "Abu Layl",
@@ -3376,6 +3716,7 @@
                 "sydy"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الشعفة",
                 "de": "asch-Schaafa",
@@ -3410,6 +3751,7 @@
                 "sydy"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "العشارة",
                 "de": "al-Aschara",
@@ -3443,6 +3785,7 @@
                 "sydy"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الميادين",
                 "cs": "Majadín",
@@ -3481,6 +3824,7 @@
                 "sydy"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "دير الزور",
                 "ckb": "دێرەزوور",
@@ -3530,6 +3874,7 @@
                 "sydy"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الباغوز فوقاني",
                 "de": "al-Bagus Fokani",
@@ -3563,6 +3908,7 @@
                 "sydr"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الجيزة",
                 "de": "al-Dschisa",
@@ -3590,12 +3936,59 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 573510767,
+            "country": 760,
+            "level1area": [
+                "sydr"
+            ],
+            "level2area": null,
+            "version": 20241024,
+            "names": {
+                "ar": "بصرى",
+                "de": "Busra",
+                "el": "Μπόσρα",
+                "en": "Busra",
+                "fr": "Bosra",
+                "he": "בוסרה",
+                "hi": "बुसरा अल शाम",
+                "hy": "Բոսրա",
+                "it": "Bosra",
+                "ja": "ブスラ",
+                "ko": "부스라",
+                "lt": "Bosra",
+                "ml": "ബൊസ്ര",
+                "nl": "Bosra",
+                "pl": "Bosra",
+                "ru": "Бусра",
+                "uk": "Босра"
+            },
+            "place_type": 84,
+            "population": 19683,
+            "latitude": 32.5191381,
+            "longitude": 36.4805732,
+            "geocell": 4412164,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 573510767,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q272680",
+                "wikipedia_pages": {
+                    "en": "Bosra"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 573510931,
             "country": 760,
             "level1area": [
                 "sydr"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الغارية الشرقية",
                 "de": "al-Garija asch-Scharkija",
@@ -3629,6 +4022,7 @@
                 "sydr"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "صيدا",
                 "de": "Sayda",
@@ -3660,6 +4054,7 @@
                 "sydr"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "طفس",
                 "de": "Tafas",
@@ -3692,6 +4087,7 @@
                 "sydr"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "المزيريب",
                 "de": "Muzayrib",
@@ -3726,18 +4122,22 @@
                 "sydr"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "تسيل",
-                "de": "Tasil",
+                "de": "Tesil",
                 "en": "Tasil",
                 "fr": "Tasil",
+                "he": "תסיל",
+                "ja": "タシール",
+                "ko": "타실",
                 "ml": "തസീൽ",
                 "ru": "Тасиль"
             },
             "place_type": 84,
             "population": 15985,
-            "latitude": 32.8344444,
-            "longitude": 35.9688889,
+            "latitude": 32.8346247,
+            "longitude": 35.9706055,
             "geocell": 4422959,
             "expando": {
                 "open_street_map_type": "node",
@@ -3758,6 +4158,7 @@
                 "syrd"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الديماس",
                 "de": "ad-Dimas",
@@ -3792,6 +4193,7 @@
                 "syrd"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "النبك",
                 "de": "an-Nabk",
@@ -3829,6 +4231,7 @@
                 "syhi"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "القصير",
                 "de": "al-Kuseir",
@@ -3869,18 +4272,22 @@
                 "syhl"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "بزاعة",
-                "de": "Bza`a",
-                "en": "Bza`a",
-                "fr": "Bza`a",
+                "de": "Basaa",
+                "en": "Baza'a",
+                "fr": "Bazaa",
+                "he": "בזאעה",
+                "ja": "バザーア",
+                "ko": "바자아",
                 "ml": "ബിസാഅ",
-                "ru": "Бизаа"
+                "ru": "Базаа"
             },
             "place_type": 84,
             "population": 12718,
-            "latitude": 36.3832266,
-            "longitude": 37.5689584,
+            "latitude": 36.3823801,
+            "longitude": 37.5659758,
             "geocell": 4548975,
             "expando": {
                 "open_street_map_type": "node",
@@ -3900,6 +4307,7 @@
                 "syhi"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "السخنة",
                 "de": "as-Suchna",
@@ -3928,12 +4336,58 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 573543011,
+            "country": 760,
+            "level1area": [
+                "syhi"
+            ],
+            "level2area": null,
+            "version": 20241024,
+            "names": {
+                "ar": "تدمر",
+                "de": "Palmyra",
+                "en": "Tadmur",
+                "es": "Palmira",
+                "fr": "Palmyre",
+                "he": "תדמור",
+                "hi": "पलमीरा",
+                "hu": "Tadmur",
+                "ja": "パルミラ",
+                "ko": "팔미라",
+                "lt": "Palmyra",
+                "ml": "പൽമീറ",
+                "pl": "Palmyra",
+                "ru": "Пальмира",
+                "tr": "Tedmür",
+                "uk": "Пальміра"
+            },
+            "place_type": 67,
+            "population": 51323,
+            "latitude": 34.5560155,
+            "longitude": 38.2809746,
+            "geocell": 4484182,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 573543011,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikidata_page_name": "Q5747",
+                "wikipedia_pages": {
+                    "ar": " تدمر"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 573543018,
             "country": 760,
             "level1area": [
                 "syra"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "السبخة",
                 "de": "as-Sabcha",
@@ -3967,6 +4421,7 @@
                 "syra"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "حمرة متمصي",
                 "de": "Hamrat Buwaytiyah",
@@ -3990,12 +4445,47 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 573544707,
+            "country": 760,
+            "level1area": [
+                "syhl"
+            ],
+            "level2area": null,
+            "version": 20241024,
+            "names": {
+                "ar": "تادف",
+                "de": "Tadef",
+                "en": "Tadef",
+                "fr": "Tadef",
+                "he": "תאדף",
+                "ja": "ターデフ",
+                "ko": "타데프",
+                "ru": "Тадеф"
+            },
+            "place_type": 84,
+            "population": 12360,
+            "latitude": 36.3484716,
+            "longitude": 37.5314609,
+            "geocell": 4548975,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 573544707,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 573545646,
             "country": 760,
             "level1area": [
                 "syha"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "السبعة وأربعين",
                 "de": "as-Sabaa wa-Arbain",
@@ -4029,6 +4519,7 @@
                 "syha"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الشدادي",
                 "ckb": "شەدادی",
@@ -4038,7 +4529,7 @@
                 "he": "א-שדאדי",
                 "ja": "アッ゠シャッダーディ",
                 "ko": "아샫따디",
-                "ml": "അൽ-ശെദാദി",
+                "ml": "അഷ്-ഷദ്ദാദി",
                 "ru": "Аш-Шаддади",
                 "tr": "Şedadi"
             },
@@ -4065,6 +4556,7 @@
                 "sydi"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "af": "Damaskus",
                 "ar": "دمشق",
@@ -4090,7 +4582,7 @@
                 "fi": "Damaskos",
                 "fr": "Damas",
                 "ga": "An Damaisc",
-                "gd": "Damascus",
+                "gd": "Damascas",
                 "gl": "Damasco - دمشق",
                 "he": "דמשק",
                 "hi": "दमिश्क",
@@ -4167,15 +4659,21 @@
                 "syhi"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
-                "ar": "تلدو‎",
-                "en": "Taldou",
-                "ru": "Насири-Харабеси"
+                "ar": "تلدو",
+                "de": "Taldu",
+                "en": "Taldu",
+                "fr": "Taldo",
+                "he": "תלדו",
+                "ja": "タルドゥ",
+                "ko": "탈두",
+                "ru": "Талду"
             },
             "place_type": 84,
             "population": 15727,
-            "latitude": 34.8772641,
-            "longitude": 36.5232621,
+            "latitude": 34.8768768,
+            "longitude": 36.5234123,
             "geocell": 4494965,
             "expando": {
                 "open_street_map_type": "node",
@@ -4196,6 +4694,7 @@
                 "syrd"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "العتيبة",
                 "de": "al-Uteiba",
@@ -4230,6 +4729,7 @@
                 "syhl"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "مسكنة",
                 "en": "Maskanah",
@@ -4260,6 +4760,7 @@
                 "syhm"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "قلعة المضيق",
                 "de": "Qal'at al-Mudiq",
@@ -4283,12 +4784,55 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 3584019751,
+            "country": 760,
+            "level1area": [
+                "syra"
+            ],
+            "level2area": null,
+            "version": 20241024,
+            "names": {
+                "ar": "تل أبيض",
+                "ckb": "گرێ سپی",
+                "cs": "Tel Abjad",
+                "de": "Tell Abjad",
+                "en": "Tell Abyad",
+                "fr": "Tell Abiad",
+                "he": "תל אביד",
+                "hy": "Թել Աբյադ",
+                "ja": "タル・アビャド",
+                "ko": "탈아뱌드",
+                "ml": "തെൽ അബ്യദ്",
+                "ru": "Талль-Абяд",
+                "tr": "Tel Abyad"
+            },
+            "place_type": 84,
+            "population": 14825,
+            "latitude": 36.6946212,
+            "longitude": 38.9499931,
+            "geocell": 4559789,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3584019751,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikidata_page_name": "Q1896205",
+                "wikipedia_pages": {
+                    "ar": "تل أبيض"
+                }
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 3586518721,
             "country": 760,
             "level1area": [
                 "syhl"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "عين العرب",
                 "ckb": "کۆبانی",
@@ -4330,6 +4874,7 @@
                 "syhl"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "عفرين",
                 "ckb": "عەفرین",
@@ -4378,6 +4923,7 @@
                 "syhl"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "حريتان",
                 "de": "Harithan",
@@ -4408,6 +4954,7 @@
                 "syhl"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "كفر حمرة",
                 "en": "Kafr Hamrah",
@@ -4439,6 +4986,7 @@
                 "syhl"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "دير حافر",
                 "en": "Dayr Hafir",
@@ -4467,15 +5015,21 @@
                 "syhl"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "تل عرن",
+                "de": "Tell Aran",
                 "en": "Tell Aran",
-                "ru": "Телль-Аран"
+                "fr": "Tell Arane",
+                "he": "תל ערן",
+                "ja": "タル・アラン",
+                "ko": "탈아란",
+                "ru": "Талль-Аран"
             },
             "place_type": 84,
             "population": 17767,
-            "latitude": 36.1208294,
-            "longitude": 37.3362312,
+            "latitude": 36.1210027,
+            "longitude": 37.3365316,
             "geocell": 4541773,
             "expando": {
                 "open_street_map_type": "node",
@@ -4496,6 +5050,7 @@
                 "syhl"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الباب",
                 "de": "al-Bab",
@@ -4535,6 +5090,7 @@
                 "syhl"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "قباسين",
                 "en": "Qabasin",
@@ -4564,6 +5120,7 @@
                 "syhl"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "جرابلس",
                 "ckb": "جەرابلووس",
@@ -4601,6 +5158,7 @@
                 "sydr"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "خربة غزالة",
                 "en": "Kherbet Ghazalah",
@@ -4630,6 +5188,7 @@
                 "sydr"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "المسيفرة",
                 "de": "al-Meseifra",
@@ -4663,6 +5222,7 @@
                 "syra"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الثورة",
                 "ckb": "تەورە",
@@ -4704,6 +5264,7 @@
                 "syrd"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "أشرفية",
                 "de": "Aschrafija",
@@ -4737,6 +5298,7 @@
                 "syrd"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "السيدة زينب",
                 "de": "as-Sajjida Seinab",
@@ -4770,12 +5332,83 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 3887032462,
+            "country": 760,
+            "level1area": [
+                "syrd"
+            ],
+            "level2area": null,
+            "version": 20241024,
+            "names": {
+                "ar": "ببيلا",
+                "de": "Babella",
+                "en": "Babella",
+                "fr": "Babella",
+                "he": "בבילא",
+                "ja": "バベッラー",
+                "ko": "바벨라",
+                "ml": "ബബ്ബില",
+                "ru": "Бабелла"
+            },
+            "place_type": 67,
+            "population": 50880,
+            "latitude": 33.468422,
+            "longitude": 36.3310508,
+            "geocell": 4444563,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3887032462,
+                "open_street_map_place": "city",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
+            "id": 3887032463,
+            "country": 760,
+            "level1area": [
+                "syrd"
+            ],
+            "level2area": null,
+            "version": 20241024,
+            "names": {
+                "ar": "بيت سحم",
+                "de": "Beit Sahm",
+                "el": "Μπείτ Σαχμ",
+                "en": "Beit Sahm",
+                "fr": "Beit Sahme",
+                "he": "בית סחם",
+                "ja": "ベート・サヘム",
+                "ko": "베트사흠",
+                "ru": "Байт-Сахм"
+            },
+            "place_type": 84,
+            "population": 15667,
+            "latitude": 33.4746573,
+            "longitude": 36.3389728,
+            "geocell": 4444563,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 3887032463,
+                "open_street_map_place": "town",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 4035515320,
             "country": 760,
             "level1area": [
                 "syrd"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "الحجر الأسود",
                 "de": "al-Hadschar al-Aswad",
@@ -4813,6 +5446,7 @@
                 "syrd"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "السبينة",
                 "de": "as-Sabina",
@@ -4847,6 +5481,7 @@
                 "syra"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "المنصورة",
                 "de": "al-Mansura",
@@ -4884,6 +5519,7 @@
                 "syrd"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "جبعدين",
                 "de": "Dschubb-'Adin",
@@ -4919,6 +5555,7 @@
                 "sydy"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "أبو حمام",
                 "de": "Abu Hamam",
@@ -4952,6 +5589,7 @@
                 "syha"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "المعبدة",
                 "de": "al-Maabada",

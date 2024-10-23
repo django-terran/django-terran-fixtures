@@ -8,6 +8,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Vieux Fort",
                 "ru": "Вьё-Фор"
@@ -36,6 +37,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Fond Staint Jacques"
             },
@@ -62,6 +64,7 @@
                 "lc12"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Canaries"
             },
@@ -89,6 +92,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Micoud"
             },
@@ -116,6 +120,7 @@
                 "lc05"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Dennery"
             },
@@ -142,6 +147,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Laborie"
             },
@@ -169,6 +175,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Babonneau"
             },
@@ -198,6 +205,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Morne Paul"
             },
@@ -224,6 +232,7 @@
                 "lc01"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Anse La Raye"
             },
@@ -253,6 +262,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Choiseul"
             },
@@ -280,6 +290,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Mon Repos"
             },
@@ -306,6 +317,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Monchy"
             },
@@ -333,6 +345,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Ravine Poisson"
             },
@@ -359,6 +372,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Praslin"
             },
@@ -388,6 +402,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Gros Islet",
                 "fr": "Gros Îlet"
@@ -416,6 +431,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Rodney Bay"
             },
@@ -442,6 +458,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Roseau"
             },
@@ -468,6 +485,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Jacmel"
             },
@@ -494,6 +512,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Balembouche"
             },
@@ -520,6 +539,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Bongalo"
             },
@@ -546,6 +566,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Cas-en-Bas"
             },
@@ -573,6 +594,7 @@
                 "lc01"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Dame de Traversay"
             },
@@ -599,6 +621,7 @@
                 "lc01"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Durandeau"
             },
@@ -625,6 +648,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Tourney",
                 "ru": "Ла Тьорни"
@@ -653,6 +677,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Mamiku"
             },
@@ -673,38 +698,13 @@
     {
         "model": "terran.settlement",
         "fields": {
-            "id": 3997648993,
-            "country": 662,
-            "level1area": [
-                "lc02"
-            ],
-            "level2area": null,
-            "names": {
-                "en": "Marc"
-            },
-            "place_type": 86,
-            "population": 787,
-            "latitude": 13.9538783,
-            "longitude": -60.9616471,
-            "geocell": 3741590,
-            "expando": {
-                "open_street_map_type": "node",
-                "open_street_map_id": 3997648993,
-                "open_street_map_place": "village",
-                "postal_codes": [],
-                "wikipedia_pages": {}
-            }
-        }
-    },
-    {
-        "model": "terran.settlement",
-        "fields": {
             "id": 3997651127,
             "country": 662,
             "level1area": [
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Piaye"
             },
@@ -732,6 +732,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Morne Fortune"
             },
@@ -758,6 +759,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Sarot"
             },
@@ -784,6 +786,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Saltibus"
             },
@@ -811,6 +814,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Vanard"
             },
@@ -837,6 +841,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Bisee"
             },
@@ -863,6 +868,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Ti Rocher"
             },
@@ -889,6 +895,7 @@
                 "lc05"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Grand Ravine"
             },
@@ -915,6 +922,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Marigot"
             },
@@ -941,6 +949,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Borne"
             },
@@ -967,6 +976,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Beausejour"
             },
@@ -993,6 +1003,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Feuillet"
             },
@@ -1019,6 +1030,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Belvedere"
             },
@@ -1045,6 +1057,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Country Village"
             },
@@ -1071,6 +1084,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Olibo"
             },
@@ -1097,6 +1111,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Conway"
             },
@@ -1123,6 +1138,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Monkey Town"
             },
@@ -1149,6 +1165,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Careffe"
             },
@@ -1175,6 +1192,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Bonne Terre"
             },
@@ -1201,6 +1219,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Summersdale"
             },
@@ -1227,6 +1246,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Goodlands"
             },
@@ -1253,6 +1273,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Sunny Acres"
             },
@@ -1279,6 +1300,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Guesneau"
             },
@@ -1305,6 +1327,7 @@
                 "lc01"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Millet"
             },
@@ -1334,6 +1357,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "ar": "كاستريس",
                 "az": "Kastris",
@@ -1390,6 +1414,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Ciceron"
             },
@@ -1416,6 +1441,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Black Bay"
             },
@@ -1442,6 +1468,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Ravineau"
             },
@@ -1468,6 +1495,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Chase Gardens"
             },
@@ -1494,6 +1522,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Soufrière"
             },
@@ -1520,6 +1549,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "L'Abbayée"
             },
@@ -1546,6 +1576,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Des Gras"
             },
@@ -1572,6 +1603,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Paix Bouche"
             },
@@ -1598,6 +1630,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Forestierre"
             },
@@ -1624,6 +1657,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Odsan"
             },
@@ -1650,6 +1684,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Balata"
             },
@@ -1676,6 +1711,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Garrand"
             },
@@ -1702,6 +1738,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Desbarras"
             },
@@ -1728,6 +1765,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Riviere Mitan"
             },
@@ -1754,6 +1792,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Plateau"
             },
@@ -1780,6 +1819,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Guerre"
             },
@@ -1806,6 +1846,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Fond Canie"
             },
@@ -1832,6 +1873,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Dubrassay"
             },
@@ -1858,6 +1900,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Bexon"
             },
@@ -1884,6 +1927,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Barre Duchaussee"
             },
@@ -1910,6 +1954,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Barre Denis"
             },
@@ -1936,6 +1981,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Bel Air"
             },
@@ -1962,6 +2008,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Morne d'Or"
             },
@@ -1988,6 +2035,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Bois d'Inde"
             },
@@ -2014,6 +2062,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Morne Ciseaux"
             },
@@ -2040,6 +2089,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Dauphine Estate"
             },
@@ -2066,6 +2116,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Belfond"
             },
@@ -2092,6 +2143,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Plat Pays"
             },
@@ -2118,6 +2170,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Jalousie"
             },
@@ -2144,6 +2197,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Ti Delcer"
             },
@@ -2170,6 +2224,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Rabot"
             },
@@ -2196,6 +2251,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Bois d'Inde"
             },
@@ -2222,6 +2278,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Ravine Claire"
             },
@@ -2248,6 +2305,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Esperance"
             },
@@ -2274,6 +2332,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Mal Maison"
             },
@@ -2300,6 +2359,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Bouton"
             },
@@ -2326,6 +2386,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Daban"
             },
@@ -2352,6 +2413,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Monzie"
             },
@@ -2378,6 +2440,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Lamaz"
             },
@@ -2404,6 +2467,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Ponyon"
             },
@@ -2430,6 +2494,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Dacretin"
             },
@@ -2456,6 +2521,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Dugard"
             },
@@ -2482,6 +2548,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Morne Jacques"
             },
@@ -2508,6 +2575,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Mavay"
             },
@@ -2534,6 +2602,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Victoria"
             },
@@ -2560,6 +2629,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Bellevue"
             },
@@ -2586,6 +2656,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Mongouge"
             },
@@ -2612,6 +2683,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Morne Sion"
             },
@@ -2638,6 +2710,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Delcer"
             },
@@ -2664,6 +2737,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Franciou"
             },
@@ -2690,6 +2764,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Bois d'Inde"
             },
@@ -2716,6 +2791,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Derrier Morne"
             },
@@ -2742,6 +2818,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Esperance"
             },
@@ -2768,6 +2845,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Chateau Bel Air"
             },
@@ -2794,6 +2872,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Morne La Croix"
             },
@@ -2820,6 +2899,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Coolie Town"
             },
@@ -2846,6 +2926,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Jean Baptiste"
             },
@@ -2872,6 +2953,7 @@
                 "lc01"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Derriere Lagoon"
             },
@@ -2898,6 +2980,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Saphire"
             },
@@ -2924,6 +3007,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Perle"
             },
@@ -2950,6 +3034,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "River Doree"
             },
@@ -2976,6 +3061,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Fargue"
             },
@@ -3002,6 +3088,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Le Riche"
             },
@@ -3028,6 +3115,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Martin"
             },
@@ -3054,6 +3142,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Newfield / Fiette"
             },
@@ -3080,6 +3169,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Industry"
             },
@@ -3106,6 +3196,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Pointe"
             },
@@ -3132,6 +3223,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Fond Gens Libre"
             },
@@ -3158,6 +3250,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Caffiere"
             },
@@ -3184,6 +3277,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Debreuil"
             },
@@ -3210,6 +3304,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Balca"
             },
@@ -3236,6 +3331,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Gentil"
             },
@@ -3262,6 +3358,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Banse La Grace"
             },
@@ -3288,6 +3385,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Fond Berange"
             },
@@ -3314,6 +3412,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Jetrine"
             },
@@ -3340,6 +3439,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Londonderry"
             },
@@ -3366,6 +3466,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Gayabois"
             },
@@ -3392,6 +3493,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Park Estate"
             },
@@ -3418,6 +3520,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Giraud"
             },
@@ -3444,6 +3547,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Haut"
             },
@@ -3470,6 +3574,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Beyar"
             },
@@ -3496,6 +3601,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Augier"
             },
@@ -3522,6 +3628,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Pomme"
             },
@@ -3548,6 +3655,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Derierre Morne"
             },
@@ -3574,6 +3682,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Industrial Estate"
             },
@@ -3600,6 +3709,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Docamel"
             },
@@ -3626,6 +3736,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Eau Piquant / St Urbain"
             },
@@ -3652,6 +3763,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Pierrot"
             },
@@ -3678,6 +3790,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Cantonnement"
             },
@@ -3704,6 +3817,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Derierre Bois"
             },
@@ -3730,6 +3844,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Orbier"
             },
@@ -3756,6 +3871,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Coolie Town"
             },
@@ -3782,6 +3898,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Retraite"
             },
@@ -3808,6 +3925,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Fond Sabot"
             },
@@ -3834,6 +3952,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Tete Morne / Morne Andrew"
             },
@@ -3860,6 +3979,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Cacoa"
             },
@@ -3886,6 +4006,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "En Bamboo"
             },
@@ -3912,6 +4033,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Morne Cayenne"
             },
@@ -3938,6 +4060,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Joyeux"
             },
@@ -3964,6 +4087,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Grace"
             },
@@ -3990,6 +4114,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Woodlands"
             },
@@ -4016,6 +4141,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Maganier"
             },
@@ -4042,6 +4168,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Gomier"
             },
@@ -4068,6 +4195,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Morne Vient"
             },
@@ -4094,6 +4222,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Blanchard"
             },
@@ -4120,6 +4249,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Chique"
             },
@@ -4146,6 +4276,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Demailly"
             },
@@ -4172,6 +4303,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Bellevue"
             },
@@ -4198,6 +4330,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Viancelle"
             },
@@ -4224,6 +4357,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Paix Bouche"
             },
@@ -4250,6 +4384,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Desblanchard"
             },
@@ -4276,6 +4411,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Courville"
             },
@@ -4302,6 +4438,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "L'eau Mineau"
             },
@@ -4328,6 +4465,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Planard"
             },
@@ -4354,6 +4492,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Fond d'Or"
             },
@@ -4380,6 +4519,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Dugar"
             },
@@ -4406,6 +4546,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Beauchamp"
             },
@@ -4432,6 +4573,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Malgretoute"
             },
@@ -4458,6 +4600,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Pointe"
             },
@@ -4484,6 +4627,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Coolie Town"
             },
@@ -4510,6 +4654,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Lombard"
             },
@@ -4536,6 +4681,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Haut"
             },
@@ -4562,6 +4708,7 @@
                 "lc05"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Caye"
             },
@@ -4588,6 +4735,7 @@
                 "lc05"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Delaide"
             },
@@ -4614,6 +4762,7 @@
                 "lc05"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Bosquet d'Or"
             },
@@ -4640,6 +4789,7 @@
                 "lc05"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Grande Riviere"
             },
@@ -4666,6 +4816,7 @@
                 "lc05"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Richefond"
             },
@@ -4692,6 +4843,7 @@
                 "lc05"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Ressource"
             },
@@ -4718,6 +4870,7 @@
                 "lc05"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Despinoze"
             },
@@ -4744,6 +4897,7 @@
                 "lc05"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Au Leon"
             },
@@ -4770,6 +4924,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Trois Piton"
             },
@@ -4796,6 +4951,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Ti Rocher"
             },
@@ -4822,6 +4978,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Bocage"
             },
@@ -4848,6 +5005,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Becune Park"
             },
@@ -4874,6 +5032,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Saddle Back"
             },
@@ -4900,6 +5059,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Upper Saline Point"
             },
@@ -4926,6 +5086,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Lower Saline Point"
             },
@@ -4952,6 +5113,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Ranch Site"
             },
@@ -4978,6 +5140,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Caribbean Park"
             },
@@ -5004,6 +5167,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Beausejjour NHC Phase 2"
             },
@@ -5030,6 +5194,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Bonneterre Gardens"
             },
@@ -5056,6 +5221,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Lawifwen"
             },
@@ -5082,6 +5248,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Caye Manje",
                 "fr": "Cahier manger"
@@ -5109,6 +5276,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Mon Giraud"
             },
@@ -5135,6 +5303,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Vieux Sucreic"
             },
@@ -5161,6 +5330,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Corinth"
             },
@@ -5187,6 +5357,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Trouya"
             },
@@ -5213,6 +5384,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Brelotte"
             },
@@ -5239,6 +5411,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "East Winds"
             },
@@ -5265,6 +5438,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Bonair"
             },
@@ -5291,6 +5465,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Marisule"
             },
@@ -5317,6 +5492,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Corinth Estate"
             },
@@ -5343,6 +5519,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Postlewaithe"
             },
@@ -5369,6 +5546,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Assou Canal"
             },
@@ -5395,6 +5573,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Piat"
             },
@@ -5421,6 +5600,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Grande Riviere"
             },
@@ -5447,6 +5627,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "White Rocks"
             },
@@ -5473,6 +5654,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Union"
             },
@@ -5499,6 +5681,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Agardlands"
             },
@@ -5525,6 +5708,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Hillcrest Gardens"
             },
@@ -5551,6 +5735,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Coubaril"
             },
@@ -5577,6 +5762,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Vigie"
             },
@@ -5603,6 +5789,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Choc"
             },
@@ -5629,6 +5816,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Inglewoods"
             },
@@ -5655,6 +5843,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Degazon"
             },
@@ -5681,6 +5870,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Boguis"
             },
@@ -5707,6 +5897,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Americ"
             },
@@ -5733,6 +5924,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Desrameaux"
             },
@@ -5759,6 +5951,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Morne Citon"
             },
@@ -5785,6 +5978,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Ravine Macock"
             },
@@ -5811,6 +6005,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Cletus Village"
             },
@@ -5837,6 +6032,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Ti Dauphin"
             },
@@ -5863,6 +6059,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Desa Blond"
             },
@@ -5889,6 +6086,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Croix Chaubough"
             },
@@ -5915,6 +6113,7 @@
                 "lc05"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Derniere Riviere"
             },
@@ -5941,6 +6140,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Malgretoute"
             },
@@ -5967,6 +6167,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Stonefield"
             },
@@ -5993,6 +6194,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Anse Chastanet"
             },
@@ -6019,6 +6221,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Sulphur Springs"
             },
@@ -6045,6 +6248,7 @@
                 "lc01"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Anse Galet"
             },
@@ -6071,6 +6275,7 @@
                 "lc12"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Ti Kaye Resort"
             },
@@ -6097,6 +6302,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Fond Desruisseaux"
             },
@@ -6123,6 +6329,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "London Road"
             },
@@ -6149,6 +6356,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Lezy"
             },
@@ -6175,6 +6383,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Saint Marie Road"
             },
@@ -6201,6 +6410,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Patience"
             },
@@ -6227,6 +6437,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Moreau"
             },
@@ -6253,6 +6464,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Delomel"
             },
@@ -6279,6 +6491,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Savannes"
             },
@@ -6305,6 +6518,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Rouarne"
             },
@@ -6331,6 +6545,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Saint Helen Estate"
             },
@@ -6357,6 +6572,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Vige"
             },
@@ -6383,6 +6599,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Anse Ger"
             },
@@ -6409,6 +6626,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Desruisseaux"
             },
@@ -6435,6 +6653,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Bois D'orange"
             },
@@ -6461,6 +6680,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Moulin a Vent"
             },
@@ -6487,6 +6707,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Retraite"
             },
@@ -6513,6 +6734,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Reduit"
             },
@@ -6539,6 +6761,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Acacia Heights"
             },
@@ -6565,6 +6788,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Bellevue"
             },
@@ -6591,6 +6815,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Bellevue Estate"
             },
@@ -6617,6 +6842,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Golf Park South"
             },
@@ -6643,6 +6869,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {},
             "place_type": 86,
             "population": 1000,
@@ -6667,6 +6894,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Becune Point"
             },
@@ -6693,6 +6921,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Morne Serpent"
             },
@@ -6719,6 +6948,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Norbert"
             },
@@ -6745,6 +6975,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Malgretoute"
             },
@@ -6771,6 +7002,7 @@
                 "lc05"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Bazile"
             },
@@ -6797,6 +7029,7 @@
                 "lc05"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Gadette"
             },
@@ -6823,6 +7056,7 @@
                 "lc05"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Pelle"
             },
@@ -6849,6 +7083,7 @@
                 "lc05"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Lumiere"
             },
@@ -6875,6 +7110,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Choppin"
             },
@@ -6901,6 +7137,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Perou"
             },
@@ -6927,6 +7164,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Croix Maingot"
             },
@@ -6953,6 +7191,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Ti Colon"
             },
@@ -6979,6 +7218,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Barre Saint Josephe"
             },
@@ -7005,6 +7245,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Cul De Sac"
             },
@@ -7031,6 +7272,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Ferrands"
             },
@@ -7057,6 +7299,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Quatre Chemins"
             },
@@ -7085,6 +7328,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Treille"
             },
@@ -7111,6 +7355,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Miami"
             },
@@ -7137,6 +7382,7 @@
                 "lc02"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Sang de Feu"
             },
@@ -7163,6 +7409,7 @@
                 "lc12"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Anse La Verdue"
             },
@@ -7189,6 +7436,7 @@
                 "lc01"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Venus"
             },
@@ -7215,6 +7463,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Cazuca"
             },
@@ -7241,6 +7490,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Trousmasse"
             },
@@ -7267,6 +7517,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Roblot"
             },
@@ -7293,6 +7544,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Motete"
             },
@@ -7319,6 +7571,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Mailly"
             },
@@ -7345,6 +7598,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Etangs"
             },
@@ -7371,6 +7625,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Beausejour / Myers Bridge"
             },
@@ -7397,6 +7652,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Belle Plaine"
             },
@@ -7423,6 +7679,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Morne Bonin"
             },
@@ -7449,6 +7706,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Banse"
             },
@@ -7475,6 +7733,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "McDomel"
             },
@@ -7501,6 +7760,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "H'Relle"
             },
@@ -7527,6 +7787,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Black Bay"
             },
@@ -7553,6 +7814,7 @@
                 "lc07"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "En Leur Ba"
             },
@@ -7579,6 +7841,7 @@
                 "lc03"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Sauzay"
             },
@@ -7605,6 +7868,7 @@
                 "lc08"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Canelles"
             },
@@ -7631,6 +7895,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Cacao Dan"
             },
@@ -7657,6 +7922,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Laborie Highway"
             },
@@ -7683,6 +7949,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "La Ressource"
             },
@@ -7709,6 +7976,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Beausejour"
             },
@@ -7735,6 +8003,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Hope Estate"
             },
@@ -7761,6 +8030,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Plut"
             },
@@ -7787,6 +8057,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Morne Vert"
             },
@@ -7813,6 +8084,7 @@
                 "lc11"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Catin"
             },
@@ -7839,6 +8111,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Windward Hills"
             },
@@ -7865,6 +8138,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "South Hills"
             },
@@ -7891,6 +8165,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Golf Ridge"
             },
@@ -7917,6 +8192,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Golf Hill"
             },
@@ -7943,6 +8219,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Cap Hill"
             },
@@ -7969,6 +8246,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Cap Hill Park"
             },
@@ -7995,6 +8273,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Golf Park North"
             },
@@ -8021,6 +8300,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Cabot Saint Lucia"
             },
@@ -8047,6 +8327,7 @@
                 "lc06"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Mount Hardy"
             },
@@ -8073,6 +8354,7 @@
                 "lc10"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Ariana Lara"
             },

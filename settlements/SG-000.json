@@ -8,6 +8,7 @@
                 "sg01"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "af": "Singapoer",
                 "ar": "سنغافورة",
@@ -110,6 +111,7 @@
                 "sg05"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Murai Urban Training Facility",
                 "ms": "Pusat Latihan Murai Urban"
@@ -131,12 +133,40 @@
     {
         "model": "terran.settlement",
         "fields": {
+            "id": 9297896394,
+            "country": 702,
+            "level1area": [
+                "sg04"
+            ],
+            "level2area": null,
+            "version": 20241024,
+            "names": {
+                "en": "Kg. Permatang"
+            },
+            "place_type": 86,
+            "population": 0,
+            "latitude": 1.4238923,
+            "longitude": 104.0378542,
+            "geocell": 3293240,
+            "expando": {
+                "open_street_map_type": "node",
+                "open_street_map_id": 9297896394,
+                "open_street_map_place": "village",
+                "postal_codes": [],
+                "wikipedia_pages": {}
+            }
+        }
+    },
+    {
+        "model": "terran.settlement",
+        "fields": {
             "id": 11673385803,
             "country": 702,
             "level1area": [
                 "sg04"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Rocky Hill"
             },
@@ -163,6 +193,7 @@
                 "sg04"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Ubin Village"
             },
@@ -189,6 +220,7 @@
                 "sg05"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Ama Keng"
             },
@@ -215,6 +247,7 @@
                 "sg04"
             ],
             "level2area": null,
+            "version": 20241024,
             "names": {
                 "en": "Sanyongkong Field Camp"
             },
